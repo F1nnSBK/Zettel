@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4993898cf3e6c9a2",
+        "id": "39e2d7962c09088c",
         "type": "tabs",
         "children": [
           {
-            "id": "cacd9dfcfe32ddd1",
+            "id": "8756a2f717df4b3c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/CR-Zerlegung.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CR-Zerlegung"
             }
           }
         ]
@@ -162,9 +166,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fc64954dc7caa06",
+  "active": "8756a2f717df4b3c",
   "lastOpenFiles": [
-    "Struc.md",
+    "6 - Zettel/Ebenen.md",
+    "6 - Zettel/Geraden.md",
+    "6 - Zettel/Eigenwerte.md",
+    "6 - Zettel/Koordinatenform.md",
+    "6 - Zettel/Hauptkomponentenanalyse (PCA).md",
+    "6 - Zettel/Kreuzprodukt.md",
+    "6 - Zettel/LoRA.md",
+    "6 - Zettel/Matrizen.md",
+    "6 - Zettel/Normalenvektor.md",
+    "6 - Zettel/Normen.md",
+    "6 - Zettel/Parameterdarstellung.md",
+    "6 - Zettel/Singulärwertzerlegung.md",
+    "6 - Zettel/Vektoren.md",
+    "3 - Tags/Mathematik.md",
+    "6 - Zettel/Vektorräume.md",
+    "6 - Zettel/Operationen.md",
+    "3 - Tags/Zerlegung.md",
+    "6 - Zettel/CR-Zerlegung.md",
+    "3 - Tags/Lineare Algebra.md",
+    "3 - Tags/Analytische Geometrie.md",
+    "3 - Tags/Grundlagen.md",
+    "6 - Zettel/PCA.md",
+    "6 - Zettel/Dimensionsreduktion.md",
+    "3 - Tags/Matrizen.md",
+    "5 - Vorlagen/Tag.md",
     "7 - Archiv",
     "6 - Zettel",
     "5 - Vorlagen",
