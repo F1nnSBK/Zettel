@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Inverse Matrix]], [[Invertierbarkeit]], [[Matrizen]], [[Lineare Algebra]], [[Determinante]], [[Lineare Gleichungssysteme]], [[Einheitsmatrix]], [[Berechnung]], [[Adjugate Matrix]], [[Kofaktor]], [[Untermatrix]]
+Tags: [[Inverse Matrix]], [[Invertierbarkeit]], [[Matrizen]], [[Lineare Algebra]], [[Determinante]], [[Lineare Gleichungssysteme]], [[Einheitsmatrix]], [[Adjugate Matrix]], [[Kofaktor]], [[Untermatrix]]
 
 ---
 

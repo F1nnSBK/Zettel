@@ -1,3 +1,8 @@
+---
+aliases:
+  - ZSF
+  - Zeilenstufenform (ZSF)
+---
 #Note
 
 2025-05-15

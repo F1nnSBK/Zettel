@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Kofaktor]], [[Determinante]], [[Laplace-Entwicklung]], [[Unterdeterminante]], [[Adjugate Matrix]], [[Inverse Matrix]], [[Matrizen]], [[Lineare Algebra]], [[Berechnung]]
+Tags: [[Kofaktor]], [[Determinante]], [[Laplace-Entwicklung]], [[Unterdeterminante]], [[Adjugate Matrix]], [[Inverse Matrix]], [[Matrizen]], [[Lineare Algebra]]
 
 ---
 

@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Determinante]], [[Matrizen]], [[Lineare Algebra]],  [[Invertierbarkeit]], [[Lineare Gleichungssysteme]], [[Cramer-Regel]], [[Berechnung]], [[Eigenschaften]], [[Laplace-Entwicklung]], [[Sarrus-Regel]], [[Kofaktor]], [[Unterdeterminante]]
+Tags: [[Determinante]], [[Matrizen]], [[Lineare Algebra]],  [[Invertierbarkeit]], [[Lineare Gleichungssysteme]], [[Cramer-Regel]], [[Laplace-Entwicklung]], [[Sarrus-Regel]], [[Kofaktor]], [[Unterdeterminante]]
 
 ---
 

@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Cramer-Regel]], [[Lineare Gleichungssysteme]], [[LGS]], [[Determinante]], [[Matrizen]], [[Quadratische Matrix]], [[Invertierbarkeit]], [[Lösbarkeit]], [[Beispiel]]
+Tags: [[Cramer-Regel]], [[Lineare Gleichungssysteme]], [[Determinante]], [[Matrizen]], [[Quadratische Matrix]], [[Invertierbarkeit]], [[Lösbarkeit]]
 
 ---
 

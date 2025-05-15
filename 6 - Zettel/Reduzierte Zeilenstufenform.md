@@ -1,3 +1,8 @@
+---
+aliases:
+  - RZF
+  - Reduzierte Zeilenstufenform (RZF)
+---
 #Note
 
 2025-05-15

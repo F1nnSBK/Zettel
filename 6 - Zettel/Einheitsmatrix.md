@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Einheitsmatrix]], [[Matrizen]], [[Spezielle Matrizen]], [[Lineare Algebra]], [[Neutralelement]], [[Matrixmultiplikation]]
+Tags: [[Einheitsmatrix]], [[Matrizen]], [[Spezielle Matrizen]], [[Lineare Algebra]], [[Neutralelement]]
 
 ---
 

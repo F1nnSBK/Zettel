@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Laplace-Entwicklung]], [[Determinante]], [[Berechnung]], [[Matrizen]], [[Lineare Algebra]], [[Kofaktor]], [[Unterdeterminante]]
+Tags: [[Laplace-Entwicklung]], [[Determinante]], [[Matrizen]], [[Lineare Algebra]], [[Kofaktor]], [[Unterdeterminante]]
 
 ---
 
