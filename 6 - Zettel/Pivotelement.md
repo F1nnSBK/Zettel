@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Pivotelement]], [[Zeilenstufenform]], [[Reduzierte Zeilenstufenform]], [[Gauß-Algorithmus]], [[Rang]], [[Matrizen]], [[Lineare Algebra]], [[Definition]]
+Tags: [[Pivotelement]], [[Zeilenstufenform]], [[Reduzierte Zeilenstufenform]], [[Gauß-Algorithmus]], [[Rang]], [[Matrizen]], [[Lineare Algebra]]
 
 ---
 
