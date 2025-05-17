@@ -1,7 +1,7 @@
 #Note
 2025-05-15
 
-Tags: [[Matrizen]], [[Lineare Algebra]], [[Zerlegung]], [[Eigenwerte]], [[Vektorräume]], [[PCA]], [[LoRA]]
+Tags: [[Matrizen]], [[Lineare Algebra]], [[Zerlegung]], [[Eigenwerte]], [[Vektorräume]], [[PCA]], [[LoRA]], [[Diagonalmatrix]], [[Hauptkomponentenanalyse]]
 
 ---
 

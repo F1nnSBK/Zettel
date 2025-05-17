@@ -1,7 +1,7 @@
 #Note
 2025-05-15
 
-Tags: [[Matrizen]], [[Lineare Algebra]], [[Zerlegung]]
+Tags: [[Matrizen]], [[Lineare Algebra]], [[Zerlegung]], [[Reduzierte Zeilenstufenform]]
 
 ---
 

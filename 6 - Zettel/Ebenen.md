@@ -9,7 +9,7 @@ Ebenen im dreidimensionalen Raum können mit Vektoren beschrieben werden, meist 
 
 **Parameterdarstellung einer Ebene:**
 
-Eine Ebene E kann durch die Gleichung beschrieben werden:
+Eine Ebene E kann durch diese Gleichung beschrieben werden:
 $$\vec{x} = \vec{p} + \lambda \cdot \vec{q} + \mu \cdot \vec{r}, \quad \lambda, \mu \in \mathbb{R}$$
 
 Dabei gilt:
