@@ -1,7 +1,3 @@
----
-aliases:
-  - Adjunkte
----
 #Note
 
 2025-05-15

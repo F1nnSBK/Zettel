@@ -11,10 +11,14 @@
             "id": "061d192b107d34bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6_Zettel/Zeilenstufenform.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zeilenstufenform"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aliases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,8 +167,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fc64954dc7caa06",
+  "active": "061d192b107d34bf",
   "lastOpenFiles": [
+    "6_Zettel/Reduzierte Zeilenstufenform.md",
+    "6_Zettel/Adjugate Matrix.md",
     "8 - Media/Bilder/lineare_regression.png",
     "6_Zettel/Pseudoinverse.md",
     "6_Zettel/Definitheit (Matrizen).md",
@@ -184,7 +191,6 @@
     "6_Zettel/Spaltenraum.md",
     "6_Zettel/Eigenvektoren.md",
     "6_Zettel/Eigenwertzerlegung.md",
-    "6_Zettel/Adjugate Matrix.md",
     "6_Zettel/Residuum.md",
     "6_Zettel/Kleinste Quadrate.md",
     "6_Zettel/Normalengleichung.md",
