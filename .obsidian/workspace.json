@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef8c79f03cf7c4d",
+        "id": "8205fd8cbc65b412",
         "type": "tabs",
         "children": [
           {
-            "id": "061d192b107d34bf",
+            "id": "fcfe692497c12063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Zettel/Lineare Gleichungssysteme.md",
+                "file": "Cloud Computing/Grundlagen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lineare Gleichungssysteme"
+              "title": "Grundlagen"
             }
           }
         ]
@@ -166,10 +166,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061d192b107d34bf",
+  "active": "fcfe692497c12063",
   "lastOpenFiles": [
-    "6_Zettel/Lineare Regression.md",
+    "Cloud Computing/Virtualisierung.md",
+    "Cloud Computing/Grundlagen.md",
     "6_Zettel/Lineare Gleichungssysteme.md",
+    "Cloud Computing",
+    "6_Zettel/Lineare Regression.md",
     "6_Zettel/Ebenen.md",
     "6_Zettel/Eigenwerte.md",
     "6_Zettel/Einheitsmatrix.md",
@@ -193,8 +196,6 @@
     "6_Zettel/Metrik.md",
     "6_Zettel/Cholesky-Zerlegung.md",
     "6_Zettel/Pivotisierung.md",
-    "6_Zettel/LU-Zerlegung.md",
-    "6_Zettel/Kern.md",
     "8 - Media/Bilder",
     "8 - Media",
     "7 - Archiv",

@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Normen]], [[Vektoren]], [[Grundlagen]], [[Operationen]], [[Mathematik]]
+Tags: [[Normen]], [[Vektoren]], [[3 - Tags/Grundlagen]], [[Operationen]], [[Mathematik]]
 
 ---
 

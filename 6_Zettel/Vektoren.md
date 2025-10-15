@@ -1,7 +1,7 @@
 #Note
 2025-05-15
 
-Tags: [[Vektoren]], [[Lineare Algebra]], [[Grundlagen]], [[Operationen]], [[Normen]], [[Geraden]], [[Ebenen]]
+Tags: [[Vektoren]], [[Lineare Algebra]], [[3 - Tags/Grundlagen]], [[Operationen]], [[Normen]], [[Geraden]], [[Ebenen]]
 
 ---
 

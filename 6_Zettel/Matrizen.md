@@ -2,7 +2,7 @@
 
 2025-05-15
 
-Tags: [[Matrizen]],  [[Lineare Algebra]], [[Vektoren]], [[Dimension]], [[Spezielle Matrizen]], [[Inverse Matrix]], [[Invertierbarkeit]], [[Determinante]], [[Rang]], [[Grundlagen]]
+Tags: [[Matrizen]],  [[Lineare Algebra]], [[Vektoren]], [[Dimension]], [[Spezielle Matrizen]], [[Inverse Matrix]], [[Invertierbarkeit]], [[Determinante]], [[Rang]], [[3 - Tags/Grundlagen]]
 
 ---
 
