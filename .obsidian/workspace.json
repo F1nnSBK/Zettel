@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8205fd8cbc65b412",
+        "id": "c8e2b0750573d5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfe692497c12063",
+            "id": "ca5df7069ef6531b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Grundlagen.md",
+                "file": "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundlagen"
+              "title": "Eigenkapitalfinanzierung (Außerbörslich)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c2372d361398e8b8",
@@ -157,49 +157,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fcfe692497c12063",
+  "active": "5fc64954dc7caa06",
   "lastOpenFiles": [
-    "Cloud Computing/Virtualisierung.md",
-    "Cloud Computing/Grundlagen.md",
-    "6_Zettel/Lineare Gleichungssysteme.md",
-    "Cloud Computing",
-    "6_Zettel/Lineare Regression.md",
-    "6_Zettel/Ebenen.md",
-    "6_Zettel/Eigenwerte.md",
-    "6_Zettel/Einheitsmatrix.md",
-    "6_Zettel/Eigenwertzerlegung.md",
-    "6_Zettel/Laplace-Entwicklung.md",
-    "6_Zettel/Kreuzprodukt.md",
-    "6_Zettel/Zeilenstufenform.md",
-    "6_Zettel/Reduzierte Zeilenstufenform.md",
-    "6_Zettel/Adjugate Matrix.md",
+    "6 - Zettel/Statistische Investitionsrechenverfahren.md",
+    "Personal Scrum.md",
+    "6 - Zettel/Kurzfristige Finanzierung & Sonderformen.md",
+    "6 - Zettel/Fremdkapitalfinanzierung.md",
+    "6 - Zettel/Eigenkapitalfinanzierung (Börslich).md",
+    "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
+    "6 - Zettel/Grundlagen Finanzierung & Kapitalkosten.md",
+    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
+    "6 - Zettel/Investitionsobjekte.md",
+    "6 - Zettel/Ziele Finanzierung & Investition.md",
+    "6 - Zettel/Finanzierung.md",
+    "6 - Zettel/Investition.md",
+    "6 - Zettel/finanzwirtschaftliche Hauptziele.md",
+    "6 - Zettel/Kapitalwertmethode.md",
+    "5 - Vorlagen/Note.md",
+    "6 - Zettel/Adjugate Matrix.md",
+    "5 - Vorlagen/Tag.md",
+    "6 - Zettel/Cholesky-Zerlegung.md",
+    "(TITEL DER NOTIZ).md",
+    "6 - Zettel/Charakteristisches Polynom.md",
+    "6 - Zettel/Cramer-Regel.md",
+    "6 - Zettel/CR-Zerlegung.md",
+    "6 - Zettel/Inverse Matrix.md",
+    "6 - Zettel/Lineare Regression.md",
+    "6 - Zettel/Definitheit (Matrizen).md",
+    "1 - Schnelle Notizen/Cloud Computing/Virtualisierung.md",
+    "1 - Schnelle Notizen/Cloud Computing",
     "8 - Media/Bilder/lineare_regression.png",
-    "6_Zettel/Pseudoinverse.md",
-    "6_Zettel/Definitheit (Matrizen).md",
-    "6_Zettel/Spektralzerlegung.md",
-    "6 - Zettel/Singulärwertzerlegung (SVD).md",
-    "6_Zettel/QR-Zerlegung.md",
-    "6_Zettel/Orthogonalität.md",
-    "6_Zettel/Orthogonale Matrix.md",
-    "6_Zettel/Gram-Schmidt-Verfahren.md",
-    "6_Zettel/Orthonormalität.md",
-    "6_Zettel/Inneres Produkt.md",
-    "6_Zettel/Metrik.md",
-    "6_Zettel/Cholesky-Zerlegung.md",
-    "6_Zettel/Pivotisierung.md",
     "8 - Media/Bilder",
     "8 - Media",
     "7 - Archiv",
-    "6_Zettel",
+    "6 - Zettel",
     "5 - Vorlagen",
     "4 - Index",
     "3 - Tags",
