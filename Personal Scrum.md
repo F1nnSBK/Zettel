@@ -22,7 +22,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[finanzwirtschaftliche Hauptziele]]
+- [ ] [[Finanzwirtschaftliche Hauptziele]]
 - [ ] [[Ziele Finanzierung & Investition]]
 
 
@@ -38,7 +38,7 @@ kanban-plugin: board
 
 ## Analysis 1 - Königsberger
 
-- [ ] [[Vollständige Induktion]]
+- [ ] [[Prinzip der vollständigen Induktion]]
 
 
 

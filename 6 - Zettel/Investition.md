@@ -6,7 +6,7 @@ Tags: [[Investition]], [[Finanzierung & Investiton]], [[]]
 
 ---
 Investition meint die Kapitalverwendung (Kapitalbeschaffung $\hat{=}$ [[Finanzierung]])
-Die betrieblichen Investitionsentscheidungen betreffen die Auswahl der richtigen Investitionsobjekte zur optimalen Nutzung [[finanzielle Mittel|finanzieller Mittel]].
+Die betrieblichen Investitionsentscheidungen betreffen die Auswahl der richtigen Investitionsobjekte zur optimalen Nutzung [[Finanzielle Mittel|finanzieller Mittel]].
 
 ---
 ### Verwendung
