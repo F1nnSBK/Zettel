@@ -21,8 +21,8 @@ Beispiel der Potenzen:
 + $(II)$ Rekursionssatz $f(n+1)$: $x^{n+1}\coloneqq x^{n} \cdot x$
 
 Takeaways:
-- **Beweisprinzip:** "Von $A(n)$ auf $A(n+1)$ _schließen_.
-- **Konstruktionsprinzip:** "Von $f(n)$ auf $f(n+1)$ _aufbauen_.
+- **Beweisprinzip:** Von $A(n)$ auf $A(n+1)$ _schließen_.
+- **Konstruktionsprinzip:** Von $f(n)$ auf $f(n+1)$ _aufbauen_.
 
 ---
 ### Verwendung
