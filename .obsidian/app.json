@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "3 - Tags",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }

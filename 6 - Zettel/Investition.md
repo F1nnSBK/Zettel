@@ -5,15 +5,8 @@
 Tags: [[Investition]], [[Finanzierung & Investiton]], [[]]
 
 ---
-
-
-**Definition:**
-
-...
-
-**Formel:**
-
-$$...$$
+Investition meint die Kapitalverwendung (Kapitalbeschaffung $\hat{=}$ [[Finanzierung]])
+Die betrieblichen Investitionsentscheidungen betreffen die Auswahl der richtigen Investitionsobjekte zur optimalen Nutzung [[finanzielle Mittel|finanzieller Mittel]].
 
 ---
 ### Verwendung

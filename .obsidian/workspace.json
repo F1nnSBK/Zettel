@@ -4,21 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e2b0750573d5e7",
+        "id": "742327d3f45e7eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5df7069ef6531b",
+            "id": "dbe67aadebd43738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
+                "file": "6 - Zettel/Menge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eigenkapitalfinanzierung (Außerbörslich)"
+              "title": "Menge"
+            }
+          },
+          {
+            "id": "391fa1bbbbbbe41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Natürliche Zahlen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natürliche Zahlen"
+            }
+          },
+          {
+            "id": "47a1468355491cd9",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Personal Scrum.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Personal Scrum"
             }
           }
         ]
@@ -157,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Google Calendar": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -168,34 +206,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5fc64954dc7caa06",
+  "active": "dbe67aadebd43738",
   "lastOpenFiles": [
-    "6 - Zettel/Statistische Investitionsrechenverfahren.md",
+    "6 - Zettel/Natürliche Zahlen.md",
+    "6 - Zettel/Menge.md",
+    "6 - Zettel/Vollständige Induktion.md",
     "Personal Scrum.md",
+    "6 - Zettel/Sarrus-Regel.md",
+    "6 - Zettel/Kapital.md",
+    "6 - Zettel/finanzielle Mittel.md",
+    "6 - Zettel/Finanzierung.md",
+    "6 - Zettel/Investition.md",
+    "Untitled.base",
+    "Untitled.md",
+    "6 - Zettel/Untitled.base",
+    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
+    "2025-11-12.md",
+    "Untitled Kanban.md",
+    "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
+    "6 - Zettel/Statistische Investitionsrechenverfahren.md",
     "6 - Zettel/Kurzfristige Finanzierung & Sonderformen.md",
     "6 - Zettel/Fremdkapitalfinanzierung.md",
     "6 - Zettel/Eigenkapitalfinanzierung (Börslich).md",
-    "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
     "6 - Zettel/Grundlagen Finanzierung & Kapitalkosten.md",
-    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
     "6 - Zettel/Investitionsobjekte.md",
     "6 - Zettel/Ziele Finanzierung & Investition.md",
-    "6 - Zettel/Finanzierung.md",
-    "6 - Zettel/Investition.md",
     "6 - Zettel/finanzwirtschaftliche Hauptziele.md",
     "6 - Zettel/Kapitalwertmethode.md",
     "5 - Vorlagen/Note.md",
     "6 - Zettel/Adjugate Matrix.md",
     "5 - Vorlagen/Tag.md",
-    "6 - Zettel/Cholesky-Zerlegung.md",
-    "(TITEL DER NOTIZ).md",
-    "6 - Zettel/Charakteristisches Polynom.md",
-    "6 - Zettel/Cramer-Regel.md",
-    "6 - Zettel/CR-Zerlegung.md",
-    "6 - Zettel/Inverse Matrix.md",
-    "6 - Zettel/Lineare Regression.md",
-    "6 - Zettel/Definitheit (Matrizen).md",
-    "1 - Schnelle Notizen/Cloud Computing/Virtualisierung.md",
     "1 - Schnelle Notizen/Cloud Computing",
     "8 - Media/Bilder/lineare_regression.png",
     "8 - Media/Bilder",
@@ -204,8 +244,6 @@
     "6 - Zettel",
     "5 - Vorlagen",
     "4 - Index",
-    "3 - Tags",
-    "2 - Quellen",
-    "1 - Schnelle Notizen"
+    "3 - Tags"
   ]
 }

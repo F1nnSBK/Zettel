@@ -17,15 +17,13 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] [[Kapitalwertmethode]]
-- [ ] [[Finanzierung]]
-- [ ] [[Investition]]
-- [ ] [[Ziele Finanzierung & Investition]]
-- [ ] [[finanzwirtschaftliche Hauptziele]]
 - [ ] [[Investitionsobjekte]]
 
 
 ## In Progress
 
+- [ ] [[finanzwirtschaftliche Hauptziele]]
+- [ ] [[Ziele Finanzierung & Investition]]
 
 
 ## Waiting
@@ -34,12 +32,19 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Finanzierung]]
+- [ ] [[Investition]]
+
+
+## Analysis 1 - Königsberger
+
+- [ ] [[Vollständige Induktion]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false]}
 ```
 %%

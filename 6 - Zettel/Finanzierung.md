@@ -2,21 +2,15 @@
 
 2025-11-10
 
-Tags: [[]], [[]], [[]]
+Tags: [[Finanzierung]], [[Grundlagen Finanzierung & Investition]], [[]]
 
 ---
 
-
-**Definition:**
-
-...
-
-**Formel:**
-
-$$...$$
+Finanzierung meint die Kapitalbeschaffung (Kapitalverwendung $\hat{=}$ [[Investition]]).
+Betriebliche Finanzwirtschaft befasst sich mit der **Beschaffung** [[finanzielle Mittel | finanzieller Mittel]], damit wird die *Art* und das *Volumen* der Kapitalaufnahme festgelegt.
 
 ---
-### Verwendung
+### Verwendung 
 ```dataview
-list from [[Kapitalwertmethode]]
+list from [[Finanzierung]]
 ```
