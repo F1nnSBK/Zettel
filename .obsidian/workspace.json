@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f6b8265039f139a9",
+        "id": "21479cc21751a10a",
         "type": "tabs",
         "children": [
           {
-            "id": "88ae10c5737d9878",
+            "id": "a188796838123e86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Prinzip der vollständigen Induktion.md",
+                "file": "6 - Zettel/Investition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prinzip der vollständigen Induktion"
+              "title": "Investition"
+            }
+          },
+          {
+            "id": "771114c91b5358d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Ziele Finanzierung & Investition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ziele Finanzierung & Investition"
             }
           }
         ]
@@ -169,36 +183,37 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "88ae10c5737d9878",
+  "active": "a188796838123e86",
   "lastOpenFiles": [
-    "5 - Vorlagen/Induktionsbeweis.md",
-    "6 - Zettel/Prinzip der vollständigen Induktion.md",
-    "6 - Zettel/Gaußsche Summenformel.md",
+    "6 - Zettel/Finanzierung.md",
+    "6 - Zettel/Investition.md",
+    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
+    "6 - Zettel/Ziele Finanzierung & Investition.md",
+    "6 - Zettel/Investitionsobjekt.md",
+    "Personal Scrum.md",
+    "6 - Zettel/Investitionsobjekte.md",
+    "6 - Zettel/Investitionsrechnung.md",
+    "8 - Media/Bilder/bilanz.png",
+    "6 - Zettel/Finanzielle Mittel.md",
+    "6 - Zettel/Kapital.md",
+    "2025-11-23.md",
+    "6 - Zettel/Ergebnismenge.md",
+    "6 - Zettel/Zufallsexperiment.md",
+    "6 - Zettel/Einzelexperiment.md",
+    "6 - Zettel/Gesamtexperiment.md",
+    "6 - Zettel/Ergebnis.md",
+    "6 - Zettel/Grundraum.md",
     "6 - Zettel/Geometrische Summenformel.md",
+    "6 - Zettel/Prinzip der vollständigen Induktion.md",
+    "5 - Vorlagen/Induktionsbeweis.md",
+    "6 - Zettel/Gaußsche Summenformel.md",
     "Diagonalisierung.md",
     "Singulärwertzerlegung (SVD).md",
     "6 - Zettel/Finanzwirtschaftliche Hauptziele.md",
-    "6 - Zettel/Finanzielle Mittel.md",
     "6 - Zettel/Natürliche Zahlen.md",
-    "Personal Scrum.md",
     "6 - Zettel/Menge.md",
-    "6 - Zettel/Sarrus-Regel.md",
-    "6 - Zettel/Kapital.md",
-    "6 - Zettel/Finanzierung.md",
-    "6 - Zettel/Investition.md",
     "Untitled.base",
-    "Untitled.md",
     "6 - Zettel/Untitled.base",
-    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
-    "2025-11-12.md",
-    "Untitled Kanban.md",
-    "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
-    "6 - Zettel/Statistische Investitionsrechenverfahren.md",
-    "6 - Zettel/Kurzfristige Finanzierung & Sonderformen.md",
-    "6 - Zettel/Fremdkapitalfinanzierung.md",
-    "6 - Zettel/Eigenkapitalfinanzierung (Börslich).md",
-    "6 - Zettel/Grundlagen Finanzierung & Kapitalkosten.md",
-    "6 - Zettel/Investitionsobjekte.md",
     "1 - Schnelle Notizen/Cloud Computing",
     "8 - Media/Bilder/lineare_regression.png",
     "8 - Media/Bilder",

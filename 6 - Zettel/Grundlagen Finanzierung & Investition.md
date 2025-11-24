@@ -25,5 +25,5 @@ Dieses Epic legt das Fundament und definiert die Spielfelder.
 ---
 ### Verwendung
 ```dataview
-list from [[Kapitalwertmethode]]
+list from [[Grundlagen Finanzierung & Investition]]
 ```

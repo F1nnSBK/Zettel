@@ -2,21 +2,14 @@
 
 2025-11-10
 
-Tags: [[]], [[]], [[]]
+Tags: [[Grundlagen Finanzierung & Investition]], [[Finanzierung & Investiton]], [[Finanzierungsrechnung]], [[Investitionsrechnung]]
 
 ---
 
 
-**Definition:**
-
-...
-
-**Formel:**
-
-$$...$$
 
 ---
 ### Verwendung
 ```dataview
-list from [[Kapitalwertmethode]]
+list from [[Ziele Finanzierung & Investition]]
 ```

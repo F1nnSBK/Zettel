@@ -10,5 +10,5 @@ Ein finanzielles Mittel ist ein Vertrag über die Bereitstellung von [[Kapital]]
 ---
 ### Verwendung
 ```dataview
-list from [[Kapitalwertmethode]]
+list from [[Finanzielle Mittel]]
 ```

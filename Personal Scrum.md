@@ -23,7 +23,6 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Finanzwirtschaftliche Hauptziele]]
-- [ ] [[Ziele Finanzierung & Investition]]
 
 
 ## Waiting
@@ -33,6 +32,7 @@ kanban-plugin: board
 ## Done
 
 - [ ] [[Finanzierung]]
+- [ ] [[Ziele Finanzierung & Investition]]
 - [ ] [[Investition]]
 
 
@@ -45,6 +45,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
