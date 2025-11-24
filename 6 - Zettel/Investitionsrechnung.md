@@ -5,7 +5,17 @@
 Tags: [[Ziele Finanzierung & Investition]], [[Finanzierung & Investiton]], [[Investition]]
 
 ---
-Die **Investitionsrechnung** meint alle Rechenverfahren, die eine rationale Beurteilung aller **berechenbaren** Aspekte eines [[Investitionsobjekt|Investitionsobjektes]] zulassen. Bevor ein Unternehmen viel [[Kapital]]langfristig investiert, dient die Investitionrechnung dazu, die "vernünftige" und "rechenbare" Basis für diese Investitionsentscheidung zu liefern.
+Die **Investitionsrechnung** meint alle Rechenverfahren, die eine rationale Beurteilung aller **berechenbaren** Aspekte eines langfristigen [[Investitionsobjekt|Investitionsobjektes]] zulassen. Bevor ein Unternehmen viel [[Kapital]] investiert, dient die Investitionrechnung dazu, die "vernünftige" und "rechenbare" Basis für diese Investitionsentscheidung zu liefern.
+
+Es gibt zwei Arten von Verfahren:
+1. **Statische Verfahren** berechnen den Gewinn eines [[Investitionsobjekt|Investitionsobjekts]] gemäß der Berechnungen in der [[Kostenrechnung|Kosten-]] und [[Erlösrechnung]]. Es werden also alle [[Kosten]] und [[Erlöse]] aus einer [[Investition]] einbezogen und der [[Gewinn]] berechnet. Der [[Zeitwert des Geldes]] wird dabei vernachlässigt.
+2. **Dynamische Verfahren** berechnen den Gewinn auf Basis von Ein- und Auszahlungen. Zielgröße ist der [[Kapitalwert]] einer Investition. Hier werden im Gegensatz zu statischen Verfahren Zinseffekte einbezogen.
+
+#### Investitionsplanung
+um verschiedene [[Investition|Investitionen]] zu bewerten. Teil davon sind:
++ Ergebnisplanung $$\text{Erwarteter Gewinn = Kosten - Erlöse}$$
++ Zahlungsplanung $$\text{Erwarteter Cashflow = Einzahlungen - Auszahlungen}$$
+
 
 ---
 ### Verwendung
