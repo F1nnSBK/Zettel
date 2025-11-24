@@ -17,12 +17,15 @@ Es gibt zwei Arten von Verfahren:
 	2. [[Interne Zinsfußmethode]]
 	3. [[Amortisationsdauer]]
 
-|**Kriterium**|**Statische Verfahren**|**Dynamische Verfahren**|
-|---|---|---|
-|**Basis der Rechnung**|**Kosten und Erlöse** (aus der G&V/Kostenrechnung)|**Ein- und Auszahlungen** (Cashflows)|
-|**Zeitliche Betrachtung**|**Einperiodisch** (Betrachtung eines Durchschnittsjahres); Vernachlässigung des Zeitwerts des Geldes.|**Mehrperiodisch** (Betrachtung über die gesamte Nutzungsdauer); Berücksichtigung des **Zeitwerts des Geldes** (Zinseffekte).|
-|**Zielgröße**|**Gewinn, Rentabilität, Kosten**|**Kapitalwert** oder **Interner Zinsfuß**|
-|**Enthaltene Verfahren**|Gewinn-, Rentabilitäts-, Kosten- und Amortisationsvergleichsrechnung.|Kapitalwertmethode, Interne Zinsfußmethode, Annuitätenmethode, Dynamische Amortisationsrechnung.
+
+#### Vergleich Investitionsrechenverfahren
+
+| **Kriterium**             | **Statische Verfahren**                                                                               | **Dynamische Verfahren**                                                                                                      |
+| ------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Basis der Rechnung**    | **Kosten und Erlöse** (aus der GuV/Kostenrechnung)                                                    | **Ein- und Auszahlungen** (Cashflows)                                                                                         |
+| **Zeitliche Betrachtung** | **Einperiodisch** (Betrachtung eines Durchschnittsjahres); Vernachlässigung des Zeitwerts des Geldes. | **Mehrperiodisch** (Betrachtung über die gesamte Nutzungsdauer); Berücksichtigung des **Zeitwerts des Geldes** (Zinseffekte). |
+| **Zielgröße**             | **Gewinn, Rentabilität, Kosten**                                                                      | **Kapitalwert** oder **Interner Zinsfuß**                                                                                     |
+| **Enthaltene Verfahren**  | Gewinn-, Rentabilitäts-, Kosten- und Amortisationsvergleichsrechnung.                                 | Kapitalwertmethode, Interne Zinsfußmethode, Annuitätenmethode, Dynamische Amortisationsrechnung.                              |
 
 #### Investitionsplanung
 um verschiedene [[Investition|Investitionen]] zu bewerten. Teil davon sind:
