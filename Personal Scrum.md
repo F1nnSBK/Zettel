@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] [[Statistische Investitionsrechenverfahren]]
 - [ ] [[Grundlagen Finanzierung & Kapitalkosten]]
-- [ ] [[Grundlagen Finanzierung & Investition]]
 - [ ] [[Eigenkapitalfinanzierung (Außerbörslich)]]
 - [ ] [[Fremdkapitalfinanzierung]]
 - [ ] [[Eigenkapitalfinanzierung (Börslich)]]
@@ -16,12 +15,11 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Kapitalwertmethode]]
 
 
 ## In Progress
 
-- [ ] [[Investitionsobjekte]]
-- [ ] [[Kapitalwertmethode]]
 
 
 ## Waiting
@@ -31,6 +29,7 @@ kanban-plugin: board
 ## Done
 
 - [ ] [[Finanzierung]]
+- [ ] [[Grundlagen Finanzierung & Investition]]
 - [ ] [[Finanzwirtschaftliche Hauptziele]]
 - [ ] [[Ziele Finanzierung & Investition]]
 - [ ] [[Investition]]
