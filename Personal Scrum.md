@@ -16,13 +16,12 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Kapitalwertmethode]]
-- [ ] [[Investitionsobjekte]]
 
 
 ## In Progress
 
-- [ ] [[Finanzwirtschaftliche Hauptziele]]
+- [ ] [[Investitionsobjekte]]
+- [ ] [[Kapitalwertmethode]]
 
 
 ## Waiting
@@ -32,6 +31,7 @@ kanban-plugin: board
 ## Done
 
 - [ ] [[Finanzierung]]
+- [ ] [[Finanzwirtschaftliche Hauptziele]]
 - [ ] [[Ziele Finanzierung & Investition]]
 - [ ] [[Investition]]
 

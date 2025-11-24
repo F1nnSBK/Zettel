@@ -7,15 +7,6 @@ Tags: [[Kapitalwertmethode]], [[Finanzierung & Investiton]]
 ---
 
 
-
-**Definition:**
-
-...
-
-**Formel:**
-
-$$...$$
-
 ---
 ### Verwendung
 ```dataview

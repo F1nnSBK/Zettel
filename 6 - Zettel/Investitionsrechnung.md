@@ -9,7 +9,13 @@ Die **Investitionsrechnung** meint alle Rechenverfahren, die eine rationale Beur
 
 Es gibt zwei Arten von Verfahren:
 1. **Statische Verfahren** berechnen den Gewinn eines [[Investitionsobjekt|Investitionsobjekts]] gemäß der Berechnungen in der [[Kostenrechnung|Kosten-]] und [[Erlösrechnung]]. Es werden also alle [[Kosten]] und [[Erlöse]] aus einer [[Investition]] einbezogen und der [[Gewinn]] berechnet. Der [[Zeitwert des Geldes]] wird dabei vernachlässigt.
+	1. [[Gewinnvergleichsrechnung]]
+	2. [[Rentabilitätsvergleichsrechnung]]
+
 2. **Dynamische Verfahren** berechnen den Gewinn auf Basis von Ein- und Auszahlungen. Zielgröße ist der [[Kapitalwert]] einer Investition. Hier werden im Gegensatz zu statischen Verfahren Zinseffekte einbezogen.
+	1. [[Kapitalwertmethode]]
+	2. [[Interne Zinsfußmethode]]
+	3. [[Amortisationsdauer]]
 
 #### Investitionsplanung
 um verschiedene [[Investition|Investitionen]] zu bewerten. Teil davon sind:
