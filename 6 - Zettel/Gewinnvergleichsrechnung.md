@@ -29,7 +29,7 @@ $$
 
 Gewinn für ein [[Investitionsobjekt]]:
 
-$$ G = \underbrace{(x \cdot p)}_{\text{Erlöse}} - \underbrace{(x \cdot k_{var}) + K_{fix}}_{\text{Betriebskosten}} + \underbrace{\frac{I_0 - R_n}{n}}_{\text{Kalk. Abschreibung}} + \underbrace{\frac{I_0 + R_n}{2} \cdot i}_{\text{Kalk. Zinsen}}  $$
+$$ G = \underbrace{(x \cdot p)}_{\text{Erlöse}} - \left( \underbrace{(x \cdot k_{var}) + K_{fix}}_{\text{Betriebskosten}} + \underbrace{\frac{I_0 - R_n}{n}}_{\text{Kalk. Abschreibung}} + \underbrace{\frac{I_0 + R_n}{2} \cdot i}_{\text{Kalk. Zinsen}} \right) $$
 
 𝐺 = Gewinn (pro Jahr) 
 𝑥 = Produktionsmenge (pro Jahr) 
@@ -41,12 +41,28 @@ $𝑅_𝑛$ = Restwert bzw. Liquidationserlös
 𝑛 = Nutzungsdauer
 𝑖 = kalkulatorischer Zinssatz
 
+#### Interpretation
++ Kurzfristigkeit des Gewinnvergleiches: Üblicherweise erfolgt die Berechnung für ein Jahr, das ist besonders problematisch, wenn es das erste Jahr der Nutzung ist.
+	  Bei Alternativen mit unterschiedlicher Nutzungsdauer können wir keine Aussage für den Differenzzeitraum treffen.
+	  Die Methode benachteiligt tendenziell die günstigere Investition, weil sie das **Gewinnpotenzial des gesparten Geldes** künstlich auf den Zinssatz deckelt. Sie ignoriert, dass du mit dem Differenzbetrag "Alpha" (Überrendite) generieren könntest.
++ Zurechenbarkeit der Erlöse: Es kann Schwierigkeiten bei der **Zuordnung** von Erlösen kommen, wenn ein Produkt auf mehreren Maschinen gefertigt wird.
++ Nichtberücksichtigung des Kapitaleinsatzes: Die Einbeziehung des Kapitaleinsatzes zeigt erst, inwieweit eine Investition wirklich rentabel ist.
+
 Was passiert bei der Gewinnvergleichsrechnung? :: Bei der Gewinnvergleichsrechnung wird der durchschnittlich zu erwartende Gewinn pro Jahr ermittelt und auf dessen Basis entschieden. Ziel ist die **Gewinnmaximierung**.
 
+Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
+?
+1. **Erlöse** ermitteln ($x \cdot p$).
+2. **Operative Kosten** ermitteln ($x \cdot k_{var} + K_{fix}$).
+3. **Kalk. Abschreibung** berechnen ($\frac{AK-RW}{n}$).
+4. **Kalk. Zinsen** berechnen ($\frac{AK+RW}{2} \cdot i$).
+5. **Gewinn** = 1 - (2 + 3 + 4).
+6. **Entscheidung**: Wähle max(Gewinn), sofern > 0.
 
+Was sind 3 Probleme der GVR? :: Kurzfristigkeit des Gewinnvergleiches, d.h. Berechnungen sind üblicherweise für ein Jahr, die Zukunft wird nicht betrachtet. Zurechenbarkeit der Erlöse: Wird ein Produkt auf mehreren Maschinen produziert? -> Welche Maschine trägt welchen bei? Nichtberücksichtigung des Kapitaleinsatzes: Die Einbeziehung des Kapitaleinsatzes zeigt erst, inwieweit eine Investition wirklich rentabel ist.
 
 ---
 ### Verwendung
 ```dataview
-list from [[Kapitalwertmethode]]
+list from [[Gewinnvergleichsrechnung]]
 ```

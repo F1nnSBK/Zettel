@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Statische Investitionsrechenverfahren]]
-- [ ] [[Grundlagen Finanzierung & Kapitalkosten]]
 - [ ] [[Eigenkapitalfinanzierung (Außerbörslich)]]
 - [ ] [[Fremdkapitalfinanzierung]]
 - [ ] [[Eigenkapitalfinanzierung (Börslich)]]
@@ -20,15 +18,17 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Gewinnvergleichsrechnung]]
-- [ ] [[Pagatorische Kosten]]
-- [ ] [[Kalkulatorische Kosten]]
-- [ ] [[Kalkulatorische Abschreibungen]]
-- [ ] [[Kalkulatorische Zinsen]]
-- [ ] [[Durchschnittlich eingesetztes Kapital]]
-- [ ] [[Rentabilitätsvergleichsrechnung]]
-- [ ] [[EBIT]]
-- [ ] [[Nachteile statischer Investitionsrechenverfahren]]
+- [ ] [[Dynamische Investitionsrechenverfahren]]
+- [ ] [[Kapitalwertmethode]]
+- [ ] [[Kapitalwert]]
+- [ ] [[Amortisationsdauer]]
+- [ ] [[Amortisationsrechnung]]
+- [ ] [[Interne Zinsfußmethode]]
+- [ ] [[Interner Zinsfuß]]
+- [ ] [[Cash Flow]]
+- [ ] [[Aufzinsung]]
+- [ ] [[Abzinsung]]
+- [ ] [[Zeitwert des Geldes]]
 
 
 ## In Progress
@@ -41,6 +41,15 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Kalkulatorische Kosten]]
+- [ ] [[Statische Investitionsrechenverfahren]]
+- [ ] [[Operative Kosten]]
+- [ ] [[Return on Investment]]
+- [ ] [[EBIT]]
+- [ ] [[Rentabilitätsvergleichsrechnung]]
+- [ ] [[Kalkulatorische Zinsen]]
+- [ ] [[Kalkulatorische Abschreibungen]]
+- [ ] [[Gewinnvergleichsrechnung]]
 - [ ] [[Finanzierung]]
 - [ ] [[Grundlagen Finanzierung & Investition]]
 - [ ] [[Finanzwirtschaftliche Hauptziele]]
