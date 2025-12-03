@@ -28,9 +28,8 @@ $$
 + [[Erlöse]] sind Erträge aus Verkauf von Produkten und der Erbringung von Dienstleistungen.
 
 Gewinn für ein [[Investitionsobjekt]]:
-$$
-G=(x\cdot p) - ((x\cdot k_{var}) + K_{fix} + \frac{I_0 - R_n}{n} + \frac{I_0 + R_n}{2}\cdot i)
-$$
+
+$$ G = \underbrace{(x \cdot p)}_{\text{Erlöse}} - \underbrace{(x \cdot k_{var}) + K_{fix}}_{\text{Betriebskosten}} + \underbrace{\frac{I_0 - R_n}{n}}_{\text{Kalk. Abschreibung}} + \underbrace{\frac{I_0 + R_n}{2} \cdot i}_{\text{Kalk. Zinsen}}  $$
 
 𝐺 = Gewinn (pro Jahr) 
 𝑥 = Produktionsmenge (pro Jahr) 
