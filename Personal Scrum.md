@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Statistische Investitionsrechenverfahren]]
+- [ ] [[Statische Investitionsrechenverfahren]]
 - [ ] [[Grundlagen Finanzierung & Kapitalkosten]]
 - [ ] [[Eigenkapitalfinanzierung (Außerbörslich)]]
 - [ ] [[Fremdkapitalfinanzierung]]
