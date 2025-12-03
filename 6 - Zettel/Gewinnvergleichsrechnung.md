@@ -19,7 +19,28 @@ $$
 
 #### Ermittlung von Kosten & Erlöse
 + [[Kosten]] sind der bewertete, betriebszweckbezogene Güter**verbrauch** eines Unternehmens. Betriebszweckbezogen bedeutet: 1. für die relevante Periode und 2. im normalen Geschäftsbetrieb angefallen.
+	+ [[Kalkulatorische Abschreibungen]]:$$Jährlicher\space Wertverlust \space (Abschreibung) = \frac{Anfangsinvestition - Restwert}{Nutzungsdauer}$$
+	+ [[Kalkulatorische Zinsen]]: $$
+Kalkulatorische\space Zinskosten = durchschnittlich\space eingesetztes\space Kapital \cdot Kapitalkostensatz
+$$$$
+Durchschnittlich\space investiertes\space Kapital = \frac{Anfangsinvestition + Restwert}{2}
+$$
 + [[Erlöse]] sind Erträge aus Verkauf von Produkten und der Erbringung von Dienstleistungen.
+
+Gewinn für ein [[Investitionsobjekt]]:
+$$
+G=(x\cdot p) - ((x\cdot k_{var}) + K_{fix} + \frac{I_0 - R_n}{n} + \frac{I_0 + R_n}{2}\cdot i)
+$$
+
+𝐺 = Gewinn (pro Jahr) 
+𝑥 = Produktionsmenge (pro Jahr) 
+𝑝 = Absatzpreis (pro Stück) 
+$𝑘_{𝑣𝑎𝑟}$ = laufende variable Kosten (pro Stück) 
+$𝐾_{𝑓𝑖𝑥}$ = laufende Fixkosten (pro Jahr) 
+$I_0$ = Investitions- bzw. Anschaffungsausgabe 
+$𝑅_𝑛$ = Restwert bzw. Liquidationserlös 
+𝑛 = Nutzungsdauer
+𝑖 = kalkulatorischer Zinssatz
 
 Was passiert bei der Gewinnvergleichsrechnung? :: Bei der Gewinnvergleichsrechnung wird der durchschnittlich zu erwartende Gewinn pro Jahr ermittelt und auf dessen Basis entschieden. Ziel ist die **Gewinnmaximierung**.
 
