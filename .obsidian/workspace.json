@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "65a771ea6925cfc4",
+        "id": "b2222018c800bc2d",
         "type": "tabs",
         "children": [
           {
-            "id": "e188a1af36d786ea",
+            "id": "9654f16090462dd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Statistische Investitionsrechenverfahren.md",
+                "file": "6 - Zettel/Qualitätsicherung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statistische Investitionsrechenverfahren"
-            }
-          },
-          {
-            "id": "1b67b520174fbc62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Investitionsrechnung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Investitionsrechnung"
-            }
-          },
-          {
-            "id": "f6616525ed3b4a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Investitionsrechnung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Investitionsrechnung"
-            }
-          },
-          {
-            "id": "0abb41de6463dd3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Investitionsobjekt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Investitionsobjekt"
-            }
-          },
-          {
-            "id": "7b4db82a51e2b2e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Kapitalwertmethode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kapitalwertmethode"
+              "title": "Qualitätsicherung"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,8 +147,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "635c92b17d8f23e5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -224,38 +177,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f6616525ed3b4a2a",
+  "active": "5fc64954dc7caa06",
   "lastOpenFiles": [
-    "6 - Zettel/Investitionsobjekt.md",
+    "6 - Zettel/Gewinnvergleichsrechnung.md",
+    "6 - Zettel/Grundlagen Systems Engineering.md",
+    "6 - Zettel/Agile.md",
+    "Personal Scrum.md",
+    "6 - Zettel/Vorgehensmodelle & Prozesse.md",
+    "6 - Zettel/Investitionsrechnung.md",
+    "6 - Zettel/Use Case Modellierung.md",
+    "6 - Zettel/Qualitätsicherung.md",
+    "5 - Vorlagen/Note.md",
+    "5 - Vorlagen/Induktionsbeweis.md",
+    "6 - Zettel/Statistische Investitionsrechenverfahren.md",
+    "6 - Zettel/Ziele Finanzierung & Investition.md",
+    "6 - Zettel/Kapitalwertmethode.md",
+    "6 - Zettel/Kapital.md",
+    "6 - Zettel/Finanzierung.md",
+    "6 - Zettel/Finanzielle Mittel.md",
     "6 - Zettel/Grundlagen Finanzierung & Investition.md",
     "6 - Zettel/Grundlagen Finanzierung & Kapitalkosten.md",
-    "Personal Scrum.md",
+    "6 - Zettel/Investitionsobjekt.md",
     "6 - Zettel/Investition.md",
-    "6 - Zettel/Investitionsrechnung.md",
-    "6 - Zettel/Statistische Investitionsrechenverfahren.md",
-    "6 - Zettel/Kapitalwertmethode.md",
     "6 - Zettel/Finanzwirtschaftliche Hauptziele.md",
-    "6 - Zettel/Ziele Finanzierung & Investition.md",
     "2025-11-24.md",
-    "6 - Zettel/Finanzierung.md",
     "6 - Zettel/Investitionsobjekte.md",
     "8 - Media/Bilder/bilanz.png",
-    "6 - Zettel/Finanzielle Mittel.md",
-    "6 - Zettel/Kapital.md",
     "2025-11-23.md",
     "6 - Zettel/Ergebnismenge.md",
     "6 - Zettel/Zufallsexperiment.md",
-    "6 - Zettel/Einzelexperiment.md",
-    "6 - Zettel/Gesamtexperiment.md",
-    "6 - Zettel/Ergebnis.md",
-    "6 - Zettel/Grundraum.md",
-    "6 - Zettel/Geometrische Summenformel.md",
-    "6 - Zettel/Prinzip der vollständigen Induktion.md",
-    "5 - Vorlagen/Induktionsbeweis.md",
-    "6 - Zettel/Gaußsche Summenformel.md",
     "Untitled.base",
     "6 - Zettel/Untitled.base",
     "1 - Schnelle Notizen/Cloud Computing",

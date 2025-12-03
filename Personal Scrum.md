@@ -11,11 +11,24 @@ kanban-plugin: board
 - [ ] [[Eigenkapitalfinanzierung (Außerbörslich)]]
 - [ ] [[Fremdkapitalfinanzierung]]
 - [ ] [[Eigenkapitalfinanzierung (Börslich)]]
+- [ ] [[Grundlagen Systems Engineering]]
+- [ ] [[Vorgehensmodelle & Prozesse]]
+- [ ] [[Qualitätsicherung]]
+- [ ] [[ Use Case Modellierung]]
+- [ ] [[Agile]]
 
 
 ## Backlog
 
-- [ ] [[Kapitalwertmethode]]
+- [ ] [[Gewinnvergleichsrechnung]]
+- [ ] [[Pagatorische Kosten]]
+- [ ] [[Kalkulatorische Kosten]]
+- [ ] [[Kalkulatorische Abschreibungen]]
+- [ ] [[Kalkulatorische Zinsen]]
+- [ ] [[Durchschnittlich eingesetztes Kapital]]
+- [ ] [[Rentabilitätsvergleichsrechnung]]
+- [ ] [[EBIT]]
+- [ ] [[Nachteile statischer Investitionsrechenverfahren]]
 
 
 ## In Progress
