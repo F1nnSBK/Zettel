@@ -7,7 +7,7 @@ Tags: [[]], [[]], [[]]
 ---
 **Grundlagen & Definitionen**
 
-- `[[User Story: Begriff SW-Technik definieren]]` (Definiere Software Engineering)
+- [[Software Engineering|Use Case: Software Engineering]] (Definiere Software Engineering)
     
 - `[[User Story: Semantische Lücke erklären]]` (Was ist das Gap zwischen Realität und Modell?)
     

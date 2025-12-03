@@ -13,12 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Qualitätsicherung.md",
+                "file": "6 - Zettel/Software Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qualitätsicherung"
+              "title": "Software Engineering"
+            }
+          },
+          {
+            "id": "f8094f37c2899545",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Personal Scrum.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Personal Scrum"
             }
           }
         ]
@@ -53,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Investitionsreche",
+                "query": "tag:#review",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,16 +204,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5fc64954dc7caa06",
+  "active": "635c92b17d8f23e5",
   "lastOpenFiles": [
-    "6 - Zettel/Gewinnvergleichsrechnung.md",
+    "2025-12-07.md",
+    "6 - Zettel/Software Engineering.md",
     "6 - Zettel/Grundlagen Systems Engineering.md",
-    "6 - Zettel/Agile.md",
     "Personal Scrum.md",
+    "6 - Zettel/Qualitätsicherung.md",
+    "6 - Zettel/Gewinnvergleichsrechnung.md",
+    "6 - Zettel/Agile.md",
     "6 - Zettel/Vorgehensmodelle & Prozesse.md",
     "6 - Zettel/Investitionsrechnung.md",
     "6 - Zettel/Use Case Modellierung.md",
-    "6 - Zettel/Qualitätsicherung.md",
     "5 - Vorlagen/Note.md",
     "5 - Vorlagen/Induktionsbeweis.md",
     "6 - Zettel/Statistische Investitionsrechenverfahren.md",
@@ -208,8 +233,6 @@
     "6 - Zettel/Investitionsobjekte.md",
     "8 - Media/Bilder/bilanz.png",
     "2025-11-23.md",
-    "6 - Zettel/Ergebnismenge.md",
-    "6 - Zettel/Zufallsexperiment.md",
     "Untitled.base",
     "6 - Zettel/Untitled.base",
     "1 - Schnelle Notizen/Cloud Computing",
