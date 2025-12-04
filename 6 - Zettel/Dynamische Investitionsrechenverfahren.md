@@ -5,6 +5,9 @@
 Tags: [[]], [[]], [[]]
 
 ---
+Bei **dynamischen Investitionsrechenverfahren** werden nicht [[Gewinn|Gewinne]] oder [[Erlöse]] betrachtet, sondern Ein- und Auszahlungen, die aus den [[Investitionsobjekt|Investitionsobjekten]] resultieren.
+Es wird der Zahlungszeitpunkt berücksichtigt und damit mögliche Zinskosten oder Zinserträge. Grundprinzip ist hier, dass Zahlungsströme weniger Wert sind, desto ferner in der Zukunft sie liegen ([[Zeitwert des Geldes]]).
+
 - **Wissen:**
     
     - **Unterschied Gewinn vs. Cash Flow:** CF ist zahlungsorientiert34. Gewinn ist periodenorientiert. **Nicht zahlungswirksam** sind z.B. kalkulatorische Kosten (AfA, kalk. Zinsen) und Bildung/Auflösung von Rückstellungen oder Forderungen/Verbindlichkeiten 35.
