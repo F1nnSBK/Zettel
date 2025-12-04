@@ -18,5 +18,7 @@ $$...$$
 ---
 ### Verwendung
 ```dataview
-list from [[Kapitalwertmethode]]
+TABLE file.mtime AS "Bearbeitet"
+FROM [[Note]]
+SORT file.mtime DESC
 ```

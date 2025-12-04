@@ -120,5 +120,7 @@ Es wird der Zahlungszeitpunkt berücksichtigt und damit mögliche Zinskosten ode
 ---
 ### Verwendung
 ```dataview
-list from [[Dynamische Investitionsrechenverfahren]]
+TABLE file.mtime AS "Bearbeitet"
+FROM [[Cash Flow]]
+SORT file.mtime DESC
 ```
