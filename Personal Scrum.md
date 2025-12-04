@@ -29,6 +29,7 @@ kanban-plugin: board
 - [ ] [[Aufzinsung]]
 - [ ] [[Abzinsung]]
 - [ ] [[Zeitwert des Geldes]]
+- [ ] [[Zahlungsplanung]]
 
 
 ## In Progress

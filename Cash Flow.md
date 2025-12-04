@@ -6,8 +6,7 @@ Tags: [[Grundlagen Finanzierung & Investition]], [[Dynamische Investitionsrechen
 #finance
 
 ---
-**Cash Flows** im Allgemeinen meint Ein- und Auszahlungen. 
-
+Bei den dynamischen Verfahren werden Ein- und Auszahlungen betrachtet (Zahlungsströme $\hat{=}$ **Cash Flows**), nicht Kosten und Erlöse.
 #### Arten von Zahlungen
 + Einzahlungen $\hat{=}$ Cash Inflow
 	  Zufluss liquider Mittel in das Unternehmen.
@@ -15,22 +14,22 @@ Tags: [[Grundlagen Finanzierung & Investition]], [[Dynamische Investitionsrechen
 	  Abfluss liquider Mittel aus dem Unternehmen.
 	  Liegt immer vor, wenn Kass/Bank aus der Aktiv-Seite der Bilanz reduziert wird.
 
-#### Arten von Cash Flows
-+ Operativer Cash Flow
-	  Cash Flow aus laufendem Betrieb, bildet operative Zahlungsflüsse ab.
-	  z.B. Auszahlungen an Lieferanten, Einzahlungen aus Verkäufen.
-	  Die Ermittlung des operativen Cashflows kann direkt aus den g*esamten Geschäftsvorfällen des Unternehmens* oder indirekt aus der *Gewinn- und Verlustrechnung* ([[GuV]]) erfolgen.
-+ Investitions-Cash Flow
-	  Cash Flow aus Investitionstätigkeit, bilder die Zahlungsflüsse aus Investitionen und Desinvestitionen in langfristiges [[Anlagevermögen]] ab.
-	  z.B. Investition in Maschinen.
-+ Finanzierungs-Cash Flow
-	  Cash Flow aus Finanzierungstätigkeit, bildet die Zahlungsflüsse aus Finanzierungen von Eigen- und Fremdkapital ab.
-	  z.B. Aufnahme von Darlehen, Rückzahlung von Darlehen.
-+ Free Cash Flow 
-	  $$\text{Free Cash Flow = Operativer Cash Flow + Investitions-Cash Flow}$$
-	  z.B. Geld für Dividenden oder für eine fällige Rückführung der [[Fremdkapitalfinanzierung]].
+**Cash Flows** (Zahlungsströme) unterteilen sich in:
 
-Der operative Cash Flow ist - im Gegensatz zu den kalkulatorischen Größen der [[Kosten- und Leistungsrechnung ]]- **zahlungsorientiert** und berücksichtigt nur Transaktionen, die zu Ab- oder Zuflüssen von liquiden Mitteln führen. Die Unterscheidung in **zahlungswirksam** und **nicht zahlungswirksam** ist wichtig.
+1. **Operativer Cash Flow**: Cashflow aus laufender Geschäftstätigkeit. Bildet operative Zahlungsflüsse ab (z.B. Kundenzahlungen, Lieferantenzahlungen).
+    
+2. **Investitions-Cash Flow**: Zahlungsflüsse aus Investitionen und Desinvestitionen in langfristiges Anlagevermögen (z.B. Kauf einer Maschine).
+    
+3. **Finanzierungs-Cash Flow**: Zahlungsflüsse aus Außenfinanzierung (Eigen- und Fremdkapital), z.B. Kreditaufnahme oder Tilgung.
+    
+
+Der **Free Cash Flow** ist die Summe aus operativem und Investitions-Cashflow. Er steht für Dividenden oder Rückführung von Fremdkapital zur Verfügung6666.
+
+$$Free\ Cash\ Flow = Operativer\ Cash\ Flow + Investitions\ Cash\ Flow$$
+
+#### Abgrenzung: Gewinn vs. Cash Flow
+
+Der operative Cash Flow ist **zahlungsorientiert**. Er unterscheidet sich vom Gewinn (GuV), da er kalkulatorische und nicht zahlungswirksame Größen bereinigt. Die Unterscheidung in **zahlungswirksam** und **nicht zahlungswirksam** ist wichtig.
 
 *Zahlungswirksam*:
 An das Personal werden 40€ als Gehalt überwiesen.
@@ -38,6 +37,24 @@ An das Personal werden 40€ als Gehalt überwiesen.
 Kalkulatorische Eigenkapitalkosten fallen in Höhe von 5€ an.
 
 
+Was ist der Free Cash Flow (Verwendungszweck)? :: Geld für Dividenden der Aktionäre/Gesellschafter oder für eine fällige Rückführung der Fremdfinanzierung.
+
+Wie lautet die Formel für den Free Cash Flow? ::
+
+$$Free\ Cash\ Flow = Operativer\ Cash\ Flow + Investitions\ Cash\ Flow$$
+
+Wodurch unterscheidet sich der operative Cash Flow von Größen der Kostenrechnung? :: Der operative Cash Flow ist **zahlungsorientiert** und berücksichtigt nur Transaktionen, die zu Ab- oder Zuflüssen von liquiden Mitteln führen (keine kalkulatorischen Größen).
+
+Warum weicht der operative Cash Flow in der Praxis oft vom Gewinn ab?
+?
+1. **Abschreibungen** sind nicht zahlungswirksam (mindern Gewinn, aber nicht Cash).
+    
+2. **Kalkulatorische Zinskosten** sind nicht zahlungswirksam.
+    
+3. Nicht alle **Umsatzerlöse** sind sofort zahlungswirksam (Forderungen aus Lieferungen und Leistungen).
+    
+
+Zu welcher Cash-Flow-Art gehört die Aufnahme eines Darlehens? :: Finanzierungs-Cash Flow.
 
 ---
 ### Verwendung
