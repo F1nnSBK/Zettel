@@ -3,6 +3,7 @@
 2025-12-04
 
 Tags: [[Cash Flow]], [[Dynamische Investitionsrechenverfahren]], [[Zeitwert des Geldes]]
+#finance
 
 ---
 Bei der **Zahlungsplanung** werden die erwarteten Cash Inflows und Cash Outflows aus einer [[Investition]] für den Zeitraum der Durchführung geschätzt. Als Ergebnis bleibt der Erwartete Free Cash Flow.
@@ -19,9 +20,18 @@ Der Zeitstrahl ist oft bei langfristigen Projekten ein erstes Werkzeug um [[Cash
 
 Bei Vergleichen von langfristigen Projekten sollten die Projekte mit dem höchsten Gesamtzahlungszufluss gewählt werden. Allerdings gelten hier wichtige Regeln:
 
-**Regel 1:** Nur Zahlungen zum gleichen Zeitpunkt können verglichen oder zusammengelegt werden Ein Euro heute und ein Euro in einem Jahr sind nicht gleichwertig. Heute Geld zu besitzen ist wertvoller, da dieses einen Zinsertrag erwirtschaften kann. Um daher Zahlungen vergleichen zu können, müssen sie auf den gleichen Zeitpunkt "verschoben" werden. Hier kommt Regel 2 zur Anwendung.
+**Regel 1:** Nur Zahlungen zum gleichen Zeitpunkt können verglichen oder zusammengelegt werden. Ein Euro heute und ein Euro in einem Jahr sind nicht gleichwertig. Heute Geld zu besitzen ist wertvoller, da dieses einen Zinsertrag erwirtschaften kann. Um daher Zahlungen vergleichen zu können, müssen sie auf den gleichen Zeitpunkt "verschoben" werden. Hier kommt Regel 2 zur Anwendung.
 
-**Regel 2:** Zahlungen in die Zukunft verschieben Um eine Zahlung um ein Jahr in die Zukunft zu verschieben, wird die Annahme getroffen, dass wir das Geld für ein Jahr anlegen und einen Zinssatz $i$ erhalten können. Dies wird als Aufzinsung bezeichnet.
+**Regel 2:** Zahlungen in die Zukunft verschieben. Um eine Zahlung um ein Jahr in die Zukunft zu verschieben, wird die Annahme getroffen, dass wir das Geld für ein Jahr anlegen und einen Zinssatz $i$ erhalten können. Dies wird als Aufzinsung bezeichnet.
+
+**Regel 3:** Zahlungen in die Vergangenheit verschieben. Um eine Zahlung um ein Jahr in die Vergangenheit zu verschieben, wird die Annahme getroffen, dass wir die vorherigen Zinsen in der Vergangenheit quasi noch nicht erhalten haben. Wir müssen sie also vom aktuellen Wert abziehen.
+
+
+Welche Regeln gibt es bei der Zahlungsplanung von Investitionen zu beachten?
+?
++ Regel 1: Nur Zahlungen zum gleichen Zeitpunkt können verglichen oder zusammengelegt werden. Ein Euro heute und ein Euro in einem Jahr sind nicht gleichwertig. Heute Geld zu besitzen ist wertvoller, da dieses einen Zinsertrag erwirtschaften kann.
++ Regel 2: Zahlungen in die Zukunft verschieben. Um eine Zahlung um ein Jahr in die Zukunft zu verschieben, wird die Annahme getroffen, dass wir das Geld für ein Jahr anlegen und einen Zinssatz $i$ erhalten können.
++ Regel 3: Zahlungen in die Vergangenheit verschieben. Um eine Zahlung um ein Jahr in die Vergangenheit zu verschieben, wird die Annahme getroffen, dass wir die vorherigen Zinsen in der Vergangenheit quasi noch nicht erhalten haben. Wir müssen sie also vom aktuellen Wert abziehen.
 
 ---
 ### Verwendung

@@ -26,8 +26,6 @@ kanban-plugin: board
 - [ ] [[Interne Zinsfußmethode]]
 - [ ] [[Interner Zinsfuß]]
 - [ ] [[Cash Flow]]
-- [ ] [[Aufzinsung]]
-- [ ] [[Abzinsung]]
 - [ ] [[Zeitwert des Geldes]]
 - [ ] [[Zahlungsplanung]]
 
