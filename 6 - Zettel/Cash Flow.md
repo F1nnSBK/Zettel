@@ -23,7 +23,7 @@ Bei den dynamischen Verfahren werden Ein- und Auszahlungen betrachtet (Zahlungss
 3. **Finanzierungs-Cash Flow**: Zahlungsflüsse aus Außenfinanzierung (Eigen- und Fremdkapital), z.B. Kreditaufnahme oder Tilgung.
     
 
-Der **Free Cash Flow** ist die Summe aus operativem und Investitions-Cashflow. Er steht für Dividenden oder Rückführung von Fremdkapital zur Verfügung6666.
+Der **Free Cash Flow** ist die Summe aus operativem und Investitions-Cashflow. Er steht für Dividenden oder Rückführung von Fremdkapital zur Verfügung.
 
 $$Free\ Cash\ Flow = Operativer\ Cash\ Flow + Investitions\ Cash\ Flow$$
 
@@ -38,16 +38,20 @@ Kalkulatorische Eigenkapitalkosten fallen in Höhe von 5€ an.
 
 
 Was ist der Free Cash Flow (Verwendungszweck)? :: Geld für Dividenden der Aktionäre/Gesellschafter oder für eine fällige Rückführung der Fremdfinanzierung.
+<!--SR:!2025-12-09,1,228-->
 
-Wie lautet die Formel für den Free Cash Flow? ::
-
+Wie lautet die Formel für den Free Cash Flow?
+?
 $$Free\ Cash\ Flow = Operativer\ Cash\ Flow + Investitions\ Cash\ Flow$$
+<!--SR:!2025-12-11,3,268-->
 
 Wodurch unterscheidet sich der operative Cash Flow von Größen der Kostenrechnung? :: Der operative Cash Flow ist **zahlungsorientiert** und berücksichtigt nur Transaktionen, die zu Ab- oder Zuflüssen von liquiden Mitteln führen (keine kalkulatorischen Größen).
+<!--SR:!2025-12-09,1,228-->
 
 Warum weicht der operative Cash Flow in der Praxis oft vom Gewinn ab?
 ?
 1. **Abschreibungen** sind nicht zahlungswirksam (mindern Gewinn, aber nicht Cash).
+<!--SR:!2025-12-09,1,230-->
     
 2. **Kalkulatorische Zinskosten** sind nicht zahlungswirksam.
     
@@ -55,6 +59,7 @@ Warum weicht der operative Cash Flow in der Praxis oft vom Gewinn ab?
     
 
 Zu welcher Cash-Flow-Art gehört die Aufnahme eines Darlehens? :: Finanzierungs-Cash Flow.
+<!--SR:!2025-12-11,3,268-->
 
 ---
 ### Verwendung

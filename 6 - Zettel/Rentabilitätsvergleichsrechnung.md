@@ -18,8 +18,10 @@ $$
 #### Entscheidungsmöglichkeiten
 1. Investition oder Nicht-Investition
    Wenn die durchschnittliche [[Rentabilität]] einer Investition größer ist als die Mindestverzinsung (oder Kapitalkosten) -> :: Investition tätigen.
+<!--SR:!2025-12-12,4,270-->
 2. Investition in A und B
    Wenn die durchschnittliche [[Rentabilität]] einer Investition A höher sind als die einer Alternative B und höher als die Kapitalkosten -> :: investiere in A.
+<!--SR:!2025-12-12,4,270-->
 
 
 #### Entscheidungskriterium
@@ -30,9 +32,11 @@ $$
 1. Fehlerhafte Entscheidungen aufgrund falscher Zukunftsannahmen: Wenn zwei Projekte unterschiedliche Laufzeiten haben, wird bei einer Entscheidung anhand der Rentabilitätskennzahl unterstellt, dass diese Rentabilität auch für den Rest der Investitionszeit erzielt werden kann.
 2. Falsche Entscheidungen aufgrund falscher Annahmen bzgl. der Differenzinvestitionssumme: Wenn zwei Projekte unterschiedliche Anfangsinvestitionen haben, wird bei einer Entscheidung anhand der Rentabilitätskennzahl implizit unterstellt, dass für das Projekt mit der geringeren initialen Investition der Differenzbetrag ebenso mit der gleichen Rentabilität investiert wird. Das wird nicht der Fall sein.
 
-Nenne 2 Probleme der Rentabilitätsvergleichsrechnung. ::
+Nenne 2 Probleme der Rentabilitätsvergleichsrechnung.
+?
 1. **Zeitraum-Problem:** Bei unterschiedlichen Laufzeiten wird unterstellt, dass die Rentabilität auch im Differenzzeitraum (Wiederanlage) erzielt werden kann.
 2. **Kapital-Problem:** Bei unterschiedlichen Investitionssummen wird unterstellt, dass der Differenzbetrag (beim günstigeren Projekt) zur *gleichen* hohen Rentabilität angelegt werden kann (unrealistisch).
+<!--SR:!2025-12-09,1,234-->
 
 ---
 ### Verwendung

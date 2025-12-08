@@ -14,8 +14,10 @@ $$
 #### Entscheidungsmöglichkeiten
 1. Investition oder Nicht-Investition
    Wenn die durchschnittlichen Gewinne einer Investition positiv sind -> :: Investition tätigen.
+<!--SR:!2025-12-12,4,270-->
 2. Investition in A und B
    Wenn die durchschnittlichen Gewinne einer Investition A höher sind als die einer Alternative B -> :: investiere in A.
+<!--SR:!2025-12-11,3,268-->
 
 #### Ermittlung von Kosten & Erlöse
 + [[Kosten]] sind der bewertete, betriebszweckbezogene Güter**verbrauch** eines Unternehmens. Betriebszweckbezogen bedeutet: 1. für die relevante Periode und 2. im normalen Geschäftsbetrieb angefallen.
@@ -49,6 +51,7 @@ $𝑅_𝑛$ = Restwert bzw. Liquidationserlös
 + Nichtberücksichtigung des Kapitaleinsatzes: Die Einbeziehung des Kapitaleinsatzes zeigt erst, inwieweit eine Investition wirklich rentabel ist.
 
 Was passiert bei der Gewinnvergleichsrechnung? :: Bei der Gewinnvergleichsrechnung wird der durchschnittlich zu erwartende Gewinn pro Jahr ermittelt und auf dessen Basis entschieden. Ziel ist die **Gewinnmaximierung**.
+<!--SR:!2025-12-11,3,250-->
 
 Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
 ?
@@ -58,8 +61,10 @@ Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
 4. **Kalk. Zinsen** berechnen ($\frac{AK+RW}{2} \cdot i$).
 5. **Gewinn** = 1 - (2 + 3 + 4).
 6. **Entscheidung**: Wähle max(Gewinn), sofern > 0.
+<!--SR:!2025-12-09,1,230-->
 
 Was sind 3 Probleme der GVR? :: Kurzfristigkeit des Gewinnvergleiches, d.h. Berechnungen sind üblicherweise für ein Jahr, die Zukunft wird nicht betrachtet. Zurechenbarkeit der Erlöse: Wird ein Produkt auf mehreren Maschinen produziert? -> Welche Maschine trägt welchen bei? Nichtberücksichtigung des Kapitaleinsatzes: Die Einbeziehung des Kapitaleinsatzes zeigt erst, inwieweit eine Investition wirklich rentabel ist.
+<!--SR:!2025-12-09,1,232-->
 
 ---
 ### Verwendung

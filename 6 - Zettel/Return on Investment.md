@@ -27,9 +27,12 @@ $$
 * **Interpretation:** Ein hoher ROI kann durch hohe Margen (Rentabilität) *oder* durch hohe Effizienz (Umschlagshäufigkeit) erreicht werden.
 
 
-Wie wird der ROI berechnet? :: $$
+Wie wird der ROI berechnet?
+?
+$$
 ROI = \frac{EBIT}{\text{Durchschnittlich gebundenes Kapital}}
 $$
+<!--SR:!2025-12-09,1,230-->
 
 ---
 ### Verwendung

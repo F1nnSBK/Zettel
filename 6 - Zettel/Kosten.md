@@ -24,8 +24,10 @@ Keine Kosten -> Lager brennt ab.
 
 
 Trenne operative und kalkulatorische Kosten voneinander ab. :: Operative Kosten (auch pagatorische Kosten) fallen im normalen Geschäftsbetrieb an (Löhne und Gehälter). Kalkulatorische Kosten sind Erlöse, die man nicht erzielt hat (Opportunitätskostenprinzip), weil eine bestimmte Handlung nicht durchgeführt wurde (kalkulatorische Eigenkapitalkosten/Abschreibungen).
+<!--SR:!2025-12-09,1,230-->
 
-Was sind Kosten? :: Kosten sind der bewertete, betriebszweckbezogene Güter**verbrauch** eines Unternehmens. 
+Was sind Kosten? :: Kosten sind der bewertete, betriebszweckbezogene Güter**verbrauch** eines Unternehmens.
+<!--SR:!2025-12-09,1,228-->
 
 ---
 ### Verwendung

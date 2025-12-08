@@ -9,6 +9,7 @@ Tags: [[Grundlagen Finanzierung & Investition]], [[Kosten]], [[Gewinn]], [[Gewin
 [[Erlöse]] sind Erträge aus Verkauf von Produkten und der Erbringung von Dienstleistungen.
 
 Was sind Erlöse? :: Erlöse sind Erträge aus Verkauf von Produkten und der Erbringung von Dienstleistungen.
+<!--SR:!2025-12-09,1,230-->
 
 ---
 ### Verwendung

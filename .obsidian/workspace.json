@@ -33,6 +33,76 @@
             }
           },
           {
+            "id": "937729f9239dbec4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Return on Investment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Return on Investment"
+            }
+          },
+          {
+            "id": "5a81dc39c7c53829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Rentabilitätsvergleichsrechnung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rentabilitätsvergleichsrechnung"
+            }
+          },
+          {
+            "id": "52dc37a0c4d98fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Cash Flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cash Flow"
+            }
+          },
+          {
+            "id": "d65199f13e13c4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Zeitwert des Geldes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zeitwert des Geldes"
+            }
+          },
+          {
+            "id": "9c195f2ef8fea7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Kapitalwertmethode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kapitalwertmethode"
+            }
+          },
+          {
             "id": "e517c5e7cab0f58e",
             "type": "leaf",
             "state": {
@@ -45,23 +115,9 @@
               "icon": "lucide-file",
               "title": "Kapitalwert"
             }
-          },
-          {
-            "id": "6cb1758411cf4895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Kapitalwertmethode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kapitalwertmethode"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,23 +277,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5fc64954dc7caa06",
+  "active": "937729f9239dbec4",
   "lastOpenFiles": [
-    "6 - Zettel/Zeitwert des Geldes.md",
-    "6 - Zettel/Kapitalwert.md",
-    "6 - Zettel/Kapitalwertmethode.md",
     "Personal Scrum.md",
+    "6 - Zettel/Rentabilitätsvergleichsrechnung.md",
+    "6 - Zettel/Cash Flow.md",
+    "6 - Zettel/Zeitwert des Geldes.md",
+    "6 - Zettel/Kapitalwertmethode.md",
+    "6 - Zettel/Kapitalwert.md",
+    "6 - Zettel/Return on Investment.md",
+    "6 - Zettel/Zahlungsplanung.md",
     "6 - Zettel/Endwert.md",
     "6 - Zettel/Barwert.md",
-    "6 - Zettel/Zahlungsplanung.md",
     "6 - Zettel/Dynamische Investitionsrechenverfahren.md",
     "6 - Zettel/Gewinnvergleichsrechnung.md",
-    "6 - Zettel/Cash Flow.md",
     "6 - Zettel/Operative Kosten.md",
     "5 - Vorlagen/Note.md",
     "6 - Zettel/Statische Investitionsrechenverfahren.md",
     "6 - Zettel/Determinante.md",
-    "6 - Zettel/Rentabilitätsvergleichsrechnung.md",
     "6 - Zettel/Grundlagen Finanzierung & Investition.md",
     "6 - Zettel/Kalkulatorische Abschreibungen.md",
     "6 - Zettel/Ziele Finanzierung & Investition.md",
@@ -247,7 +304,6 @@
     "6 - Zettel/Geometrische Summenformel.md",
     "6 - Zettel/Prinzip der vollständigen Induktion.md",
     "Nachteile statischer Investitionsrechenverfahren.md",
-    "6 - Zettel/Return on Investment.md",
     "6 - Zettel/EBIT.md",
     "8 - Media/Bilder/bilanz.png",
     "Untitled.base",

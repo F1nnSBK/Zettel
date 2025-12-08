@@ -35,10 +35,13 @@ $$
 
 
 Was ist die Grundformel der Rentabilität? :: $$Rentabilität = \frac{Erfolg (Gewinn)}{Kapital}$$
+<!--SR:!2025-12-11,3,250-->
 
 Wie berechnet man die Eigenkapitalrentabilität? :: $$r_{EK} = \frac{Jahresüberschuss}{Eigenkapital}$$
+<!--SR:!2025-12-11,3,250-->
 
 Warum addiert man bei der Gesamtkapitalrentabilität die Zinsen zum Gewinn? :: Weil die Zinsen der "Gewinnanteil" der Gläubiger sind. Um die Leistungsfähigkeit des *gesamten* Kapitals zu messen, muss der Ertrag für *beide* Kapitalgeber (Eigentümer + Gläubiger) berücksichtigt werden.
+<!--SR:!2025-12-09,1,230-->
 
 ---
 ### Verwendung
