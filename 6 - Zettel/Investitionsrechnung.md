@@ -15,7 +15,7 @@ Es gibt zwei Arten von Verfahren:
 2. **Dynamische Verfahren** berechnen den Gewinn auf Basis von Ein- und Auszahlungen. Zielgröße ist der [[Kapitalwert]] einer Investition. Hier werden im Gegensatz zu statischen Verfahren Zinseffekte einbezogen.
 	1. [[Kapitalwertmethode]]
 	2. [[Interne Zinsfußmethode]]
-	3. [[Amortisationsdauer]]
+	3. [[Amortisationszeit]]
 
 
 #### Vergleich Investitionsrechenverfahren

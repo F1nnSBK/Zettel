@@ -18,16 +18,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Dynamische Investitionsrechenverfahren]]
-- [ ] [[Kapitalwertmethode]]
-- [ ] [[Kapitalwert]]
-- [ ] [[Amortisationsdauer]]
-- [ ] [[Amortisationsrechnung]]
-- [ ] [[Interne Zinsfußmethode]]
-- [ ] [[Interner Zinsfuß]]
-- [ ] [[Cash Flow]]
-- [ ] [[Zeitwert des Geldes]]
-- [ ] [[Zahlungsplanung]]
 
 
 ## In Progress
@@ -41,7 +31,17 @@ kanban-plugin: board
 ## Done
 
 - [ ] [[Kalkulatorische Kosten]]
+- [ ] [[Kapitalwert]]
+- [ ] [[Interner Zinsfuß]]
+- [ ] [[Cash Flow]]
+- [ ] [[Zahlungsplanung]]
+- [ ] [[Kapitalwertmethode]]
+- [ ] [[Interne Zinsfußmethode]]
+- [ ] [[Amortisationsrechnung]]
+- [ ] [[Dynamische Investitionsrechenverfahren]]
+- [ ] [[Amortisationszeit]]
 - [ ] [[Statische Investitionsrechenverfahren]]
+- [ ] [[Zeitwert des Geldes]]
 - [ ] [[Operative Kosten]]
 - [ ] [[Return on Investment]]
 - [ ] [[EBIT]]
@@ -56,15 +56,10 @@ kanban-plugin: board
 - [ ] [[Investition]]
 
 
-## Analysis 1 - Königsberger
-
-- [ ] [[Prinzip der vollständigen Induktion]]
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
