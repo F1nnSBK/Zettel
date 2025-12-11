@@ -30,8 +30,37 @@
               "icon": "lucide-trello",
               "title": "Personal Scrum"
             }
+          },
+          {
+            "id": "0f221ce64390a406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - Kanban Boards/Kosten- & Leistungsrechnung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kosten- & Leistungsrechnung"
+            }
+          },
+          {
+            "id": "4c7ca1fdf8b1b4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - Kanban Boards/Grundlagen Kosten & Leistungsrechnung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grundlagen Kosten & Leistungsrechnung"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,16 +220,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5fc64954dc7caa06",
+  "active": "4c7ca1fdf8b1b4bf",
   "lastOpenFiles": [
-    "6 - Zettel/Anleihen.md",
+    "9 - Kanban Boards/Kosten- & Leistungsrechnung.md",
+    "9 - Kanban Boards/Grundlagen Kosten & Leistungsrechnung.md",
+    "8 - Media/Bilder/aufwand_kosten.jpeg",
+    "8 - Media/Bilder/belegwege.jpeg",
     "9 - Kanban Boards/Personal Scrum.md",
+    "8 - Media/Bilder/klr_elemente.jpeg",
+    "6 - Zettel/Grundlagen Systems Engineering.md",
+    "6 - Zettel/Covenants.md",
+    "6 - Zettel/Anleihen.md",
     "6 - Zettel/Kalkulatorische Abschreibungen.md",
     "6 - Zettel/Credit Spread.md",
     "6 - Zettel/Darlehen.md",
     "6 - Zettel/Kreditprüfung.md",
     "6 - Zettel/Rating.md",
-    "6 - Zettel/Covenants.md",
     "6 - Zettel/Effektivzins.md",
     "6 - Zettel/Kreditlinien.md",
     "6 - Zettel/Bonität.md",
@@ -218,10 +253,6 @@
     "6 - Zettel/Thesaurierung.md",
     "6 - Zettel/Dividende.md",
     "6 - Zettel/Grundlagen Finanzierung & Investition.md",
-    "6 - Zettel/Marktkapitalisierung.md",
-    "6 - Zettel/Kapitalmarkt.md",
-    "6 - Zettel/Eigenkapitalfinanzierung (Außerbörslich).md",
-    "6 - Zettel/Liquidität.md",
     "9 - Kanban Boards",
     "Untitled.canvas",
     "8 - Media/Bilder/bilanz.png",

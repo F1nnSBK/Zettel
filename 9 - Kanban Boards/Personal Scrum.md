@@ -11,10 +11,17 @@ kanban-plugin: board
 - [ ] [[Qualitätsicherung]]
 - [ ] [[ Use Case Modellierung]]
 - [ ] [[Agile]]
+- [ ] [[Kosten- & Leistungsrechnung]]
 
 
 ## Backlog
 
+- [ ] [[Grundlagen Kosten & Leistungsrechnung]]
+- [ ] [[Kostenartenrechnung]]
+- [ ] [[Kostenstellenrechnung]]
+- [ ] [[Kostenträgerrechnung]]
+- [ ] [[Deckungsbeitragsrechnung]]
+- [ ] [[Plankostenrechnung]]
 
 
 ## In Progress
