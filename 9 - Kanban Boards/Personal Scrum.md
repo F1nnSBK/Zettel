@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Fremdkapitalfinanzierung]]
 - [ ] [[Grundlagen Systems Engineering]]
 - [ ] [[Vorgehensmodelle & Prozesse]]
 - [ ] [[Qualitätsicherung]]
@@ -16,17 +15,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Darlehen]]
-- [ ] [[Covenants]]
-- [ ] [[Rating]]
-- [ ] [[Zinszahlung]]
-- [ ] [[Kreditprüfung]]
-- [ ] [[Bonität]]
-- [ ] [[Kreditsicherheiten]]
-- [ ] [[Credit Spreads]]
-- [ ] [[Nominalzins]]
-- [ ] [[Effektivzins]]
-- [ ] [[Anleihe]]
 
 
 ## In Progress
@@ -41,6 +29,16 @@ kanban-plugin: board
 
 - [ ] [[Kalkulatorische Kosten]]
 - [ ] [[Kapitalwert]]
+- [ ] [[Anleihen]]
+- [ ] [[Credit Spread]]
+- [ ] [[Darlehen]]
+- [ ] [[Kreditlinien]]
+- [ ] [[Effektivzins]]
+- [ ] [[Nominalzins]]
+- [ ] [[Bonität]]
+- [ ] [[Rating]]
+- [ ] [[Kreditprüfung]]
+- [ ] [[Covenants]]
 - [ ] [[Rechtsform]]
 - [ ] [[Dividende]]
 - [ ] [[Kapitalmarkt]]
