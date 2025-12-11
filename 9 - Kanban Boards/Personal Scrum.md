@@ -18,6 +18,12 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Rechtsform]]
+- [ ] [[Eigenkapitalfinanzierung]]
+- [ ] [[Insolvenz]]
+- [ ] [[Insolvenzfall]]
+- [ ] [[Emissionsfähigkeit]]
+- [ ] [[Leverage-Effekt]]
 
 
 ## In Progress
