@@ -6,9 +6,7 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Eigenkapitalfinanzierung (Außerbörslich)]]
 - [ ] [[Fremdkapitalfinanzierung]]
-- [ ] [[Eigenkapitalfinanzierung (Börslich)]]
 - [ ] [[Grundlagen Systems Engineering]]
 - [ ] [[Vorgehensmodelle & Prozesse]]
 - [ ] [[Qualitätsicherung]]
@@ -18,12 +16,17 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] [[Rechtsform]]
-- [ ] [[Eigenkapitalfinanzierung]]
-- [ ] [[Insolvenz]]
-- [ ] [[Insolvenzfall]]
-- [ ] [[Emissionsfähigkeit]]
-- [ ] [[Leverage-Effekt]]
+- [ ] [[Darlehen]]
+- [ ] [[Covenants]]
+- [ ] [[Rating]]
+- [ ] [[Zinszahlung]]
+- [ ] [[Kreditprüfung]]
+- [ ] [[Bonität]]
+- [ ] [[Kreditsicherheiten]]
+- [ ] [[Credit Spreads]]
+- [ ] [[Nominalzins]]
+- [ ] [[Effektivzins]]
+- [ ] [[Anleihe]]
 
 
 ## In Progress
@@ -38,6 +41,20 @@ kanban-plugin: board
 
 - [ ] [[Kalkulatorische Kosten]]
 - [ ] [[Kapitalwert]]
+- [ ] [[Rechtsform]]
+- [ ] [[Dividende]]
+- [ ] [[Kapitalmarkt]]
+- [ ] [[Aktie]]
+- [ ] [[Thesaurierung]]
+- [ ] [[Agio]]
+- [ ] [[Streubesitz]]
+- [ ] [[Marktkapitalisierung]]
+- [ ] [[Disagio]]
+- [ ] [[Leverage-Effekt]]
+- [ ] [[Emissionsfähigkeit]]
+- [ ] [[Insolvenz]]
+- [ ] [[Insolvenzfall]]
+- [ ] [[Eigenkapitalfinanzierung]]
 - [ ] [[Interner Zinsfuß]]
 - [ ] [[Cash Flow]]
 - [ ] [[Zahlungsplanung]]

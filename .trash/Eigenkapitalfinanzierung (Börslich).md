@@ -27,8 +27,6 @@ Dieses Epic behandelt die Finanzierung über den organisierten Kapitalmarkt.
 
 - **User Story:** Als Student muss ich die **Dividendenrendite** als Kennzahl berechnen können.
 
-- **User Story:** Als Student muss ich die Börsensegmente (z.B. **DAX**, **MDAX**, **Prime Standard**) zuordnen können.
-
 ---
 ### Verwendung
 ```dataview
