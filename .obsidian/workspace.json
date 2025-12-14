@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "1c45890bb65004cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - Kanban Boards/Kostenartenrechnung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kostenartenrechnung"
+            }
+          },
+          {
             "id": "0f221ce64390a406",
             "type": "leaf",
             "state": {
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,13 +234,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4c7ca1fdf8b1b4bf",
+  "active": "1c45890bb65004cf",
   "lastOpenFiles": [
     "9 - Kanban Boards/Kosten- & Leistungsrechnung.md",
+    "9 - Kanban Boards/Kostenartenrechnung.md",
     "9 - Kanban Boards/Grundlagen Kosten & Leistungsrechnung.md",
+    "6 - Zettel/Kalkulatorische Zinsen.md",
+    "9 - Kanban Boards/Personal Scrum.md",
     "8 - Media/Bilder/aufwand_kosten.jpeg",
     "8 - Media/Bilder/belegwege.jpeg",
-    "9 - Kanban Boards/Personal Scrum.md",
     "8 - Media/Bilder/klr_elemente.jpeg",
     "6 - Zettel/Grundlagen Systems Engineering.md",
     "6 - Zettel/Covenants.md",
@@ -252,7 +268,6 @@
     "6 - Zettel/Eigenkapitalfinanzierung (Börslich).md",
     "6 - Zettel/Thesaurierung.md",
     "6 - Zettel/Dividende.md",
-    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
     "9 - Kanban Boards",
     "Untitled.canvas",
     "8 - Media/Bilder/bilanz.png",
