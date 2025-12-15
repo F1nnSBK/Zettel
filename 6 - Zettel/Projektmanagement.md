@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Grundlagen Projektmanagement]]
+Tags: [[Projektmanagement]]
 #pm
 
 ---

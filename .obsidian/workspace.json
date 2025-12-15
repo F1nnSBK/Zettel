@@ -30,20 +30,6 @@
               "icon": "lucide-trello",
               "title": "Personal Scrum"
             }
-          },
-          {
-            "id": "4a24a048341086f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - Kanban Boards/Stakeholdermatrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stakeholdermatrix"
-            }
           }
         ]
       }
@@ -205,13 +191,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f2e5b6cc955dbfad",
+  "active": "5fc64954dc7caa06",
   "lastOpenFiles": [
-    "9 - Kanban Boards/Stakeholdermatrix.md",
+    "6 - Zettel/Earned Value Management.md",
+    "6 - Zettel/Kanban.md",
+    "6 - Zettel/Scrum.md",
     "9 - Kanban Boards/Personal Scrum.md",
-    "9 - Kanban Boards/Organistionsformen.md",
-    "9 - Kanban Boards/Vorgehensmodelle.md",
-    "9 - Kanban Boards/Grundlagen Projektmanagement.md",
+    "6 - Zettel/Qualitätswerkzeuge.md",
+    "6 - Zettel/Risikomanagement.md",
+    "6 - Zettel/Meilensteintrendanalyse.md",
+    "6 - Zettel/Schätzmethoden.md",
+    "6 - Zettel/Projektmanagement.md",
+    "6 - Zettel/Netzplantechnik.md",
+    "6 - Zettel/Projektstrukturplan.md",
+    "3 - Tags/Pasted image 20251215185123.png",
+    "6 - Zettel/Stakeholdermatrix.md",
+    "6 - Zettel/Organistionsformen.md",
+    "6 - Zettel/Vorgehensmodelle.md",
     "3 - Tags/Pasted image 20251215181920.png",
     "6 - Zettel/Grundlagen Finanzierung & Investition.md",
     "6 - Zettel/Jahresabschlussgrundlagen.md",
@@ -232,17 +228,7 @@
     "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/klr_elemente.jpeg",
     "6 - Zettel/Grundlagen Systems Engineering.md",
-    "6 - Zettel/Covenants.md",
-    "6 - Zettel/Anleihen.md",
-    "6 - Zettel/Kalkulatorische Abschreibungen.md",
-    "6 - Zettel/Credit Spread.md",
-    "6 - Zettel/Darlehen.md",
-    "6 - Zettel/Kreditprüfung.md",
-    "6 - Zettel/Rating.md",
-    "6 - Zettel/Effektivzins.md",
-    "6 - Zettel/Kreditlinien.md",
     "8 - Media/Bilder/rating.jpeg",
-    "8 - Media/Bilder/Annuität.jpeg",
     "9 - Kanban Boards",
     "Untitled.canvas",
     "Untitled.base",

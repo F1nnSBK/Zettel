@@ -12,7 +12,7 @@ kanban-plugin: board
 - [ ] [[ Use Case Modellierung]]
 - [ ] [[Agile]]
 - [ ] [[Kosten- & Leistungsrechnung]]
-- [ ] [[Grundlagen Projektmanagement]]
+- [ ] [[Projektmanagement]]
 - [ ] [[Vorgehensmodelle]]
 - [ ] [[Organistionsformen]]
 - [ ] [[Stakeholdermatrix]]
