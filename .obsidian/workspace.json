@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Kostenträgerrechnung"
             }
+          },
+          {
+            "id": "7afe67d6ad8e818c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - Kanban Boards/Deckungsbeitragsrechnung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deckungsbeitragsrechnung"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,13 +248,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9c1133cc151d9e67",
+  "active": "7afe67d6ad8e818c",
   "lastOpenFiles": [
+    "9 - Kanban Boards/Deckungsbeitragsrechnung.md",
+    "9 - Kanban Boards/Personal Scrum.md",
+    "9 - Kanban Boards/Kostenträgerrechnung.md",
     "8 - Media/Bilder/handelskalk.jpeg",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/kostenträgerrechnung.jpeg",
-    "9 - Kanban Boards/Kostenträgerrechnung.md",
-    "9 - Kanban Boards/Personal Scrum.md",
     "9 - Kanban Boards/Kosten- & Leistungsrechnung.md",
     "9 - Kanban Boards/Grundlagen Kosten & Leistungsrechnung.md",
     "9 - Kanban Boards/Kostenstellenrechnung.md",
@@ -273,7 +288,6 @@
     "6 - Zettel/Agio.md",
     "9 - Kanban Boards",
     "Untitled.canvas",
-    "8 - Media/Bilder/bilanz.png",
     "Untitled.base",
     "6 - Zettel/Untitled.base",
     "1 - Schnelle Notizen/Cloud Computing",
