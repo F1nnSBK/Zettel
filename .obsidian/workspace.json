@@ -32,20 +32,6 @@
             }
           },
           {
-            "id": "1c45890bb65004cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 - Kanban Boards/Kostenartenrechnung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kostenartenrechnung"
-            }
-          },
-          {
             "id": "0f221ce64390a406",
             "type": "leaf",
             "state": {
@@ -72,9 +58,23 @@
               "icon": "lucide-file",
               "title": "Grundlagen Kosten & Leistungsrechnung"
             }
+          },
+          {
+            "id": "9c1133cc151d9e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - Kanban Boards/Kostenträgerrechnung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kostenträgerrechnung"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,13 +234,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1c45890bb65004cf",
+  "active": "9c1133cc151d9e67",
   "lastOpenFiles": [
-    "9 - Kanban Boards/Kosten- & Leistungsrechnung.md",
-    "9 - Kanban Boards/Kostenartenrechnung.md",
-    "9 - Kanban Boards/Grundlagen Kosten & Leistungsrechnung.md",
-    "6 - Zettel/Kalkulatorische Zinsen.md",
+    "9 - Kanban Boards/Kostenträgerrechnung.md",
     "9 - Kanban Boards/Personal Scrum.md",
+    "9 - Kanban Boards/Kosten- & Leistungsrechnung.md",
+    "9 - Kanban Boards/Grundlagen Kosten & Leistungsrechnung.md",
+    "9 - Kanban Boards/Kostenstellenrechnung.md",
+    "8 - Media/Bilder/kostenstellenrechnung.jpeg",
+    "9 - Kanban Boards/Kostenartenrechnung.md",
+    "6 - Zettel/Kalkulatorische Zinsen.md",
     "8 - Media/Bilder/aufwand_kosten.jpeg",
     "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/klr_elemente.jpeg",
@@ -266,8 +269,6 @@
     "6 - Zettel/Aktie.md",
     "6 - Zettel/Agio.md",
     "6 - Zettel/Eigenkapitalfinanzierung (Börslich).md",
-    "6 - Zettel/Thesaurierung.md",
-    "6 - Zettel/Dividende.md",
     "9 - Kanban Boards",
     "Untitled.canvas",
     "8 - Media/Bilder/bilanz.png",
