@@ -12,16 +12,13 @@ kanban-plugin: board
 - [ ] [[ Use Case Modellierung]]
 - [ ] [[Agile]]
 - [ ] [[Kosten- & Leistungsrechnung]]
+- [ ] [[Jahresabschlussgrundlagen]]
+- [ ] [[Jahresabschlusserstellung]]
+- [ ] [[Jahresabschlussanalyse]]
 
 
 ## Backlog
 
-- [ ] [[Grundlagen Kosten & Leistungsrechnung]]
-- [ ] [[Kostenartenrechnung]]
-- [ ] [[Kostenstellenrechnung]]
-- [ ] [[Kostenträgerrechnung]]
-- [ ] [[Deckungsbeitragsrechnung]]
-- [ ] [[Plankostenrechnung]]
 
 
 ## In Progress
@@ -37,6 +34,11 @@ kanban-plugin: board
 - [ ] [[Kalkulatorische Kosten]]
 - [ ] [[Kapitalwert]]
 - [ ] [[Anleihen]]
+- [ ] [[Deckungsbeitragsrechnung]]
+- [ ] [[Kostenstellenrechnung]]
+- [ ] [[Kostenartenrechnung]]
+- [ ] [[Kostenträgerrechnung]]
+- [ ] [[Grundlagen Kosten & Leistungsrechnung]]
 - [ ] [[Credit Spread]]
 - [ ] [[Darlehen]]
 - [ ] [[Kreditlinien]]
