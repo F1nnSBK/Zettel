@@ -41,16 +41,22 @@ Die Mischform. Mitarbeiter haben **zwei Vorgesetzte** (Linienmanager & Projektle
 #### Flashcards
 
 In welcher Organisationsform hat der Projektleiter die geringste Macht? :: In der **Linien- / Einflussprojektorganisation** (Stabsfunktion).
+<!--SR:!2025-12-16,1,230-->
 
 In welcher Organisationsform hat der Projektleiter die volle disziplinarische Weisungsbefugnis? :: In der **Reinen Projektorganisation**.
+<!--SR:!2025-12-16,1,230-->
 
 Was ist das Hauptmerkmal einer Matrixorganisation für den Mitarbeiter? :: Er hat **zwei Vorgesetzte** (Linienmanager und Projektleiter).
+<!--SR:!2025-12-16,1,230-->
 
 Was kennzeichnet eine "Starke Matrix"? :: Der **Projektleiter** hat mehr Befugnisse als der Linienmanager.
+<!--SR:!2025-12-16,1,230-->
 
 Welcher Nachteil besteht bei der Reinen Projektorganisation bezüglich der Ressourcen? :: Ressourcen (Mitarbeiter/Maschinen) können nicht flexibel mit anderen Projekten geteilt werden (teuer / geringe Auslastung).
+<!--SR:!2025-12-16,1,230-->
 
 Welcher Vorteil bietet die Linienorganisation (Einfluss) für den Mitarbeiter? :: Hohe Jobsicherheit und Verbleib im fachlichen Umfeld (Heimatabteilung).
+<!--SR:!2025-12-16,1,230-->
 
 
 

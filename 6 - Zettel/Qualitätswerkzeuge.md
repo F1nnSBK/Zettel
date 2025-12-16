@@ -46,14 +46,19 @@ Qualitätswerkzeuge dienen dazu, Fehlerursachen zu finden, Probleme zu priorisie
 #### Flashcards
 
 Welches Diagramm nutzt man zur Ursache-Wirkungs-Analyse? :: Das **Ishikawa-Diagramm** (Fischgräten-Diagramm).
+<!--SR:!2025-12-17,1,230-->
 
 Welches Diagramm nutzt man zur Priorisierung von Fehlerursachen nach Häufigkeit? :: Das **Pareto-Diagramm**.
+<!--SR:!2025-12-16,1,230-->
 
 Was sind die "5 M" im Ishikawa-Diagramm? :: Mensch, Maschine, Material, Methode, Milieu.
+<!--SR:!2025-12-16,1,230-->
 
 Was ist das Ziel einer Retrospektive? :: Die kontinuierliche Verbesserung der Prozesse und der Zusammenarbeit im Team (Lernen aus Erfahrung).
+<!--SR:!2025-12-16,1,230-->
 
 Was ist der Unterschied zwischen Qualitätssicherung (QA) und Qualitätskontrolle (QC)? :: **QA** ist präventiv (Prozessverbesserung, Fehlervermeidung), **QC** ist reaktiv (Testen, Fehlerfinden am Produkt).
+<!--SR:!2025-12-16,1,230-->
 
 
 

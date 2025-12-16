@@ -65,16 +65,22 @@ Jedes Artefakt hat ein "Commitment" (Verpflichtung), um Transparenz und Fokus zu
 #### Flashcards
 
 Welche drei Rollen gibt es im Scrum Team? :: Product Owner, Scrum Master, Developers.
+<!--SR:!2025-12-16,1,230-->
 
 Welches Event dient der täglichen Synchronisation des Teams? :: Das **Daily Scrum** (15 Min).
+<!--SR:!2025-12-17,1,230-->
 
 In welchem Event wird das fertige Produkt-Inkrement vorgestellt? :: Im **Sprint Review**.
+<!--SR:!2025-12-17,1,230-->
 
 In welchem Event reflektiert das Team über die Zusammenarbeit und Verbesserungen? :: In der **Sprint Retrospective**.
+<!--SR:!2025-12-16,1,230-->
 
 Wer ist für das Management des Product Backlogs zuständig? :: Der **Product Owner**.
+<!--SR:!2025-12-16,1,230-->
 
 Was ist die Definition of Done (DoD)? :: Eine vereinbarte Liste von Kriterien, die ein Inkrement erfüllen muss, um als "fertig" zu gelten (Qualitätssicherung).
+<!--SR:!2025-12-16,1,230-->
 
 
 

@@ -47,14 +47,19 @@ Frühzeitiges Erkennen von Abweichungen, _bevor_ der Endtermin gerissen wird. "T
 #### Flashcards (Text-Version)
 
 Was visualisiert die Meilensteintrendanalyse (MTA)? :: Die Entwicklung der **Terminprognosen** für Meilensteine über den Projektverlauf.
+<!--SR:!2025-12-16,1,230-->
 
 Was bedeutet eine waagerechte Linie in der MTA? :: Der Termin wird wie geplant eingehalten (Prognose ist stabil).
+<!--SR:!2025-12-16,1,230-->
 
 Was signalisiert eine ansteigende Kurve in der MTA? :: Eine **Terminverzögerung** (der Meilenstein wird später fertig als gedacht).
+<!--SR:!2025-12-17,1,230-->
 
 Welche Achse repräsentiert in der MTA die Berichtszeitpunkte? :: Die **X-Achse** (Horizontale).
+<!--SR:!2025-12-16,1,230-->
 
 Wie wird die MTA umgangssprachlich oft genannt? :: Die **Fieberkurve** des Projekts.
+<!--SR:!2025-12-17,1,230-->
 
 ---
 ### Verwendung

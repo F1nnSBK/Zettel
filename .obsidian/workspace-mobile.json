@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "aaf1c341601fe785",
+    "type": "split",
+    "children": [
+      {
+        "id": "aff49bd4ef573ad8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "486ff4f1c2196449",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c297197f0e9c22c7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f082d4974832a9d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "82bcae96a2f166c5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3990f45732b322fd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "06d3ce94bbbe1279",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "564d082a52ee9872",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ba07631d541adec3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "43637083167579a7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "1ce0bd09c37b3fe2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c8056e947979f977",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "23caa146c2e58bca",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "486ff4f1c2196449",
+  "lastOpenFiles": [
+    "2 - Quellen/quellen.md",
+    "2 - Quellen",
+    "4 - Index/index.md",
+    "4 - Index",
+    "7 - Archiv/archiv.md",
+    "7 - Archiv",
+    "9 - Kanban Boards/Bücher.md",
+    "9 - Kanban Boards/Personal Scrum.md",
+    "9 - Kanban Boards",
+    "5 - Vorlagen/Induktionsbeweis.md",
+    "5 - Vorlagen/Tag.md",
+    "5 - Vorlagen/Note.md",
+    "5 - Vorlagen",
+    "1 - Schnelle Notizen/Cloud Computing/Virtualisierung.md",
+    "1 - Schnelle Notizen/Cloud Computing/Grundlagen.md",
+    "1 - Schnelle Notizen/Cloud Computing",
+    "1 - Schnelle Notizen/SchwatzBot - Ein schwäbischer KI-Chatbot.md",
+    "1 - Schnelle Notizen/Migration von REST zu GraphQL.md",
+    "1 - Schnelle Notizen/Geo-Analytics für regionale Medieninhalte.md",
+    "1 - Schnelle Notizen/Conversational Analytics für interne Prozesse.md",
+    "1 - Schnelle Notizen/Content-Recommender für regionale Artikel.md",
+    "1 - Schnelle Notizen/KI-gestützte Inhaltsanalyse und Themenklassifikation.md",
+    "1 - Schnelle Notizen/Dimension.md",
+    "1 - Schnelle Notizen",
+    "8 - Media/Bilder/klr_elemente.jpeg",
+    "8 - Media/Bilder/kostenstellenrechnung.jpeg",
+    "8 - Media/Bilder/handelskalk.jpeg",
+    "8 - Media/Bilder/Annuität.jpeg",
+    "8 - Media/Bilder/äquivalenzziffern.jpeg",
+    "8 - Media/Bilder/belegwege.jpeg",
+    "8 - Media/Bilder/lineare_regression.png",
+    "8 - Media/Bilder/kostenträgerrechnung.jpeg",
+    "8 - Media/Bilder/bilanz.png",
+    "8 - Media/Bilder/aufwand_kosten.jpeg",
+    "8 - Media/Bilder",
+    "8 - Media",
+    "3 - Tags/Analytische Geometrie.md",
+    "3 - Tags/Grundlagen.md",
+    "3 - Tags/Lineare Algebra.md",
+    "3 - Tags/Mathematik.md",
+    "3 - Tags/Zerlegung.md",
+    "3 - Tags",
+    "6 - Zettel/Kapitalwertmethode.md",
+    "6 - Zettel/Agio.md",
+    "6 - Zettel/Marktkapitalisierung.md",
+    "6 - Zettel/Normen.md"
+  ]
+}

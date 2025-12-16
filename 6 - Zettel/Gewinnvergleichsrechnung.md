@@ -64,7 +64,7 @@ Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
 <!--SR:!2025-12-09,1,230-->
 
 Was sind 3 Probleme der GVR? :: Kurzfristigkeit des Gewinnvergleiches, d.h. Berechnungen sind üblicherweise für ein Jahr, die Zukunft wird nicht betrachtet. Zurechenbarkeit der Erlöse: Wird ein Produkt auf mehreren Maschinen produziert? -> Welche Maschine trägt welchen bei? Nichtberücksichtigung des Kapitaleinsatzes: Die Einbeziehung des Kapitaleinsatzes zeigt erst, inwieweit eine Investition wirklich rentabel ist.
-<!--SR:!2025-12-09,1,232-->
+<!--SR:!2025-12-17,1,212-->
 
 ---
 ### Verwendung
