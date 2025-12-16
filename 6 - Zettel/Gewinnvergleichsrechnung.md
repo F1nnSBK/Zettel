@@ -53,18 +53,6 @@ $𝑅_𝑛$ = Restwert bzw. Liquidationserlös
 Was passiert bei der Gewinnvergleichsrechnung? :: Bei der Gewinnvergleichsrechnung wird der durchschnittlich zu erwartende Gewinn pro Jahr ermittelt und auf dessen Basis entschieden. Ziel ist die **Gewinnmaximierung**.
 <!--SR:!2025-12-11,3,250-->
 
-Wie berechnet man den kalk. Zins?
-?
-$$
-Kalkulatorische\space Zinskosten = durchschnittlich\space eingesetztes\space Kapital \cdot Kapitalkostensatz
-$$
-
-Wie berechnet man das durchschnittlich investierte Kapital?
-?
-$$
-Durchschnittlich\space investiertes\space Kapital = \frac{Anfangsinvestition + Restwert}{2}
-$$
-
 Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
 ?
 1. **Erlöse** ermitteln ($x \cdot p$).
@@ -76,7 +64,7 @@ Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
 <!--SR:!2025-12-09,1,230-->
 
 Was sind 3 Probleme der GVR? :: Kurzfristigkeit des Gewinnvergleiches, d.h. Berechnungen sind üblicherweise für ein Jahr, die Zukunft wird nicht betrachtet. Zurechenbarkeit der Erlöse: Wird ein Produkt auf mehreren Maschinen produziert? -> Welche Maschine trägt welchen bei? Nichtberücksichtigung des Kapitaleinsatzes: Die Einbeziehung des Kapitaleinsatzes zeigt erst, inwieweit eine Investition wirklich rentabel ist.
-<!--SR:!2025-12-09,1,232-->
+<!--SR:!2025-12-17,1,212-->
 
 ---
 ### Verwendung

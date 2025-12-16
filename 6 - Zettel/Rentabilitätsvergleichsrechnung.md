@@ -18,7 +18,7 @@ $$
 #### Entscheidungsmöglichkeiten
 1. Investition oder Nicht-Investition
    Wenn die durchschnittliche [[Rentabilität]] einer Investition größer ist als die Mindestverzinsung (oder Kapitalkosten) -> :: Investition tätigen.
-<!--SR:!2025-12-12,4,270-->
+<!--SR:!2025-12-18,2,250-->
 2. Investition in A und B
    Wenn die durchschnittliche [[Rentabilität]] einer Investition A höher sind als die einer Alternative B und höher als die Kapitalkosten -> :: investiere in A.
 <!--SR:!2025-12-12,4,270-->
@@ -36,7 +36,7 @@ Nenne 2 Probleme der Rentabilitätsvergleichsrechnung.
 ?
 1. **Zeitraum-Problem:** Bei unterschiedlichen Laufzeiten wird unterstellt, dass die Rentabilität auch im Differenzzeitraum (Wiederanlage) erzielt werden kann.
 2. **Kapital-Problem:** Bei unterschiedlichen Investitionssummen wird unterstellt, dass der Differenzbetrag (beim günstigeren Projekt) zur *gleichen* hohen Rentabilität angelegt werden kann (unrealistisch).
-<!--SR:!2025-12-09,1,234-->
+<!--SR:!2025-12-17,1,214-->
 
 ---
 ### Verwendung

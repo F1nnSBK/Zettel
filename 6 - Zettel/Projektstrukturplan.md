@@ -48,14 +48,19 @@ _(In der Praxis oft gemischt: Ebene 1 nach Phasen, Ebene 2 nach Objekten)._
 #### Flashcards
 
 Was ist die Hauptaufgabe des Projektstrukturplans (PSP)? :: Er zerlegt den gesamten Projektumfang hierarchisch in planbare Teilaufgaben und Arbeitspakete.
+<!--SR:!2025-12-16,1,230-->
 
 Was befindet sich auf der untersten Ebene des PSP? :: Die **Arbeitspakete**.
+<!--SR:!2025-12-16,1,230-->
 
 Nach welchen zwei Hauptprinzipien kann ein PSP gegliedert werden? :: **Funktionsorientiert** (nach Tätigkeiten/Phasen) oder **Objektorientiert** (nach Gegenständen/Bauteilen).
+<!--SR:!2025-12-17,1,230-->
 
 Wofür bilden Arbeitspakete die Grundlage? :: Für die Termin- und Kostenplanung sowie die Fortschrittskontrolle.
+<!--SR:!2025-12-16,1,230-->
 
 Wie kann der PSP zum Risikomanagement beitragen? :: Durch die Definition von **optionalen Arbeitspaketen**, die als Manövriermasse (Puffer) dienen können.
+<!--SR:!2025-12-16,1,230-->
 
 
 ---

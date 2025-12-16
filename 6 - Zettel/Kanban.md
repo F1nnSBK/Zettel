@@ -48,14 +48,19 @@ _(Hinweis: Kanban eignet sich auch hervorragend für "komplexe" Umfelder mit ste
 #### Flashcards
 
 Wofür steht WiP in Kanban? :: **Work in Progress** (Laufende Arbeit).
+<!--SR:!2025-12-17,1,230-->
 
 Warum limitiert man den WiP? :: Um **Multitasking** zu verhindern und Staus (Bottlenecks) sofort sichtbar zu machen ("Stop starting, start finishing").
+<!--SR:!2025-12-16,1,230-->
 
 Welches Prinzip gilt in Kanban für die Arbeitsaufnahme: Push oder Pull? :: **Pull** (Arbeit wird gezogen, wenn Platz ist).
+<!--SR:!2025-12-16,1,230-->
 
 Wann ist Kanban besonders geeignet (im Vergleich zu Scrum)? :: Bei Aufgaben mit **kontinuierlichem Eingang** (z.B. Support, Wartung) oder wenn Flexibilität wichtiger ist als Planungssicherheit.
+<!--SR:!2025-12-16,1,230-->
 
 Welche Methode empfiehlt die Stacey-Matrix für "chaotische" Situationen? :: Einfaches Handeln ("Act-Sense-Respond"), oft unterstützt durch Kanban-Boards zur Übersicht.
+<!--SR:!2025-12-16,1,230-->
 
 
 ---

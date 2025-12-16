@@ -55,16 +55,22 @@ Das zentrale Dokument. Es enthält: ID, Beschreibung, Wahrscheinlichkeit, Auswir
 #### Flashcards
 
 Was ist der Unterschied zwischen einem Risiko und einem Problem? :: Ein Risiko ist **unsicher** (Wahrscheinlichkeit < 100%), ein Problem ist eine bereits eingetretene Tatsache (100%).
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel zur Berechnung des Risikowertes (monetär)? :: Eintrittswahrscheinlichkeit $\times$ Schadenshöhe (Kosten).
+<!--SR:!2025-12-16,1,230-->
 
 Welche Strategie wählt man, wenn man eine Versicherung abschließt? :: **Übertragen** (Transfer).
+<!--SR:!2025-12-16,1,230-->
 
 Welche Strategie wählt man, wenn man den Projektplan ändert, um eine Gefahr komplett zu umgehen? :: **Vermeiden** (Avoid).
+<!--SR:!2025-12-17,1,230-->
 
 Welche Strategie wählt man, wenn die Kosten der Gegenmaßnahme höher wären als der mögliche Schaden? :: **Akzeptieren** (Accept).
+<!--SR:!2025-12-16,1,230-->
 
 Was sind die beiden Dimensionen der Risikomatrix? :: Eintrittswahrscheinlichkeit und Auswirkung (Schadenshöhe).
+<!--SR:!2025-12-17,1,230-->
 
 
 

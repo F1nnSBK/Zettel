@@ -27,7 +27,7 @@ Unterscheide kalkulatorische und bilanzielle Abschreibungen voneinander.
 1. **Basiswert:** Bilanzielle nutzt *historische Anschaffungskosten* (Nominalkapitalerhaltung), Kalkulatorische nutzt *Wiederbeschaffungswert* (Substanzerhaltung).
 2. **Nutzungsdauer:** Bilanzielle nutzt *AfA-Tabellen* (pauschal/steuerlich), Kalkulatorische nutzt *tatsächliche betriebliche Nutzungsdauer* (realistisch).
 3. **Restwert:** Bilanzielle schreibt meist auf 0€ (oder 1€ Erinnerungswert) ab, Kalkulatorische zieht einen erwarteten *Schrottwerterlös* von der Basis ab.
-<!--SR:!2025-12-09,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 ---
 ### Verwendung

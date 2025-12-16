@@ -71,18 +71,25 @@ $$ETC = EAC - AC$$
 Wie berechnet sich der Earned Value (EV) eines Projekts?
 ?
 $$EV = \text{Gesamtbudget (BAC)} \cdot \text{Fortschrittsgrad (\%completed)}$$
+<!--SR:!2025-12-16,1,230-->
 
 Wie berechnet sich die Kostenabweichung (CV)? :: $CV = EV - AC$ (Earned Value minus Actual Cost).
+<!--SR:!2025-12-16,1,230-->
 
 Was sagt ein negativer SV-Wert aus ($SV < 0$)? :: Das Projekt hinkt dem Zeitplan hinterher (Behind Schedule).
+<!--SR:!2025-12-16,1,230-->
 
 Wie lautet die Formel für den CPI (Cost Performance Index)? :: $CPI = EV / AC$.
+<!--SR:!2025-12-16,1,230-->
 
 Was bedeutet $CPI > 1$? :: Das Projekt liegt unter dem Budget (kostengünstiger als geplant).
+<!--SR:!2025-12-16,1,230-->
 
 Wie prognostiziert man die Gesamtkosten (EAC), wenn der aktuelle Trend anhält? :: $EAC = BAC / CPI$.
+<!--SR:!2025-12-17,1,230-->
 
 Wofür steht die Abkürzung PV? :: Planned Value (Geplanter Wert zum Stichtag).
+<!--SR:!2025-12-16,1,230-->
 
 
 ---
