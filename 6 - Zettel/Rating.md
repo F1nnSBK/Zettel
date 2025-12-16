@@ -59,6 +59,7 @@ Was versteht man unter "Investment Grade"? :: Ratingklassen (ab BBB- aufwärts),
 Wie werden Anleihen im "Non-Investment Grade" Bereich auch genannt? :: **High Yield Bonds** (Hochzinsanleihen) oder umgangssprachlich **Junk Bonds** (Ramschanleihen).
 
 Welche Auswirkung hat eine Verschlechterung des Ratings (Downgrade) auf die Kapitalkosten? :: Die Kapitalkosten steigen, da der **Credit Spread** (Risikoprämie) steigt und oft auch der Aktienkurs fällt.
+<!--SR:!2025-12-17,1,230-->
 
 In welche zwei Kategorien werden die Rating-Faktoren unterteilt? :: **Quantitative Faktoren** (Bilanzkennzahlen) und **Qualitative Faktoren** (Management, Markt, Strategie).
 

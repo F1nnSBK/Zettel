@@ -49,8 +49,10 @@ Wenn das Unternehmen **nicht wächst** ($g=0$), entspricht die **Dividendenrendi
 #### Flashcards
 
 Wer beschließt die Höhe der Dividende? :: Die **Hauptversammlung** der Aktionäre (auf Vorschlag von Vorstand/Aufsichtsrat).
+<!--SR:!2025-12-17,1,230-->
 
 Was passiert am "Ex-Dividende"-Tag mit dem Aktienkurs? :: Der Kurs sinkt rechnerisch um die Höhe der Dividende (**Dividendenabschlag**), da das Vermögen das Unternehmen verlässt.
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel für die Dividendenrendite?
 ?
@@ -63,6 +65,7 @@ Wie lautet die Formel für die Ausschüttungsquote?
 $$\text{Ausschüttungsquote} = \frac{\text{Dividende je Aktie (DPS)}}{\text{Gewinn je Aktie (EPS)}}$$
 
 Warum haben Wachstumsunternehmen (Tech) oft eine niedrige Dividendenrendite? :: Weil sie Gewinne lieber reinvestieren ([[Thesaurierung]]), um weiteres Wachstum zu finanzieren, statt sie auszuschütten.
+<!--SR:!2025-12-17,1,230-->
 
 Ein Unternehmen zahlt 2 € Dividende bei einem Gewinn von 4 € pro Aktie. Wie hoch ist die Ausschüttungsquote? :: 50 %.
 

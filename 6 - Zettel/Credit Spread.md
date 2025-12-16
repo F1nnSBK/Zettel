@@ -42,18 +42,23 @@ Der Spread ist nicht statisch (Volatilität!). Er wird beeinflusst durch:
 #### Flashcards
 
 Was ist der Credit Spread? :: Die Differenz (Aufschlag) zwischen der Rendite eines risikobehafteten Titels und dem **risikofreien Zinssatz**.
+<!--SR:!2025-12-17,1,230-->
 
 Wofür entschädigt der Credit Spread den Investor? :: Für das **Bonitätsrisiko** (Kreditrisiko/Ausfallrisiko) des Schuldners.
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel für den Unternehmenszins unter Einbeziehung des Spreads?
 ?
 $$\text{Zins} = \text{Risk Free Rate} + \text{Credit Spread}$$
 
 Was sind "Basispunkte" (bps)? :: Eine Maßeinheit für Zinsdifferenzen. $1 \text{ bp} = 0,01\%$.
+<!--SR:!2025-12-17,1,230-->
 
 Wieviel Prozent sind 250 Basispunkte (bps)? :: **2,50 %**.
+<!--SR:!2025-12-17,1,230-->
 
 Wie verhalten sich Credit Spreads typischerweise in Wirtschaftskrisen? :: Sie weiten sich aus (steigen), da die Risikoscheu der Investoren zunimmt.
+<!--SR:!2025-12-17,1,230-->
 
 ---
 ### Verwendung

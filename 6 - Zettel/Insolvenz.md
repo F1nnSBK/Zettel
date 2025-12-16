@@ -47,6 +47,7 @@ Ab wann gilt ein Unternehmen in der Regel als zahlungsunfähig (Faustregel BGH)?
 Welcher Insolvenzgrund betrifft speziell Kapitalgesellschaften (z.B. GmbH), nicht aber Einzelunternehmen? :: Die [[Überschuldung]] (§ 19 InsO).
 
 Was besagt die "Positive Fortführungsprognose" im Kontext der Überschuldung? :: Dass trotz rechnerischer Überschuldung (negatives EK) kein Insolvenzantrag gestellt werden muss, wenn die Finanzkraft für die nächsten 12 Monate gesichert scheint.
+<!--SR:!2025-12-17,1,230-->
 
 Bei welchem Insolvenzgrund besteht ein Wahlrecht zur Antragstellung (keine Pflicht)? :: Bei der **drohenden Zahlungsunfähigkeit** (§ 18 InsO).
 

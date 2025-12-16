@@ -21,7 +21,7 @@ $$
 <!--SR:!2025-12-18,2,250-->
 2. Investition in A und B
    Wenn die durchschnittliche [[Rentabilität]] einer Investition A höher sind als die einer Alternative B und höher als die Kapitalkosten -> :: investiere in A.
-<!--SR:!2025-12-12,4,270-->
+<!--SR:!2025-12-18,2,250-->
 
 
 #### Entscheidungskriterium

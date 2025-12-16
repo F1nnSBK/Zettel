@@ -99,10 +99,12 @@ _Frage aus den Notizen:_ **"Welchen Gewinn erzielt das Unternehmen durch steigen
 #### Flashcards
 
 Welche drei Gruppen von Rechten verbrieft eine Aktie? :: Vermögensrechte (Dividende), Verwaltungsrechte (Stimmrecht), Informationsrechte (Auskunft).
+<!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen Inhaber- und Namensaktien bezüglich der Übertragung? :: **Inhaberaktien** werden durch Einigung und Übergabe (anonym) übertragen, **Namensaktien** erfordern zusätzlich eine Umschreibung im Aktienregister der AG.
 
 Was ist eine vinkulierte Namensaktie? :: Eine Namensaktie, die nur mit **Zustimmung der Gesellschaft** übertragen werden darf (Vinkulierung = Fesselung).
+<!--SR:!2025-12-17,1,230-->
 
 Was unterscheidet Stammaktien von Vorzugsaktien? :: **Stammaktien** haben Stimmrecht. **Vorzugsaktien** haben _kein_ Stimmrecht, erhalten dafür aber eine höhere Dividende.
 

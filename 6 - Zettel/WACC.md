@@ -44,6 +44,7 @@ $$WACC = \frac{EK}{GK} \cdot r_{EK} + \frac{FK}{GK} \cdot r_{FK}$$
 Warum muss der Term $(1-s)$ bei den Fremdkapitalkosten berücksichtigt werden? :: Weil Fremdkapitalzinsen steuerlich absetzbar sind (Betriebsausgaben) und somit die effektive Steuerlast senken (**Tax Shield**).
 
 Warum ist $r_{EK}$ in der Regel höher als $r_{FK}$? :: Weil Eigenkapitalgeber ein höheres Risiko tragen (Haftung, Unsicherheit) und dafür eine **Risikoprämie** verlangen.
+<!--SR:!2025-12-17,1,230-->
 
 Was sagt der WACC aus Investitionssicht aus? :: Er ist die **Mindestrendite** (Hurdle Rate), die eine Investition erwirtschaften muss, um für das Unternehmen wertsteigernd zu sein.
 

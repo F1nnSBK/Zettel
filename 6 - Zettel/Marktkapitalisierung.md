@@ -49,6 +49,7 @@ Unternehmen nutzen überschüssige Liquidität oft, um Aktien über die Börse z
 #### Flashcards
 
 Wie berechnet sich die Marktkapitalisierung? :: Aktienkurs $\times$ Anzahl der ausstehenden Aktien.
+<!--SR:!2025-12-17,1,230-->
 
 Werden "Eigene Aktien" (Treasury Shares) bei der Berechnung der Marktkapitalisierung berücksichtigt? :: Nein, nur die **ausstehenden** (im Umlauf befindlichen) Aktien zählen.
 

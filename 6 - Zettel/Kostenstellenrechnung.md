@@ -82,6 +82,7 @@ Was ist die Hauptaufgabe der Kostenstellenrechnung? :: Die Verteilung der Gemein
 Was passiert bei der "Primärkostenverteilung" im BAB? :: Gemeinkosten werden entweder direkt (Belege) oder indirekt (Schlüssel) auf die Kostenstellen verteilt.
 
 Was ist das Ziel der "Sekundärkostenverrechnung"? :: Die Kosten der **Hilfskostenstellen** auf die Hauptkostenstellen umzulegen (Hilfskostenstellen sind danach auf 0).
+<!--SR:!2025-12-17,1,230-->
 
 Welches Verfahren der innerbetrieblichen Leistungsverrechnung ist mathematisch am genauesten? :: Das **Gleichungsverfahren** (berücksichtigt gegenseitigen Leistungsaustausch und Eigenverbrauch).
 
@@ -90,6 +91,7 @@ Wie lautet der mathematische Ansatz beim Gleichungsverfahren für eine Kostenste
 Auf welcher Basis werden Gemeinkostenzuschlagssätze im BAB berechnet? :: Als prozentualer Aufschlag auf die **Einzelkosten** der jeweiligen Hauptkostenstelle.
 
 Nenne drei Beispiele für Mengenschlüssel zur Kostenverteilung. :: Quadratmeter (Miete), Mitarbeiterzahl (Kantine), Maschinenstunden (Energie/Abschreibung).
+<!--SR:!2025-12-17,1,230-->
 
 Woran erkennt man im BAB, dass die Sekundärkostenverrechnung abgeschlossen ist? :: Die Summe der Kosten in den **Hilfskostenstellen** ist Null.
 

@@ -29,8 +29,10 @@ Was ist der Nominalzins (Sollzins)? :: Das reine Entgelt für die Kapitalüberla
 Wofür steht die Abkürzung "p.a."? :: Per annum (pro Jahr).
 
 Aus welchen vier Komponenten setzt sich der Nominalzins kalkulatorisch zusammen? :: Refinanzierungskosten, Betriebskosten, Risikokosten (Risikoprämie) und Gewinnmarge.
+<!--SR:!2025-12-17,1,230-->
 
 Welche Kostenkomponente des Nominalzinses ist direkt von der Bonität des Kunden abhängig? :: Die **Risikokosten** (Risikozuschlag).
+<!--SR:!2025-12-17,1,230-->
 
 Unterschied Nominalzins vs. Effektivzins? :: Der Nominalzins ist die Rechenbasis für die Zinszahlung, der Effektivzins enthält alle Preiskomponenten (Gebühren, Disagio) als Vergleichsgröße.
 

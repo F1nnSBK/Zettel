@@ -69,6 +69,7 @@ Was ist der Zweck des **Anhangs** im Jahresabschluss? :: Er erläutert die angew
 Wo wird der Geschäftsverlauf, Risiken und die Prognose dargestellt? :: Im **Lagebericht** (gehört nicht streng zum JA, wird aber zusammen geprüft).
 
 Was zeigt die **Aktivseite** der Bilanz an? :: Die **Mittelverwendung** ("Wo steckt das Geld?", z.B. in Maschinen oder Vorräten).
+<!--SR:!2025-12-17,1,230-->
 
 Was zeigt die **Passivseite** der Bilanz an? :: Die **Mittelherkunft** ("Woher kommt das Geld?", z.B. von Eigentümern oder Banken).
 
@@ -84,10 +85,13 @@ $$AK = \text{Anschaffungspreis (netto)} + \text{Nebenkosten} + \text{nachtr. AK}
 Wie wird eine **planmäßige Abschreibung** berechnet (lineare Methode)?
 ?
 $$\frac{\text{Anschaffungskosten}}{\text{Nutzungsdauer (Jahre)}}$$
+<!--SR:!2025-12-17,1,230-->
 
 Wann muss **außerplanmäßig** abgeschrieben werden? :: Bei einer voraussichtlich **dauerhaften Wertminderung** (Niederstwertprinzip).
+<!--SR:!2025-12-17,1,230-->
 
 Was versteht man unter dem **Realisationsprinzip** bezüglich der Umsatzerlöse? :: Gewinne dürfen erst ausgewiesen werden, wenn die Leistung erbracht ist (**Gefahrenübergang**), nicht schon bei Vertragsabschluss oder Zahlung.
+<!--SR:!2025-12-17,1,230-->
 
 Welche drei Bereiche unterscheidet die Kapitalflussrechnung?
 ?
@@ -96,6 +100,7 @@ Welche drei Bereiche unterscheidet die Kapitalflussrechnung?
 3. **Finanzierungs-Cashflow** (Aufnahme/Tilgung von Krediten, Dividenden)
 
 Was indiziert ein positiver **Operativer Cashflow**? :: Die **Innenfinanzierungskraft** des Unternehmens (Fähigkeit, aus dem Kerngeschäft Geld zu generieren).
+<!--SR:!2025-12-17,1,230-->
 
 ---
 ### Verwendung

@@ -24,6 +24,7 @@ Eine **Kreditlinie** (Credit Line / Facility) ist ein Kreditrahmen, bis zu desse
 #### Flashcards
 
 Was ist eine Kreditlinie (Kontokorrentkredit)? :: Ein eingeräumter Kreditrahmen, der flexibel bis zu einer Obergrenze in Anspruch genommen werden kann.
+<!--SR:!2025-12-17,1,230-->
 
 Was bedeutet es, wenn eine Kreditlinie "valutiert" ist? :: Dass der Kreditrahmen tatsächlich genutzt (gezogen) wurde; auf diesen Teil fallen Zinsen an.
 

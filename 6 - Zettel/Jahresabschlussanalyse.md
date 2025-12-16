@@ -61,14 +61,17 @@ Wie effizient wird das Kapital gebunden?
 #### Flashcards
 
 Was ist der Zweck der Kennzahl **EBIT**? :: Sie zeigt die Stärke des **operativen Kerngeschäfts** eines Unternehmens, da sie von Zinsen und Steuern unabhängig ist.
+<!--SR:!2025-12-17,1,230-->
 
 Was zeigt das **EBITDA** an und wofür wird es als Proxy verwendet? :: Es zeigt die Ertragskraft vor Zinsen, Steuern und Abschreibungen (DA) und dient als Näherungswert für den **operativen Cashflow**.
 
 Wie lautet die Formel zur Berechnung der Umsatzrendite (ROS)?
 ?
 $$ \text{Umsatzrendite} = \frac{\text{Jahresüberschuss}}{\text{Umsatzerlöse}} \cdot 100$$
+<!--SR:!2025-12-17,1,230-->
 
 Was ist die primäre Aussage der **Eigenkapitalrentabilität (RoE)**? :: Sie misst die **Verzinsung** des von den Eigentümern eingesetzten Kapitals.
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel zur Berechnung des Zinsdeckungsgrades (Interest Coverage)?
 ?
@@ -87,6 +90,7 @@ Was misst der **Cash Conversion Cycle (CCC)**? :: Die Dauer in Tagen, bis aus ei
 Welche der drei Working Capital Kennzahlen (DIO, DRO, DPO) sollte **lang** sein, um die Liquidität zu verbessern? :: **DPO** (Days Payables Outstanding), da die Zahlungsfrist an die Lieferanten verlängert wird.
 
 Was bedeutet ein kurzer **DIO** (Days Inventory Outstanding)? :: Die Lagerdauer ist kurz, d.h., das Unternehmen hat wenig Kapital im **Lager** gebunden.
+<!--SR:!2025-12-17,1,230-->
 
 
 ---

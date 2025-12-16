@@ -26,8 +26,10 @@ Das Ergebnis der Bonitätsprüfung wird in einem **Score** (bei Privatpersonen, 
 Was versteht man unter Bonität? :: Die **Fähigkeit** und **Bereitschaft** eines Schuldners, Zahlungsverpflichtungen fristgerecht zu erfüllen.
 
 In welche zwei Dimensionen wird die Bonität unterteilt? :: **Wirtschaftliche** Kreditwürdigkeit (Fähigkeit/Hard Facts) und **Persönliche** Kreditwürdigkeit (Wille/Soft Facts).
+<!--SR:!2025-12-17,1,230-->
 
 Welchen Einfluss hat die Bonität auf die Finanzierungskosten? :: Je besser die Bonität, desto geringer das Ausfallrisiko und desto **niedriger** der Zinssatz (geringerer Risikozuschlag).
+<!--SR:!2025-12-17,1,230-->
 
 Was ist das Ergebnis einer Bonitätsprüfung bei Unternehmen? :: Ein [[Rating]].
 

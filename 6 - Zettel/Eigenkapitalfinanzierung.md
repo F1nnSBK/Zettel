@@ -62,6 +62,7 @@ Eigenkapital ist nicht kostenlos!
 #### Flashcards
 
 Was unterscheidet einen Business Angel primär von einer Venture Capital Gesellschaft (Kapitalherkunft)? :: **Business Angels** investieren eigenes Privatvermögen, **VC-Gesellschaften** verwalten und investieren Fondsvermögen Dritter.
+<!--SR:!2025-12-17,1,230-->
 
 In welcher Unternehmensphase steigen Business Angels typischerweise ein? :: In der **Early Stage** (Gründungs- oder Seed-Phase).
 

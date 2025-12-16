@@ -35,8 +35,10 @@ Hier gilt ein striktes Verbot.
 #### Flashcards
 
 Was ist ein Disagio (Abgeld)? :: Der Betrag, um den die Auszahlung eines Kredits/Anleihe unter dem Rückzahlungsbetrag (Nennwert) liegt.
+<!--SR:!2025-12-17,1,230-->
 
 Wie wirkt sich ein Disagio auf den Effektivzins eines Darlehens aus? :: Es **erhöht** den Effektivzins, da der Kreditnehmer weniger Geld erhält als er zurückzahlen muss.
+<!--SR:!2025-12-17,1,230-->
 
 Ist die Ausgabe von Aktien mit einem Disagio (unter Nennwert) erlaubt? :: Nein, das ist gemäß § 9 AktG **verboten**.
 

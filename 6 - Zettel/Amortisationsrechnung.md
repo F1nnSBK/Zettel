@@ -29,6 +29,7 @@ Die Methode prüft, wie schnell das Investitionsrisiko eliminiert ist (Break-Eve
 #### Flashcards (Exam Drill)
 
 Welches Hauptziel verfolgt die Amortisationsrechnung? :: Die Beurteilung des **Risikos** (Risikozeitspanne) und der Liquidität.
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Entscheidungsregel bei der Auswahl zwischen zwei Alternativen (Amortisation)? :: Wähle die Alternative mit der **kürzesten** Amortisationszeit.
 
