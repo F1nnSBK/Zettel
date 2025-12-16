@@ -53,18 +53,6 @@ $𝑅_𝑛$ = Restwert bzw. Liquidationserlös
 Was passiert bei der Gewinnvergleichsrechnung? :: Bei der Gewinnvergleichsrechnung wird der durchschnittlich zu erwartende Gewinn pro Jahr ermittelt und auf dessen Basis entschieden. Ziel ist die **Gewinnmaximierung**.
 <!--SR:!2025-12-11,3,250-->
 
-Wie berechnet man den kalk. Zins?
-?
-$$
-Kalkulatorische\space Zinskosten = durchschnittlich\space eingesetztes\space Kapital \cdot Kapitalkostensatz
-$$
-
-Wie berechnet man das durchschnittlich investierte Kapital?
-?
-$$
-Durchschnittlich\space investiertes\space Kapital = \frac{Anfangsinvestition + Restwert}{2}
-$$
-
 Vorgehensweise Gewinnvergleichsrechnung (Algorithmus)
 ?
 1. **Erlöse** ermitteln ($x \cdot p$).
