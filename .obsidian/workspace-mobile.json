@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0203eb92e403e552",
+        "id": "1061d229f248cc3c",
         "type": "tabs",
         "children": [
           {
-            "id": "33749f5ef6bbe5e9",
+            "id": "763affd9be656621",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "33749f5ef6bbe5e9",
+  "active": "763affd9be656621",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "2 - Quellen/quellen.md",
