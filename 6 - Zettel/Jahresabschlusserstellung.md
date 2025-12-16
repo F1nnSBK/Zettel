@@ -63,6 +63,7 @@ Welche fünf Bestandteile umfasst der Jahresabschluss einer großen Kapitalgesel
 3. **Anhang** (Erläuterungen)
 4. **Lagebericht** (Geschäftsverlauf & Prognose)
 5. **Kapitalflussrechnung** (Geldströme)
+<!--SR:!2025-12-17,1,216-->
 
 Was ist der Zweck des **Anhangs** im Jahresabschluss? :: Er erläutert die angewandten Bilanzierungs- und Bewertungsmethoden (z.B. wie abgeschrieben wurde).
 <!--SR:!2025-12-17,1,222-->
@@ -77,8 +78,10 @@ Was zeigt die **Passivseite** der Bilanz an? :: Die **Mittelherkunft** ("Woher k
 <!--SR:!2025-12-17,1,222-->
 
 Was ist das Unterscheidungsmerkmal zwischen **Anlagevermögen (AV)** und **Umlaufvermögen (UV)**? :: Das AV dient dem Betrieb **dauerhaft**, das UV ist für den kurzfristigen Verbrauch oder Verkauf bestimmt.
+<!--SR:!2025-12-17,1,216-->
 
 Was ist der Unterschied zwischen einer Rückstellung und einer Verbindlichkeit? :: Verbindlichkeiten sind sicher in Höhe und Zeitpunkt; Rückstellungen sind **ungewiss** (z.B. für drohende Prozesse), zählen aber zum Fremdkapital.
+<!--SR:!2025-12-17,1,216-->
 
 Wie lautet das Berechnungsschema für Anschaffungskosten (AK) nach § 255 HGB?
 ?

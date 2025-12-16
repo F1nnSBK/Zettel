@@ -39,6 +39,7 @@ Wann wird die vereinfachte Amortisationsformel ($I_0 / C$) angewendet? :: Nur be
 <!--SR:!2025-12-17,1,226-->
 
 Welches Entscheidungskriterium gilt bei der Amortisationsrechnung im Vergleich zweier Projekte? :: Wähle das Projekt mit der kürzeren Amortisationszeit.
+<!--SR:!2025-12-17,1,224-->
 
 Was ist der gravierendste Nachteil der Amortisationsrechnung? :: Sie ignoriert alle Zahlungsströme, die nach dem Amortisationszeitpunkt anfallen (und trifft keine Aussage über die Gesamtrentabilität).
 <!--SR:!2025-12-17,1,230-->

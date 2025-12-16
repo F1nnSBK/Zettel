@@ -143,6 +143,7 @@ Ist das Angebot gewinnbringend bei 45% Ziel-Handelsspanne?
 #### Flashcards
 
 Was ist die zentrale Frage der Kostenträgerrechnung? :: **Wofür** sind die Kosten angefallen? (Ermittlung der Stückkosten).
+<!--SR:!2025-12-17,1,219-->
 
 Nenne drei Aufgaben der Kostenträgerrechnung. :: Preispolitik (Preisuntergrenzen), Bewertung (Bilanzansatz Vorräte), Planung & Kontrolle (Soll-Ist-Vergleich), Erfolgsermittlung.
 <!--SR:!2025-12-17,1,226-->
@@ -151,6 +152,7 @@ Auf welche Menge beziehen sich die Herstellkosten? :: Auf die **produzierte** Me
 <!--SR:!2025-12-17,1,226-->
 
 Auf welche Menge beziehen sich die Selbstkosten (und Vertriebskosten)? :: Auf die **verkaufte** Menge ($x_a$).
+<!--SR:!2025-12-17,1,219-->
 
 Wann wendet man die Äquivalenzziffernkalkulation an? :: Bei **Sortenfertigung** (artverwandte Produkte, die sich nur in Größe/Material unterscheiden, z.B. Bier, Ziegel).
 <!--SR:!2025-12-17,1,230-->
@@ -164,6 +166,7 @@ $$\text{Zuschlagssatz} = \frac{\text{Gemeinkosten}}{\text{Einzelkosten}} \cdot 1
 <!--SR:!2025-12-17,1,226-->
 
 Was ist die Bezugsbasis für den Materialgemeinkostenzuschlag? :: Das **Fertigungsmaterial** (Materialeinzelkosten).
+<!--SR:!2025-12-17,1,219-->
 
 Was ist die Bezugsbasis für den Verwaltungsgemeinkostenzuschlag? :: Die **Herstellkosten** (des Umsatzes).
 <!--SR:!2025-12-17,1,226-->
@@ -171,10 +174,12 @@ Was ist die Bezugsbasis für den Verwaltungsgemeinkostenzuschlag? :: Die **Herst
 Wie lautet die Formel für die Handelsspanne?
 ?
 $$HS = \frac{\text{Verkaufspreis} - \text{Einstandspreis}}{\text{Verkaufspreis}} \cdot 100$$
+<!--SR:!2025-12-17,1,219-->
 
 Wie lautet die Formel für den Kalkulationszuschlag?
 ?
 $$KZ = \frac{\text{Verkaufspreis} - \text{Einstandspreis}}{\text{Einstandspreis}} \cdot 100$$
+<!--SR:!2025-12-17,1,219-->
 
 Wie hängen Kalkulationsfaktor (KF) und Kalkulationszuschlag (KZ) zusammen? :: $KF = 1 + KZ$ (als Dezimalzahl). Beispiel: $KZ = 50\% \rightarrow KF = 1,5$.
 <!--SR:!2025-12-17,1,226-->

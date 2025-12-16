@@ -78,18 +78,22 @@ Die 0,26 € werden nun mit dem Verbrauch der anderen Stellen multipliziert (z.B
 #### Flashcards
 
 Was ist die Hauptaufgabe der Kostenstellenrechnung? :: Die Verteilung der Gemeinkosten auf den Ort ihrer Entstehung und die Ermittlung von Zuschlagssätzen.
+<!--SR:!2025-12-17,1,222-->
 
 Was passiert bei der "Primärkostenverteilung" im BAB? :: Gemeinkosten werden entweder direkt (Belege) oder indirekt (Schlüssel) auf die Kostenstellen verteilt.
+<!--SR:!2025-12-17,1,222-->
 
 Was ist das Ziel der "Sekundärkostenverrechnung"? :: Die Kosten der **Hilfskostenstellen** auf die Hauptkostenstellen umzulegen (Hilfskostenstellen sind danach auf 0).
 <!--SR:!2025-12-17,1,230-->
 
 Welches Verfahren der innerbetrieblichen Leistungsverrechnung ist mathematisch am genauesten? :: Das **Gleichungsverfahren** (berücksichtigt gegenseitigen Leistungsaustausch und Eigenverbrauch).
+<!--SR:!2025-12-17,1,222-->
 
 Wie lautet der mathematische Ansatz beim Gleichungsverfahren für eine Kostenstelle? :: $\text{Primärkosten} + \text{Sekundärkosten} = \text{Gesamtleistung} \times \text{Verrechnungspreis}$.
 <!--SR:!2025-12-17,1,226-->
 
 Auf welcher Basis werden Gemeinkostenzuschlagssätze im BAB berechnet? :: Als prozentualer Aufschlag auf die **Einzelkosten** der jeweiligen Hauptkostenstelle.
+<!--SR:!2025-12-17,1,222-->
 
 Nenne drei Beispiele für Mengenschlüssel zur Kostenverteilung. :: Quadratmeter (Miete), Mitarbeiterzahl (Kantine), Maschinenstunden (Energie/Abschreibung).
 <!--SR:!2025-12-17,1,230-->

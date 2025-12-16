@@ -35,8 +35,10 @@ Nenne die drei Eckpunkte des "Magischen Dreiecks" der Geldanlage. :: Liquidität
 <!--SR:!2025-12-17,1,230-->
 
 Welche Beziehung besteht zwischen Rentabilität und Liquidität? :: Ein **Zielkonflikt**: Hohe Liquidität (Cash) erwirtschaftet keine Rendite (Opportunitätskosten).
+<!--SR:!2025-12-17,1,225-->
 
 Welche Beziehung besteht zwischen Rentabilität und Sicherheit? :: Ein **Zielkonflikt** (Trade-off): Höhere Renditeerwartungen gehen fast immer mit höherem Risiko einher.
+<!--SR:!2025-12-17,1,225-->
 
 Welche Beziehung besteht zwischen Liquidität und Sicherheit? :: Eine **Zielharmonie**: Hohe Liquidität senkt das Insolvenzrisiko und erhöht damit die Sicherheit des Unternehmens.
 <!--SR:!2025-12-17,1,228-->

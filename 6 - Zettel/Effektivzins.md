@@ -52,6 +52,7 @@ $$i_{eff} \approx \frac{Z + \frac{D}{n}}{A} \cdot 100$$
 #### Flashcards
 
 Was drückt der Effektivzins aus? :: Die tatsächlichen jährlichen Gesamtkosten eines Kredits (Vergleichsgröße für Kreditangebote).
+<!--SR:!2025-12-17,1,226-->
 
 Warum ist der Effektivzins bei einem Disagio höher als der Nominalzins? :: Weil das Disagio (Auszahlungsabschlag) wie eine zusätzliche Zinszahlung wirkt, die auf die Laufzeit umgelegt wird.
 <!--SR:!2025-12-17,1,230-->
@@ -62,6 +63,7 @@ $$i_{eff} \approx \frac{\text{Nominalzins (€)} + \frac{\text{Disagio (€)}}{\
 <!--SR:!2025-12-17,1,230-->
 
 Welcher finanzmathematischen Methode entspricht die _exakte_ Berechnung des Effektivzinses? :: Der **Internen Zinsfußmethode** (IRR): Der Zins, bei dem der Kapitalwert der Zahlungsreihe Null ist.
+<!--SR:!2025-12-17,1,226-->
 
 
 ---

@@ -60,6 +60,7 @@ $$\text{Dividendenrendite} = \frac{\text{Dividende je Aktie}}{\text{Aktienkurs}}
 <!--SR:!2025-12-17,1,224-->
 
 Was sagt die Ausschüttungsquote (Payout Ratio) aus? :: Welchen prozentualen Anteil des Jahresüberschusses (Gewinns) das Unternehmen an die Aktionäre auszahlt (vs. Thesaurierung).
+<!--SR:!2025-12-17,1,220-->
 
 Wie lautet die Formel für die Ausschüttungsquote?
 ?

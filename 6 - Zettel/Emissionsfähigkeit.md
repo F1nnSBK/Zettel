@@ -37,6 +37,7 @@ _(Hinweis zur Anleihe bei e.K.: Theoretisch können auch Einzelkaufleute Inhaber
 #### Flashcards
 
 Was versteht man unter Emissionsfähigkeit? :: Die Fähigkeit eines Unternehmens, sich durch die Ausgabe von Wertpapieren am organisierten Kapitalmarkt (Börse) zu finanzieren.
+<!--SR:!2025-12-17,1,221-->
 
 Welche deutschen Rechtsformen sind (hinsichtlich Aktien) emissionsfähig? :: Die **AG** (Aktiengesellschaft) und die **KGaA** (Kommanditgesellschaft auf Aktien).
 <!--SR:!2025-12-17,1,230-->

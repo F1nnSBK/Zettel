@@ -38,12 +38,16 @@ $$\text{Bank } 15,00 \quad an \quad \begin{cases} \text{Gezeichnetes Kapital } 1
 #### Flashcards
 
 Was ist das Agio? :: Der Differenzbetrag zwischen dem (höheren) Emissionskurs und dem Nennwert eines Wertpapiers (Aufgeld).
+<!--SR:!2025-12-17,1,228-->
 
 Wohin fließt das Agio in der Bilanz einer Kapitalgesellschaft? :: In die **Kapitalrücklage**.
+<!--SR:!2025-12-17,1,228-->
 
 Wohin fließt der Nennwert bei der Aktienausgabe? :: In das **Gezeichnete Kapital** (Stamm-/Grundkapital).
+<!--SR:!2025-12-17,1,228-->
 
 Ist die Ausgabe von Aktien unter Nennwert (Disagio) erlaubt? :: Nein, das ist gemäß § 9 AktG verboten (Verbot der Unter-pari-Emission).
+<!--SR:!2025-12-17,1,228-->
 
 Wie lautet der Buchungssatz für eine Aktienemission (vereinfacht)? :: Bank an Gezeichnetes Kapital **und** Kapitalrücklage.
 <!--SR:!2025-12-17,1,230-->

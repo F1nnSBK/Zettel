@@ -36,11 +36,13 @@ Die Emissionsfähigkeit bezeichnet die Fähigkeit eines Unternehmens, **Wertpapi
 #### Flashcards
 
 Was versteht man unter dem Prinzip der "Selbstorganschaft" bei Personengesellschaften? :: Die Eigentümer (Gesellschafter) führen die Geschäfte selbst (Inhaberführung).
+<!--SR:!2025-12-17,1,221-->
 
 Was versteht man unter dem Prinzip der "Drittorganschaft" bei Kapitalgesellschaften? :: Die Geschäftsführung kann an angestellte Dritte (Manager, Vorstand) übertragen werden, die keine Eigentümer sein müssen.
 <!--SR:!2025-12-17,1,226-->
 
 Wie hoch ist das gesetzliche Mindestkapital bei einer GmbH und einer AG? :: GmbH: 25.000 €; AG: 50.000 €.
+<!--SR:!2025-12-17,1,221-->
 
 Nach welchem Prinzip verteilen sich die Stimmrechte bei Kapitalgesellschaften? :: Nach dem **Kapitalprinzip** (je höher der Kapitalanteil, desto mehr Stimmrecht).
 <!--SR:!2025-12-17,1,226-->

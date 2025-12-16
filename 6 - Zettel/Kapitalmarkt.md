@@ -41,6 +41,7 @@ Wie grenzt sich der Kapitalmarkt vom Geldmarkt ab? :: Durch die Fristigkeit: Der
 <!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen Primärmarkt und Sekundärmarkt? :: Auf dem **Primärmarkt** werden Titel neu ausgegeben (Geldfluss ans Unternehmen), auf dem **Sekundärmarkt** werden bestehende Titel gehandelt (kein Geldfluss ans Unternehmen).
+<!--SR:!2025-12-17,1,221-->
 
 Nenne die drei zentralen Transformationsfunktionen des Kapitalmarktes. :: [[Losgrößentransformation]], [[Fristentransformation]], [[Risikotransformation]].
 <!--SR:!2025-12-17,1,226-->

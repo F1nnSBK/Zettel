@@ -46,8 +46,10 @@ Was sind "Eigene Aktien" (Treasury Shares)? :: Aktien, die das Unternehmen selbs
 <!--SR:!2025-12-17,1,228-->
 
 Wie definieren die meisten Börsen (z.B. Deutsche Börse) den Grenzwert zwischen Streubesitz und Festbesitz? :: Bei **5 %**. Alles über 5 % Anteil gilt als Festbesitz.
+<!--SR:!2025-12-17,1,224-->
 
 Zählen Aktien, die das Land Niedersachsen an VW hält (20%), zum Streubesitz? :: Nein, das ist **Festbesitz** (Block Holding), da der Anteil > 5% ist.
+<!--SR:!2025-12-17,1,224-->
 
 Warum ist der Streubesitz für die Aufnahme in Indizes (wie den DAX) wichtig? :: Weil Indizes meist nach der **Marktkapitalisierung des Streubesitzes** gewichtet werden (nicht nach dem Gesamtwert).
 <!--SR:!2025-12-17,1,228-->

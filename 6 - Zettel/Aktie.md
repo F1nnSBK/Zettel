@@ -102,15 +102,19 @@ Welche drei Gruppen von Rechten verbrieft eine Aktie? :: Vermögensrechte (Divid
 <!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen Inhaber- und Namensaktien bezüglich der Übertragung? :: **Inhaberaktien** werden durch Einigung und Übergabe (anonym) übertragen, **Namensaktien** erfordern zusätzlich eine Umschreibung im Aktienregister der AG.
+<!--SR:!2025-12-17,1,222-->
 
 Was ist eine vinkulierte Namensaktie? :: Eine Namensaktie, die nur mit **Zustimmung der Gesellschaft** übertragen werden darf (Vinkulierung = Fesselung).
 <!--SR:!2025-12-17,1,230-->
 
 Was unterscheidet Stammaktien von Vorzugsaktien? :: **Stammaktien** haben Stimmrecht. **Vorzugsaktien** haben _kein_ Stimmrecht, erhalten dafür aber eine höhere Dividende.
+<!--SR:!2025-12-17,1,222-->
 
 Was ist eine "Ordentliche Kapitalerhöhung"? :: Die Erhöhung des Grundkapitals durch Ausgabe neuer (junger) Aktien gegen Bar- oder Sacheinlagen (Außenfinanzierung).
+<!--SR:!2025-12-17,1,222-->
 
 Wozu dient das Genehmigte Kapital? :: Es ermächtigt den Vorstand (auf Vorrat für max. 5 Jahre), das Grundkapital ohne erneuten HV-Beschluss flexibel zu erhöhen.
+<!--SR:!2025-12-17,1,222-->
 
 Warum erhalten Altaktionäre bei einer Kapitalerhöhung ein Bezugsrecht? :: Um ihren prozentualen Anteil am Unternehmen (Stimmkraft & Vermögen) vor **Verwässerung** zu schützen.
 <!--SR:!2025-12-17,1,226-->
@@ -118,6 +122,7 @@ Warum erhalten Altaktionäre bei einer Kapitalerhöhung ein Bezugsrecht? :: Um i
 Wie lautet die Formel für den Wert des Bezugsrechts ($B$)?
 ?
 $$B = \frac{K_a - K_e}{\frac{a}{n} + 1}$$
+<!--SR:!2025-12-17,1,222-->
 
 Profitiert ein Unternehmen finanziell direkt davon, wenn der Aktienkurs an der Börse steigt (Sekundärmarkt)? :: Nein, das Geld fließt nur zwischen den Anlegern. Indirekt hilft es aber bei zukünftigen Kapitalerhöhungen oder Übernahmen.
 <!--SR:!2025-12-17,1,226-->

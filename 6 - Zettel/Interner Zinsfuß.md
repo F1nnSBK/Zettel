@@ -53,6 +53,7 @@ Grund: Wir wollen den absoluten Vermögenszuwachs (Euro) maximieren, nicht die p
 #### Flashcards
 
 Wie ist der Interne Zinsfuß mathematisch definiert? :: Als der Zinssatz $i$, für den der Kapitalwert $KW_0$ der Investition gleich 0 ist.
+<!--SR:!2025-12-17,1,226-->
 
 Wann ist eine Investition nach der IZF-Methode vorteilhaft? :: Wenn der Interne Zinsfuß ($IZF$) höher ist als die Kapitalkosten (Kalkulationszins).
 <!--SR:!2025-12-17,1,230-->
@@ -65,10 +66,14 @@ $$0 = -I_{0} + \sum_{t=1}^{n} \frac{CF_{t}}{(1+i)^{t}} + \frac{R_{n}}{(1+i)^{n}}
 Wie lautet die spezifische $i_{IZF}$ Formel für vorgegebene Szenarien (Ohne Restwert)?
 ?
 $$
+<!--SR:!2025-12-17,1,226-->
+
  \rightarrow i_{IZF}=\sqrt{\frac{CF_t}{C_0}}-1
+
 $$
 
 Welches Verfahren hat Vorrang: Kapitalwert oder Interner Zinsfuß? :: Die **Kapitalwertmethode** hat Vorrang, da sie den absoluten Vermögenszuwachs maximiert (NPV > IRR).
+<!--SR:!2025-12-17,1,226-->
 
 
 ---

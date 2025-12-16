@@ -63,22 +63,28 @@ Was ist der Zweck von Covenants aus Sicht der Bank? :: Sie dienen als **Frühwar
 <!--SR:!2025-12-17,1,228-->
 
 Was sind **Financial Covenants**? :: Verpflichtungen zur Einhaltung quantitativer Finanzkennzahlen (z.B. Mindest-Eigenkapitalquote, Höchst-Verschuldungsgrad).
+<!--SR:!2025-12-17,1,222-->
 
 Was sind **Affirmative Covenants**? :: Gebote, bestimmte Handlungen vorzunehmen (z.B. Instandhaltung von Vermögenswerten, Einreichen von Quartalsberichten).
+<!--SR:!2025-12-17,1,222-->
 
 Was sind **Negative Covenants**? :: Verbote, bestimmte Handlungen zu unterlassen (z.B. keine weiteren Kredite aufnehmen, keine Vermögenswerte verkaufen).
 <!--SR:!2025-12-17,1,228-->
 
 Was besagt die **Negative Pledge** Klausel (Negativerklärung)? :: Das Verbot, anderen Gläubigern Sicherheiten zu gewähren, ohne den aktuellen Kreditgeber gleichzustellen (Verpfändungsverbot).
+<!--SR:!2025-12-17,1,222-->
 
 Was besagt die **Pari-Passu** Klausel? :: Die Zusicherung, dass der Kredit im Insolvenzfall **im gleichen Rang** steht wie alle anderen unbesicherten Verbindlichkeiten (Gleichrangigkeit).
 <!--SR:!2025-12-17,1,228-->
 
 Was besagt die **Cross-Default-Clause** (Drittverzugsklausel)? :: Wenn der Schuldner bei einem _anderen_ Gläubiger in Verzug gerät, gilt auch dieser Kreditvertrag als gebrochen (Kündigungsrecht).
+<!--SR:!2025-12-17,1,222-->
 
 Was passiert typischerweise bei einem "Covenant Breach" (Vertragsbruch)? :: Die Bank erhält Sanktionsrechte: Strafgebühr (Waiver Fee), Zinserhöhung (Margin Step-up), Nachbesicherung oder sofortige Kündigung.
+<!--SR:!2025-12-17,1,222-->
 
 Was ist eine "Waiver Fee"? :: Eine Gebühr, die der Kreditnehmer zahlt, damit die Bank einmalig auf ihr Kündigungsrecht nach einem Covenant Breach verzichtet (Verzichtserklärung).
+<!--SR:!2025-12-17,1,222-->
 
 ---
 ### Verwendung

@@ -24,6 +24,7 @@ Das Ergebnis der Bonitätsprüfung wird in einem **Score** (bei Privatpersonen, 
 #### Flashcards
 
 Was versteht man unter Bonität? :: Die **Fähigkeit** und **Bereitschaft** eines Schuldners, Zahlungsverpflichtungen fristgerecht zu erfüllen.
+<!--SR:!2025-12-17,1,224-->
 
 In welche zwei Dimensionen wird die Bonität unterteilt? :: **Wirtschaftliche** Kreditwürdigkeit (Fähigkeit/Hard Facts) und **Persönliche** Kreditwürdigkeit (Wille/Soft Facts).
 <!--SR:!2025-12-17,1,230-->

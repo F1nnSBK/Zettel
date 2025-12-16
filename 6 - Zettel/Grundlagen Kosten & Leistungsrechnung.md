@@ -113,9 +113,11 @@ Wie lauten die drei Stufen der KLR (die drei W-Fragen)?
 1. **Kostenartenrechnung**: Welche Kosten sind angefallen?
 2. **Kostenstellenrechnung**: Wo sind die Kosten angefallen? (Nur Gemeinkosten)
 3. **Kostenträgerrechnung**: Wofür sind die Kosten angefallen? (Stückkalkulation)
+<!--SR:!2025-12-17,1,217-->
     
 
 Welche Bestandsgröße verändern Einzahlungen und Auszahlungen? :: Den **Zahlungsmittelbestand** (Liquide Mittel: Kasse + Bank).
+<!--SR:!2025-12-17,1,217-->
 
 Welche Bestandsgröße verändern Einnahmen und Ausgaben? :: Das **Geldvermögen** (Zahlungsmittelbestand + Forderungen - Verbindlichkeiten).
 <!--SR:!2025-12-17,1,230-->
@@ -124,11 +126,13 @@ Welche Bestandsgröße verändern Ertrag und Aufwand? :: Das **Reinvermögen** (
 <!--SR:!2025-12-17,1,222-->
 
 Welche Bestandsgröße verändern Leistungen und Kosten? :: Das **betriebsnotwendige Vermögen** (KLR).
+<!--SR:!2025-12-17,1,217-->
 
 Ein Zielverkauf (Ware geliefert, Rechnung gestellt, Zahlung später) ist sofort eine Einnahme, aber noch keine... :: **Einzahlung** (da das Geld erst später fließt).
 <!--SR:!2025-12-17,1,230-->
 
 Die Aufnahme eines Bankkredits ist eine Einzahlung, aber keine... :: **Einnahme** (da sich Forderungen und Verbindlichkeiten ausgleichen und das Geldvermögen gleich bleibt).
+<!--SR:!2025-12-17,1,217-->
 
 Was sind Grundkosten? :: Kosten, denen in der FiBu ein Aufwand in exakt gleicher Höhe gegenübersteht (Aufwand = Kosten).
 <!--SR:!2025-12-17,1,222-->

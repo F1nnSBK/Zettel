@@ -44,6 +44,7 @@ Was passiert beim "Negativen Leverage-Effekt"? :: Die Gesamtkapitalrendite ist k
 <!--SR:!2025-12-17,1,230-->
 
 Welches Risiko steigt mit zunehmendem Leverage (Verschuldung)? :: Das **Insolvenzrisiko** und die Volatilität der Rendite (Risiko für die Eigenkapitalgeber).
+<!--SR:!2025-12-17,1,222-->
 
 ---
 ### Verwendung

@@ -48,9 +48,11 @@ _(Hinweis: Börsennotierte Unternehmen gelten immer als "Groß")._
 ---
 #### Flashcards
 
-Welche drei Kriterien bestimmen die Größenklasse einer Kapitalgesellschaft nach § 267 HGB? :: Bilanzsumme, Umsatzerlöse, Arbeitnehmerzahl (2 von 3 müssen an zwei aufeinanderfolgenden Stichtagen überschritten werden). 
+Welche drei Kriterien bestimmen die Größenklasse einer Kapitalgesellschaft nach § 267 HGB? :: Bilanzsumme, Umsatzerlöse, Arbeitnehmerzahl (2 von 3 müssen an zwei aufeinanderfolgenden Stichtagen überschritten werden).
+<!--SR:!2025-12-17,1,220-->
 
-Welche der vier Größenklassen sind nach HGB von der Prüfungspflicht durch einen Wirtschaftsprüfer betroffen? :: Nur **mittelgroße** und **große** Kapitalgesellschaften. 
+Welche der vier Größenklassen sind nach HGB von der Prüfungspflicht durch einen Wirtschaftsprüfer betroffen? :: Nur **mittelgroße** und **große** Kapitalgesellschaften.
+<!--SR:!2025-12-17,1,220-->
 
 Was ist die zentrale Pflicht eines jeden Kaufmanns nach § 238 HGB? :: Die Verpflichtung zur **Aufstellung** des Jahresabschlusses (Buchführungspflicht).
 <!--SR:!2025-12-17,1,230-->
@@ -67,16 +69,20 @@ Was ist das Ziel der IFRS im Gegensatz zum HGB? :: Bessere internationale **Verg
 Nenne die drei Hauptfunktionen, die der Jahresabschluss nach HGB erfüllt. :: **Dokumentation** (Beweissicherung), **Zahlungsbemessung** (Steuern/Ausschüttung), **Information** (tatsächliches Bild der Lage).
 <!--SR:!2025-12-17,1,228-->
 
-Welche Funktion des Jahresabschlusses ist eng mit dem Gläubigerschutz verbunden? :: Die **Dokumentationsfunktion** und die **Zahlungsbemessungsfunktion** (durch Begrenzung der Ausschüttung auf den Bilanzgewinn). 
+Welche Funktion des Jahresabschlusses ist eng mit dem Gläubigerschutz verbunden? :: Die **Dokumentationsfunktion** und die **Zahlungsbemessungsfunktion** (durch Begrenzung der Ausschüttung auf den Bilanzgewinn).
+<!--SR:!2025-12-17,1,220-->
 
 Was besagt das "Maßgeblichkeitsprinzip" im Kontext von Handels- und Steuerbilanz? :: Die **Handelsbilanz (HGB)** ist grundsätzlich die **Grundlage** (**maßgeblich**) für die Aufstellung der **Steuerbilanz**.
 <!--SR:!2025-12-17,1,228-->
 
-Welche Kapitalgesellschaften haben die Pflicht zur **Offenlegung (Publizität)** im Bundesanzeiger? :: **Alle** Kapitalgesellschaften (Kleinst, Klein, Mittel, Groß), wobei Kleine Erleichterungen haben. 
+Welche Kapitalgesellschaften haben die Pflicht zur **Offenlegung (Publizität)** im Bundesanzeiger? :: **Alle** Kapitalgesellschaften (Kleinst, Klein, Mittel, Groß), wobei Kleine Erleichterungen haben.
+<!--SR:!2025-12-17,1,220-->
 
-Wie viele Kriterien der Größenklassen müssen überschritten werden und wie oft, um in eine höhere Klasse zu fallen? :: **Zwei von drei** Kriterien an **zwei aufeinanderfolgenden Stichtagen**. 
+Wie viele Kriterien der Größenklassen müssen überschritten werden und wie oft, um in eine höhere Klasse zu fallen? :: **Zwei von drei** Kriterien an **zwei aufeinanderfolgenden Stichtagen**.
+<!--SR:!2025-12-17,1,220-->
 
 Welche Unternehmen gelten laut HGB unabhängig von Bilanzsumme und Umsatz immer als "Groß"? :: **Börsennotierte** (kapitalmarktorientierte) Unternehmen.
+<!--SR:!2025-12-17,1,220-->
 
 
 

@@ -41,8 +41,10 @@ Das Vermögen des Schuldners deckt die bestehenden Verbindlichkeiten nicht mehr.
 #### Flashcards
 
 Was sind die drei Insolvenzgründe nach der deutschen Insolvenzordnung (InsO)? :: [[Zahlungsunfähigkeit]] (§ 17), [[Drohende Zahlungsunfähigkeit]] (§ 18) und [[Überschuldung]] (§ 19).
+<!--SR:!2025-12-17,1,224-->
 
 Ab wann gilt ein Unternehmen in der Regel als zahlungsunfähig (Faustregel BGH)? :: Wenn eine Liquiditätslücke von **$\ge$ 10%** für mehr als **3 Wochen** besteht.
+<!--SR:!2025-12-17,1,224-->
 
 Welcher Insolvenzgrund betrifft speziell Kapitalgesellschaften (z.B. GmbH), nicht aber Einzelunternehmen? :: Die [[Überschuldung]] (§ 19 InsO).
 <!--SR:!2025-12-17,1,228-->

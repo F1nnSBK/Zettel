@@ -54,8 +54,10 @@ Was ist der primäre Zweck eines Ratings? :: Die Einschätzung der **Ausfallwahr
 <!--SR:!2025-12-17,1,228-->
 
 Welche drei großen Ratingagenturen dominieren den Markt? :: Standard & Poor's (S&P), Moody's, Fitch.
+<!--SR:!2025-12-17,1,224-->
 
 Was versteht man unter "Investment Grade"? :: Ratingklassen (ab BBB- aufwärts), die eine hohe Sicherheit signalisieren und für institutionelle Anleger (Versicherungen) geeignet sind.
+<!--SR:!2025-12-17,1,224-->
 
 Wie werden Anleihen im "Non-Investment Grade" Bereich auch genannt? :: **High Yield Bonds** (Hochzinsanleihen) oder umgangssprachlich **Junk Bonds** (Ramschanleihen).
 <!--SR:!2025-12-17,1,228-->
@@ -64,8 +66,10 @@ Welche Auswirkung hat eine Verschlechterung des Ratings (Downgrade) auf die Kapi
 <!--SR:!2025-12-17,1,230-->
 
 In welche zwei Kategorien werden die Rating-Faktoren unterteilt? :: **Quantitative Faktoren** (Bilanzkennzahlen) und **Qualitative Faktoren** (Management, Markt, Strategie).
+<!--SR:!2025-12-17,1,224-->
 
 Ab welchem Rating (S&P) beginnt der "Non-Investment Grade" Bereich (Ramsch-Status)? :: Ab **BB+** (alles unterhalb von BBB-).
+<!--SR:!2025-12-17,1,224-->
 
 
 

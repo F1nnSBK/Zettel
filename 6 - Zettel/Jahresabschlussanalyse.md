@@ -77,20 +77,25 @@ Was ist die primäre Aussage der **Eigenkapitalrentabilität (RoE)**? :: Sie mis
 Wie lautet die Formel zur Berechnung des Zinsdeckungsgrades (Interest Coverage)?
 ?
 $$ \text{Zinsdeckungsgrad} = \frac{\text{EBIT}}{\text{Zinsaufwand}}$$
+<!--SR:!2025-12-17,1,219-->
 
 Was ist der Zielwert für den **Zinsdeckungsgrad** bei gesunden Unternehmen? :: Er sollte idealerweise **$> 2$** (besser $> 3$) sein.
+<!--SR:!2025-12-17,1,219-->
 
 Welche Funktion erfüllt die **Eigenkapitalquote** im Hinblick auf die Unternehmenssicherheit? :: Sie dient als **Verlustpuffer** und ist ein wichtiger Indikator für die Bonität und Krisenfestigkeit (Solvenz).
 <!--SR:!2025-12-17,1,223-->
 
 Ab welchem Richtwert gilt die **Eigenkapitalquote** als solide? :: Ab **$> 33\%$**.
+<!--SR:!2025-12-17,1,219-->
 
 Was ist die Hauptanforderung an den **Operativen Cash Flow (OCF)**? :: Er muss **positiv** sein und im Idealfall die **Investitionen** decken (dann spricht man von Free Cash Flow).
+<!--SR:!2025-12-17,1,219-->
 
 Was misst der **Cash Conversion Cycle (CCC)**? :: Die Dauer in Tagen, bis aus einer Investition in Waren/Materialien durch Verkauf und Zahlungseingang wieder **flüssige Mittel** generiert werden.
 <!--SR:!2025-12-17,1,223-->
 
 Welche der drei Working Capital Kennzahlen (DIO, DRO, DPO) sollte **lang** sein, um die Liquidität zu verbessern? :: **DPO** (Days Payables Outstanding), da die Zahlungsfrist an die Lieferanten verlängert wird.
+<!--SR:!2025-12-17,1,219-->
 
 Was bedeutet ein kurzer **DIO** (Days Inventory Outstanding)? :: Die Lagerdauer ist kurz, d.h., das Unternehmen hat wenig Kapital im **Lager** gebunden.
 <!--SR:!2025-12-17,1,230-->

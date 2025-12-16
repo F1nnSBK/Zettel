@@ -48,16 +48,22 @@ $$\text{Thesaurierungsquote} = \frac{\text{Einbehaltener Gewinn}}{\text{Jahresü
 #### Flashcards
 
 Was versteht man unter Thesaurierung? :: Die Einbehaltung von Gewinnen im Unternehmen (Nicht-Ausschüttung) zur Selbstfinanzierung.
+<!--SR:!2025-12-17,1,230-->
 
 Zu welcher Finanzierungsart gehört die Thesaurierung? :: Zur **Innenfinanzierung** (speziell: Selbstfinanzierung / Eigenfinanzierung von innen).
+<!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen offener und stiller Selbstfinanzierung? :: **Offene** ist in der Bilanz sichtbar (Gewinnrücklagen), **Stille** entsteht durch Unterbewertung von Aktiva oder Überbewertung von Passiva (Stille Reserven).
+<!--SR:!2025-12-17,1,230-->
 
 Welche Bilanzposition erhöht sich bei der offenen Thesaurierung bei Kapitalgesellschaften? :: Die **Gewinnrücklagen** (Teil des Eigenkapitals).
+<!--SR:!2025-12-17,1,230-->
 
 Nenne einen wesentlichen Vorteil der Thesaurierung gegenüber der Kreditaufnahme. :: Erhöhung der Eigenkapitalquote (Bonität), keine Zinszahlungen, Unabhängigkeit von Banken.
+<!--SR:!2025-12-17,1,230-->
 
 Wie hängen Ausschüttungsquote und Thesaurierungsquote zusammen? :: Sie ergänzen sich zu 100% (bzw. zu 1). Was nicht ausgeschüttet wird, wird thesauriert.
+<!--SR:!2025-12-17,1,230-->
 
 
 ---

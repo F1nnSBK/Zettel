@@ -98,6 +98,7 @@ Was ist der Unterschied zwischen Nominalzins und Effektivzins? :: Der **Nominalz
 <!--SR:!2025-12-17,1,223-->
 
 Was versteht man unter dem Kapitaldienst? :: Die Summe aus **Zins** und **Tilgung**, die pro Periode an den Kreditgeber zu zahlen ist.
+<!--SR:!2025-12-17,1,218-->
 
 Wie verläuft der Zahlungsstrom beim "Endfälligen Darlehen" (Bullet Loan)? :: Während der Laufzeit werden nur Zinsen gezahlt; die gesamte Tilgung erfolgt in einer Summe am Laufzeitende.
 <!--SR:!2025-12-17,1,230-->
@@ -106,6 +107,7 @@ Wie verläuft der Zahlungsstrom beim "Null-Kupon-Darlehen" (Zero Bond)? :: Es gi
 <!--SR:!2025-12-17,1,223-->
 
 Was ist das Kennzeichen eines Annuitätendarlehens? :: Die jährliche Rate (Annuität) ist konstant. Der Zinsanteil sinkt, der **Tilgungsanteil steigt** über die Laufzeit.
+<!--SR:!2025-12-17,1,218-->
 
 Wie lautet die Formel für den Annuitätenfaktor (ANF)?
 ?
@@ -113,6 +115,7 @@ $$ANF(i, n) = \frac{(1+i)^n \cdot i}{(1+i)^n -1}$$
 <!--SR:!2025-12-17,1,223-->
 
 Was ist ein partiarisches Darlehen? :: Ein Darlehen, bei dem der Zins vom Erfolg (z.B. Gewinn oder Umsatz) des Unternehmens abhängt (Gewinnbeteiligung).
+<!--SR:!2025-12-17,1,218-->
 
 Wofür steht die Abkürzung EURIBOR? :: Euro Interbank Offered Rate (Zinssatz, zu dem sich Banken untereinander Geld leihen; Referenz für variable Kredite).
 <!--SR:!2025-12-17,1,230-->
@@ -121,13 +124,16 @@ Was ist eine **akzessorische** Sicherheit? :: Eine Sicherheit, die rechtlich zwi
 <!--SR:!2025-12-17,1,223-->
 
 Was ist eine **fiduziarische** (nicht-akzessorische) Sicherheit? :: Eine Sicherheit, die rechtlich abstrakt/unabhängig von der Forderung besteht (z.B. Grundschuld, Sicherungsübereignung).
+<!--SR:!2025-12-17,1,218-->
 
 Was ist der Unterschied zwischen Hypothek und Grundschuld? :: Die **Hypothek** ist akzessorisch (an den Kredit gebunden), die **Grundschuld** ist nicht-akzessorisch (bleibt auch nach Tilgung bestehen, flexibler).
+<!--SR:!2025-12-17,1,218-->
 
 Wer ist bei einer Sicherungsübereignung Eigentümer und wer Besitzer der Sache? :: Der Kreditgeber (Bank) wird **Eigentümer** (Sicherheit), der Kreditnehmer bleibt **Besitzer** (nutzt die Maschine weiter).
 <!--SR:!2025-12-17,1,230-->
 
 Wer wird im Insolvenzfall zuerst bedient: Vorrangige oder nachrangige Gläubiger? :: Die **vorrangigen** Gläubiger (Senior Debt). Nachrangige (Mezzanine) erhalten erst Geld, wenn alle Vorrangigen befriedigt sind.
+<!--SR:!2025-12-17,1,218-->
 
 ---
 ### Verwendung

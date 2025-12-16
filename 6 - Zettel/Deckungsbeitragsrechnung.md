@@ -140,12 +140,16 @@ Wann liegt die "Kurzfristige Preisuntergrenze" vor? :: Wenn der Preis genau die 
 <!--SR:!2025-12-17,1,230-->
 
 Wie errechnet man das Betriebsergebnis BE? :: $BE = DB - K_{fix}$
+<!--SR:!2025-12-17,1,221-->
 
 Warum führt die Vollkostenrechnung bei der Sortimentsbereinigung oft zu falschen Entscheidungen? :: Weil sie **Fixkosten proportionalisiert**. Fällt ein Produkt weg, bleiben die Fixkosten bestehen und belasten die restlichen Produkte stärker (Fixkostenremangenz).
+<!--SR:!2025-12-17,1,221-->
 
 Was ist die Entscheidungsregel beim "Optimalen Produktionsprogramm" mit **einem** Engpass? :: Wähle die Produkte mit dem höchsten **relativen Deckungsbeitrag** ($db$ pro Engpasseinheit).
+<!--SR:!2025-12-17,1,221-->
 
 Wie entscheidet man kurzfristig bei "Make-or-Buy" (bei freien Kapazitäten)? :: Man vergleicht die **variablen Kosten** der Eigenfertigung mit dem Fremdbezugspreis (Fixkosten sind irrelevant).
+<!--SR:!2025-12-17,1,221-->
 
 Was passiert mit dem Break-Even-Punkt, wenn die Fixkosten steigen? :: Der Break-Even-Punkt steigt (man muss mehr verkaufen, um die Kosten zu decken).
 <!--SR:!2025-12-17,1,230-->

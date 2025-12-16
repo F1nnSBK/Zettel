@@ -25,8 +25,10 @@ $$i_{nom} = \text{Refinanzierungskosten} + \text{Betriebskosten} + \text{Risikok
 #### Flashcards
 
 Was ist der Nominalzins (Sollzins)? :: Das reine Entgelt für die Kapitalüberlassung bezogen auf den Nennwert (ohne Nebenkosten).
+<!--SR:!2025-12-17,1,224-->
 
 Wofür steht die Abkürzung "p.a."? :: Per annum (pro Jahr).
+<!--SR:!2025-12-17,1,224-->
 
 Aus welchen vier Komponenten setzt sich der Nominalzins kalkulatorisch zusammen? :: Refinanzierungskosten, Betriebskosten, Risikokosten (Risikoprämie) und Gewinnmarge.
 <!--SR:!2025-12-17,1,230-->

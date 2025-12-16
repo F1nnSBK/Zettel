@@ -136,6 +136,7 @@ Was sind Gemeinkosten? :: Kosten, die einem Kostenträger **nicht direkt** zuger
 <!--SR:!2025-12-17,1,224-->
 
 Was sind variable Kosten? :: Kosten, die sich bei einer Änderung der Beschäftigung (Produktionsmenge) verändern (z.B. Rohstoffe).
+<!--SR:!2025-12-17,1,216-->
 
 Was sind fixe Kosten? :: Kosten, die unabhängig von der Beschäftigung (in einem bestimmten Intervall) konstant bleiben (z.B. Miete, zeitabhängige Abschreibung).
 <!--SR:!2025-12-17,1,230-->
@@ -146,8 +147,10 @@ Was versteht man unter Fixkostendegression? :: Das Sinken der **Stückkosten** b
 Wie lautet die Formel für die Inventurmethode (Materialverbrauch)?
 ?
 $$Verbrauch = \text{Anfangsbestand} + \text{Zugänge} - \text{Endbestand}$$
+<!--SR:!2025-12-17,1,216-->
 
 Wie funktioniert die Retrograde Methode (Materialverbrauch)? :: Rückrechnung vom Output auf den Input: $\text{Produktionsmenge} \times \text{Sollverbrauch pro Stück}$.
+<!--SR:!2025-12-17,1,216-->
 
 Wie funktioniert die Skontrationsmethode (Fortschreibung)?
 ?
@@ -156,6 +159,7 @@ $$Verbrauch = \sum \text{Materialentnahmescheine}$$
 <!--SR:!2025-12-17,1,224-->
 
 Wie kann eine Behelfsmethode aussehen? :: Zugänge = Abgänge
+<!--SR:!2025-12-17,1,216-->
 
 Worauf basiert die kalkulatorische Abschreibung (im Gegensatz zur bilanziellen)? :: Auf dem **Wiederbeschaffungswert** (statt Anschaffungskosten) und der tatsächlichen Nutzungsdauer.
 <!--SR:!2025-12-17,1,224-->

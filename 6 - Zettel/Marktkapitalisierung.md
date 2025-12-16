@@ -52,14 +52,19 @@ Wie berechnet sich die Marktkapitalisierung? :: Aktienkurs $\times$ Anzahl der a
 <!--SR:!2025-12-17,1,230-->
 
 Werden "Eigene Aktien" (Treasury Shares) bei der Berechnung der Marktkapitalisierung berücksichtigt? :: Nein, nur die **ausstehenden** (im Umlauf befindlichen) Aktien zählen.
+<!--SR:!2025-12-17,1,228-->
 
 Welchen Effekt hat ein Aktienrückkauf auf den Gewinn pro Aktie (EPS)? :: Der Gewinn pro Aktie **steigt**, da sich der Gewinn auf weniger Aktien verteilt.
+<!--SR:!2025-12-17,1,228-->
 
 Was versteht man unter "Signaling" beim Aktienrückkauf? :: Das Management signalisiert dem Markt, dass es die eigene Aktie für **unterbewertet** hält (Vertrauensbeweis).
+<!--SR:!2025-12-17,1,228-->
 
 Wie nennt man Unternehmen mit der höchsten Marktkapitalisierung (z.B. DAX-Konzerne)? :: **Large Caps** oder Blue Chips.
+<!--SR:!2025-12-17,1,228-->
 
 Ist die Marktkapitalisierung identisch mit dem Eigenkapital in der Bilanz? :: Nein. Die Marktkapitalisierung ist der **Marktwert** (Börsenwert), das bilanzielle Eigenkapital ist der **Buchwert**. (Der Marktwert ist bei gesunden Firmen meist deutlich höher).
+<!--SR:!2025-12-17,1,228-->
 
 ---
 ### Verwendung
