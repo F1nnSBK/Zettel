@@ -64,9 +64,7 @@ $$0 = -I_{0} + \sum_{t=1}^{n} \frac{CF_{t}}{(1+i)^{t}} + \frac{R_{n}}{(1+i)^{n}}
 Wie lautet die spezifische $i_{IZF}$ Formel für vorgegebene Szenarien (Ohne Restwert)?
 ?
 $$
-
  \rightarrow i_{IZF}=\sqrt{\frac{CF_t}{C_0}}-1
-
 $$
 
 Welches Verfahren hat Vorrang: Kapitalwert oder Interner Zinsfuß? :: Die **Kapitalwertmethode** hat Vorrang, da sie den absoluten Vermögenszuwachs maximiert (NPV > IRR).

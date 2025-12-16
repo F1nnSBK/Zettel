@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "84fc99d0e7259e22",
+            "id": "f4e28d1f327103f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,10 +207,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "84fc99d0e7259e22",
+  "active": "f4e28d1f327103f0",
   "lastOpenFiles": [
-    "6 - Zettel/Gewinnvergleichsrechnung.md",
     "9 - Kanban Boards/Personal Scrum.md",
+    "6 - Zettel/Interner Zinsfuß.md",
+    "6 - Zettel/Gewinnvergleichsrechnung.md",
     "6 - Zettel/Projektmanagement.md",
     "6 - Zettel/Earned Value Management.md",
     "6 - Zettel/Kanban.md",
@@ -240,7 +241,6 @@
     "6 - Zettel/Kostenstellenrechnung.md",
     "8 - Media/Bilder/kostenstellenrechnung.jpeg",
     "6 - Zettel/Kostenartenrechnung.md",
-    "6 - Zettel/Kalkulatorische Zinsen.md",
     "8 - Media/Bilder/aufwand_kosten.jpeg",
     "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/klr_elemente.jpeg",
