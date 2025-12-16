@@ -40,19 +40,19 @@ Das Ergebnis der Analyse wird im **Stakeholder-Register** dokumentiert. Es enth�
 #### Flashcards
 
 Was sind die zwei Dimensionen der Stakeholder-Matrix? :: **Macht** (Einfluss) und **Interesse**.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Wie lautet die Strategie für Stakeholder mit **hoher Macht** und **hohem Interesse**? :: **Eng managen** (Kooperieren). Sie sind die wichtigsten Akteure.
 <!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Strategie für Stakeholder mit **hoher Macht**, aber **geringem Interesse**? :: **Zufriedenstellen**. (Aktiv halten, aber nicht überlasten, damit sie nicht negativ werden).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Wie lautet die Strategie für Stakeholder mit **geringer Macht** und **hohem Interesse**? :: **Informieren**. (Regelmäßige Updates geben).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Was ist der Zweck des Stakeholder-Registers? :: Die Dokumentation aller relevanten Informationen, Bewertungen und Strategien zu den identifizierten Stakeholdern.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 
 

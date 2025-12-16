@@ -49,19 +49,19 @@ Vorgehensmodelle (Entwicklungsansätze) strukturieren den Projektlebenszyklus. D
 #### Flashcards
 
 Was ist der fundamentale Unterschied im "Magischen Dreieck" zwischen klassischem und agilem PM? :: **Klassisch:** Scope ist fest, Zeit/Kosten variabel. **Agil:** Zeit/Kosten sind fest (Timebox), Scope ist variabel.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Wann ist das Wasserfall-Modell geeignet? :: Wenn Anforderungen stabil, klar definiert und Änderungen unwahrscheinlich sind (z.B. Bauwesen).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Was ist das besondere Merkmal des V-Modells? :: Es stellt jeder Entwicklungsphase direkt eine entsprechende **Testphase** gegenüber (Fokus auf Qualitätssicherung).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Was bedeutet "Inkrementell" im Kontext von Vorgehensmodellen? :: Das Produkt wird in nutzbaren **Teilstücken** (Inkrementen) geliefert und erweitert, statt alles am Ende auf einmal.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Welches Vorgehensmodell eignet sich am besten für Projekte mit unklaren Anforderungen und hoher Komplexität? :: Ein **agiles / adaptives** Modell (z.B. Scrum).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 
 

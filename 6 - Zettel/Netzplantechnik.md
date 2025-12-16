@@ -61,22 +61,22 @@ Die logische Verknüpfung zwischen zwei Vorgängen (Vorgänger $\rightarrow$ Nac
 #### Flashcards
 
 Wofür steht **ES** im Netzplan? :: Early Start (Frühester Anfang).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Wofür steht **LF** im Netzplan? :: Late Finish (Spätestes Ende).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Wie berechnet man den Gesamtpuffer (Total Float)? :: $LF - EF$ (Spätes Ende minus Frühes Ende).
 <!--SR:!2025-12-17,1,230-->
 
 Welchen Wert wählt man bei der Vorwärtsrechnung, wenn mehrere Pfade zusammenlaufen? :: Den **höchsten** (Maximum) der EF-Werte der Vorgänger.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Welchen Wert wählt man bei der Rückwärtsrechnung, wenn sich ein Pfad aufteilt? :: Den **niedrigsten** (Minimum) der LS-Werte der Nachfolger.
 <!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen Gesamtpuffer und Freiem Puffer? :: Gesamtpuffer schützt den **Projektendtermin**, Freier Puffer schützt den **frühesten Start des Nachfolgers**.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 
 

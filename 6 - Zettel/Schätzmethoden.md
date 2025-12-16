@@ -40,16 +40,16 @@ In agilen Projekten (z.B. Scrum) wird oft nicht in absoluter Zeit (Stunden), son
 #### Flashcards
 
 Welche Aussage trifft der "Cone of Uncertainty"? :: Die Schätzgenauigkeit steigt im Projektverlauf an (der Trichter wird enger).
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Welche Schätzmethode basiert auf dem Vergleich mit früheren, ähnlichen Projekten? :: Die **Analoge Schätzung**.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Welche drei Werte benötigt man für die PERT-Schätzung (Drei-Punkt)? :: Optimistischer, Wahrscheinlichster und Pessimistischer Wert.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Warum ist die Bottom-Up-Schätzung sehr zeitaufwendig? :: Weil jedes einzelne Arbeitspaket detailliert geschätzt werden muss, bevor summiert werden kann.
-<!--SR:!2025-12-16,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Was wird beim "Planning Poker" geschätzt (Einheit)? :: Meistens relative Größen wie **Story Points** (statt absoluter Stunden).
 <!--SR:!2025-12-17,1,230-->
