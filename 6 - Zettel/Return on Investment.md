@@ -32,7 +32,7 @@ Wie wird der ROI berechnet?
 $$
 ROI = \frac{EBIT}{\text{Durchschnittlich gebundenes Kapital}}
 $$
-<!--SR:!2025-12-09,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 ---
 ### Verwendung

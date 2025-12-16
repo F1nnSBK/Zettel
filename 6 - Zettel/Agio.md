@@ -46,6 +46,7 @@ Wohin fließt der Nennwert bei der Aktienausgabe? :: In das **Gezeichnete Kapita
 Ist die Ausgabe von Aktien unter Nennwert (Disagio) erlaubt? :: Nein, das ist gemäß § 9 AktG verboten (Verbot der Unter-pari-Emission).
 
 Wie lautet der Buchungssatz für eine Aktienemission (vereinfacht)? :: Bank an Gezeichnetes Kapital **und** Kapitalrücklage.
+<!--SR:!2025-12-17,1,230-->
 
 ---
 ### Verwendung

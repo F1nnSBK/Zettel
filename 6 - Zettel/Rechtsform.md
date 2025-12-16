@@ -46,8 +46,10 @@ Nach welchem Prinzip verteilen sich die Stimmrechte bei Kapitalgesellschaften? :
 Welche Rechtsformen sind grundsätzlich emissionsfähig (börsenfähig)? :: Die **AG** (Aktiengesellschaft) und die **KGaA** (sowie SE).
 
 Warum ist das Finanzierungspotenzial bei Personengesellschaften meist begrenzter als bei Kapitalgesellschaften? :: Weil es von der Bonität der einzelnen Gesellschafter abhängt und die Aufnahme neuer Gesellschafter vertraglich aufwändig ist.
+<!--SR:!2025-12-17,1,230-->
 
 Wie haften die Gesellschafter einer Personengesellschaft (z.B. OHG) im Regelfall? :: Persönlich (mit Privatvermögen), unbeschränkt und solidarisch (jeder für alles).
+<!--SR:!2025-12-17,1,230-->
 
 ---
 ### Verwendung

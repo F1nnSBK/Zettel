@@ -60,7 +60,6 @@ Wie lautet die allgemeine Formel zur Bestimmung des IZF (Ansatz)?
 ?
 $$0 = -I_{0} + \sum_{t=1}^{n} \frac{CF_{t}}{(1+i)^{t}} + \frac{R_{n}}{(1+i)^{n}}$$
 
-
 Wie lautet die spezifische $i_{IZF}$ Formel für vorgegebene Szenarien (Ohne Restwert)?
 ?
 $$

@@ -127,6 +127,7 @@ Zinsen $= 120.000 \cdot 0,05 = 6.000€$.
 #### Flashcards (Kostenartenrechnung)
 
 Was ist die zentrale Frage der Kostenartenrechnung? :: **Welche** Kosten sind in welcher Höhe entstanden?
+<!--SR:!2025-12-17,1,230-->
 
 Was sind Einzelkosten? :: Kosten, die einem Kostenträger (Produkt) **direkt** zugerechnet werden können (z.B. Fertigungsmaterial, Akkordlohn).
 
@@ -135,6 +136,7 @@ Was sind Gemeinkosten? :: Kosten, die einem Kostenträger **nicht direkt** zuger
 Was sind variable Kosten? :: Kosten, die sich bei einer Änderung der Beschäftigung (Produktionsmenge) verändern (z.B. Rohstoffe).
 
 Was sind fixe Kosten? :: Kosten, die unabhängig von der Beschäftigung (in einem bestimmten Intervall) konstant bleiben (z.B. Miete, zeitabhängige Abschreibung).
+<!--SR:!2025-12-17,1,230-->
 
 Was versteht man unter Fixkostendegression? :: Das Sinken der **Stückkosten** bei steigender Produktionsmenge, da sich die Fixkosten auf mehr Einheiten verteilen.
 
@@ -159,6 +161,7 @@ $$\text{Kalk. Zinsen} = \frac{\text{Anschaffungswert} + \text{Restwert}}{2} \cdo
 $$\text{Kalk. Zinsen} = \frac{\text{Anschaffungswert}}{2} \cdot \text{Zinssatz}$$
 
 Sind kalkulatorische Kosten in der Regel Einzel- oder Gemeinkosten? :: Meistens **Fixe Gemeinkosten**.
+<!--SR:!2025-12-17,1,230-->
 
 Wie unterstützt die Kostenartenrechnung die statische Investitionsrechnung? :: Sie liefert die Daten (Kosten und Erlöse) für den **Kostenvergleich** und den Gewinnvergleich.
 

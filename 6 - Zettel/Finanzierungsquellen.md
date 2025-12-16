@@ -32,6 +32,7 @@ Als **Finanzierungsquellen** ($\hat{=}$ Kapitalgeber / Investoren) werden Wirtsc
 Was versteht man unter Finanzierungsquellen? :: Wirtschaftssubjekte mit Liquiditätsüberschüssen, die Kapital bereitstellen (Kapitalgeber).
 
 Nenne vier wichtige Gruppen von Finanzierungsquellen (Kapitalgebern). :: Privatpersonen, Banken, Fonds/Beteiligungsgesellschaften, Unternehmen (auch: Versicherungen, Staat).
+<!--SR:!2025-12-17,1,230-->
 
 Was ist das primäre finanzielle Ziel von Fonds und Beteiligungsgesellschaften? :: Die **Renditemaximierung** des eingesetzten Kapitals für ihre Anleger.
 

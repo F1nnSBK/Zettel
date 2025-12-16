@@ -151,8 +151,10 @@ Auf welche Menge beziehen sich die Herstellkosten? :: Auf die **produzierte** Me
 Auf welche Menge beziehen sich die Selbstkosten (und Vertriebskosten)? :: Auf die **verkaufte** Menge ($x_a$).
 
 Wann wendet man die Äquivalenzziffernkalkulation an? :: Bei **Sortenfertigung** (artverwandte Produkte, die sich nur in Größe/Material unterscheiden, z.B. Bier, Ziegel).
+<!--SR:!2025-12-17,1,230-->
 
 Wie steigen die Äquivalenzziffern bei einer Volumenänderung (z.B. Würfel Kantenlänge)? :: **Kubisch** (hoch 3). Wenn Länge verdoppelt (Faktor 2), verachtfacht sich das Volumen (Faktor 8).
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel für den Gemeinkostenzuschlagssatz?
 ?

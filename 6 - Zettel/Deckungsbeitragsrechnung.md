@@ -129,12 +129,15 @@ Wie lautet die Formel für den Stück-Deckungsbeitrag?
 $$db = p - k_v$$
 $$DB = (p - k_v) \cdot x \quad \text{oder} \quad DB = U - K_v$$
 (Preis - variable Stückkosten)
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel für die Break-Even-Menge?
 ?
 $$x_{BE} = \frac{K_{fix}}{p - k_v} = \frac{K_{fix}}{db}$$
+<!--SR:!2025-12-17,1,230-->
 
 Wann liegt die "Kurzfristige Preisuntergrenze" vor? :: Wenn der Preis genau die variablen Kosten deckt ($p = k_v$ bzw. $db = 0$).
+<!--SR:!2025-12-17,1,230-->
 
 Wie errechnet man das Betriebsergebnis BE? :: $BE = DB - K_{fix}$
 
@@ -145,6 +148,7 @@ Was ist die Entscheidungsregel beim "Optimalen Produktionsprogramm" mit **einem*
 Wie entscheidet man kurzfristig bei "Make-or-Buy" (bei freien Kapazitäten)? :: Man vergleicht die **variablen Kosten** der Eigenfertigung mit dem Fremdbezugspreis (Fixkosten sind irrelevant).
 
 Was passiert mit dem Break-Even-Punkt, wenn die Fixkosten steigen? :: Der Break-Even-Punkt steigt (man muss mehr verkaufen, um die Kosten zu decken).
+<!--SR:!2025-12-17,1,230-->
 
 Was passiert mit dem Break-Even-Punkt, wenn der Preis ($p$) steigt? :: Der Break-Even-Punkt sinkt (man erreicht die Gewinnschwelle früher).
 

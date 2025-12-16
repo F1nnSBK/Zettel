@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Interner Zinsfuß.md",
+                "file": "6 - Zettel/Gewinnvergleichsrechnung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interner Zinsfuß"
+              "title": "Gewinnvergleichsrechnung"
             }
           }
         ],
@@ -78,8 +78,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interner zinsfuß",
-                "matchingCase": false,
+                "query": "Anfangsinves",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -244,6 +244,7 @@
     "8 - Media/Bilder/aufwand_kosten.jpeg",
     "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/klr_elemente.jpeg",
+    "6 - Zettel/Grundlagen Systems Engineering.md",
     "8 - Media/Bilder/rating.jpeg",
     "9 - Kanban Boards",
     "Untitled.canvas",

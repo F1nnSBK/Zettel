@@ -38,20 +38,20 @@ Kalkulatorische Eigenkapitalkosten fallen in Höhe von 5€ an.
 
 
 Was ist der Free Cash Flow (Verwendungszweck)? :: Geld für Dividenden der Aktionäre/Gesellschafter oder für eine fällige Rückführung der Fremdfinanzierung.
-<!--SR:!2025-12-09,1,228-->
+<!--SR:!2025-12-17,1,208-->
 
 Wie lautet die Formel für den Free Cash Flow?
 ?
 $$Free\ Cash\ Flow = Operativer\ Cash\ Flow + Investitions\ Cash\ Flow$$
-<!--SR:!2025-12-11,3,268-->
+<!--SR:!2025-12-18,2,248-->
 
 Wodurch unterscheidet sich der operative Cash Flow von Größen der Kostenrechnung? :: Der operative Cash Flow ist **zahlungsorientiert** und berücksichtigt nur Transaktionen, die zu Ab- oder Zuflüssen von liquiden Mitteln führen (keine kalkulatorischen Größen).
-<!--SR:!2025-12-09,1,228-->
+<!--SR:!2025-12-17,1,208-->
 
 Warum weicht der operative Cash Flow in der Praxis oft vom Gewinn ab?
 ?
 1. **Abschreibungen** sind nicht zahlungswirksam (mindern Gewinn, aber nicht Cash).
-<!--SR:!2025-12-09,1,230-->
+<!--SR:!2025-12-17,1,210-->
     
 2. **Kalkulatorische Zinskosten** sind nicht zahlungswirksam.
     
@@ -59,7 +59,7 @@ Warum weicht der operative Cash Flow in der Praxis oft vom Gewinn ab?
     
 
 Zu welcher Cash-Flow-Art gehört die Aufnahme eines Darlehens? :: Finanzierungs-Cash Flow.
-<!--SR:!2025-12-11,3,268-->
+<!--SR:!2025-12-18,2,248-->
 
 ---
 ### Verwendung

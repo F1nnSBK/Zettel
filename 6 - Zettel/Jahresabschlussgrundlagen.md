@@ -52,7 +52,8 @@ Welche drei Kriterien bestimmen die Größenklasse einer Kapitalgesellschaft nac
 
 Welche der vier Größenklassen sind nach HGB von der Prüfungspflicht durch einen Wirtschaftsprüfer betroffen? :: Nur **mittelgroße** und **große** Kapitalgesellschaften. 
 
-Was ist die zentrale Pflicht eines jeden Kaufmanns nach § 238 HGB? :: Die Verpflichtung zur **Aufstellung** des Jahresabschlusses (Buchführungspflicht). 
+Was ist die zentrale Pflicht eines jeden Kaufmanns nach § 238 HGB? :: Die Verpflichtung zur **Aufstellung** des Jahresabschlusses (Buchführungspflicht).
+<!--SR:!2025-12-17,1,230-->
 
 Welches Rechnungslegungsregelwerk ist immer für den **Einzelabschluss** in Deutschland maßgebend? :: Das **HGB** (Handelsgesetzbuch). 
 

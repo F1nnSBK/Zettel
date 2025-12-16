@@ -32,12 +32,15 @@ Wie lautet die zentrale Bedingung für einen positiven Leverage-Effekt?
 ?
 $$r_{GK} > r_{FK}$$
 (Die Gesamtkapitalrendite muss höher sein als der Fremdkapitalzins).
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel für den Leverage-Effekt ($r_{EK}$)?
 ?
 $$r_{EK} = r_{GK} + (r_{GK} - r_{FK}) \cdot \frac{FK}{EK}$$
+<!--SR:!2025-12-17,1,230-->
 
 Was passiert beim "Negativen Leverage-Effekt"? :: Die Gesamtkapitalrendite ist kleiner als der Fremdkapitalzins ($r_{GK} < r_{FK}$), wodurch jeder Euro zusätzliche Schulden die Eigenkapitalrendite verringert (Verlust).
+<!--SR:!2025-12-17,1,230-->
 
 Welches Risiko steigt mit zunehmendem Leverage (Verschuldung)? :: Das **Insolvenzrisiko** und die Volatilität der Rendite (Risiko für die Eigenkapitalgeber).
 

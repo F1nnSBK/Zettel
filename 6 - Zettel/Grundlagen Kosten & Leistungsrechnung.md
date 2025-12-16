@@ -106,6 +106,7 @@ Kosten, denen in der FiBu gar kein Aufwand gegenübersteht.
 #### Flashcards
 
 Was ist das Hauptziel der KLR im Gegensatz zur FiBu? :: Die interne Steuerung, Überwachung der Wirtschaftlichkeit und Kalkulation der Preise (statt der externen Rechenschaftslegung nach HGB).
+<!--SR:!2025-12-17,1,230-->
 
 Wie lauten die drei Stufen der KLR (die drei W-Fragen)?
 ?
@@ -117,20 +118,24 @@ Wie lauten die drei Stufen der KLR (die drei W-Fragen)?
 Welche Bestandsgröße verändern Einzahlungen und Auszahlungen? :: Den **Zahlungsmittelbestand** (Liquide Mittel: Kasse + Bank).
 
 Welche Bestandsgröße verändern Einnahmen und Ausgaben? :: Das **Geldvermögen** (Zahlungsmittelbestand + Forderungen - Verbindlichkeiten).
+<!--SR:!2025-12-17,1,230-->
 
 Welche Bestandsgröße verändern Ertrag und Aufwand? :: Das **Reinvermögen** (Eigenkapital nach HGB/FiBu).
 
 Welche Bestandsgröße verändern Leistungen und Kosten? :: Das **betriebsnotwendige Vermögen** (KLR).
 
 Ein Zielverkauf (Ware geliefert, Rechnung gestellt, Zahlung später) ist sofort eine Einnahme, aber noch keine... :: **Einzahlung** (da das Geld erst später fließt).
+<!--SR:!2025-12-17,1,230-->
 
 Die Aufnahme eines Bankkredits ist eine Einzahlung, aber keine... :: **Einnahme** (da sich Forderungen und Verbindlichkeiten ausgleichen und das Geldvermögen gleich bleibt).
 
 Was sind Grundkosten? :: Kosten, denen in der FiBu ein Aufwand in exakt gleicher Höhe gegenübersteht (Aufwand = Kosten).
 
 Was sind Anderskosten? :: Kosten, denen zwar ein Aufwand gegenübersteht, der aber mit einem anderen Wert angesetzt wird (z.B. kalkulatorische vs. bilanzielle Abschreibung).
+<!--SR:!2025-12-17,1,230-->
 
 Was sind Zusatzkosten? :: Kosten, denen in der FiBu **kein** Aufwand gegenübersteht (z.B. kalkulatorischer Unternehmerlohn, kalkulatorische Miete).
+<!--SR:!2025-12-17,1,230-->
 
 Nenne die drei Kategorien des neutralen Aufwands (die NICHT in die KLR übernommen werden). :: 1. Betriebsfremd (z.B. Spende), 2. Periodenfremd (z.B. Steuernachzahlung), 3. Außerordentlich (z.B. Katastrophenschaden).
 

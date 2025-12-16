@@ -28,10 +28,10 @@ $$
 
 
 Was ist der EBIT? :: Der EBIT (Earnings Before Interest and Taxes) ist der **operative Gewinn** vor Abzug von Zinsen und Steuern. Er dient als Maßstab für die operative Ertragskraft, unabhängig von Finanzierung und Standort.
-<!--SR:!2025-12-09,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 Wie berechnet man den EBIT (Bottom-Up)? :: $$EBIT = \text{Jahresüberschuss} + \text{Steuern} + \text{Zinsen}$$
-<!--SR:!2025-12-09,1,230-->
+<!--SR:!2025-12-17,1,210-->
 
 ---
 ### Verwendung

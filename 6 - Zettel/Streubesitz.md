@@ -51,6 +51,7 @@ Zählen Aktien, die das Land Niedersachsen an VW hält (20%), zum Streubesitz? :
 Warum ist der Streubesitz für die Aufnahme in Indizes (wie den DAX) wichtig? :: Weil Indizes meist nach der **Marktkapitalisierung des Streubesitzes** gewichtet werden (nicht nach dem Gesamtwert).
 
 Welche Auswirkung hat ein sehr niedriger Streubesitz auf den Aktienhandel? :: Die Aktie ist oft **illiquide** und der Kurs schwankt stärker (hohe Volatilität), da wenige Stücke gehandelt werden.
+<!--SR:!2025-12-17,1,230-->
 
 
 ---

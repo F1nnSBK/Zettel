@@ -57,6 +57,7 @@ Diese Klauseln regeln das Verhältnis zu _anderen_ Gläubigern:
 #### Flashcards
 
 Was sind Covenants (Kreditklauseln)? :: Vertragliche Nebenabreden im Kreditvertrag, in denen sich der Kreditnehmer zu bestimmtem Verhalten oder der Einhaltung von Kennzahlen verpflichtet.
+<!--SR:!2025-12-17,1,230-->
 
 Was ist der Zweck von Covenants aus Sicht der Bank? :: Sie dienen als **Frühwarnsystem**, um Risiken zu erkennen und einzugreifen, _bevor_ der Kreditnehmer zahlungsunfähig wird.
 

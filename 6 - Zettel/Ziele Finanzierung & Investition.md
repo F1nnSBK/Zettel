@@ -32,6 +32,7 @@ Es lassen sich drei fundamentale Beziehungen ableiten:
 #### Flashcards
 
 Nenne die drei Eckpunkte des "Magischen Dreiecks" der Geldanlage. :: Liquidität, Rentabilität, Sicherheit.
+<!--SR:!2025-12-17,1,230-->
 
 Welche Beziehung besteht zwischen Rentabilität und Liquidität? :: Ein **Zielkonflikt**: Hohe Liquidität (Cash) erwirtschaftet keine Rendite (Opportunitätskosten).
 

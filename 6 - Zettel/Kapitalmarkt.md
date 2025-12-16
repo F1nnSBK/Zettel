@@ -38,12 +38,14 @@ Um am organisierten Kapitalmarkt teilzunehmen, ist eine emissionsfähige Rechtsf
 #### Flashcards
 
 Wie grenzt sich der Kapitalmarkt vom Geldmarkt ab? :: Durch die Fristigkeit: Der Kapitalmarkt dient der **mittel- und langfristigen** Finanzierung (> 1 Jahr), der Geldmarkt der kurzfristigen.
+<!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen Primärmarkt und Sekundärmarkt? :: Auf dem **Primärmarkt** werden Titel neu ausgegeben (Geldfluss ans Unternehmen), auf dem **Sekundärmarkt** werden bestehende Titel gehandelt (kein Geldfluss ans Unternehmen).
 
 Nenne die drei zentralen Transformationsfunktionen des Kapitalmarktes. :: [[Losgrößentransformation]], [[Fristentransformation]], [[Risikotransformation]].
 
 Was versteht man unter Losgrößentransformation? :: Die Bündelung vieler kleiner Anlagebeträge (Sparer) zu großen Finanzierungsvolumina (Unternehmen).
+<!--SR:!2025-12-17,1,230-->
 
 Warum sind in Deutschland vergleichsweise wenige Unternehmen börsennotiert? :: Aufgrund der starken Stellung der Bankenfinanzierung, hohen Transparenzpflichten an der Börse und hohen Emissionskosten.
 

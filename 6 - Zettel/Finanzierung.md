@@ -92,6 +92,7 @@ $$\text{Liquidität 3. Grades}=\frac{\text{Umlaufvermögen}}{\text{Kurzfr. Verbi
 Welchen Wert sollte die Liquidität 3. Grades mindestens annehmen? :: $\ge 1$ (bzw. $100\%$).
 
 Was sind die zwei primären Insolvenzgründe für Kapitalgesellschaften? :: [[Zahlungsunfähigkeit]] (Illiquidität) und [[Überschuldung]].
+<!--SR:!2025-12-17,1,230-->
 
 
 ---
