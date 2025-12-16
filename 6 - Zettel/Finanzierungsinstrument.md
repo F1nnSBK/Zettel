@@ -31,12 +31,15 @@ Mischformen zwischen Eigen- und Fremdkapital.
 Was sind Finanzierungsinstrumente? :: Verträge über die Bereitstellung von Kapital, die die Rechte und Pflichten zwischen Kapitalgeber und -nehmer regeln.
 
 In welche zwei Hauptkategorien lassen sich Finanzierungsinstrumente nach der Rechtsstellung unterteilen? :: [[Eigenkapital]] (Beteiligungstitel) und [[Fremdkapital]] (Forderungstitel).
+<!--SR:!2025-12-17,1,230-->
 
 Nenne ein Beispiel für ein verbrieftes Eigenfinanzierungsinstrument. :: Die [[Aktie]].
 
 Nenne ein Beispiel für ein verbrieftes Fremdfinanzierungsinstrument. :: Die [[Anleihen]] (Bonds / Schuldverschreibungen).
+<!--SR:!2025-12-17,1,230-->
 
 Was unterscheidet ein Darlehen von einer Anleihe? :: Ein Darlehen ist ein individueller Kreditvertrag (meist Bank), eine Anleihe ist ein wertpapiermäßig verbriefter Kredit, der am Markt gehandelt werden kann.
+<!--SR:!2025-12-17,1,230-->
 
 
 

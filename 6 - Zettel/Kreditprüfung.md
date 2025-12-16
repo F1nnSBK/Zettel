@@ -89,22 +89,27 @@ Was ist der Zweck der Kapitaldienstfähigkeit? :: Sie misst, ob der operative Ca
 Wie lautet die Formel für die Kapitaldienstfähigkeit?
 ?
 $$\text{Kapitaldienstfähigkeit} = \frac{\text{Operativer Cash Flow}}{\text{Zinszahlungen} + \text{Tilgungszahlungen}}$$
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die Formel für den dynamischen Verschuldungsgrad?
 ?
 $$\text{Dynamischer Verschuldungsgrad}=\frac{\text{Finanzschulden}}{\text{Operativer Cash Flow}}$$
 
 Welcher Wert wird als Obergrenze für den dynamischen Verschuldungsgrad angesehen? :: Maximal **7 Jahre** (Faustregel für die theoretische Entschuldungsdauer).
+<!--SR:!2025-12-17,1,230-->
 
 Was ist der entscheidende Unterschied zwischen einer gewöhnlichen und einer selbstschuldnerischen Bürgschaft? :: Bei der **gewöhnlichen** Bürgschaft muss die Bank erst beim Schuldner vollstrecken (Einrede der Vorausklage). Bei der **selbstschuldnerischen** kann sie sofort den Bürgen in Anspruch nehmen.
+<!--SR:!2025-12-17,1,230-->
 
 Warum bevorzugen Banken die Grundschuld gegenüber der Hypothek? :: Weil die Grundschuld **nicht-akzessorisch** (abstrakt) ist. Sie erlischt nicht automatisch mit der Tilgung und kann flexibel für neue Kredite wiederverwendet werden.
 
 Wer ist bei einer Sicherungsübereignung Eigentümer der Sache? :: Die **Bank** (Sicherungsnehmer). Der Kreditnehmer bleibt nur Besitzer.
+<!--SR:!2025-12-17,1,230-->
 
 Aus welchen vier Komponenten setzt sich der Nominalzins einer Bank kalkulatorisch zusammen? :: Refinanzierungskosten, Betriebskosten, Risikokosten (Risikoprämie), Gewinnmarge.
 
 Was passiert bei einem "Covenant Breach" (Verletzung von Kreditklauseln)? :: Die Bank erhält Sonderrechte: Zinserhöhung, Nachbesicherung oder Kündigung des Kredits.
+<!--SR:!2025-12-17,1,230-->
 
 
 

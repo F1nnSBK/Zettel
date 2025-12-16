@@ -60,16 +60,19 @@ Was sind Covenants (Kreditklauseln)? :: Vertragliche Nebenabreden im Kreditvertr
 <!--SR:!2025-12-17,1,230-->
 
 Was ist der Zweck von Covenants aus Sicht der Bank? :: Sie dienen als **Frühwarnsystem**, um Risiken zu erkennen und einzugreifen, _bevor_ der Kreditnehmer zahlungsunfähig wird.
+<!--SR:!2025-12-17,1,228-->
 
 Was sind **Financial Covenants**? :: Verpflichtungen zur Einhaltung quantitativer Finanzkennzahlen (z.B. Mindest-Eigenkapitalquote, Höchst-Verschuldungsgrad).
 
 Was sind **Affirmative Covenants**? :: Gebote, bestimmte Handlungen vorzunehmen (z.B. Instandhaltung von Vermögenswerten, Einreichen von Quartalsberichten).
 
 Was sind **Negative Covenants**? :: Verbote, bestimmte Handlungen zu unterlassen (z.B. keine weiteren Kredite aufnehmen, keine Vermögenswerte verkaufen).
+<!--SR:!2025-12-17,1,228-->
 
 Was besagt die **Negative Pledge** Klausel (Negativerklärung)? :: Das Verbot, anderen Gläubigern Sicherheiten zu gewähren, ohne den aktuellen Kreditgeber gleichzustellen (Verpfändungsverbot).
 
 Was besagt die **Pari-Passu** Klausel? :: Die Zusicherung, dass der Kredit im Insolvenzfall **im gleichen Rang** steht wie alle anderen unbesicherten Verbindlichkeiten (Gleichrangigkeit).
+<!--SR:!2025-12-17,1,228-->
 
 Was besagt die **Cross-Default-Clause** (Drittverzugsklausel)? :: Wenn der Schuldner bei einem _anderen_ Gläubiger in Verzug gerät, gilt auch dieser Kreditvertrag als gebrochen (Kündigungsrecht).
 

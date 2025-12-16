@@ -64,6 +64,7 @@ Was ist der Zweck der Kennzahl **EBIT**? :: Sie zeigt die Stärke des **operativ
 <!--SR:!2025-12-17,1,230-->
 
 Was zeigt das **EBITDA** an und wofür wird es als Proxy verwendet? :: Es zeigt die Ertragskraft vor Zinsen, Steuern und Abschreibungen (DA) und dient als Näherungswert für den **operativen Cashflow**.
+<!--SR:!2025-12-17,1,223-->
 
 Wie lautet die Formel zur Berechnung der Umsatzrendite (ROS)?
 ?
@@ -80,12 +81,14 @@ $$ \text{Zinsdeckungsgrad} = \frac{\text{EBIT}}{\text{Zinsaufwand}}$$
 Was ist der Zielwert für den **Zinsdeckungsgrad** bei gesunden Unternehmen? :: Er sollte idealerweise **$> 2$** (besser $> 3$) sein.
 
 Welche Funktion erfüllt die **Eigenkapitalquote** im Hinblick auf die Unternehmenssicherheit? :: Sie dient als **Verlustpuffer** und ist ein wichtiger Indikator für die Bonität und Krisenfestigkeit (Solvenz).
+<!--SR:!2025-12-17,1,223-->
 
 Ab welchem Richtwert gilt die **Eigenkapitalquote** als solide? :: Ab **$> 33\%$**.
 
 Was ist die Hauptanforderung an den **Operativen Cash Flow (OCF)**? :: Er muss **positiv** sein und im Idealfall die **Investitionen** decken (dann spricht man von Free Cash Flow).
 
 Was misst der **Cash Conversion Cycle (CCC)**? :: Die Dauer in Tagen, bis aus einer Investition in Waren/Materialien durch Verkauf und Zahlungseingang wieder **flüssige Mittel** generiert werden.
+<!--SR:!2025-12-17,1,223-->
 
 Welche der drei Working Capital Kennzahlen (DIO, DRO, DPO) sollte **lang** sein, um die Liquidität zu verbessern? :: **DPO** (Days Payables Outstanding), da die Zahlungsfrist an die Lieferanten verlängert wird.
 

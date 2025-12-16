@@ -32,6 +32,7 @@ Welchen Einfluss hat die Bonität auf die Finanzierungskosten? :: Je besser die 
 <!--SR:!2025-12-17,1,230-->
 
 Was ist das Ergebnis einer Bonitätsprüfung bei Unternehmen? :: Ein [[Rating]].
+<!--SR:!2025-12-17,1,226-->
 
 ---
 ### Verwendung

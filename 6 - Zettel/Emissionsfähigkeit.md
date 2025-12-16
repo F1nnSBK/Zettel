@@ -42,11 +42,13 @@ Welche deutschen Rechtsformen sind (hinsichtlich Aktien) emissionsfähig? :: Die
 <!--SR:!2025-12-17,1,230-->
 
 Warum ist die Robert Bosch GmbH nicht an der Börse notiert? :: Weil sie eine **GmbH** ist und somit nicht emissionsfähig für Aktien ist (Anteile sind nicht fungibel handelbar wie Aktien).
+<!--SR:!2025-12-17,1,224-->
 
 Kann eine Personengesellschaft (z.B. OHG) Aktien emittieren? :: Nein, Personengesellschaften sind nicht emissionsfähig für Eigenkapitaltitel.
 <!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen der Finanzierung der Deutsche Bank AG und der Robert Bosch GmbH? :: Die Deutsche Bank AG kann ihr Eigenkapital über die **Börse** (Aktienemission) erhöhen, die Bosch GmbH ist auf Einlagen der Gesellschafter oder Gewinnthesaurierung angewiesen.
+<!--SR:!2025-12-17,1,224-->
 
 Ist die Aufnahme eines Darlehens von der Emissionsfähigkeit abhängig? :: Nein, ein Darlehen (Kreditvertrag) kann jede Rechtsform aufnehmen; Emissionsfähigkeit bezieht sich auf verbriefte Wertpapiere.
 <!--SR:!2025-12-17,1,230-->

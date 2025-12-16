@@ -29,8 +29,10 @@ Was ist eine Kreditlinie (Kontokorrentkredit)? :: Ein eingeräumter Kreditrahmen
 Was bedeutet es, wenn eine Kreditlinie "valutiert" ist? :: Dass der Kreditrahmen tatsächlich genutzt (gezogen) wurde; auf diesen Teil fallen Zinsen an.
 
 Welche Kündigungsfrist haben Kreditlinien (Kontokorrentkredite) üblicherweise? :: Sie sind meist **täglich fällig** (jederzeit kündbar).
+<!--SR:!2025-12-17,1,228-->
 
 Wozu dient eine Kreditlinie primär? :: Zur Sicherung der kurzfristigen Liquidität (Working Capital) und zum Ausgleich von Zahlungsschwankungen.
+<!--SR:!2025-12-17,1,228-->
 
 ---
 ### Verwendung

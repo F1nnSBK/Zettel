@@ -36,6 +36,7 @@ Wie lautet die Entscheidungsregel bei der Auswahl zwischen zwei Alternativen (Am
 Warum wird die Amortisationsrechnung oft kritisiert (Hauptnachteil)? :: Sie ignoriert alle Zahlungsströme, die **nach** der Amortisationszeit anfallen, und trifft keine Aussage über die Gesamtrentabilität.
 
 Ist die Amortisationsrechnung als alleiniges Entscheidungskriterium geeignet? :: Nein, sie sollte nur als **Ergänzung** (Risikoindikator) zu dynamischen Verfahren wie dem Kapitalwert genutzt werden.
+<!--SR:!2025-12-17,1,228-->
 
 ---
 ### Verwendung

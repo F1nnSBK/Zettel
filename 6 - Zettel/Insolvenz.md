@@ -45,11 +45,13 @@ Was sind die drei Insolvenzgründe nach der deutschen Insolvenzordnung (InsO)? :
 Ab wann gilt ein Unternehmen in der Regel als zahlungsunfähig (Faustregel BGH)? :: Wenn eine Liquiditätslücke von **$\ge$ 10%** für mehr als **3 Wochen** besteht.
 
 Welcher Insolvenzgrund betrifft speziell Kapitalgesellschaften (z.B. GmbH), nicht aber Einzelunternehmen? :: Die [[Überschuldung]] (§ 19 InsO).
+<!--SR:!2025-12-17,1,228-->
 
 Was besagt die "Positive Fortführungsprognose" im Kontext der Überschuldung? :: Dass trotz rechnerischer Überschuldung (negatives EK) kein Insolvenzantrag gestellt werden muss, wenn die Finanzkraft für die nächsten 12 Monate gesichert scheint.
 <!--SR:!2025-12-17,1,230-->
 
 Bei welchem Insolvenzgrund besteht ein Wahlrecht zur Antragstellung (keine Pflicht)? :: Bei der **drohenden Zahlungsunfähigkeit** (§ 18 InsO).
+<!--SR:!2025-12-17,1,228-->
 
 
 

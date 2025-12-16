@@ -55,10 +55,12 @@ Grund: Wir wollen den absoluten Vermögenszuwachs (Euro) maximieren, nicht die p
 Wie ist der Interne Zinsfuß mathematisch definiert? :: Als der Zinssatz $i$, für den der Kapitalwert $KW_0$ der Investition gleich 0 ist.
 
 Wann ist eine Investition nach der IZF-Methode vorteilhaft? :: Wenn der Interne Zinsfuß ($IZF$) höher ist als die Kapitalkosten (Kalkulationszins).
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die allgemeine Formel zur Bestimmung des IZF (Ansatz)?
 ?
 $$0 = -I_{0} + \sum_{t=1}^{n} \frac{CF_{t}}{(1+i)^{t}} + \frac{R_{n}}{(1+i)^{n}}$$
+<!--SR:!2025-12-17,1,230-->
 
 Wie lautet die spezifische $i_{IZF}$ Formel für vorgegebene Szenarien (Ohne Restwert)?
 ?

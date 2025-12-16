@@ -57,17 +57,20 @@ Was passiert am "Ex-Dividende"-Tag mit dem Aktienkurs? :: Der Kurs sinkt rechner
 Wie lautet die Formel für die Dividendenrendite?
 ?
 $$\text{Dividendenrendite} = \frac{\text{Dividende je Aktie}}{\text{Aktienkurs}} \cdot 100$$
+<!--SR:!2025-12-17,1,224-->
 
 Was sagt die Ausschüttungsquote (Payout Ratio) aus? :: Welchen prozentualen Anteil des Jahresüberschusses (Gewinns) das Unternehmen an die Aktionäre auszahlt (vs. Thesaurierung).
 
 Wie lautet die Formel für die Ausschüttungsquote?
 ?
 $$\text{Ausschüttungsquote} = \frac{\text{Dividende je Aktie (DPS)}}{\text{Gewinn je Aktie (EPS)}}$$
+<!--SR:!2025-12-17,1,224-->
 
 Warum haben Wachstumsunternehmen (Tech) oft eine niedrige Dividendenrendite? :: Weil sie Gewinne lieber reinvestieren ([[Thesaurierung]]), um weiteres Wachstum zu finanzieren, statt sie auszuschütten.
 <!--SR:!2025-12-17,1,230-->
 
 Ein Unternehmen zahlt 2 € Dividende bei einem Gewinn von 4 € pro Aktie. Wie hoch ist die Ausschüttungsquote? :: 50 %.
+<!--SR:!2025-12-17,1,224-->
 
 
 ---

@@ -36,6 +36,7 @@ $$AZ = n + \frac{CF_{ua}}{CF_t}$$
 #### Flashcards
 
 Wann wird die vereinfachte Amortisationsformel ($I_0 / C$) angewendet? :: Nur bei konstanten jährlichen Rückflüssen (Annuitäten).
+<!--SR:!2025-12-17,1,226-->
 
 Welches Entscheidungskriterium gilt bei der Amortisationsrechnung im Vergleich zweier Projekte? :: Wähle das Projekt mit der kürzeren Amortisationszeit.
 

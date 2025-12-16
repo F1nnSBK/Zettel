@@ -50,6 +50,7 @@ Wofür entschädigt der Credit Spread den Investor? :: Für das **Bonitätsrisik
 Wie lautet die Formel für den Unternehmenszins unter Einbeziehung des Spreads?
 ?
 $$\text{Zins} = \text{Risk Free Rate} + \text{Credit Spread}$$
+<!--SR:!2025-12-17,1,222-->
 
 Was sind "Basispunkte" (bps)? :: Eine Maßeinheit für Zinsdifferenzen. $1 \text{ bp} = 0,01\%$.
 <!--SR:!2025-12-17,1,230-->

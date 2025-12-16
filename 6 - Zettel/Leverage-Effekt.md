@@ -27,6 +27,7 @@ Mit steigendem Verschuldungsgrad nimmt die Variabilität der Eigenkapitalrendite
 #### Flashcards
 
 Was beschreibt der Leverage-Effekt? :: Die Hebelwirkung des Fremdkapitals auf die Eigenkapitalrentabilität bei steigendem Verschuldungsgrad.
+<!--SR:!2025-12-17,1,224-->
 
 Wie lautet die zentrale Bedingung für einen positiven Leverage-Effekt?
 ?

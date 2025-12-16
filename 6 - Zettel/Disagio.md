@@ -43,6 +43,7 @@ Wie wirkt sich ein Disagio auf den Effektivzins eines Darlehens aus? :: Es **erh
 Ist die Ausgabe von Aktien mit einem Disagio (unter Nennwert) erlaubt? :: Nein, das ist gemäß § 9 AktG **verboten**.
 
 Wie kann ein Disagio bilanziell behandelt werden (HGB)? :: Es kann entweder sofort als Aufwand verbucht oder als **ARAP** (Aktiver Rechnungsabgrenzungsposten) aktiviert und über die Laufzeit abgeschrieben werden.
+<!--SR:!2025-12-17,1,226-->
 
 
 ---
