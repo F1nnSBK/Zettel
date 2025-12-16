@@ -113,12 +113,14 @@ Was ist eine "Ordentliche Kapitalerhöhung"? :: Die Erhöhung des Grundkapitals 
 Wozu dient das Genehmigte Kapital? :: Es ermächtigt den Vorstand (auf Vorrat für max. 5 Jahre), das Grundkapital ohne erneuten HV-Beschluss flexibel zu erhöhen.
 
 Warum erhalten Altaktionäre bei einer Kapitalerhöhung ein Bezugsrecht? :: Um ihren prozentualen Anteil am Unternehmen (Stimmkraft & Vermögen) vor **Verwässerung** zu schützen.
+<!--SR:!2025-12-17,1,226-->
 
 Wie lautet die Formel für den Wert des Bezugsrechts ($B$)?
 ?
 $$B = \frac{K_a - K_e}{\frac{a}{n} + 1}$$
 
 Profitiert ein Unternehmen finanziell direkt davon, wenn der Aktienkurs an der Börse steigt (Sekundärmarkt)? :: Nein, das Geld fließt nur zwischen den Anlegern. Indirekt hilft es aber bei zukünftigen Kapitalerhöhungen oder Übernahmen.
+<!--SR:!2025-12-17,1,226-->
 
 ---
 ### Verwendung

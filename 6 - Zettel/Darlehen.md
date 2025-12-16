@@ -95,6 +95,7 @@ Was ist ein Darlehen rechtlich gesehen? :: Ein schuldrechtlicher Vertrag, bei de
 <!--SR:!2025-12-17,1,230-->
 
 Was ist der Unterschied zwischen Nominalzins und Effektivzins? :: Der **Nominalzins** ist die Basis für die Zinsberechnung p.a., der **Effektivzins** beinhaltet alle Nebenkosten (Gebühren, Disagio) und dient als Vergleichsgröße.
+<!--SR:!2025-12-17,1,223-->
 
 Was versteht man unter dem Kapitaldienst? :: Die Summe aus **Zins** und **Tilgung**, die pro Periode an den Kreditgeber zu zahlen ist.
 
@@ -102,12 +103,14 @@ Wie verläuft der Zahlungsstrom beim "Endfälligen Darlehen" (Bullet Loan)? :: W
 <!--SR:!2025-12-17,1,230-->
 
 Wie verläuft der Zahlungsstrom beim "Null-Kupon-Darlehen" (Zero Bond)? :: Es gibt keine laufenden Zahlungen. Zinsen werden angesammelt (thesauriert) und am Ende zusammen mit der Tilgung gezahlt.
+<!--SR:!2025-12-17,1,223-->
 
 Was ist das Kennzeichen eines Annuitätendarlehens? :: Die jährliche Rate (Annuität) ist konstant. Der Zinsanteil sinkt, der **Tilgungsanteil steigt** über die Laufzeit.
 
 Wie lautet die Formel für den Annuitätenfaktor (ANF)?
 ?
 $$ANF(i, n) = \frac{(1+i)^n \cdot i}{(1+i)^n -1}$$
+<!--SR:!2025-12-17,1,223-->
 
 Was ist ein partiarisches Darlehen? :: Ein Darlehen, bei dem der Zins vom Erfolg (z.B. Gewinn oder Umsatz) des Unternehmens abhängt (Gewinnbeteiligung).
 
@@ -115,6 +118,7 @@ Wofür steht die Abkürzung EURIBOR? :: Euro Interbank Offered Rate (Zinssatz, z
 <!--SR:!2025-12-17,1,230-->
 
 Was ist eine **akzessorische** Sicherheit? :: Eine Sicherheit, die rechtlich zwingend vom Bestehen der Forderung abhängt (z.B. Bürgschaft, Hypothek). Ist der Kredit getilgt, erlischt die Sicherheit.
+<!--SR:!2025-12-17,1,223-->
 
 Was ist eine **fiduziarische** (nicht-akzessorische) Sicherheit? :: Eine Sicherheit, die rechtlich abstrakt/unabhängig von der Forderung besteht (z.B. Grundschuld, Sicherungsübereignung).
 

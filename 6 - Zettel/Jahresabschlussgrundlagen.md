@@ -55,17 +55,22 @@ Welche der vier Größenklassen sind nach HGB von der Prüfungspflicht durch ein
 Was ist die zentrale Pflicht eines jeden Kaufmanns nach § 238 HGB? :: Die Verpflichtung zur **Aufstellung** des Jahresabschlusses (Buchführungspflicht).
 <!--SR:!2025-12-17,1,230-->
 
-Welches Rechnungslegungsregelwerk ist immer für den **Einzelabschluss** in Deutschland maßgebend? :: Das **HGB** (Handelsgesetzbuch). 
+Welches Rechnungslegungsregelwerk ist immer für den **Einzelabschluss** in Deutschland maßgebend? :: Das **HGB** (Handelsgesetzbuch).
+<!--SR:!2025-12-17,1,228-->
 
-Wann muss ein Konzernabschluss zwingend nach **IFRS** erstellt werden? :: Wenn das Unternehmen **kapitalmarktorientiert** (börsennotiert) ist, um internationale Vergleichbarkeit zu gewährleisten. 
+Wann muss ein Konzernabschluss zwingend nach **IFRS** erstellt werden? :: Wenn das Unternehmen **kapitalmarktorientiert** (börsennotiert) ist, um internationale Vergleichbarkeit zu gewährleisten.
+<!--SR:!2025-12-17,1,228-->
 
-Was ist das Ziel der IFRS im Gegensatz zum HGB? :: Bessere internationale **Vergleichbarkeit** für Investoren, während das HGB primär dem **Gläubigerschutz** dient. 
+Was ist das Ziel der IFRS im Gegensatz zum HGB? :: Bessere internationale **Vergleichbarkeit** für Investoren, während das HGB primär dem **Gläubigerschutz** dient.
+<!--SR:!2025-12-17,1,228-->
 
-Nenne die drei Hauptfunktionen, die der Jahresabschluss nach HGB erfüllt. :: **Dokumentation** (Beweissicherung), **Zahlungsbemessung** (Steuern/Ausschüttung), **Information** (tatsächliches Bild der Lage). 
+Nenne die drei Hauptfunktionen, die der Jahresabschluss nach HGB erfüllt. :: **Dokumentation** (Beweissicherung), **Zahlungsbemessung** (Steuern/Ausschüttung), **Information** (tatsächliches Bild der Lage).
+<!--SR:!2025-12-17,1,228-->
 
 Welche Funktion des Jahresabschlusses ist eng mit dem Gläubigerschutz verbunden? :: Die **Dokumentationsfunktion** und die **Zahlungsbemessungsfunktion** (durch Begrenzung der Ausschüttung auf den Bilanzgewinn). 
 
-Was besagt das "Maßgeblichkeitsprinzip" im Kontext von Handels- und Steuerbilanz? :: Die **Handelsbilanz (HGB)** ist grundsätzlich die **Grundlage** (**maßgeblich**) für die Aufstellung der **Steuerbilanz**. 
+Was besagt das "Maßgeblichkeitsprinzip" im Kontext von Handels- und Steuerbilanz? :: Die **Handelsbilanz (HGB)** ist grundsätzlich die **Grundlage** (**maßgeblich**) für die Aufstellung der **Steuerbilanz**.
+<!--SR:!2025-12-17,1,228-->
 
 Welche Kapitalgesellschaften haben die Pflicht zur **Offenlegung (Publizität)** im Bundesanzeiger? :: **Alle** Kapitalgesellschaften (Kleinst, Klein, Mittel, Groß), wobei Kleine Erleichterungen haben. 
 

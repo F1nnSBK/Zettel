@@ -74,20 +74,24 @@ Beispiel: Kapitalerhöhung mit Stimmrecht verwässert die Macht der Altaktionär
 #### Flashcards
 
 Was ist der Unterschied zwischen Außen- und Innenfinanzierung? :: **Außenfinanzierung** führt Kapital von externen Märkten zu (Einlagen/Kredite), **Innenfinanzierung** generiert Kapital aus dem Umsatzprozess (Gewinneinbehaltung/Abschreibungen).
+<!--SR:!2025-12-17,1,228-->
 
 Wie unterscheiden sich Eigen- und Fremdkapital hinsichtlich der **Haftung**? :: **EK:** Haftet voll für Verluste (nachrangig im Insolvenzfall). **FK:** Haftet nicht (vorrangig im Insolvenzfall).
 
 Wie unterscheiden sich Eigen- und Fremdkapital steuerlich? :: **FK-Zinsen** sind als Betriebsausgaben steuerlich abzugsfähig (Tax Shield), **EK-Gewinnausschüttungen** nicht.
+<!--SR:!2025-12-17,1,228-->
 
 Wie lautet die Formel für den WACC (Weighted Average Cost of Capital) im Grundmodell?
 ?
 $$WACC = \frac{EK}{GK} \cdot r_{EK} + \frac{FK}{GK} \cdot r_{FK}$$
+<!--SR:!2025-12-17,1,228-->
 
 Wann liegt bilanziell eine Überschuldung vor? :: Wenn das Eigenkapital durch Verluste aufgezehrt ist ($EK < 0$), also das Vermögen kleiner ist als die Verbindlichkeiten.
 
 Wie lautet die Formel für die Liquidität 3. Grades (Current Ratio)?
 ?
 $$\text{Liquidität 3. Grades}=\frac{\text{Umlaufvermögen}}{\text{Kurzfr. Verbindlichkeiten}}$$
+<!--SR:!2025-12-17,1,228-->
 
 Welchen Wert sollte die Liquidität 3. Grades mindestens annehmen? :: $\ge 1$ (bzw. $100\%$).
 

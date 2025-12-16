@@ -130,8 +130,10 @@ Was ist die zentrale Frage der Kostenartenrechnung? :: **Welche** Kosten sind in
 <!--SR:!2025-12-17,1,230-->
 
 Was sind Einzelkosten? :: Kosten, die einem Kostenträger (Produkt) **direkt** zugerechnet werden können (z.B. Fertigungsmaterial, Akkordlohn).
+<!--SR:!2025-12-17,1,224-->
 
 Was sind Gemeinkosten? :: Kosten, die einem Kostenträger **nicht direkt** zugerechnet werden können und über Kostenstellen verteilt werden müssen (z.B. Miete, Gehälter, Strom).
+<!--SR:!2025-12-17,1,224-->
 
 Was sind variable Kosten? :: Kosten, die sich bei einer Änderung der Beschäftigung (Produktionsmenge) verändern (z.B. Rohstoffe).
 
@@ -139,6 +141,7 @@ Was sind fixe Kosten? :: Kosten, die unabhängig von der Beschäftigung (in eine
 <!--SR:!2025-12-17,1,230-->
 
 Was versteht man unter Fixkostendegression? :: Das Sinken der **Stückkosten** bei steigender Produktionsmenge, da sich die Fixkosten auf mehr Einheiten verteilen.
+<!--SR:!2025-12-17,1,224-->
 
 Wie lautet die Formel für die Inventurmethode (Materialverbrauch)?
 ?
@@ -150,20 +153,24 @@ Wie funktioniert die Skontrationsmethode (Fortschreibung)?
 ?
 Verbrauch laut Materialentnahmescheinen (IST).
 $$Verbrauch = \sum \text{Materialentnahmescheine}$$
+<!--SR:!2025-12-17,1,224-->
 
 Wie kann eine Behelfsmethode aussehen? :: Zugänge = Abgänge
 
 Worauf basiert die kalkulatorische Abschreibung (im Gegensatz zur bilanziellen)? :: Auf dem **Wiederbeschaffungswert** (statt Anschaffungskosten) und der tatsächlichen Nutzungsdauer.
+<!--SR:!2025-12-17,1,224-->
 
 Wie lautet die Formel für kalkulatorische Zinsen (Durchschnittsmethode mit/ohne Restwert)?
 ?
 $$\text{Kalk. Zinsen} = \frac{\text{Anschaffungswert} + \text{Restwert}}{2} \cdot \text{Zinssatz}$$ bzw.
 $$\text{Kalk. Zinsen} = \frac{\text{Anschaffungswert}}{2} \cdot \text{Zinssatz}$$
+<!--SR:!2025-12-17,1,224-->
 
 Sind kalkulatorische Kosten in der Regel Einzel- oder Gemeinkosten? :: Meistens **Fixe Gemeinkosten**.
 <!--SR:!2025-12-17,1,230-->
 
 Wie unterstützt die Kostenartenrechnung die statische Investitionsrechnung? :: Sie liefert die Daten (Kosten und Erlöse) für den **Kostenvergleich** und den Gewinnvergleich.
+<!--SR:!2025-12-17,1,224-->
 
 ---
 ### Verwendung

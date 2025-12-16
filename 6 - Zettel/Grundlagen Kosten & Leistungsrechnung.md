@@ -121,6 +121,7 @@ Welche Bestandsgröße verändern Einnahmen und Ausgaben? :: Das **Geldvermögen
 <!--SR:!2025-12-17,1,230-->
 
 Welche Bestandsgröße verändern Ertrag und Aufwand? :: Das **Reinvermögen** (Eigenkapital nach HGB/FiBu).
+<!--SR:!2025-12-17,1,222-->
 
 Welche Bestandsgröße verändern Leistungen und Kosten? :: Das **betriebsnotwendige Vermögen** (KLR).
 
@@ -130,6 +131,7 @@ Ein Zielverkauf (Ware geliefert, Rechnung gestellt, Zahlung später) ist sofort 
 Die Aufnahme eines Bankkredits ist eine Einzahlung, aber keine... :: **Einnahme** (da sich Forderungen und Verbindlichkeiten ausgleichen und das Geldvermögen gleich bleibt).
 
 Was sind Grundkosten? :: Kosten, denen in der FiBu ein Aufwand in exakt gleicher Höhe gegenübersteht (Aufwand = Kosten).
+<!--SR:!2025-12-17,1,222-->
 
 Was sind Anderskosten? :: Kosten, denen zwar ein Aufwand gegenübersteht, der aber mit einem anderen Wert angesetzt wird (z.B. kalkulatorische vs. bilanzielle Abschreibung).
 <!--SR:!2025-12-17,1,230-->
@@ -138,8 +140,10 @@ Was sind Zusatzkosten? :: Kosten, denen in der FiBu **kein** Aufwand gegenübers
 <!--SR:!2025-12-17,1,230-->
 
 Nenne die drei Kategorien des neutralen Aufwands (die NICHT in die KLR übernommen werden). :: 1. Betriebsfremd (z.B. Spende), 2. Periodenfremd (z.B. Steuernachzahlung), 3. Außerordentlich (z.B. Katastrophenschaden).
+<!--SR:!2025-12-17,1,222-->
 
 Was unterscheidet Einzelkosten von Gemeinkosten? :: **Einzelkosten** können einem Produkt direkt zugeordnet werden, **Gemeinkosten** nur indirekt über Kostenstellen.
+<!--SR:!2025-12-17,1,222-->
 
 
 

@@ -67,6 +67,7 @@ Was unterscheidet einen Business Angel primär von einer Venture Capital Gesells
 In welcher Unternehmensphase steigen Business Angels typischerweise ein? :: In der **Early Stage** (Gründungs- oder Seed-Phase).
 
 Welche Rechte hat ein "normaler" Gesellschafter (offene Beteiligung)? (Nenne 3) :: Stimmrecht, Gewinnbezugsrecht (Dividende), Anteil am Liquidationserlös/Wertsteigerung.
+<!--SR:!2025-12-17,1,228-->
 
 Was ist das zentrale Merkmal einer **typisch** stillen Beteiligung? :: Der stille Gesellschafter ist am Gewinn, aber **nicht** am Vermögenszuwachs (stille Reserven) beteiligt (Vergleichbar mit einem Gläubiger).
 
@@ -75,6 +76,7 @@ Was unterscheidet die **atypisch** stille Beteiligung von der typischen? :: Der 
 Warum kostet Eigenkapital Geld, obwohl keine Zinsen gezahlt werden müssen? :: Wegen der **Opportunitätskosten**: Investoren erwarten eine Rendite für das eingegangene Risiko (Risikoprämie), die sie woanders hätten erzielen können.
 
 Wie wird eine Bareinlage eines Gesellschafters grundsätzlich gebucht? :: Bank (Aktiva) an Gezeichnetes Kapital (Passiva).
+<!--SR:!2025-12-17,1,228-->
 
 ---
 ### Verwendung

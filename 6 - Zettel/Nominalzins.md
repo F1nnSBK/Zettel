@@ -35,6 +35,7 @@ Welche Kostenkomponente des Nominalzinses ist direkt von der Bonität des Kunden
 <!--SR:!2025-12-17,1,230-->
 
 Unterschied Nominalzins vs. Effektivzins? :: Der Nominalzins ist die Rechenbasis für die Zinszahlung, der Effektivzins enthält alle Preiskomponenten (Gebühren, Disagio) als Vergleichsgröße.
+<!--SR:!2025-12-17,1,226-->
 
 ---
 ### Verwendung

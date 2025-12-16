@@ -36,10 +36,12 @@ $$WACC = \frac{EK}{GK} \cdot r_{EK} + \frac{FK}{GK} \cdot r_{FK} \cdot (1 - s)$$
 #### Flashcards
 
 Wofür steht die Abkürzung WACC? :: Weighted Average Cost of Capital (Gewichtete durchschnittliche Kapitalkosten).
+<!--SR:!2025-12-17,1,228-->
 
 Wie lautet die WACC-Formel?
 ?
 $$WACC = \frac{EK}{GK} \cdot r_{EK} + \frac{FK}{GK} \cdot r_{FK}$$
+<!--SR:!2025-12-17,1,228-->
 
 Warum muss der Term $(1-s)$ bei den Fremdkapitalkosten berücksichtigt werden? :: Weil Fremdkapitalzinsen steuerlich absetzbar sind (Betriebsausgaben) und somit die effektive Steuerlast senken (**Tax Shield**).
 

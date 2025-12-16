@@ -65,13 +65,16 @@ Welche fünf Bestandteile umfasst der Jahresabschluss einer großen Kapitalgesel
 5. **Kapitalflussrechnung** (Geldströme)
 
 Was ist der Zweck des **Anhangs** im Jahresabschluss? :: Er erläutert die angewandten Bilanzierungs- und Bewertungsmethoden (z.B. wie abgeschrieben wurde).
+<!--SR:!2025-12-17,1,222-->
 
 Wo wird der Geschäftsverlauf, Risiken und die Prognose dargestellt? :: Im **Lagebericht** (gehört nicht streng zum JA, wird aber zusammen geprüft).
+<!--SR:!2025-12-17,1,222-->
 
 Was zeigt die **Aktivseite** der Bilanz an? :: Die **Mittelverwendung** ("Wo steckt das Geld?", z.B. in Maschinen oder Vorräten).
 <!--SR:!2025-12-17,1,230-->
 
 Was zeigt die **Passivseite** der Bilanz an? :: Die **Mittelherkunft** ("Woher kommt das Geld?", z.B. von Eigentümern oder Banken).
+<!--SR:!2025-12-17,1,222-->
 
 Was ist das Unterscheidungsmerkmal zwischen **Anlagevermögen (AV)** und **Umlaufvermögen (UV)**? :: Das AV dient dem Betrieb **dauerhaft**, das UV ist für den kurzfristigen Verbrauch oder Verkauf bestimmt.
 
@@ -81,6 +84,7 @@ Wie lautet das Berechnungsschema für Anschaffungskosten (AK) nach § 255 HGB?
 ?
 $$AK = \text{Anschaffungspreis (netto)} + \text{Nebenkosten} + \text{nachtr. AK} - \text{Preisminderungen}$$
 (Wichtig: Preisminderungen wie Skonti müssen abgezogen werden, egal ob genutzt oder nicht!)
+<!--SR:!2025-12-17,1,222-->
 
 Wie wird eine **planmäßige Abschreibung** berechnet (lineare Methode)?
 ?
@@ -98,6 +102,7 @@ Welche drei Bereiche unterscheidet die Kapitalflussrechnung?
 1. **Operativer Cashflow** (aus laufender Geschäftstätigkeit)
 2. **Investitions-Cashflow** (Kauf/Verkauf von Anlagevermögen)
 3. **Finanzierungs-Cashflow** (Aufnahme/Tilgung von Krediten, Dividenden)
+<!--SR:!2025-12-17,1,222-->
 
 Was indiziert ein positiver **Operativer Cashflow**? :: Die **Innenfinanzierungskraft** des Unternehmens (Fähigkeit, aus dem Kerngeschäft Geld zu generieren).
 <!--SR:!2025-12-17,1,230-->

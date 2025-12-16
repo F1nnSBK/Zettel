@@ -51,12 +51,14 @@ $$\text{Zinssatz} = \text{Basiszinssatz (Risk Free)} + \text{Credit Spread (Risi
 #### Flashcards
 
 Was ist der primäre Zweck eines Ratings? :: Die Einschätzung der **Ausfallwahrscheinlichkeit** (Bonität) eines Schuldners.
+<!--SR:!2025-12-17,1,228-->
 
 Welche drei großen Ratingagenturen dominieren den Markt? :: Standard & Poor's (S&P), Moody's, Fitch.
 
 Was versteht man unter "Investment Grade"? :: Ratingklassen (ab BBB- aufwärts), die eine hohe Sicherheit signalisieren und für institutionelle Anleger (Versicherungen) geeignet sind.
 
 Wie werden Anleihen im "Non-Investment Grade" Bereich auch genannt? :: **High Yield Bonds** (Hochzinsanleihen) oder umgangssprachlich **Junk Bonds** (Ramschanleihen).
+<!--SR:!2025-12-17,1,228-->
 
 Welche Auswirkung hat eine Verschlechterung des Ratings (Downgrade) auf die Kapitalkosten? :: Die Kapitalkosten steigen, da der **Credit Spread** (Risikoprämie) steigt und oft auch der Aktienkurs fällt.
 <!--SR:!2025-12-17,1,230-->

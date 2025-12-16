@@ -39,6 +39,7 @@ Welche Beziehung besteht zwischen Rentabilität und Liquidität? :: Ein **Zielko
 Welche Beziehung besteht zwischen Rentabilität und Sicherheit? :: Ein **Zielkonflikt** (Trade-off): Höhere Renditeerwartungen gehen fast immer mit höherem Risiko einher.
 
 Welche Beziehung besteht zwischen Liquidität und Sicherheit? :: Eine **Zielharmonie**: Hohe Liquidität senkt das Insolvenzrisiko und erhöht damit die Sicherheit des Unternehmens.
+<!--SR:!2025-12-17,1,228-->
 
 ---
 ### Verwendung

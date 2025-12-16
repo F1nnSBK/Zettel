@@ -52,6 +52,7 @@ Wie lautet die Formel für die Liquidität 3. Grades?
 $$L_3 = \frac{\text{Umlaufvermögen}}{\text{Kurzfr. Verbindlichkeiten}} \cdot 100$$
 
 Welchen Richtwert sollte die Liquidität 2. Grades mindestens erreichen? :: ca. **100%** (1:1 Deckung).
+<!--SR:!2025-12-17,1,226-->
 
 Warum ist eine zu hohe Liquidität 1. Grades (z.B. 100%) betriebswirtschaftlich nicht sinnvoll? :: Weil liquide Mittel ("Cash") keine Rendite erwirtschaften (Zielkonflikt Liquidität vs. [[Rentabilität]]).
 <!--SR:!2025-12-17,1,230-->

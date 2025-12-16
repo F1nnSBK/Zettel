@@ -151,6 +151,7 @@ Was passiert mit dem Break-Even-Punkt, wenn die Fixkosten steigen? :: Der Break-
 <!--SR:!2025-12-17,1,230-->
 
 Was passiert mit dem Break-Even-Punkt, wenn der Preis ($p$) steigt? :: Der Break-Even-Punkt sinkt (man erreicht die Gewinnschwelle früher).
+<!--SR:!2025-12-17,1,223-->
 
 
 ---

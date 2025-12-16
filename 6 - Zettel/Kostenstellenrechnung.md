@@ -87,6 +87,7 @@ Was ist das Ziel der "Sekundärkostenverrechnung"? :: Die Kosten der **Hilfskost
 Welches Verfahren der innerbetrieblichen Leistungsverrechnung ist mathematisch am genauesten? :: Das **Gleichungsverfahren** (berücksichtigt gegenseitigen Leistungsaustausch und Eigenverbrauch).
 
 Wie lautet der mathematische Ansatz beim Gleichungsverfahren für eine Kostenstelle? :: $\text{Primärkosten} + \text{Sekundärkosten} = \text{Gesamtleistung} \times \text{Verrechnungspreis}$.
+<!--SR:!2025-12-17,1,226-->
 
 Auf welcher Basis werden Gemeinkostenzuschlagssätze im BAB berechnet? :: Als prozentualer Aufschlag auf die **Einzelkosten** der jeweiligen Hauptkostenstelle.
 
@@ -94,6 +95,7 @@ Nenne drei Beispiele für Mengenschlüssel zur Kostenverteilung. :: Quadratmeter
 <!--SR:!2025-12-17,1,230-->
 
 Woran erkennt man im BAB, dass die Sekundärkostenverrechnung abgeschlossen ist? :: Die Summe der Kosten in den **Hilfskostenstellen** ist Null.
+<!--SR:!2025-12-17,1,226-->
 
 
 
