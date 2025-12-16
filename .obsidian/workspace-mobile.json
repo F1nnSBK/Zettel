@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aff49bd4ef573ad8",
+        "id": "0203eb92e403e552",
         "type": "tabs",
         "children": [
           {
-            "id": "486ff4f1c2196449",
+            "id": "33749f5ef6bbe5e9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,8 +173,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "486ff4f1c2196449",
+  "active": "33749f5ef6bbe5e9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "2 - Quellen/quellen.md",
     "2 - Quellen",
     "4 - Index/index.md",
@@ -219,7 +220,6 @@
     "3 - Tags",
     "6 - Zettel/Kapitalwertmethode.md",
     "6 - Zettel/Agio.md",
-    "6 - Zettel/Marktkapitalisierung.md",
-    "6 - Zettel/Normen.md"
+    "6 - Zettel/Marktkapitalisierung.md"
   ]
 }
