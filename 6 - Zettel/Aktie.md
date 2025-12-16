@@ -117,6 +117,11 @@ Warum erhalten Altaktionäre bei einer Kapitalerhöhung ein Bezugsrecht? :: Um i
 Wie lautet die Formel für den Wert des Bezugsrechts ($B$)?
 ?
 $$B = \frac{K_a - K_e}{\frac{a}{n} + 1}$$
+- $K_a$: Alter Kurs (Börsenkurs vor Erhöhung)
+- $K_e$: Emissionskurs der jungen Aktien
+- $a/n$: Bezugsverhältnis
+
+
 
 Profitiert ein Unternehmen finanziell direkt davon, wenn der Aktienkurs an der Börse steigt (Sekundärmarkt)? :: Nein, das Geld fließt nur zwischen den Anlegern. Indirekt hilft es aber bei zukünftigen Kapitalerhöhungen oder Übernahmen.
 

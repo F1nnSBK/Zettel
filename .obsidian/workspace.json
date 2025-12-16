@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Gewinnvergleichsrechnung.md",
+                "file": "6 - Zettel/Aktie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gewinnvergleichsrechnung"
+              "title": "Aktie"
             }
           }
         ],
@@ -78,8 +78,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Anfangsinves",
-                "matchingCase": true,
+                "query": "aktie",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -209,8 +209,8 @@
   },
   "active": "f4e28d1f327103f0",
   "lastOpenFiles": [
-    "9 - Kanban Boards/Personal Scrum.md",
     "6 - Zettel/Interner Zinsfuß.md",
+    "9 - Kanban Boards/Personal Scrum.md",
     "6 - Zettel/Gewinnvergleichsrechnung.md",
     "6 - Zettel/Projektmanagement.md",
     "6 - Zettel/Earned Value Management.md",
@@ -244,7 +244,6 @@
     "8 - Media/Bilder/aufwand_kosten.jpeg",
     "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/klr_elemente.jpeg",
-    "6 - Zettel/Grundlagen Systems Engineering.md",
     "8 - Media/Bilder/rating.jpeg",
     "9 - Kanban Boards",
     "Untitled.canvas",
