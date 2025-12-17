@@ -3,7 +3,7 @@
 kanban-plugin: board
 
 ---
-
+#hide
 ## Epics
 
 - [ ] [[Grundlagen Systems Engineering]]
@@ -11,20 +11,6 @@ kanban-plugin: board
 - [ ] [[Qualitätsicherung]]
 - [ ] [[ Use Case Modellierung]]
 - [ ] [[Agile]]
-- [ ] [[Kosten- & Leistungsrechnung]]
-- [ ] [[Projektmanagement]]
-- [ ] [[Vorgehensmodelle]]
-- [ ] [[Organistionsformen]]
-- [ ] [[Stakeholdermatrix]]
-- [ ] [[Projektstrukturplan]]
-- [ ] [[Netzplantechnik]]
-- [ ] [[Schätzmethoden]]
-- [ ] [[Earned Value Management]]
-- [ ] [[Meilensteintrendanalyse]]
-- [ ] [[Risikomanagement]]
-- [ ] [[Qualitätswerkzeuge]]
-- [ ] [[Scrum]]
-- [ ] [[Kanban]]
 
 
 ## Backlog
@@ -47,9 +33,23 @@ kanban-plugin: board
 - [ ] [[Deckungsbeitragsrechnung]]
 - [ ] [[Kostenstellenrechnung]]
 - [ ] [[Jahresabschlussgrundlagen]]
+- [ ] [[Kanban]]
+- [ ] [[Scrum]]
+- [ ] [[Qualitätswerkzeuge]]
 - [ ] [[Kostenartenrechnung]]
+- [ ] [[Netzplantechnik]]
+- [ ] [[Risikomanagement]]
+- [ ] [[Meilensteintrendanalyse]]
+- [ ] [[Earned Value Management]]
+- [ ] [[Schätzmethoden]]
 - [ ] [[Jahresabschlusserstellung]]
+- [ ] [[Stakeholdermatrix]]
+- [ ] [[Projektstrukturplan]]
+- [ ] [[Organistionsformen]]
+- [ ] [[Vorgehensmodelle]]
+- [ ] [[Projektmanagement]]
 - [ ] [[Jahresabschlussanalyse]]
+- [ ] [[Kosten- & Leistungsrechnung]]
 - [ ] [[Kostenträgerrechnung]]
 - [ ] [[Grundlagen Kosten & Leistungsrechnung]]
 - [ ] [[Credit Spread]]

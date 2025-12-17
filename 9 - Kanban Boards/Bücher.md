@@ -3,7 +3,7 @@
 kanban-plugin: board
 
 ---
-
+#hide
 ## 
 
 - [ ] [[Prinzip der vollständigen Induktion]]
