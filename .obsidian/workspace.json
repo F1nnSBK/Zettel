@@ -22,7 +22,7 @@
                     false,
                     false,
                     false,
-                    false
+                    true
                   ]
                 }
               },
@@ -30,23 +30,8 @@
               "icon": "lucide-trello",
               "title": "Personal Scrum"
             }
-          },
-          {
-            "id": "f5be4aa9f7a502bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testfragen PM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Testfragen PM"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aktie",
+                "query": "agile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,36 +191,36 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f5be4aa9f7a502bf",
+  "active": "f2e5b6cc955dbfad",
   "lastOpenFiles": [
+    "5 - Vorlagen/Note.md",
+    "6 - Zettel/Grundlagen Software Engineering.md",
     "9 - Kanban Boards/Personal Scrum.md",
-    "Testfragen PM.md",
-    "6 - Zettel/Aktie.md",
-    "6 - Zettel/Interner Zinsfuß.md",
-    "6 - Zettel/Gewinnvergleichsrechnung.md",
-    "6 - Zettel/Projektmanagement.md",
-    "6 - Zettel/Earned Value Management.md",
-    "6 - Zettel/Kanban.md",
-    "6 - Zettel/Scrum.md",
-    "6 - Zettel/Qualitätswerkzeuge.md",
-    "6 - Zettel/Risikomanagement.md",
-    "6 - Zettel/Meilensteintrendanalyse.md",
-    "6 - Zettel/Schätzmethoden.md",
-    "6 - Zettel/Netzplantechnik.md",
-    "6 - Zettel/Projektstrukturplan.md",
+    "9 - Kanban Boards/Entscheidungstabelle.md",
+    "9 - Kanban Boards/Konsolidierung.md",
+    "9 - Kanban Boards/Transformation UC -> BPMN.md",
+    "9 - Kanban Boards/BPMN 2.0.md",
+    "9 - Kanban Boards/Motivation & Grenzen der UC-Schablone.md",
+    "9 - Kanban Boards/Spezifikation & Schreibregeln.md",
+    "9 - Kanban Boards/Use Case Diagramm & Beziehungen.md",
+    "9 - Kanban Boards/Grundlagen Use Case & Scope.md",
+    "9 - Kanban Boards/RE-Vorgehen & Anforderungsarten.md",
+    "9 - Kanban Boards/Methodenwahl & Crystal.md",
+    "9 - Kanban Boards/Agile Fluency Model.md",
+    "9 - Kanban Boards/Scrum & Agiles Requirements Engineering.md",
+    "9 - Kanban Boards/Grundlagen Agile & Manifest.md",
+    "6 - Zettel/Agile.md",
+    "9 - Kanban Boards/Iterative Prozessmodelle & Prototyping.md",
+    "9 - Kanban Boards/Squenzielle Prozessmodelle.md",
+    "9 - Kanban Boards/Grundlagen Prozessmodelle & Anti-Patterns.md",
+    "9 - Kanban Boards/Phasen und Methodeneinsatz.md",
+    "9 - Kanban Boards/Methodik & Prinzipien.md",
+    "9 - Kanban Boards/Systemmodellierung & Komplexität.md",
+    "6 - Zettel/Vorgehensmodelle & Prozesse.md",
+    "6 - Zettel/Qualitätsicherung.md",
+    "3 - Tags/Zerlegung.md",
     "3 - Tags/Pasted image 20251215185123.png",
-    "6 - Zettel/Stakeholdermatrix.md",
-    "6 - Zettel/Organistionsformen.md",
-    "6 - Zettel/Vorgehensmodelle.md",
     "3 - Tags/Pasted image 20251215181920.png",
-    "6 - Zettel/Grundlagen Finanzierung & Investition.md",
-    "6 - Zettel/Jahresabschlussgrundlagen.md",
-    "6 - Zettel/Jahresabschlusserstellung.md",
-    "6 - Zettel/Jahresabschlussanalyse.md",
-    "6 - Zettel/Grundlagen Kosten & Leistungsrechnung.md",
-    "6 - Zettel/Kostenträgerrechnung.md",
-    "6 - Zettel/Deckungsbeitragsrechnung.md",
-    "6 - Zettel/Kosten- & Leistungsrechnung.md",
     "8 - Media/Bilder/handelskalk.jpeg",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/kostenträgerrechnung.jpeg",

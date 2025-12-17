@@ -6,25 +6,26 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Grundlagen Systems Engineering]]
-- [ ] [[Vorgehensmodelle & Prozesse]]
-- [ ] [[Qualitätsicherung]]
-- [ ] [[ Use Case Modellierung]]
-- [ ] [[Agile]]
-- [ ] [[Kosten- & Leistungsrechnung]]
-- [ ] [[Projektmanagement]]
-- [ ] [[Vorgehensmodelle]]
-- [ ] [[Organistionsformen]]
-- [ ] [[Stakeholdermatrix]]
-- [ ] [[Projektstrukturplan]]
-- [ ] [[Netzplantechnik]]
-- [ ] [[Schätzmethoden]]
-- [ ] [[Earned Value Management]]
-- [ ] [[Meilensteintrendanalyse]]
-- [ ] [[Risikomanagement]]
-- [ ] [[Qualitätswerkzeuge]]
-- [ ] [[Scrum]]
-- [ ] [[Kanban]]
+- [ ] [[Grundlagen Software Engineering]]
+- [ ] [[Methodik & Prinzipien]]
+- [ ] [[Systemmodellierung & Komplexität]]
+- [ ] [[Phasen und Methodeneinsatz]]
+- [ ] [[Grundlagen Prozessmodelle & Anti-Patterns]]
+- [ ] [[Squenzielle Prozessmodelle]]
+- [ ] [[Iterative Prozessmodelle & Prototyping]]
+- [ ] [[Grundlagen Agile & Manifest]]
+- [ ] [[Scrum & Agiles Requirements Engineering]]
+- [ ] [[Methodenwahl & Crystal]]
+- [ ] [[Agile Fluency Model]]
+- [ ] [[RE-Vorgehen & Anforderungsarten]]
+- [ ] [[Grundlagen Use Case & Scope]]
+- [ ] [[Use Case Diagramm & Beziehungen]]
+- [ ] [[Spezifikation & Schreibregeln]]
+- [ ] [[Motivation & Grenzen der UC-Schablone]]
+- [ ] [[BPMN 2.0]]
+- [ ] [[Transformation UC -> BPMN]]
+- [ ] [[Entscheidungstabelle]]
+- [ ] [[Konsolidierung]]
 
 
 ## Backlog
@@ -47,9 +48,23 @@ kanban-plugin: board
 - [ ] [[Deckungsbeitragsrechnung]]
 - [ ] [[Kostenstellenrechnung]]
 - [ ] [[Jahresabschlussgrundlagen]]
+- [ ] [[Kanban]]
+- [ ] [[Scrum]]
+- [ ] [[Qualitätswerkzeuge]]
 - [ ] [[Kostenartenrechnung]]
+- [ ] [[Netzplantechnik]]
+- [ ] [[Risikomanagement]]
+- [ ] [[Meilensteintrendanalyse]]
+- [ ] [[Earned Value Management]]
+- [ ] [[Schätzmethoden]]
 - [ ] [[Jahresabschlusserstellung]]
+- [ ] [[Stakeholdermatrix]]
+- [ ] [[Projektstrukturplan]]
+- [ ] [[Organistionsformen]]
+- [ ] [[Vorgehensmodelle]]
+- [ ] [[Projektmanagement]]
 - [ ] [[Jahresabschlussanalyse]]
+- [ ] [[Kosten- & Leistungsrechnung]]
 - [ ] [[Kostenträgerrechnung]]
 - [ ] [[Grundlagen Kosten & Leistungsrechnung]]
 - [ ] [[Credit Spread]]
@@ -103,6 +118,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true]}
 ```
 %%
