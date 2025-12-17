@@ -9,6 +9,8 @@ b) Glaskugellesen mit historischen Daten
 c) Strukturierter Ansatz auf Basis vorhandener Informationen  
 d) Festlegung eines fixen Wertes ohne Anpassung
 
+C)
+
 ---
 
 ### **2. Projektlebenszyklus**
@@ -19,12 +21,16 @@ b) Nur in der Planungsphase
 c) Nur in agilen Projekten  
 d) In allen Projektphasen, unabhängig vom Vorgehensmodell
 
+d)
+
 ---
 
 ### **3. Aktualisierung von Schätzungen**
 
 **Warum sollten Projektschätzungen regelmäßig aktualisiert werden?**  
 Nenne **zwei Gründe**.
+
+Während des Projektverlaufs erhält man neue Informationen und man lernt dazu. Die Cone of Uncertainty wird enger, Schätzungen im oder gegen Ende des Projekts werden genauer.
 
 ---
 
@@ -36,6 +42,8 @@ b) Weil kleine Einheiten leichter und genauer zu schätzen sind
 c) Damit mehr Personen beteiligt werden können  
 d) Um den Projektplan zu verlängern
 
+b)
+
 ---
 
 ### **5. Projektstrukturplan (PSP / WBS)**
@@ -46,12 +54,16 @@ b) Die vollständige Zerlegung des Projektumfangs in Arbeitspakete
 c) Die Ressourcenverteilung im Projekt  
 d) Das Budget des Projekts
 
+b)
+
 ---
 
 ### **6. Fachurteil (Expert Judgment)**
 
 **Was ist Fachurteil im Kontext von Schätzungen und welche Rolle hat der Projektleiter dabei?**  
 (Kurzantwort, 2–3 Sätze)
+
+Ein Fachurteil ermöglicht eine präzisere Schätzung durch Informationen eines Fachexperten. Der Projektleiter sollte sich bemühen, so viele Fachurteile wie möglich durch Fachexperten zu erlangen, denn das verbessert seine Schätzungen.
 
 ---
 
@@ -63,12 +75,16 @@ b) Sie nutzt historische Daten aus ähnlichen Projekten
 c) Sie wird nur in agilen Projekten eingesetzt  
 d) Sie ist immer genauer als Bottom-up-Schätzung
 
+b)
+
 ---
 
 ### **8. Parametrische Schätzung**
 
 Ein Projekt hat **5 identische Module**, für jedes Modul werden **2 Stunden** benötigt.  
 **Welche Schätzmethode liegt vor und wie hoch ist der Gesamtaufwand?**
+
+Hier liegt die analoge Schätzung vor und der Gesamtaufwand sind einfach 5 * 2 = 10h.
 
 ---
 
@@ -85,11 +101,15 @@ Bei einer Aufgabe gelten folgende Werte:
 
 **Berechne den Schätzwert nach der gewichteten Drei-Punkt-Schätzung (Beta/PERT).**
 
+Schätzwert = (10 + 4*12 +20) / 6 = 13h
+
 ---
 
 ### **10. Bottom-up-Schätzung**
 
 **Was ist eine Bottom-up-Schätzung und welche Voraussetzung muss erfüllt sein, damit sie sinnvoll angewendet werden kann?**
+
+Das Projekt muss durch eine PSP beispielsweise in viele Arbeitspakete zerlegt worden sein. Die Bottom Up Schätzung basiert darauf, die einzelnen Arbeitspakete eines Projekts zu schätzen und dann alle Schätzung zusammzufasssen.
 
 ---
 
@@ -110,11 +130,15 @@ b) Eine systematische und koordinierte Vorgehensweise zur Abwicklung eines Proje
 c) Eine reine Dokumentationssammlung  
 d) Ein IT-spezifisches Werkzeug
 
+b)
+
 ---
 
 ### **2. Nutzen von Vorgehensmodellen**
 
 Nenne **zwei Vorteile**, die vordefinierte Vorgehensmodelle für Projektmanager bieten.
+
+Die PMs können bereits zu Projektbeginn alle relevanten Kennzahlen und szenarien für jeden Meilenstein bestimmen. Sie wissen z.b. aber Meilenstein 3 brauch ich 1 Experten (z.b. FPGA Entwickler). Der andere Vorteil ist, dass sie besser steueren können (Controlling), sie sehen sofort wenn sie in Verzug geraten oder etwas Arbeitsdruck herausnehmen können.
 
 ---
 
@@ -123,11 +147,16 @@ Nenne **zwei Vorteile**, die vordefinierte Vorgehensmodelle für Projektmanager 
 Welche **zwei Nachteile** des Wasserfallmodells werden in den Folien genannt?  
 (Kurzantwort)
 
+1. Die Projektziele und Anforderungen müssen schon beim Start feststehen
+2. Änderungen während des Projekts sind sehr teuer und schwierig.
+
 ---
 
 ### **4. Auswahl von Vorgehensmodellen**
 
 Warum empfiehlt es sich, je nach Projektgröße, Komplexität und Änderungsdynamik **unterschiedliche Vorgehensmodelle oder Kombinationen** einzusetzen?
+
+Wenn man ein wenig komplexes Projekt hat und man schon die Anforderungen vorher definieren kann, dann ist das Wasserfallmodell beispielsweise von Vorteil. Weil es eben mehr Planungssicherheit bietet. Dagegen ist ein agiles Modell wie Scrum nützlicher, wenn es zu Änderungen kommen kann oder es sich um ein sehr großes und langwieriges Projekt handelt, durch die einzlenen fertigen, funktionalen Einheiten am Ende eines jeden Sprints, kann der Kunde schonmal teilweise zufriedengestellt werden und Feedback geben.
 
 ---
 
@@ -135,6 +164,8 @@ Warum empfiehlt es sich, je nach Projektgröße, Komplexität und Änderungsdyna
 
 Was versteht man laut PMI unter einem **Stakeholder**?  
 (Kurzdefinition)
+
+Ein Stakeholder ist einfach eine Person oder Personen gruppe, die ein berechtigtes Interesse am Projekt hat. Das reicht von dem Chef bis hin zu den Nutzern.
 
 ---
 
@@ -147,6 +178,8 @@ b) Restriktive Strategie
 c) Diskursive Strategie  
 d) Repressive Strategie
 
+c)
+
 ---
 
 ### **7. RACI-Matrix**
@@ -154,9 +187,9 @@ d) Repressive Strategie
 Ordne die Begriffe korrekt zu:
 
 - Wer trägt die **rechtliche und kaufmännische Verantwortung**?
-    
+	Der Projektmanager
 - Wer **führt die Aufgabe aus**?
-    
+	Der Developer
 
 ---
 
@@ -168,20 +201,30 @@ b) Definition des „Was“ eines Projekts
 c) Erstellung des Terminplans  
 d) Kostenkontrolle
 
+b)
+
 ---
 
 ### **9. Aufwand vs. Dauer**
 
 Erkläre kurz den **Unterschied zwischen Aufwand und Dauer** und warum dieser Unterschied für die Terminplanung wichtig ist.
 
+**Aufwand (Work/Effort):** Die Menge an Arbeit in Zeiteinheiten (z. B. „Dieser Vorgang benötigt 8 Personenstunden“). Das kostet Geld.
+        
+ **Dauer (Duration):** Die Zeitspanne, die vergeht, bis die Arbeit erledigt ist (Kalendertage/Arbeitstage).
+        
+- _Beispiel:_ Ein Vorgang hat **8 Stunden Aufwand**.
+    - Macht es einer allein, beträgt die **Dauer 1 Tag** (bei 8h/Tag).
+    - Machen es zwei Leute gleichzeitig, beträgt die **Dauer 0,5 Tage** (aber der Aufwand bleibt 8 Stunden, also 2x4h).
+
 ---
 
 ### **10. Kritischer Pfad**
 
 Welche Aussagen zum **kritischen Pfad** sind korrekt? (Mehrfachauswahl)  
-☐ Er bestimmt die kürzestmögliche Projektdauer  
+x Er bestimmt die kürzestmögliche Projektdauer  
 ☐ Er enthält immer Pufferzeiten  
-☐ Er ist die längste Vorgangsfolge im Projekt  
+x Er ist die längste Vorgangsfolge im Projekt  
 ☐ Er kann in einem Projekt mehrfach existieren
 
 ---
@@ -203,12 +246,27 @@ b) Als Reaktion auf zu bürokratische formale Prozesse und chaotische ad-hoc-Ans
 c) Um klassische Vorgehensmodelle vollständig zu ersetzen  
 d) Zur Einführung neuer Programmiersprachen
 
+b)
+
 ---
 
 ### **2. Agiles Manifest**
 
 Was ist die **Kernaussage** der vier Wertepaare des Agilen Manifests?  
 (Kurzantwort)
+
+Das Agile Manifest priorisiert die linken Werte höher als die rechten (ohne die rechten wertlos zu machen):
+
+1. **Individuen und Interaktionen** mehr als Prozesse und Werkzeuge.
+    
+2. **Funktionierende Software** mehr als umfassende Dokumentation.
+    
+3. **Zusammenarbeit mit dem Kunden** mehr als Vertragsverhandlung.
+    
+4. **Reagieren auf Veränderung** mehr als das Befolgen eines Plans.
+    
+
+_Tipp für die Prüfung:_ Merken Sie sich **„Menschen, Produkt, Kunde, Flexibilität“** als Eselsbrücke für die linke Seite.
 
 ---
 
@@ -220,6 +278,8 @@ b) Ein Framework mit klaren Rollen und Events
 c) Eine Haltung, Denkweise und ein Wertesystem  
 d) Eine Methode ausschließlich für kleine Teams
 
+c)
+
 ---
 
 ### **4. Scrum – Grundverständnis**
@@ -230,6 +290,8 @@ b) ein Vorgehensmodell
 c) ein leichtgewichtiges Framework  
 d) ein Projektmanagementstandard
 
+c)
+
 ---
 
 ### **5. Scrum Team**
@@ -237,21 +299,25 @@ d) ein Projektmanagementstandard
 Welche **drei Rollen** gehören zwingend zum Scrum Team?  
 (Kurzantwort)
 
+Productowner, Scrum Master, Developre
+
 ---
 
 ### **6. Product Owner**
 
 Nenne **zwei Verantwortlichkeiten** des Product Owners im Scrum Team.
 
+Er erstellt die User Stories für das Product Backlog und er führt das Review mit den Developern durch.
+
 ---
 
 ### **7. Scrum Artefakte**
 
 Welche der folgenden sind **Scrum-Artefakte**? (Mehrfachauswahl)  
-☐ Product Backlog  
-☐ Sprint Backlog  
+x Product Backlog  
+x Sprint Backlog  
 ☐ Burndown Chart  
-☐ Inkrement  
+x Inkrement  
 ☐ Kanban Board
 
 ---
@@ -261,12 +327,16 @@ Welche der folgenden sind **Scrum-Artefakte**? (Mehrfachauswahl)
 Was bedeutet das **Pull-Prinzip** in der Kanban-Methode?  
 (Kurzantwort)
 
+Es wird Arbeit (US) aus dem Product Backlog gezogen wenn dafür Zeit und Platz ist.
+
 ---
 
 ### **9. Story Points & Velocity**
 
 Ein Team schließt in einem Sprint User Stories mit insgesamt **40 Story Points** ab.  
 Wie nennt man diese Kennzahl und wofür wird sie verwendet?
+
+Die Kennzahl heißt **Velocity** und sie dient der Vorhersagbarkeit. Wenn das Team weiß, was die Durchschnittsvelocity ist, kann besser für den nächsten Springt geplant werden.
 
 ---
 
@@ -277,6 +347,8 @@ a) Bewertung der Teammitglieder
 b) Kontrolle der Einhaltung des Scrum Guides  
 c) Kontinuierliche Verbesserung von Prozess und Zusammenarbeit  
 d) Abnahme des Produktinkrements
+
+c)
 
 ---
 
@@ -297,12 +369,19 @@ b) Planung, Schätzung, Budgetierung, Finanzierung, Management und Steuerung der
 c) Ausschließlich Kostenkontrolle  
 d) Nur die Budgetfreigabe
 
+b)
+
 ---
 
 ### **2. Prozesse des Kostenmanagements**
 
 Welche **vier Prozesse** gehören zum Kostenmanagement?  
 (Kurzantwort)
+
+- **Kostenmanagement planen:** Wie gehen wir überhaupt vor?
+- **Kosten schätzen:** Was kostet jedes einzelne Arbeitspaket? (Simian macht das auf Folie).
+- **Budget festlegen (Budgetierung):** Hier werden die Schätzungen zu einer Kostenbasis (Cost Baseline) zusammengefasst und Puffer hinzugefügt. 
+- **Kosten steuern (Control Costs):** Überwachung und Anpassung.
 
 ---
 
@@ -314,11 +393,15 @@ b) Der Projektleiter muss sicherstellen, dass Mittel rechtzeitig bereitgestellt 
 c) Der Projektleiter hat keine Rolle im Kostenmanagement  
 d) Der Projektleiter ist nur für Kostenschätzungen zuständig
 
+b)
+
 ---
 
 ### **4. Kostenarten**
 
 Nenne **drei Beispiele** für Kosten, die im Projekt geschätzt werden müssen.
+
+Gehälter für Mitarbeiter, Preise für Rechte/Lizenzen/Konzession, Kosten für Puffer
 
 ---
 
@@ -327,28 +410,34 @@ Nenne **drei Beispiele** für Kosten, die im Projekt geschätzt werden müssen.
 Warum sind **Kostenschätzungen zu Beginn eines Projekts ungenauer** als in späteren Phasen?  
 (Kurzantwort, Stichworte genügen)
 
+Weil man zu Beginn des Projekts weniger Informationen hat über den Projektverlauf als während oder gegen Ende des Projekts. (Cone of Uncertainty)
+
 ---
 
 ### **6. Kostenschätzung als Steuerungsinstrument**
 
 Warum kann eine Kostenschätzung dazu führen, dass **Projektinhalte reduziert (Descoping)** werden?
 
+Wenn die Kostenschätzung zu optimistisch war und das Geld ausgeht, kann Descoping verwendet werden, um im Rahmen des BAC einzuhalten.
+
 ---
 
 ### **7. Projektbudget**
 
 Welche Bestandteile gehören laut Folien **zum Projektbudget**? (Mehrfachauswahl)  
-☐ Kostenschätzungen für Arbeit und Material  
-☐ Risikozuschlag (Contingency Reserve)  
-☐ „Eiserne Reserve“ (Management Reserve)  
+x Kostenschätzungen für Arbeit und Material  
+x Risikozuschlag (Contingency Reserve)  
+x „Eiserne Reserve“ (Management Reserve)  
 ☐ Laufende Betriebskosten nach Projektende  
-☐ Genehmigte Finanzmittel
+x Genehmigte Finanzmittel
 
 ---
 
 ### **8. Projektstrukturplan & Kosten**
 
 Warum werden Projektkosten **auf Basis des Projektstrukturplans (PSP)** ermittelt?
+
+Weil der Projektstrukturplan die einzelnen Arbeitspakete aufzeigt und das Projekt detailliert zerlegt.
 
 ---
 
@@ -360,12 +449,16 @@ b) Planung von Ressourcenverfügbarkeiten
 c) Darstellung, wann Kosten im Projekt anfallen  
 d) Bewertung der Produktqualität
 
+c)
+
 ---
 
 ### **10. Kostenüberwachung**
 
 Wozu dient das **Earned Value Management (EVM)** im Kostenmanagement?  
 (Kurzantwort)
+
+Das Besondere am Earned Value Management ist, dass es **Kosten, Zeit und Leistungsumfang** in Beziehung setzt. Es sagt nicht nur „Geld ist weg“, sondern „Geld ist weg, aber wir haben dafür auch weniger geschafft als geplant“. Die Folien erwähnen die Earned Value Analyse explizit als Tool für Monitoring.
 
 ---
 
@@ -386,16 +479,18 @@ b) Monitoring sammelt und meldet Daten, Controlling analysiert und leitet Maßna
 c) Beide Begriffe bedeuten dasselbe  
 d) Controlling wird nur am Projektende durchgeführt
 
+b)
+
 ---
 
 ### **2. Ziele des Projektcontrollings**
 
 Welche Aufgaben gehören laut Vorlesung **zum Projektcontrolling**? (Mehrfachauswahl)  
-☐ Vergleich von Ist- und Planwerten  
-☐ Ableitung von Korrektur- und Vorbeugungsmaßnahmen  
+x Vergleich von Ist- und Planwerten  
+x Ableitung von Korrektur- und Vorbeugungsmaßnahmen  
 ☐ Festlegung des Projektziels  
-☐ Bereitstellung von Prognosen für Kosten und Termine  
-☐ Überwachung genehmigter Änderungen
+x Bereitstellung von Prognosen für Kosten und Termine  
+x Überwachung genehmigter Änderungen
 
 ---
 
@@ -403,6 +498,8 @@ Welche Aufgaben gehören laut Vorlesung **zum Projektcontrolling**? (Mehrfachaus
 
 Warum reicht das **„magische Dreieck“ (Zeit, Kosten, Scope)** heute nicht mehr aus, um Projekterfolg zu definieren?  
 (Kurzantwort)
+
+Weil die Qualität als entscheidender Faktor immer wichitger geworden ist und je nach Prjekt kann es noch weiter Faktoren geben. Dieses magische Dreieck ist eher eine Basis, tatsächlich ist es oft ein magischen Vieleck.
 
 ---
 
@@ -414,6 +511,8 @@ b) Darstellung, wie viel des geplanten Leistungsumfangs erbracht wurde
 c) Festlegung neuer Projektziele  
 d) Dokumentation von Risiken
 
+b)
+
 ---
 
 ### **5. Plan-, Ist- und Kennzahlen**
@@ -421,12 +520,19 @@ d) Dokumentation von Risiken
 Welche **drei Arten von Werten** unterscheidet man im Projektcontrolling?  
 (Kurzantwort)
 
+Man unterscheiden Planzahlen, Werte die man vor oder während des Projekts plant also z.b. durch Schätzung.
+Istzahlen zeigen den akutellen Stand und werden häufig mit den Planzahlen verglichen. Sie werden während des Projekts erhoben.
+Kennzahlen sind Werte über das Projekt, z.B. die Größe des Budget. Sie sind hautpsächlich vor und nach dem Projekt relevant.
+
 ---
 
 ### **6. Kostenprognosen**
 
 Was ist der **Unterschied zwischen linearer und additiver Kostenprognose**?  
 (Kurzantwort, Stichworte genügen)
+
+- **Additiv:** Man nimmt die bisherigen Ist-Kosten und addiert für den Rest einfach die ursprünglichen Planwerte (Annahme: Der bisherige Fehler war einmalig).
+- **Linear (Extrapolation):** Man geht davon aus, dass der bisherige Trend (z. B. wir sind 10 % teurer als geplant) auch für den Rest des Projekts anhält.
 
 ---
 
@@ -438,11 +544,15 @@ b) Früherkennung von Terminabweichungen
 c) Bewertung der Produktqualität  
 d) Steuerung von Risiken
 
+b)
+
 ---
 
 ### **8. Earned Value (EV / AFW)**
 
 Was beschreibt der **Earned Value (EV bzw. AFW)** im Projektcontrolling?
+
+Der EV ist der Wert des Projekts zum aktuellen Zeitpunkt also der Wert der erledigten Arbeit.
 
 ---
 
@@ -450,6 +560,8 @@ Was beschreibt der **Earned Value (EV bzw. AFW)** im Projektcontrolling?
 
 Wann ist ein **formaler Change Request** erforderlich?  
 Nenne **ein Beispiel**.
+
+Ein formaler _Change Request_ (Änderungsantrag) wird meist nötig, wenn sich **Anforderungen (Scope), Zeit- oder Kostenziele** ändern (z. B. Kunde will ein zusätzliches Feature). Personalwechsel löst nur dann einen CR aus, wenn dadurch der Endtermin nicht mehr haltbar ist und verschoben werden muss (= Baseline-Änderung).
 
 ---
 
@@ -461,6 +573,8 @@ b) Dokumentation nur für den Projektleiter
 c) Information des Managements über Status, Fortschritt und Prognosen  
 d) Ersatz für Projektmeetings
 
+c)
+
 ---
 
 
@@ -470,7 +584,7 @@ d) Ersatz für Projektmeetings
 
 Was sind die drei Hauptaspekte des "magischen Dreiecks" im Projektmanagement?
 
-**Antwort:** Zeit/Termin, Budget/Kosten, Qualität/Funktion
+Kosten, Zeit, Funktion
 
 ---
 
@@ -478,14 +592,10 @@ Was sind die drei Hauptaspekte des "magischen Dreiecks" im Projektmanagement?
 
 Nennen Sie mindestens 4 Merkmale eines Projekts nach DIN 69001.
 
-**Antwort:**
-
-- Konkretes Ziel
-- Zeitlimit
-- Festes Budget
-- Festes, interdisziplinäres Team
-- Einzigartigkeit der Aufgabe
-- Spezielle Organisationsstruktur
+Zeitlich eingegrenzt
+Einzartigkeit des Projekts
+Geplanter finanzieller Aufwand
+„Festes, interdisziplinäres Team“, „Konkretes Ziel“ oder „Spezielle Organisationsstruktur“ .
 
 ---
 
@@ -493,10 +603,7 @@ Nennen Sie mindestens 4 Merkmale eines Projekts nach DIN 69001.
 
 Was ist der Unterschied zwischen einem Projekt und einer Linienaufgabe? Geben Sie je ein Beispiel.
 
-**Antwort:**
-
-- **Projekt:** Einmalig, zeitlich begrenzt, einzigartiges Ergebnis (z.B. Softwareupdate in einem Konzern, Restaurierung eines Oldtimers)
-- **Linienaufgabe:** Routine, wiederkehrend, keine zeitliche Begrenzung (z.B. Lösung von Supportanfragen, Erstellung von Rechnungen)
+Ein Projekt ist eine einmalige, einzigartige Aufgabe wie z.b. die Rastaurierung eines Oldtimers. Eine Linienaufgabe ist eine sich wiederholende Aufgabe ohne einzigartiges Ergebnis, sondern mit wiederkehrenden Ergebnissen. Das ist z.B. die Abarbeitung einer Supportabfrage.
 
 ---
 
@@ -504,7 +611,10 @@ Was ist der Unterschied zwischen einem Projekt und einer Linienaufgabe? Geben Si
 
 Was ist ein Projektportfolio und welche Hauptaufgaben umfasst das Projektportfoliomanagement?
 
-**Antwort:** Ein Projektportfolio ist die Verwaltung aller Projekte einer Organisation. Hauptaufgaben: Priorisieren, Koordinieren, Kontrollieren und Unterstützen der Projekte sowie Ressourcenmanagement aus Projektportfolio-Sicht.
+
+Ein Projektportfolio umfasst alle Projekte eines Unternehmes. Des PPM muss diese Projekte steuern, planen, unterstützen oder eben beenden.
+
+„Priorisieren“, „Koordinieren“, „Kontrollieren“ und „Unterstützen“
 
 ---
 
@@ -512,12 +622,11 @@ Was ist ein Projektportfolio und welche Hauptaufgaben umfasst das Projektportfol
 
 Nennen Sie die vier Hauptphasen des allgemeinen Projektlebenszyklus.
 
-**Antwort:**
+- Beginn des Projekts
+- **Strukturierung und Vorbereitung** (statt Planung/Prognose)
+- **Durchführung der Arbeit** (statt Durchführung/Controlling)
+- Beenden des Projekts
 
-1. Beginn des Projekts
-2. Strukturierung und Vorbereitung
-3. Durchführung der Arbeit
-4. Beenden des Projekts
 
 ---
 
@@ -525,7 +634,7 @@ Nennen Sie die vier Hauptphasen des allgemeinen Projektlebenszyklus.
 
 Was ist ein Projektstrukturplan (Work Breakdown Structure/WBS)?
 
-**Antwort:** Ein Projektstrukturplan ist eine hierarchische Darstellung des Projekts, bei der der Projektumfang in kleinere, handhabbare Arbeitspakete zerlegt wird. Er dient der detaillierten Strukturierung der Projektarbeit.
+Der Projektstrukturplan teilt ein Projekt in kleine Teilprojekte und diese in noch kleinere Arbeitspakete auf. Er zerlegt ein großes Projekt in viele kleiner Einheiten.
 
 ---
 
@@ -533,7 +642,8 @@ Was ist ein Projektstrukturplan (Work Breakdown Structure/WBS)?
 
 Was versteht man unter "Scope Creep" und wie kann man dagegen vorgehen?
 
-**Antwort:** Scope Creep bezeichnet das unkontrollierte Hinzufügen neuer Anforderungen im Projektverlauf, was zu Verzögerungen führt. Gegenmaßnahmen: klares Anforderungsmanagement, regelmäßige Review-Meetings, formelles Änderungsmanagement, rechtzeitige Eskalation.
+Scope Creep tritt auf wenn man unkontolliert neue Anforderungen zu einem Projekt hinzufügt. Ein Beispiel ist man programmiert eine API für den Online Shop und eine andere Abteilung, z.B. die Data Scientists hätte auch gern eine Schnittstelle.
+Gegenmaßnahmen sind z. B. **Change Requests (Änderungsanträge)**, **Eskalation**, Anpassung der **Baselines** oder regelmäßige **Reviews**.
 
 ---
 
@@ -541,11 +651,7 @@ Was versteht man unter "Scope Creep" und wie kann man dagegen vorgehen?
 
 Welche drei wichtigen Pioniere/Methoden werden in der Geschichte des Projektmanagements zur Zeit der Industrialisierung genannt?
 
-**Antwort:**
-
-- Frederick Winslow Taylor (Wissenschaftliche Betriebsführung)
-- Henry Gantt (Gantt-Diagramm)
-- Industrialisierung ab ca. 1750
+Auch wenn Sie skeptisch sind – Taylor und Gantt stehen explizit als Pioniere auf den Folien. Henry Gantt ist hier der wichtigste Name.
 
 ---
 
@@ -553,10 +659,9 @@ Welche drei wichtigen Pioniere/Methoden werden in der Geschichte des Projektmana
 
 Was ist der Unterschied zwischen "Aufwand" und "Dauer" in der Terminplanung?
 
-**Antwort:**
+Aufwand ist der benötigte Arbeitsaufwand zur Fertigstellung eines Zeils (z.B. 40 Arbeitsstunden)
 
-- **Aufwand:** Die gesamte Arbeitszeit, die für einen Vorgang benötigt wird (z.B. 40 Personenstunden)
-- **Dauer:** Die Zeitspanne vom Start bis zum Ende eines Vorgangs (z.B. 5 Tage)
+Dauer ist die Zeit, die vergeht, bis das Ziel erreicht wurde. (z.B. 10 Wochen)
 
 ---
 
@@ -564,19 +669,11 @@ Was ist der Unterschied zwischen "Aufwand" und "Dauer" in der Terminplanung?
 
 Nennen Sie mindestens drei Bestandteile, die typischerweise in einem Projektauftrag enthalten sein sollten.
 
-**Antwort:** (mindestens 3 von):
+1. Projektanforderungen
+2. Einschätzung des Risikos
+3. Genehmigte finanzielle Mittel
 
-- Projektzweck
-- Messbare Projektziele
-- Allgemeine Anforderungen
-- Grenzen und Liefergegenstände (Deliverables)
-- Gesamtprojektrisiko
-- Gesamtmeilensteinplan
-- Im Voraus genehmigte Finanzmittel
-- Liste der maßgeblichen Stakeholder
-- Zugewiesener Projektmanager sowie dessen Verantwortlichkeit und Befugnisse
-- Name und Stellung des Sponsors
-
+---
 
 
 # Projektmanagement Kurztest
@@ -587,11 +684,9 @@ Nennen Sie mindestens drei Bestandteile, die typischerweise in einem Projektauft
 
 Nennen Sie die drei grundlegenden Projektorganisationsformen.
 
-**Antwort:**
-
-- Linienorganisation (Einflussprojektorganisation)
-- Reine Projektorganisation
-- Matrixorganisation
+Linienorganisation
+Matrixorganisation
+Reine Projektorganisation
 
 ---
 
@@ -599,17 +694,12 @@ Nennen Sie die drei grundlegenden Projektorganisationsformen.
 
 Was sind die Vor- und Nachteile einer Matrixorganisation? Nennen Sie je mindestens zwei.
 
-**Antwort:** **Vorteile:**
-
-- Abteilungswissen kann genutzt werden
-- Mehrere Projekte gleichzeitig möglich
-- Langfristige Sicherheit für Mitarbeiter
-- Einfachere Organisationsform
-
-**Nachteile:**
-
-- Konkurrenz zwischen Projektzielen und Abteilungszielen
-- Mehrere Projekte gleichzeitig (kann zu Überlastung führen)
+Vorteile
+- Domänenwissen kann konsequent angewendet werden
+- Schneller Austausch der Mitarbeiter untereinander
+Nachteile
++ Komplexe Organisationstruktur
++ Ablenkung der Mitarbeiter durch andere, parallele Projekte
 
 ---
 
@@ -617,13 +707,7 @@ Was sind die Vor- und Nachteile einer Matrixorganisation? Nennen Sie je mindeste
 
 Was zeichnet eine reine Projektorganisation aus und welche Vorteile bietet sie?
 
-**Antwort:** Die Organisation bildet sich aus dem Projekt. Der Projektleiter ist gleichzeitig der Vorgesetzte in allen Belangen.
-
-**Vorteile:**
-
-- Hoher Zusammenhalt im Projekt
-- Gute Kommunikation
-- Kurze Eskalationswege
+Alles wird dem Projekt angepasst organisiert. Der Projektleiter hat hier am meisten Macht. Vorteile sind die Vermeidung von ineffizienzen, langen Wegen der Nachrichten und leichtere Monitoring und Controlling.
 
 ---
 
@@ -631,7 +715,7 @@ Was zeichnet eine reine Projektorganisation aus und welche Vorteile bietet sie?
 
 Definieren Sie Qualität im Projektkontext nach DIN EN ISO 9000.
 
-**Antwort:** Qualität ist der "Grad, in dem ein Satz inhärenter Merkmale eines Objekts Anforderungen erfüllt". Im Klartext: Das Projekt/Produkt erfüllt die Anforderungen und Erwartungen der Stakeholder bzw. liefert das, was der Kunde (intern oder extern) wirklich braucht und erwartet.
+ne :/
 
 ---
 
@@ -639,14 +723,11 @@ Definieren Sie Qualität im Projektkontext nach DIN EN ISO 9000.
 
 Was umfasst die Planung des Qualitätsmanagements? Nennen Sie mindestens vier Punkte.
 
-**Antwort:** (mindestens 4 von):
-
-- Bestehende Prozesse, Standards und Abläufe identifizieren (OPAs & EEFs)
-- "Cost of Quality" definieren
-- Qualitätsmanagementanforderungen mit Projektdimensionen abgleichen
-- Messverfahren & Messkriterien sicherstellen
-- Qualitätschecklisten erstellen (z.B. Testplan, Testszenarien)
-- Plan definieren, wie fehlerhafte Prozesse adressiert werden
+vielleicht:
+1. Anforderungen fetlegen
+2. Qualitätssicherungsmaßnahmen
+3. Qualitätskontrolle
+4. Zustand dokumentieren
 
 ---
 
@@ -654,10 +735,7 @@ Was umfasst die Planung des Qualitätsmanagements? Nennen Sie mindestens vier Pu
 
 Was ist der Unterschied zwischen Qualitätssicherung und Qualitätskontrolle?
 
-**Antwort:**
-
-- **Qualitätssicherung:** Präventive/vorbeugende Maßnahmen zur Vermeidung von Fehlern und Verbesserung der Prozesse
-- **Qualitätskontrolle:** Prüfung und Bewertung von Ergebnissen, um Fehler frühzeitig zu erkennen und zu beheben
+Qualitätssicherung ist präventive Sicherung der Qualität. Das ist z.b. die Einführung von Code Reviews um die Codequalität zu sichern. Qualitätskontrolle beschreibt das Testen des Produkts, nachdem es entwicklet/gebaut wurde. Das sind z.b. Integration Tests. (Unit Tests würd ich fast eher zu QS zählen)
 
 ---
 
@@ -665,12 +743,7 @@ Was ist der Unterschied zwischen Qualitätssicherung und Qualitätskontrolle?
 
 Welche wichtigen Werkzeuge des Qualitätsmanagements wurden in der Vorlesung genannt? Nennen Sie mindestens drei.
 
-**Antwort:** (mindestens 3 von):
-
-- Checklisten für Vollständigkeit
-- Qualitätspläne
-- Ishikawa-Diagramm zur Ursachenanalyse
-- Pareto-Analyse für Prioritäten
+Review (Produktqualität), Retrospektive (Prozessqualität), ...?
 
 ---
 
@@ -678,14 +751,7 @@ Welche wichtigen Werkzeuge des Qualitätsmanagements wurden in der Vorlesung gen
 
 Was bedeutet der PDCA-Zyklus und welche vier Phasen umfasst er?
 
-**Antwort:** PDCA steht für Plan-Do-Check-Act und ist ein Instrument der kontinuierlichen Verbesserung.
-
-**Die vier Phasen:**
-
-1. **Plan** (Planungsphase): Ziele definieren und Strategien festlegen
-2. **Do** (Umsetzungsphase): Durchführung der geplanten Maßnahmen
-3. **Check** (Überprüfungsphase): Ergebnisse analysieren und mit Zielen vergleichen
-4. **Act** (Anpassungsphase): Korrektur und Optimierung der Prozesse
+PDCA steht für Plan do check act. Die Phasen sind Planen, Durchführen, Prüfen, Handeln und Verbessern.
 
 ---
 
@@ -693,9 +759,7 @@ Was bedeutet der PDCA-Zyklus und welche vier Phasen umfasst er?
 
 Was ist DASC-PM und welche Kernrolle wird im Modell hervorgehoben?
 
-**Antwort:** DASC-PM ist das Data Science Process Model - ein Vorgehensmodell für Data-Science-Projekte, das allen Interessengruppen ein Verständnis der notwendigen Aufgaben und Zusammenhänge vermitteln soll.
-
-**Kernrolle:** Projektmanager - planen, steuern und koordinieren den Gesamtablauf eines Data-Science-Projekts und benötigen neben traditionellen PM-Fertigkeiten auch ein gutes Verständnis der methodischen und technischen Aspekte der Data Science.
+Das DASC-PM ist ein Vorgehensmodell für Data Science Projekte. Eine Kernrolle ist z.B. der Data Scientist.
 
 ---
 
@@ -703,11 +767,12 @@ Was ist DASC-PM und welche Kernrolle wird im Modell hervorgehoben?
 
 Welche drei Erfolgsfaktoren für Qualitätsmanagement in Data-Science- und IT-Projekten werden besonders hervorgehoben?
 
-**Antwort:**
+- Clean Code
++ Datenqualität
+- Nachvollziehbarkeit
 
-1. **Hohe Datenqualität:** Zuverlässige und saubere Daten als Grundlage für aussagekräftige Analysen
-2. **Reproduzierbarkeit:** Nachvollziehbare Ergebnisse gewährleisten Vertrauen und Transparenz
-3. **Codequalität:** Wartbarer und gut strukturierter Code für langfristige Pflege und Zusammenarbeit
+
+---
 
 
 
@@ -719,9 +784,7 @@ Welche drei Erfolgsfaktoren für Qualitätsmanagement in Data-Science- und IT-Pr
 
 Definieren Sie den Begriff "Risiko" im Projektkontext. Was ist der Unterschied zu einem "Problem"?
 
-**Antwort:** Ein Risiko ist ein Ereignis, das in der Zukunft mit einer gewissen Wahrscheinlichkeit eintritt und negative Auswirkungen auf das Projekt hat.
-
-**Unterschied zu Problem:** Tritt das Ereignis mit einer Wahrscheinlichkeit von 100% ein, spricht man von einem Problem (nicht mehr von einem Risiko).
+Ein Problem ist ein eingetretenes Risiko, es besteht bereits und es muss gelöst werden. Ein Risiko beschreibt nur die Vermutung, dass ein Problem eintreten könnte.  
 
 ---
 
@@ -729,7 +792,7 @@ Definieren Sie den Begriff "Risiko" im Projektkontext. Was ist der Unterschied z
 
 Was ist das Ziel des Risikomanagements in Projekten?
 
-**Antwort:** Ziel des Risikomanagements ist es, eine Transparenz über alle Risiken zu bekommen und die Eintrittswahrscheinlichkeit oder die Auswirkungen zu reduzieren.
+Ziel ist es, Risiken zu erkennen und deren Auswirkungen zu messen. Es wird auch überelgt, wie wahrscheinlich das Risiko eintritt. **Maßnahmen ergreifen**. Es geht darum, die Wahrscheinlichkeit und Auswirkung negativer Ereignisse zu minimieren (und die positiver Ereignisse/Chancen zu maximieren).
 
 ---
 
@@ -737,14 +800,14 @@ Was ist das Ziel des Risikomanagements in Projekten?
 
 Nennen Sie die Phasen des Risikomanagement-Lebenszyklus in der richtigen Reihenfolge.
 
-**Antwort:**
+1. Risikomanagement planen
+2. Risiken identifizieren
+3. Qualitative Risikoanalyse
+4. Quantitative Risikoanalyse
+5. Risikobewältigugnsmaßnahmen planen
+6. Risikobewältigungsmaßnahmen umsetzen
+7. Risiken überwachen
 
-1. **Planen:** Management-Strategie, Vorgehensweise, Frequenz festlegen
-2. **Identifizieren:** Risiken umfangreich identifizieren, dokumentieren und kategorisieren (iterativ!)
-3. **Qualitativ analysieren:** Wahrscheinlichkeit und Schwere des Eintretens bewerten, priorisieren
-4. **Quantitativ analysieren:** Numerische Schätzung der Gesamtfolgen, Schätzung von Risikozuschlägen (optional, aufwendig)
-5. **Bewältigen:** Bewältigungs-Strategie und Maßnahmen definieren
-6. **Überwachen:** Iterative Kontrolle der Maßnahmen, neue Risiken erfassen
 
 ---
 
@@ -752,19 +815,7 @@ Nennen Sie die Phasen des Risikomanagement-Lebenszyklus in der richtigen Reihenf
 
 Was ist ein Risikoregister und welche Informationen sollte es enthalten?
 
-**Antwort:** Ein Risikoregister ist ein Dokument, in dem alle Risiken eines Projekts eingetragen werden. Es wird regelmäßig aktualisiert.
-
-**Inhalte:**
-
-- Risiko-Name/Titel
-- Beschreibung
-- Eintrittswahrscheinlichkeit
-- Auswirkungen auf Budget und Zeit
-- Mögliche Reaktionen/Maßnahmen
-- Wie wird der Eintritt erkannt?
-- Ursache
-- Kategorie (Technisch/Organisatorisch/...)
-- Verantwortlicher
+Ein Risikoregister enthält alle erfassten Risiken für ein Projekt und hat Attribute wie Eintrittswahrscheinlichkeit, Was wird geamcht wenn es eintritt?, Wie wird der Eintritt verhindert?
 
 ---
 
@@ -772,12 +823,7 @@ Was ist ein Risikoregister und welche Informationen sollte es enthalten?
 
 Nennen Sie die vier grundlegenden Strategien für den Umgang mit Risiken.
 
-**Antwort:**
-
-1. **Eintrittswahrscheinlichkeit reduzieren** (bei hoher Auswirkung, hoher Wahrscheinlichkeit)
-2. **Risiken auslagern/übertragen** (z.B. an Subunternehmer)
-3. **Risiken akzeptieren** (bei niedriger Auswirkung und/oder Wahrscheinlichkeit)
-4. **Risiken versichern** (Risikotransfer an Versicherung)
+Mitigieren, Akzeptieren, Verlagern, Vermeiden
 
 ---
 
@@ -785,13 +831,11 @@ Nennen Sie die vier grundlegenden Strategien für den Umgang mit Risiken.
 
 Was sind die fünf Kernrisiken in Softwareprojekten?
 
-**Antwort:**
-
-1. Fehlerhafter Zeitplan
-2. Inflation von Anforderungen (Scope Creep)
-3. Mitarbeiterfluktuation
-4. Spezifikationskollaps
-5. Mangelnde Arbeitsleistung
+1. Fehlendes Fachpersonal
+2. Zu wenig Zeit
+3. Unklare Anforderungen
+4. Neue Anforderungen
+5. Scope Creep
 
 ---
 
@@ -799,9 +843,8 @@ Was sind die fünf Kernrisiken in Softwareprojekten?
 
 Was ist ein "Spielverderber"-Risiko und wie sollte man damit umgehen?
 
-**Antwort:** Als "Spielverderber" bezeichnet man Risiken, die das Projekt völlig aus der Bahn werfen und bei denen die Schadenshöhe über den Projektkosten liegen kann.
-
-**Umgang:** Diese Risiken können nur dadurch gemanagt werden, indem sie zu Projektvoraussetzungen erklärt werden (z.B. über das Steering Committee). Sie liegen außerhalb der Kontrollmöglichkeiten des Projektleiters.
+- Ein Spielverderber-Risiko (Showstopper) ist ein Risiko, dessen Eintreten das **gesamte Projektziel unmöglich macht** oder den Nutzen komplett zerstört.
+- _Umgang:_ Wenn es nicht **vermieden** werden kann, darf das Projekt gar nicht erst gestartet werden (Go/No-Go Entscheidung).
 
 ---
 
@@ -809,9 +852,9 @@ Was ist ein "Spielverderber"-Risiko und wie sollte man damit umgehen?
 
 Wie berechnet sich die Risikohöhe? Was sagt die Summe aller Risikohöhen aus?
 
-**Antwort:** **Formel:** Risikohöhe = Eintrittswahrscheinlichkeit × Kosten
+Risikohöhe = Schdenssumme * Eintrittswahrscheinlichkeit
 
-**Summe aller Risikohöhen:** Bildet den erwartbaren zusätzlichen Aufwand (Risk Contingency), den man im Projekt benötigt. Dies sollte im Budget als Risiko-Rückstellung berücksichtigt werden.
+Die Summe aller bewerteten Risiken bildet oft die Basis für den **Risikopuffer (Contingency Reserve)** im Budget.
 
 ---
 
@@ -819,15 +862,10 @@ Wie berechnet sich die Risikohöhe? Was sagt die Summe aller Risikohöhen aus?
 
 Erklären Sie die Ursache-Risiko-Auswirkung-Struktur anhand eines Beispiels.
 
-**Antwort:** Diese Struktur hilft bei der präzisen Beschreibung von Risiken:
-
-**Beispiel: Hochzeit am Strand**
-
-- **Ursache:** "Durch die Tatsache, dass es in Küstenregionen abrupt zu Stürmen kommen kann..."
-- **Risiko:** "...besteht ein Risiko, dass ein Sturm während der Hochzeit aufzieht..."
-- **Auswirkung:** "...was dazu führen kann, dass die Hochzeit verschoben werden muss oder Zelte/Essen/Dekoration zerstört werden."
-
-Die Maßnahmen sollen dann das Risiko adressieren.
+Man muss unterscheiden, _woher_ das Risiko kommt und _was_ es anrichtet.
+- **Ursache:** Wir nutzen eine völlig neue, ungetestete Datenbank-Technologie.
+- **Risiko:** Die Datenbank könnte unter Last instabil laufen.
+- **Auswirkung:** Datenverlust oder Projektverzögerung um 2 Wochen.
 
 ---
 
@@ -835,6 +873,6 @@ Die Maßnahmen sollen dann das Risiko adressieren.
 
 Welche drei Arten von präventiven Maßnahmen sollten zu jedem Risiko definiert werden?
 
-**Antwort:** Zu jedem Risiko sollten Maßnahmen definiert werden, die: a) die **Eintrittswahrscheinlichkeit reduzieren** b) die **Schadenshöhe** (Zeit/Kosten) **reduzieren** c) den **Eintritt frühzeitig erkennen**
-
-Die Maßnahmen sollten dokumentiert, einem Verantwortlichen zugewiesen und mit einem Status versehen werden.
+- **Ursachenbezogene Maßnahmen:** Verhindern, dass das Risiko überhaupt eintritt (Wahrscheinlichkeit senken).
+- **Wirkungsbezogene Maßnahmen:** Den Schaden begrenzen, falls es doch passiert (Auswirkung senken).
+- **Vorsorge-Maßnahmen (Contingency Plans):** Pläne in der Schublade haben (z. B. Backup-Server bereitstellen), um sofort reagieren zu können.
