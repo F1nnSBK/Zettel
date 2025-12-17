@@ -2,16 +2,33 @@
 
 2025-12-03
 
-Tags: [[]], [[]], [[]]
+Tags: [[Software Engineering]]
 #se
 
 ---
 **Grundlagen & Definitionen**
-- **Definition Softwaretechnik:** Ingenieursmäßige Entwicklung und Anwendung, Prinzipien, Methoden, Werkzeuge.
-    
-- **Das Magische Dreieck:** Spannungsfeld zwischen **Qualität**, **Zeit** und **Kosten**.
-    
-- **Drei Teilaufgaben:** Unterteilung in Software-**Management**, Software-**Entwicklung** (Fokus der Vorlesung) und Software-**QM**.
+- **Definition Softwaretechnik:** Zielorientierte Bereitstellung und systematische Verwendung von **Prinzipien, Methoden und Werkzeugen**. Dient der arbeitsteiligen, ingenieurmäßigen Entwicklung und Anwendung von umfangreichen Softwaresystemen.
+
+- **Das Magische Dreieck:** Beschreibt das Spannungsfeld der Softwareentwicklung zwischen **Qualität**, **Zeit** und **Kosten**. Änderung an einer Ecke beeinflusst zwangsläufig die anderen (Zielkonflikt).
+
+- **Drei Teilaufgaben:**
+	1. **Software-Management:** Planung und Steuerung. 
+	2. **Software-Entwicklung:** Fokus dieser Vorlesung (Konstruktion). 
+	3. **Software-QM:** Qualitätssicherung.
+
+---
+#### Flashcards 
+Was ist Softwaretechnik? 
+? 
+Ingenieurmäßige Entwicklung und Anwendung von Softwaresystemen unter Nutzung von Prinzipien, Methoden und Werkzeugen. 
+
+Nenne die drei Komponenten des Magischen Dreiecks der Softwareentwicklung. 
+? 
+Qualität, Zeit, Kosten. 
+
+Welche drei Teilaufgaben umfasst die Softwaretechnik?
+?
+Software-Management, Software-Entwicklung, Software-Qualitätsmanagement (QM).
 
 ---
 ### Verwendung

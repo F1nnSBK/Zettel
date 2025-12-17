@@ -6,26 +6,6 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Grundlagen Software Engineering]]
-- [ ] [[Methodik & Prinzipien]]
-- [ ] [[Systemmodellierung & Komplexität]]
-- [ ] [[Phasen und Methodeneinsatz]]
-- [ ] [[Grundlagen Prozessmodelle & Anti-Patterns]]
-- [ ] [[Squenzielle Prozessmodelle]]
-- [ ] [[Iterative Prozessmodelle & Prototyping]]
-- [ ] [[Grundlagen Agile & Manifest]]
-- [ ] [[Scrum & Agiles Requirements Engineering]]
-- [ ] [[Methodenwahl & Crystal]]
-- [ ] [[Agile Fluency Model]]
-- [ ] [[RE-Vorgehen & Anforderungsarten]]
-- [ ] [[Grundlagen Use Case & Scope]]
-- [ ] [[Use Case Diagramm & Beziehungen]]
-- [ ] [[Spezifikation & Schreibregeln]]
-- [ ] [[Motivation & Grenzen der UC-Schablone]]
-- [ ] [[BPMN 2.0]]
-- [ ] [[Transformation UC -> BPMN]]
-- [ ] [[Entscheidungstabelle]]
-- [ ] [[Konsolidierung]]
 
 
 ## Backlog
@@ -42,6 +22,26 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Konsolidierung]]
+- [ ] [[Entscheidungstabelle]]
+- [ ] [[Transformation UC -> BPMN]]
+- [ ] [[BPMN 2.0]]
+- [ ] [[Motivation & Grenzen der UC-Schablone]]
+- [ ] [[Spezifikation & Schreibregeln]]
+- [ ] [[Use Case Diagramm & Beziehungen]]
+- [ ] [[RE-Vorgehen & Anforderungsarten]]
+- [ ] [[Grundlagen Use Case & Scope]]
+- [ ] [[Agile Fluency Model]]
+- [ ] [[Methodenwahl & Crystal]]
+- [ ] [[Scrum & Agiles Requirements Engineering]]
+- [ ] [[Grundlagen Agile & Manifest]]
+- [ ] [[Iterative Prozessmodelle & Prototyping]]
+- [ ] [[Squenzielle Prozessmodelle]]
+- [ ] [[Grundlagen Prozessmodelle & Anti-Patterns]]
+- [ ] [[Phasen und Methodeneinsatz]]
+- [ ] [[Systemmodellierung & Komplexität]]
+- [ ] [[Methodik & Prinzipien]]
+- [ ] [[Grundlagen Software Engineering]]
 - [ ] [[Kalkulatorische Kosten]]
 - [ ] [[Kapitalwert]]
 - [ ] [[Anleihen]]
