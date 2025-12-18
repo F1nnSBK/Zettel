@@ -11,6 +11,8 @@ $$
 Kalkulatorische\space Zinskosten = durchschnittlich\space eingesetztes\space Kapital \cdot Kapitalkostensatz
 $$
 
+$$\text{kalk. Zinsen} = (\text{betriebsnotwendiges Vermögen} - \text{Abzugskapital}) \cdot \text{kalk. Zinssatz}$$
+
 Das *durchschnittlich investierte Kapital* entspricht:
 
 $$
