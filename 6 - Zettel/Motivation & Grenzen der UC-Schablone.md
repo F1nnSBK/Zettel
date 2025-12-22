@@ -22,10 +22,8 @@ Tags: [[Software Engineering]], [[BPMN 2.0]]
 #### Flashcards
 
 Was ist der Hauptnachteil rein textueller Use-Case-Schablonen in Bezug auf den Ablauf? :: Sie suggerieren oft eine strikte sequenzielle Reihenfolge, obwohl Schritte real parallel oder optional sein könnten.
-<!--SR:!2025-12-21,1,230-->
 
 Welche Diagrammarten lösen das Sequenz-Problem der Use Cases? :: Aktivitätsdiagramme (UML) oder BPMN (Business Process Model and Notation).
-<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung

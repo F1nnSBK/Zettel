@@ -34,16 +34,14 @@ Tags: [[Software Engineering]], [[UseCases]]
 #### Flashcards
 
 Welche grammatikalische Struktur sollte ein Schritt in einem Use Case haben? :: Subjekt - Verb - Objekt (z.B. "Der Kunde bestätigt den Auftrag").
-<!--SR:!2025-12-21,1,230-->
 
 Was bedeutet die Regel "Essenz" beim Schreiben von Use Cases? :: Man soll die Absicht beschreiben, nicht die technische Umsetzung oder GUI-Details (kein "Klicke Button", sondern "Bestätige Eingabe").
-<!--SR:!2025-12-21,1,230-->
 
 Warum sollte man "validieren" statt "prüfen" schreiben? :: "Validieren" ist ergebnisorientiert (impliziert Prüfung und Ergebnis), während "Prüfen" nur die Tätigkeit beschreibt.
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,228-->
 
 Was gehört in die Nachbedingung eines Use Cases? :: Der Zustand des Systems nach Beendigung des Use Cases (sowohl für den Erfolgsfall als auch für Fehlerfälle).
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 ---
 ### Verwendung

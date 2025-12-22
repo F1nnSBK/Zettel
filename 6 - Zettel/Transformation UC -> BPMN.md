@@ -34,17 +34,17 @@ Tags: [[Software Engineering]], [[BPMN]]
 Wie wird eine Entscheidung ("Wenn X, dann Y, sonst Z") aus einem Use Case in BPMN dargestellt?
 ?
 Mit einem XOR-Gateway (Exklusives ODER).
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 Was passiert mit den Akteuren eines Use Cases bei der Transformation in BPMN?
 ?
 Jeder Akteur bekommt eine eigene Lane (Schwimmbahn) im BPMN-Diagramm.
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 Wie stellt man parallele Schritte ("Gleichzeitig...") in BPMN dar?
 ?
 Mit einem AND-Gateway (Parallel Gateway, "+").
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 ---
 ### Verwendung

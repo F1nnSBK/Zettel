@@ -27,13 +27,11 @@ Tags: [[Software Engineering]], [[Prozessmodelle]]
 #### Flashcards
 
 Was ist ein Prozessmodell? :: Ein organisatorischer Rahmen, der Aktivitäten definiert, die zu bestimmten Ergebnissen (Produkten) führen.
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 Was bedeutet das WHISCY-Syndrom? :: "Why isn't Sam coding yet?" – Der Drang/Druck, sofort zu coden, statt zu planen.
-<!--SR:!2025-12-21,1,228-->
 
 Nenne zwei Nachteile des "Code & Fix"-Vorgehens. :: Strukturzerfall (teure Wartung), fehlende Berücksichtigung von Anforderungen (da keine Analyse/Entwurf).
-<!--SR:!2025-12-21,1,228-->
 
 ---
 ### Verwendung

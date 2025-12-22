@@ -29,16 +29,13 @@ Tags: [[Software Engineering]], [[Prozessmodelle]]
 #### Flashcards
 
 Was ist das Hauptmerkmal des Wasserfallmodells? :: Es ist ein sequenzielles, dokumentengetriebenes Modell, bei dem jede Phase abgeschlossen sein muss, bevor die nächste beginnt.
-<!--SR:!2025-12-21,1,230-->
 
 Was ist der Unterschied zwischen Verifikation und Validation? :: Verifikation prüft die formale Korrektheit ("Produkt richtig gebaut?"), Validation prüft die Eignung für den Anwender ("Richtige Produkt gebaut?").
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 Welche zwei Arten von QS-Maßnahmen gibt es? :: Analytische QS (Fehlersuche, z.B. Tests) und Konstruktive QS (Fehlervermeidung, z.B. Richtlinien).
-<!--SR:!2025-12-21,1,230-->
 
 Wie erweitert das V-Modell das Wasserfallmodell? :: Es stellt jedem Entwurfsschritt auf der linken Seite eine entsprechende Teststufe auf der rechten Seite gegenüber.
-<!--SR:!2025-12-21,1,230-->
 
 
 ---

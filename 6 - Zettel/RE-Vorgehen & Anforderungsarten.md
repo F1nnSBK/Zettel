@@ -36,17 +36,14 @@ Tags: [[Software Engineering]], [[Requirements Engineering]]
 Nenne die 4 Schritte des RE-Vorgehensmodells in der richtigen Reihenfolge.
 ?
 Identifizieren $\rightarrow$ Abgrenzen $\rightarrow$ Spezifizieren $\rightarrow$ Formal modellieren.
-<!--SR:!2025-12-21,1,230-->
 
 Was ist der Unterschied zwischen funktionalen und nicht-funktionalen Anforderungen?
 ?
 Funktionale Anforderungen beschreiben, was das System tut (Verhalten); Nicht-funktionale Anforderungen beschreiben wie gut es das tut (Qualität/Performance).
-<!--SR:!2025-12-21,1,230-->
 
 Welche zwei Diagrammarten eignen sich zur Systemabgrenzung?
 ?
 SA-Kontextdiagramm (alt) und Use-Case-Diagramm (aktuell/UML).
-<!--SR:!2025-12-21,1,230-->
 
 
 ---

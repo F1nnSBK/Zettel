@@ -34,15 +34,13 @@ Tags: [[Software Engineering]], [[Agile]]
 #### Flashcards
 
 Welche zwei Dimensionen spannen die Taxonomie agiler Verfahren auf? :: Detaillierungsgrad und Flexibilität.
-<!--SR:!2025-12-21,1,228-->
 
 Wovon hängt ab, welche "Farbe" der Crystal-Familie gewählt wird? :: Von der Teamgröße (Anzahl Mitarbeiter) und der Kritikalität (Schadenspotenzial).
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
-Nenne die 5 Dimensionen des Spider-Charts zur Methodenauswahl (Boehm/Turner).
-?
+Nenne die 5 Dimensionen des Spider-Charts zur Methodenauswahl (Boehm/Turner). 
+? 
 Personal, Kritikalität, Dynamik, Teamgröße, Unternehmenskultur.
-<!--SR:!2025-12-21,1,228-->
 
 
 ---

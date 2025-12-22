@@ -21,17 +21,15 @@ Tags: [[Software Engineering]]
 Was ist Softwaretechnik?
 ?
 Ingenieurmäßige Entwicklung und Anwendung von Softwaresystemen unter Nutzung von Prinzipien, Methoden und Werkzeugen.
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
-Nenne die drei Komponenten des Magischen Dreiecks der Softwareentwicklung.
-?
-Qualität, Zeit, Kosten.
-<!--SR:!2025-12-21,1,230-->
+Nenne die drei Komponenten des Magischen Dreiecks der Softwareentwicklung. 
+? 
+Qualität, Zeit, Kosten. 
 
 Welche drei Teilaufgaben umfasst die Softwaretechnik?
 ?
 Software-Management, Software-Entwicklung, Software-Qualitätsmanagement (QM).
-<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung
