@@ -6,7 +6,8 @@
       "#finance",
       "#pm",
       "#bsds",
-      "#finance-mistakes"
+      "#finance-mistakes",
+      ""
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,

@@ -42,24 +42,21 @@ Tags: [[Software Engineering]], [[Agile]]
 #### Flashcards
 
 Was ist der Kernunterschied im Fokus zwischen schwergewichtigen und leichtgewichtigen (agilen) Prozessen? :: Schwergewichtig fokussiert oft auf Dokumentation und Planerfüllung; Leichtgewichtig fokussiert auf lauffähige Software und Reaktion auf Änderungen ("Doing the right things right").
-<!--SR:!2025-12-21,1,230-->
 
-Nenne die vier Wertepaare des Agilen Manifests.
+Nenne die vier Wertepaare des Agilen Manifests. 
 ??
-Individuen & Interaktionen > Prozesse & Werkzeuge
-Funktionierende Software > Dokumentation
-Zusammenarbeit mit Kunden > Vertragsverhandlung
-Reagieren auf Veränderung > Befolgen eines Plans
-<!--SR:!2025-12-21,1,230!2025-12-21,1,230-->
+Individuen & Interaktionen > Prozesse & Werkzeuge; 
+Funktionierende Software > Dokumentation; 
+Zusammenarbeit mit Kunden > Vertragsverhandlung; 
+Reagieren auf Veränderung > Befolgen eines Plans.
 
 Wie merke ich mir das Agile Manifest?
 ?
 „Menschen vor Maschinen, Software vor Papier,
 Kunden vor Verträgen, Wandel mögen wir.“
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 Was versteht man unter "Sustainable Pace" in den agilen Prinzipien? :: Ein nachhaltiges Arbeitstempo, das von Auftraggebern, Entwicklern und Nutzern zeitlich unbegrenzt aufrechterhalten werden kann (Vermeidung von Überstunden/Burnout).
-<!--SR:!2025-12-21,1,230-->
 
 
 ---

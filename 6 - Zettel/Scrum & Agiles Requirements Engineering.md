@@ -38,16 +38,13 @@ Tags: [[Software Engineering]], [[Scrum]]
 #### Flashcards
 
 Wofür steht das Akronym INVEST bei User Stories? :: Independent, Negotiable, Valuable, Estimatable, Small, Testable.
-<!--SR:!2025-12-21,1,230-->
 
 Was ist der Unterschied zwischen Definition of Ready (DoR) und Definition of Done (DoD)? :: DoR prüft, ob eine Aufgabe bereit für den Start (Sprint-Aufnahme) ist; DoD prüft, ob eine Aufgabe vollständig abgeschlossen ist (Qualitätssicherung am Ende).
-<!--SR:!2025-12-21,1,230-->
+<!--SR:!2025-12-23,1,230-->
 
 Wie lautet die Standardschablone für eine User Story? :: Als *Rolle* will ich *Ziel*, sodass *Nutzen*.
-<!--SR:!2025-12-21,1,230-->
 
 Was ist ein Epic in der agilen Entwicklung? :: Eine große Anforderung, die zu umfangreich für einen einzelnen Sprint ist und in kleinere User Stories zerlegt werden muss.
-<!--SR:!2025-12-21,1,230-->
 
 
 ---

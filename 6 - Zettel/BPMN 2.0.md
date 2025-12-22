@@ -37,16 +37,13 @@ Tags: [[Software Engineering]]
 #### Flashcards
 
 Gehört BPMN 2.0 zum UML-Standard? :: Nein, BPMN ist ein eigenständiger Standard (OMG), auch wenn er ähnlich wie Aktivitätsdiagramme genutzt wird.
-<!--SR:!2025-12-21,1,228-->
 
 Wie wird ein "Start-Ereignis" in BPMN grafisch dargestellt? :: Als dünner Kreis.
-<!--SR:!2025-12-21,1,228-->
+<!--SR:!2025-12-23,1,230-->
 
 Was bedeutet ein Gateway mit einem "+" Zeichen in der Mitte? :: Paralleles UND: Alle Pfade werden parallel ausgeführt (Split) oder zusammengeführt (Join/Synchronisation).
-<!--SR:!2025-12-21,1,230-->
 
 Was ist der Unterschied zwischen einem Pool und einer Lane? :: Ein Pool repräsentiert eine eigenständige Organisation/Teilnehmer; eine Lane unterteilt einen Pool in interne Verantwortlichkeiten (Abteilungen/Rollen).
-<!--SR:!2025-12-21,1,228-->
 
 
 ---

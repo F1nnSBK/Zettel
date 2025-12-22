@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "aaf1c341601fe785",
+    "id": "7e81ec5343e2497e",
     "type": "split",
     "children": [
       {
-        "id": "1061d229f248cc3c",
+        "id": "0611dd45b3a69dff",
         "type": "tabs",
         "children": [
           {
-            "id": "763affd9be656621",
+            "id": "26aba8d133901037",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Agile Fluency Model.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agile Fluency Model"
+              "title": "New tab"
             }
           }
         ]
@@ -27,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c297197f0e9c22c7",
+    "id": "7bedf26692efbaad",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5f082d4974832a9d",
+        "id": "28e3261770ed2e8f",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +40,7 @@
         }
       },
       {
-        "id": "82bcae96a2f166c5",
+        "id": "a381ec5ee399c58d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +57,7 @@
         }
       },
       {
-        "id": "3990f45732b322fd",
+        "id": "9bcc4f96b37ce1ba",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +72,7 @@
         }
       },
       {
-        "id": "06d3ce94bbbe1279",
+        "id": "671e11e3ac497e43",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +86,7 @@
         }
       },
       {
-        "id": "564d082a52ee9872",
+        "id": "2a990a449fd38c4b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,11 +99,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ba07631d541adec3",
+    "id": "42c85e3023abe3a2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "43637083167579a7",
+        "id": "a7cab816d298e9ae",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -125,7 +121,7 @@
         }
       },
       {
-        "id": "1ce0bd09c37b3fe2",
+        "id": "b1f28a7b56d61ab0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -138,7 +134,7 @@
         }
       },
       {
-        "id": "c8056e947979f977",
+        "id": "5df057fee7194d39",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -152,7 +148,7 @@
         }
       },
       {
-        "id": "23caa146c2e58bca",
+        "id": "3d813950746e9903",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
@@ -166,7 +162,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -175,49 +170,39 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "763affd9be656621",
+  "active": "26aba8d133901037",
   "lastOpenFiles": [
-    "1 - Schnelle Notizen/Fehler Finance.md",
-    "/6 - Zettel/Kalkulatorische Zinsen.md",
-    "/1 - Schnelle Notizen/Fehler Finance.md",
-    "1 - Schnelle Notizen/BSDS.md",
-    "/1 - Schnelle Notizen/BSDS.md",
-    "6 - Zettel/Grundlagen Use Case & Scope.md",
-    "6 - Zettel/BPMN 2.0.md",
-    "6 - Zettel/Methodenwahl & Crystal.md",
-    "6 - Zettel/Methodik & Prinzipien.md",
-    "6 - Zettel/Systemmodellierung & Komplexität.md",
-    "6 - Zettel/Spezifikation & Schreibregeln.md",
-    "6 - Zettel/Scrum & Agiles Requirements Engineering.md",
-    "6 - Zettel/Use Case Diagramm & Beziehungen.md",
-    "6 - Zettel/Entscheidungstabelle.md",
-    "6 - Zettel/Grundlagen Prozessmodelle & Anti-Patterns.md",
-    "6 - Zettel/Phasen und Methodeneinsatz.md",
-    "6 - Zettel/Agile Fluency Model.md",
-    "6 - Zettel/Iterative Prozessmodelle & Prototyping.md",
-    "6 - Zettel/Motivation & Grenzen der UC-Schablone.md",
-    "6 - Zettel/Konsolidierung.md",
-    "6 - Zettel/Transformation UC -> BPMN.md",
-    "6 - Zettel/RE-Vorgehen & Anforderungsarten.md",
-    "6 - Zettel/Grundlagen Agile & Manifest.md",
-    "6 - Zettel/Squenzielle Prozessmodelle.md",
-    "/8 - Media/Bilder/uc-diagram.png",
-    "8 - Media/Bilder/uc-diagram.png",
-    "/8 - Media/Bilder",
-    "/8 - Media",
-    "/6 - Zettel/Use Case Diagramm & Beziehungen.md",
-    "/6 - Zettel/Transformation UC -> BPMN.md",
-    "/9 - Kanban Boards",
-    "/5 - Vorlagen",
-    "/1 - Schnelle Notizen",
-    "/6 - Zettel",
+    "2 - Quellen/quellen.md",
     "2 - Quellen",
-    "4 - Index",
+    "5 - Vorlagen/Induktionsbeweis.md",
+    "5 - Vorlagen/Tag.md",
+    "5 - Vorlagen/Note.md",
+    "5 - Vorlagen",
+    "7 - Archiv/archiv.md",
     "7 - Archiv",
+    "9 - Kanban Boards/Bücher.md",
+    "9 - Kanban Boards/Personal Scrum.md",
     "9 - Kanban Boards",
+    "4 - Index/index.md",
+    "4 - Index",
+    "1 - Schnelle Notizen/Cloud Computing/Virtualisierung.md",
+    "1 - Schnelle Notizen/Cloud Computing/Grundlagen.md",
+    "1 - Schnelle Notizen/BSDS.md",
+    "1 - Schnelle Notizen/Cloud Computing",
+    "1 - Schnelle Notizen/SchwatzBot - Ein schwäbischer KI-Chatbot.md",
+    "1 - Schnelle Notizen/Migration von REST zu GraphQL.md",
+    "1 - Schnelle Notizen/Geo-Analytics für regionale Medieninhalte.md",
+    "1 - Schnelle Notizen/Fehler Finance.md",
+    "1 - Schnelle Notizen/Conversational Analytics für interne Prozesse.md",
+    "1 - Schnelle Notizen/Testfragen PM.md",
+    "1 - Schnelle Notizen/Content-Recommender für regionale Artikel.md",
+    "1 - Schnelle Notizen/KI-gestützte Inhaltsanalyse und Themenklassifikation.md",
+    "1 - Schnelle Notizen/Dimension.md",
+    "1 - Schnelle Notizen",
     "8 - Media/Bilder/klr_elemente.jpeg",
     "8 - Media/Bilder/kostenstellenrechnung.jpeg",
     "8 - Media/Bilder/handelskalk.jpeg",
@@ -225,6 +210,17 @@
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/lineare_regression.png",
-    "8 - Media/Bilder/kostenträgerrechnung.jpeg"
+    "8 - Media/Bilder/kostenträgerrechnung.jpeg",
+    "8 - Media/Bilder/aufwand_kosten.jpeg",
+    "8 - Media/Bilder/uc-diagram.png",
+    "8 - Media/Bilder",
+    "8 - Media",
+    "3 - Tags/Analytische Geometrie.md",
+    "3 - Tags/Grundlagen.md",
+    "3 - Tags/Lineare Algebra.md",
+    "3 - Tags/Mathematik.md",
+    "3 - Tags/Zerlegung.md",
+    "3 - Tags",
+    "6 - Zettel/Transformation UC -> BPMN.md"
   ]
 }

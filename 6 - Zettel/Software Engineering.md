@@ -8,7 +8,6 @@ Tags: [[Grundlagen Software Engineering]], [[]], [[]]
 ---
 
 Software Engineering ist :: bla bla
-<!--SR:!2025-12-21,1,230-->
 
 
 ---
