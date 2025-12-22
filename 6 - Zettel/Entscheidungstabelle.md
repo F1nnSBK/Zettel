@@ -59,18 +59,22 @@ $$WENN \quad (Bedingung\_1 = Wert) \quad UND \quad (Bedingung\_2 = Wert) \quad .
 Wie lautet die Formel für die maximale Anzahl an Regeln bei binären Bedingungen?
 ?
 $2^B$ (wobei B = Anzahl der Bedingungen).
+<!--SR:!2025-12-21,1,230-->
 
 Welche vier Quadranten hat eine Entscheidungstabelle?
 ?
 Bedingungsanzeiger, Bedingungseinträge, Aktionsanzeiger, Aktionseinträge.
+<!--SR:!2025-12-21,1,230-->
 
 Wann dürfen zwei Regeln in einer Entscheidungstabelle konsolidiert werden?
 ?
 Wenn sie die gleichen Aktionen auslösen und sich nur in genau einer Bedingung unterscheiden.
+<!--SR:!2025-12-21,1,230-->
 
 Was bedeutet ein "Don't Care" (Strich) in einem Bedingungseintrag?
 ?
 Dass der Wert dieser Bedingung (Ja oder Nein) für diese spezifische Regel keinen Einfluss auf die Aktion hat.
+<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung

@@ -37,28 +37,29 @@ Tags: [[Software Engineering]], [[Agile]]
 #### Flashcards
 
 Was ist der Unterschied zwischen "Fluency" (im Agile Fluency Model) und "Maturity"? :: Fluency bezeichnet routinierte Gewohnheiten, die auch unter Stress funktionieren ("Muskelgedächtnis"), während Maturity oft nur den theoretischen Reifegrad/Wissen beschreibt.
+<!--SR:!2025-12-21,1,230-->
 
 Welcher Wandel findet in der "Delivering"-Zone statt? :: Ein Wandel der Teamfähigkeiten (Skills) hin zu technischer Exzellenz (um jederzeit releasen zu können).
+<!--SR:!2025-12-21,1,230-->
 
 In welcher Zone des Agile Fluency Modells übernimmt das Team Budgetverantwortung? :: Optimizing (Optimierung).
+<!--SR:!2025-12-21,1,230-->
 
 Was sind die 4 Zonen des Agency Fluency Model und was passiert dort?
 ??
 1. **Focusing (Fokussierung):**
 - _Wandel:_ Teamkultur.
 - _Inhalt:_ Fokus auf **Business Value**.
-
 2. **Delivering (Auslieferung):**
 - _Wandel:_ Teamfähigkeiten (Skills).
-- _Inhalt:_ Fokus auf **Auslieferung**. 
-
+- _Inhalt:_ Fokus auf **Auslieferung**.
 3. **Optimizing (Optimierung):**
 - _Wandel:_ Organisationsstruktur.
-- _Inhalt:_ Fokus auf **Produktwert**. 
-
+- _Inhalt:_ Fokus auf **Produktwert**.
 4. **Strengthening (Stärkung):**
 - _Wandel:_ Organisationskultur.
-- _Inhalt:_ Fokus auf die **Zukunft der Organisation**. 
+- _Inhalt:_ Fokus auf die **Zukunft der Organisation**.
+<!--SR:!2025-12-21,1,230!2025-12-21,1,230-->
 
 ---
 ### Verwendung

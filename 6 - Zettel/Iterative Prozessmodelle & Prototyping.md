@@ -48,10 +48,13 @@ Tags: [[Software Engineering]], [[Prozessmodelle]]
 #### Flashcards
 
 Was ist der Unterschied zwischen einem horizontalen und einem vertikalen Prototypen? :: Horizontal: Deckt eine Schicht breit ab (z.B. nur GUI). Vertikal: Deckt einen funktionalen Ausschnitt über alle Schichten ab ("Durchstich").
+<!--SR:!2025-12-21,1,230-->
 
 Was ist der entscheidende Unterschied zwischen dem evolutionären und dem inkrementellen Modell? :: Beim inkrementellen Modell liegt zu Beginn eine vollständige Spezifikation (Analyse) vor; beim evolutionären Modell startet man nur mit einem Kern und entwickelt Anforderungen weiter.
+<!--SR:!2025-12-21,1,228-->
 
 Wozu dient der "Kreislauf des Verstehens"? :: Zur Validierung und Klärung von Anforderungen zwischen Anwender und Analytiker durch Übersetzung und Feedback (z.B. mittels Prototypen).
+<!--SR:!2025-12-21,1,228-->
 
 
 ---

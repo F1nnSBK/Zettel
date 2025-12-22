@@ -24,14 +24,17 @@ Tags: [[Software Engineering]], [[Entscheidungstabelle]]
 ---
 #### Flashcards
 
-Welche zwei Voraussetzungen müssen erfüllt sein, um Regeln zu konsolidieren? 
+Welche zwei Voraussetzungen müssen erfüllt sein, um Regeln zu konsolidieren?
 ?
 1. Gleiche Aktionen. 2. Unterschied in genau einer Bedingung.
+<!--SR:!2025-12-21,1,228-->
     
 
 Was ist das Ziel der Konsolidierung bei Entscheidungstabellen? :: Erhöhung der Übersichtlichkeit und Reduktion des Umfangs (Redundanzvermeidung) bei gleicher Logik.
+<!--SR:!2025-12-21,1,228-->
 
 Wie wird eine irrelevante Bedingung nach der Konsolidierung gekennzeichnet? :: Mit einem "Don't Care"-Zeichen (oft ein Strich "–").
+<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung

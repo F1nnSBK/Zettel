@@ -17,18 +17,21 @@ Tags: [[Software Engineering]]
 	3. **Software-QM:** Qualitätssicherung.
 
 ---
-#### Flashcards 
-Was ist Softwaretechnik? 
-? 
-Ingenieurmäßige Entwicklung und Anwendung von Softwaresystemen unter Nutzung von Prinzipien, Methoden und Werkzeugen. 
+#### Flashcards
+Was ist Softwaretechnik?
+?
+Ingenieurmäßige Entwicklung und Anwendung von Softwaresystemen unter Nutzung von Prinzipien, Methoden und Werkzeugen.
+<!--SR:!2025-12-21,1,230-->
 
-Nenne die drei Komponenten des Magischen Dreiecks der Softwareentwicklung. 
-? 
-Qualität, Zeit, Kosten. 
+Nenne die drei Komponenten des Magischen Dreiecks der Softwareentwicklung.
+?
+Qualität, Zeit, Kosten.
+<!--SR:!2025-12-21,1,230-->
 
 Welche drei Teilaufgaben umfasst die Softwaretechnik?
 ?
 Software-Management, Software-Entwicklung, Software-Qualitätsmanagement (QM).
+<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung

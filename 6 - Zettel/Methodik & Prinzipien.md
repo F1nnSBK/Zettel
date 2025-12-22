@@ -20,17 +20,20 @@ Tags: [[Methodik]], [[Prinzipien]]
 ---
 #### Flashcards 
 
-Was ist der Unterschied zwischen Prinzipien und Methoden? 
-? 
-Prinzipien sind abstrakte Grundsätze; Methoden sind konkrete Vorgehensweisen bestehend aus Konzepten, Notation und Schritten. 
-
-Welche drei Elemente machen eine Methode in der Softwaretechnik aus? 
+Was ist der Unterschied zwischen Prinzipien und Methoden?
 ?
-Konzepte, Notation und methodische Vorgehensweise. 
+Prinzipien sind abstrakte Grundsätze; Methoden sind konkrete Vorgehensweisen bestehend aus Konzepten, Notation und Schritten.
+<!--SR:!2025-12-21,1,230-->
 
-Was ist die Hauptaufgabe von Methoden als Zerlegungsstrategien? 
+Welche drei Elemente machen eine Methode in der Softwaretechnik aus?
+?
+Konzepte, Notation und methodische Vorgehensweise.
+<!--SR:!2025-12-21,1,230-->
+
+Was ist die Hauptaufgabe von Methoden als Zerlegungsstrategien?
 ?
 Die Komplexität in kleine, handhabbare Teile zu zerlegen, die stabil sind und einfache Schnittstellen haben.
+<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung

@@ -28,14 +28,18 @@ Tags: [[Software Engineering]], [[UseCases]]
 #### Flashcards
 
 Wie wird ein Akteur im Use-Case-Diagramm grafisch dargestellt? :: Als Strichmännchen.
+<!--SR:!2025-12-21,1,230-->
 
-Was ist der zentrale Unterschied zwischen `<<include>>` und `<<extend>>`? 
+Was ist der zentrale Unterschied zwischen `<<include>>` und `<<extend>>`?
 ?
 `<<include>>` ist zwingend erforderlich (der Basis-UC braucht es); `<<extend>>` ist optional (passiert nur unter Bedingungen).
+<!--SR:!2025-12-21,1,230-->
 
 Wer kennt wen bei einer `<<extend>>`-Beziehung? :: Der erweiternde UC kennt den Basis-UC; der Basis-UC weiß nichts von der Erweiterung (lose Kopplung).
+<!--SR:!2025-12-21,1,230-->
 
 Wozu dienen `<<include>>`-Beziehungen hauptsächlich? :: Zur Wiederverwendung von Funktionalität (Vermeidung von Redundanz) in mehreren Use Cases.
+<!--SR:!2025-12-21,1,230-->
 
 ---
 ### Verwendung

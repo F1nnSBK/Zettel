@@ -11,10 +11,14 @@
             "id": "763affd9be656621",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettel/Agile Fluency Model.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Agile Fluency Model"
             }
           }
         ]
@@ -176,6 +180,9 @@
   },
   "active": "763affd9be656621",
   "lastOpenFiles": [
+    "1 - Schnelle Notizen/Fehler Finance.md",
+    "/6 - Zettel/Kalkulatorische Zinsen.md",
+    "/1 - Schnelle Notizen/Fehler Finance.md",
     "1 - Schnelle Notizen/BSDS.md",
     "/1 - Schnelle Notizen/BSDS.md",
     "6 - Zettel/Grundlagen Use Case & Scope.md",
@@ -203,9 +210,6 @@
     "/8 - Media",
     "/6 - Zettel/Use Case Diagramm & Beziehungen.md",
     "/6 - Zettel/Transformation UC -> BPMN.md",
-    "/6 - Zettel/Systemmodellierung & Komplexität.md",
-    "/6 - Zettel/Squenzielle Prozessmodelle.md",
-    "/6 - Zettel/Spezifikation & Schreibregeln.md",
     "/9 - Kanban Boards",
     "/5 - Vorlagen",
     "/1 - Schnelle Notizen",

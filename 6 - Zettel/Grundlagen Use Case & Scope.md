@@ -26,12 +26,16 @@ Tags: [[Software Engineering]], [[UseCases]]
 #### Flashcards
 
 Was ist ein Akteur im Use-Case-Kontext? :: Eine Rolle (Person oder System) außerhalb der Systemgrenze, die mit dem System interagiert.
+<!--SR:!2025-12-21,1,228-->
 
 Was unterscheidet einen Business Use Case von einem Product Use Case? :: Business UC betrachtet den gesamten Geschäftsprozess (inkl. manueller Schritte); Product UC fokussiert sich rein auf das zu entwickelnde Softwaresystem.
+<!--SR:!2025-12-21,1,230-->
 
 Auf welcher Ebene des Cockburn-Modells liegt das klassische "User Goal"? :: Auf der Meeresoberfläche (Sea Level).
+<!--SR:!2025-12-21,1,228-->
 
 Was besagt der "Coffee Break Test" für Use Cases? :: Ein Use Case auf User-Goal-Ebene sollte idealerweise in einer Sitzung von 2 bis 20 Minuten (Kaffeepause) durchführbar sein.
+<!--SR:!2025-12-21,1,228-->
 
 
 ---

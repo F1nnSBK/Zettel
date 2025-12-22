@@ -19,10 +19,13 @@ Tags: [[Software Engineering]], [[Phasen]]
 #### Flashcards
 
 In welcher Phase wird typischerweise ein Funktionsbaum erstellt? :: Analyse.
+<!--SR:!2025-12-21,1,230-->
 
 Für welche Phase eignen sich Struktogramme und Pseudocode am besten? :: Implementierung (bzw. Feinentwurf).
+<!--SR:!2025-12-21,1,230-->
 
 Was beschreibt die "Semantische Lücke" (Semantic Gap)? :: Das Problem, wenn Ergebnisse einer Phase (z.B. Analyse) methodisch nicht nahtlos in die nächste Phase (z.B. Entwurf) übertragbar sind (z.B. SA zu SD).
+<!--SR:!2025-12-21,1,230-->
 
 
 ---

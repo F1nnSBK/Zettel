@@ -23,21 +23,25 @@ Tags: [[Software Engineering]], [[Modellierung]]
 ---
 #### Flashcards
 
-Welche vier Sichten der Systemmodellierung werden unterschieden? 
-? 
+Welche vier Sichten der Systemmodellierung werden unterschieden?
+?
 Daten, Funktionen, Dynamik (Verhalten), GUI.
+<!--SR:!2025-12-21,1,230-->
 
-Welches Diagramm eignet sich besonders für hohe "Komplexität der Daten"? 
-? 
+Welches Diagramm eignet sich besonders für hohe "Komplexität der Daten"?
+?
 Entity Relationship Model (ERM) oder Klassendiagramm.
+<!--SR:!2025-12-21,1,230-->
 
-Mit welchen Methoden beschreibt man "Komplexität der Algorithmen"? 
-? 
+Mit welchen Methoden beschreibt man "Komplexität der Algorithmen"?
+?
 Pseudocode, Struktogramm, Programmablaufplan (PAP), Entscheidungstabellen.
+<!--SR:!2025-12-21,1,230-->
 
-Welche Diagramme modellieren das zeitabhängige Verhalten (Dynamik)? 
-? 
+Welche Diagramme modellieren das zeitabhängige Verhalten (Dynamik)?
+?
 Zustandsautomat, Sequenzdiagramm, Petri-Netz, Aktivitätsdiagramm.
+<!--SR:!2025-12-21,1,230-->
 
 
 ---
