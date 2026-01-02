@@ -36,12 +36,11 @@ kanban-plugin: board
 - [ ] [[Median]]
 - [ ] [[Arithmetisches Mittel]]
 - [ ] [[Histogramm]]
-- [ ] [[Diagramme für Häufigkeiten]]
 
 
 ## In Progress
 
-- [ ] [[Datenformate]]
+- [ ] [[Diagramme für Häufigkeiten]]
 
 
 ## Waiting
@@ -50,6 +49,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Datenformate]]
 - [ ] [[Skalenniveaus]]
 - [ ] [[Merkmalsarten]]
 - [ ] [[Grundbegriffe der Erhebung]]
