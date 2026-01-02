@@ -32,31 +32,17 @@
             }
           },
           {
-            "id": "33d0b7a3f214839d",
+            "id": "f02555bcc93aef3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 - Kanban Boards/Grundbegriffe der Erhebung.md",
+                "file": "9 - Kanban Boards/Datenformate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grundbegriffe der Erhebung"
-            }
-          },
-          {
-            "id": "6965cee326015702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettel/Grundraum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grundraum"
+              "title": "Datenformate"
             }
           }
         ],
@@ -221,10 +207,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "686a9266c43b48ec",
+  "active": "f02555bcc93aef3a",
   "lastOpenFiles": [
-    "6 - Zettel/Grundraum.md",
+    "9 - Kanban Boards/Datenformate.md",
     "9 - Kanban Boards/Personal Scrum.md",
+    "9 - Kanban Boards/Skalenniveaus.md",
+    "9 - Kanban Boards/Merkmalsarten.md",
+    "6 - Zettel/Zufallsexperiment.md",
+    "6 - Zettel/Grundraum.md",
     "9 - Kanban Boards/Grundbegriffe der Erhebung.md",
     "6 - Zettel/Effektivzins.md",
     "1 - Schnelle Notizen/Finance Formulas.md",
@@ -245,10 +235,6 @@
     "6 - Zettel/Entscheidungstabelle.md",
     "6 - Zettel/Agile Fluency Model.md",
     "6 - Zettel/Konsolidierung.md",
-    "6 - Zettel/Transformation UC -> BPMN.md",
-    "6 - Zettel/BPMN 2.0.md",
-    "6 - Zettel/Motivation & Grenzen der UC-Schablone.md",
-    "6 - Zettel/Spezifikation & Schreibregeln.md",
     "8 - Media/Bilder/uc-diagram.png",
     "3 - Tags/Pasted image 20251215185123.png",
     "3 - Tags/Pasted image 20251215181920.png",

@@ -6,14 +6,6 @@ kanban-plugin: board
 
 ## Epics
 
-- [ ] [[Grundbegriffe der Erhebung]]
-- [ ] [[Merkmalsarten]]
-- [ ] [[Skalenniveaus]]
-- [ ] [[Datenformate]]
-- [ ] [[Diagramme für Häufigkeiten]]
-- [ ] [[Histogramm]]
-- [ ] [[Arithmetisches Mittel]]
-- [ ] [[Median]]
 - [ ] [[Quantile und Quartile]]
 - [ ] [[Modus]]
 - [ ] [[Geometrisches Mittel]]
@@ -41,10 +33,15 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] [[Median]]
+- [ ] [[Arithmetisches Mittel]]
+- [ ] [[Histogramm]]
+- [ ] [[Diagramme für Häufigkeiten]]
 
 
 ## In Progress
 
+- [ ] [[Datenformate]]
 
 
 ## Waiting
@@ -53,6 +50,9 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Skalenniveaus]]
+- [ ] [[Merkmalsarten]]
+- [ ] [[Grundbegriffe der Erhebung]]
 - [ ] [[Konsolidierung]]
 - [ ] [[Entscheidungstabelle]]
 - [ ] [[Transformation UC -> BPMN]]
