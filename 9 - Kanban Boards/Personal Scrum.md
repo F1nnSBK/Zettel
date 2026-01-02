@@ -6,6 +6,37 @@ kanban-plugin: board
 
 ## Epics
 
+- [ ] [[Grundbegriffe der Erhebung]]
+- [ ] [[Merkmalsarten]]
+- [ ] [[Skalenniveaus]]
+- [ ] [[Datenformate]]
+- [ ] [[Diagramme für Häufigkeiten]]
+- [ ] [[Histogramm]]
+- [ ] [[Arithmetisches Mittel]]
+- [ ] [[Median]]
+- [ ] [[Quantile und Quartile]]
+- [ ] [[Modus]]
+- [ ] [[Geometrisches Mittel]]
+- [ ] [[Harmonisches Mittel]]
+- [ ] [[Varianz & Standardabweichung]]
+- [ ] [[Spannweite & Quartilsabstand]]
+- [ ] [[Variationskoeffizient]]
+- [ ] [[Lineare Transformation]]
+- [ ] [[Schiefe]]
+- [ ] [[Kurtosis]]
+- [ ] [[Boxplot]]
+- [ ] [[QQ-Plot]]
+- [ ] [[Kontingenztabelle]]
+- [ ] [[Kovarianz & Korrelation]]
+- [ ] [[Rangkorrelation]]
+- [ ] [[Kontingenzkoeffizient]]
+- [ ] [[Regressionsgerade]]
+- [ ] [[Bestimmtheitsmaß]]
+- [ ] [[Scheinkorrelation]]
+- [ ] [[Komponentenmodell]]
+- [ ] [[Glättung]]
+- [ ] [[Preisindizes]]
+- [ ] [[Gliederungs- & Beziehungszahlen]]
 
 
 ## Backlog

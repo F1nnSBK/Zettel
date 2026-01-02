@@ -8,6 +8,7 @@ Nennen Sie die 4 zu modellierenden Sichten!
 2. **Funktionssicht** (Was wird getan?)
 3. **Organisationssicht** (Wer tut es?)
 4. **Steuerungssicht** (Verbindung der anderen Sichten, zeitlicher/logischer Ablauf)
+<!--SR:!2025-12-23,1,212-->
 
 Erläutern Sie den Begriff der Semantischen Lücke :: Die „Semantische Lücke“ bezeichnet die Diskrepanz und das Verständigungsproblem zwischen der **natursprachlichen Anforderung** (Sicht des Anwenders/Fachseite) und der **formalen Spezifikation/technischen Umsetzung** (Sicht des Entwicklers/Maschine).
 
@@ -35,6 +36,7 @@ Das Magische Dreieck beschreibt die **Zielkonkurrenz** im Projektmanagement zwis
 Eine Änderung an einer Ecke (z. B. Budgetkürzung) hat zwangsläufig negative Auswirkungen auf die anderen Ecken (z. B. weniger Qualität oder längere Dauer).
 
 Worin unterscheiden sich das evolutionäre und das inkrementelle Prozessmodell? :: **Inkrementell:** Das System wird in _abgeschlossenen Teilen_ (Inkrementen) stückweise erweitert („Anbau-Prinzip“). Die Anforderungen sind weitgehend bekannt. **Evolutionär:** Das System entwickelt sich durch _Versuch, Irrtum und Feedback_ weiter. Anforderungen sind anfangs unklar; man arbeitet oft mit Prototypen, die verfeinert oder verworfen werden („Reifungs-Prinzip“).
+<!--SR:!2025-12-23,1,212-->
 
 ---
 
@@ -49,6 +51,7 @@ Warum wird die klassische SE als „schwergewichtig“ bezeichnet?
 1. **Dokumentenlastigkeit:** Hoher Aufwand für Erstellung und Pflege umfangreicher Dokumente.
 2. **Starrheit:** Strenge Phasenabfolgen und hoher Planungsaufwand machen Änderungen teuer und langsam.
 3. **Bürokratie:** Viele formale Prozesse und Genehmigungen (z. B. bei Change Requests).
+<!--SR:!2025-12-23,1,212-->
 
 Erläutern Sie die analytische und die konstruktive QS!
 ?
@@ -85,6 +88,7 @@ Das V-Modell erweitert das Wasserfallmodell um explizite Maßnahmen der Qualitä
 * Die linke Seite des „V“ zeigt die **Spezifikations- und Entwurfsphasen** (vom Groben zum Detail).
 * Die rechte Seite zeigt die korrespondierenden **Testphasen** (vom Unit-Test bis zum Abnahmetest).
 * Jede Entwurfsstufe hat eine direkt zugeordnete Teststufe (Verifikation/Validierung).
+<!--SR:!2025-12-23,1,212-->
 
 Nennen + erläutern Sie die 3 Arten von Prototypen
 ?
@@ -99,11 +103,12 @@ Nennen + erläutern Sie die 3 Arten von Prototypen
 ---
 
 4:
-Nennen + erläutern Sie "Brook's Law" 
-? 
-**"Adding manpower to a late software project makes it later."** (Fred Brooks) Das Hinzufügen von Personal zu einem bereits verspäteten Projekt führt zu noch mehr Verzögerung. **Gründe:** 
-1. **Einarbeitungsaufwand:** Neue Mitarbeiter müssen von den produktiven Mitarbeitern eingearbeitet werden, was deren Produktivität vorübergehend senkt ("Ramp-up"). 
+Nennen + erläutern Sie "Brook's Law"
+?
+**"Adding manpower to a late software project makes it later."** (Fred Brooks) Das Hinzufügen von Personal zu einem bereits verspäteten Projekt führt zu noch mehr Verzögerung. **Gründe:**
+1. **Einarbeitungsaufwand:** Neue Mitarbeiter müssen von den produktiven Mitarbeitern eingearbeitet werden, was deren Produktivität vorübergehend senkt ("Ramp-up").
 2. **Kommunikationsaufwand:** Der Koordinationsbedarf steigt mit jedem neuen Teammitglied nicht linear, sondern kombinatorisch (n*(n-1)/2 Beziehungen), was die Komplexität erhöht.
+<!--SR:!2025-12-23,1,212-->
 
 ---
 
@@ -134,6 +139,7 @@ Wichtige Elemente:
 * **Tribes:** Zusammenfassung mehrerer Squads, die an einem ähnlichen Geschäftsbereich arbeiten.
 * **Chapters:** Fachliche Gruppen innerhalb eines Tribes (z. B. alle Frontend-Entwickler), geführt vom Chapter Lead (Personalverantwortung).
 * **Guilds:** Freiwillige Interessensgemeinschaften über das gesamte Unternehmen hinweg (Wissensaustausch).
+<!--SR:!2025-12-23,1,212-->
 
 Welcher Art von QS ist die Sprint Retrospective zuordenbar? :: Sie zählt zur **konstruktiven Qualitätssicherung**. Da hier der Arbeitsprozess und die Zusammenarbeit verbessert werden, um zukünftige Fehler zu vermeiden (Fehlerprävention), wirkt sie prozessverbessernd und nicht produktprüfend (analytisch).
 
@@ -143,6 +149,7 @@ Erläutern Sie den Begriff DoR oder DoD
 **DoR (Definition of Ready):** Kriterien, die eine User Story erfüllen muss, *bevor* sie in den Sprint aufgenommen werden darf (z. B. "INVEST erfüllt", "UI-Entwürfe da"). Sichert die Planbarkeit zu Sprint-Beginn.
 
 Ist das Scrum-Modell ein evolutionäres oder ein inkrementelles Prozessmodell? :: Es ist ein **iterativ-inkrementelles** Prozessmodell. Es ist **inkrementell**, weil am Ende jedes Zyklus ein nutzbares Produktteil (Inkrement) steht. Es ist **evolutionär (iterativ)**, weil Anforderungen und Lösungen schrittweise verfeinert werden und sich das System durch Feedback weiterentwickelt.
+<!--SR:!2025-12-23,1,212-->
 
 Was ist/sind die Aufgabe eines Scrum Masters?
 ?
@@ -162,6 +169,7 @@ Nennen Sie die 3 Einflussfaktoren auf die Wahl der richtigen Erhebungstechnik
 1. **Faktor Mensch / Quelle:** Verfügbarkeit, Motivation und Artikulationsfähigkeit der Stakeholder.
 2. **Faktor Wissen:** Art des Wissens (bewusst/explizit vs. unbewusst/implizit).
 3. **Faktor Rahmenbedingungen:** Zeit, Budget und verfügbare Hilfsmittel im Projekt.
+<!--SR:!2025-12-23,1,212-->
 
 Welche Arten von Ereignissen gibt es?
 ?
@@ -169,6 +177,7 @@ Welche Arten von Ereignissen gibt es?
 1. **Zeitereignis:** Ein bestimmter Zeitpunkt oder Ablauf einer Frist (z. B. "Jeden Montag", "nach 10 Min").
 2. **Externes Ereignis (Signal):** Ein Anstoß von außen durch einen Akteur oder ein Nachbarsystem (z. B. "Button gedrückt", "Daten empfangen").
 3. **Internes Ereignis (Zustandsänderung):** Eine Bedingung im System wird wahr (z. B. "Speicher voll", "Temperatur > 50°C").
+<!--SR:!2025-12-23,1,212-->
 
 Nennen und erläutern Sie 2 Dimensionen der Methodenauswahl „klassisch“ <-> „agil“
 ?
@@ -176,6 +185,7 @@ Nennen und erläutern Sie 2 Dimensionen der Methodenauswahl „klassisch“ <-> 
 1. **Dynamik der Anforderungen:** Stabil/Bekannt (-> Klassisch) vs. Volatil/Unbekannt (-> Agil).
 2. **Kritikalität (Schadenshöhe):** High Safety/Life-Critical (-> Klassisch, da dokumentenlastig/sicher) vs. Low Criticality/Comfort (-> Agil).
 3. **Teamgröße:** Großes Team (-> Klassisch) vs. Kleines Team (-> Agil).
+<!--SR:!2025-12-23,1,212-->
 
 Was bedeutet der Begriff der Essenz? :: **Essenz** bezeichnet den rein fachlichen Kern einer Anforderung (z. B. in einem Use Case), **völlig losgelöst von der technischen Realisierung** oder Oberflächen-Details. Es beschreibt das "Was" ohne das "Wie" (technologie-neutral).
 
@@ -189,6 +199,7 @@ Ist das zu modellierende System ein Akteur im Use Case? Begründen Sie Ihre Antw
 ?
 **Nein.**
 **Begründung:** Ein Akteur ist immer eine Entität **außerhalb** der Systemgrenze, die mit dem System interagiert (Mensch oder Nachbarsystem). Das zu modellierende System ist der Gegenstand der Betrachtung (SuD – System under Design) und kann daher nicht sein eigener externer Benutzer sein.
+<!--SR:!2025-12-23,1,212-->
 
 Nennen Sie die Elemente der Use-Case-Schablone
 ?
@@ -223,6 +234,7 @@ Nennen Sie 3 Lessons Learned zu Use Cases
 2. **Kein "If-Then-Else" im Hauptablauf:** Verzweigungen gehören in die Alternativabläufe/Extensions, der Standardablauf bleibt linear ("Happy Path").
 3. **System ist kein Akteur:** Das System handelt nicht mit sich selbst.
 4. **Aktiv statt Passiv:** "Der Kunde gibt die Adresse ein" statt "Die Adresse wird eingegeben".
+<!--SR:!2025-12-23,1,212-->
 
 ---
 
@@ -249,6 +261,7 @@ Es zeigt:
 * Die **Anwendungsfälle** (Was leistet das System?).
 * Die **Beziehungen** zwischen diesen Elementen.
 * *Wichtig:* Es zeigt **keine** Abläufe oder Reihenfolgen!
+<!--SR:!2025-12-23,1,212-->
 
 Erläutern Sie die Teile einer Entscheidungstabelle
 ?
@@ -257,11 +270,13 @@ Eine Entscheidungstabelle ist meist in 4 Quadranten aufgeteilt:
 2.  **Aktionsanzeiger (unten links):** Auflistung aller möglichen Aktionen/Ergebnisse.
 3.  **Bedingungseinträge (oben rechts):** Die verschiedenen Kombinationen der Bedingungen (Regeln), oft mit "J" (Ja), "N" (Nein) oder "-" (Egal) markiert.
 4.  **Aktionseinträge (unten rechts):** Markierung (z. B. "X"), welche Aktion bei welcher Regel ausgeführt wird.
+<!--SR:!2025-12-23,1,212-->
 
 Was bedeutet "Konsolidierung" bei einer Entscheidungstabelle?
 ?
 Das **Zusammenfassen von Regeln** (Spalten), die zur gleichen Aktion führen.
 Dies ist möglich, wenn sich zwei Regeln nur in einer Bedingung unterscheiden, diese Bedingung aber keinen Einfluss auf das Ergebnis hat ("Don't Care" / "-"). Dies reduziert die Komplexität der Tabelle.
+<!--SR:!2025-12-23,1,212-->
 
 Wie sieht das Muster für eine Erweiterung bei einem Use Case aus?
 ?
@@ -278,6 +293,7 @@ Das Modell organisiert skalierte Agilität durch eine Matrix-Struktur aus Autono
 2.  **Tribes:** Eine Sammlung mehrerer Squads, die an einem verwandten Geschäftsbereich arbeiten (max. ca. 100 Personen).
 3.  **Chapters:** Fachliche Gruppierungen *innerhalb* eines Tribes (z. B. alle Tester des Tribes). Dient dem fachlichen Austausch und der Personalentwicklung (Chapter Lead ist oft Disziplinarvorgesetzter).
 4.  **Guilds:** Freiwillige Interessensgemeinschaften über das *gesamte* Unternehmen hinweg (z. B. "Java Guild", "Agile Coach Guild") zum breiten Wissensaustausch.
+<!--SR:!2025-12-23,1,212-->
 
 Nennen Sie 3 charakteristische Merkmale von LeSS (Large-Scale Scrum)
 ?
@@ -295,3 +311,4 @@ Nennen und unterscheiden Sie die zwei Hauptarten der Qualitätssicherung (QS)
 2. **Analytische QS (Fehlerfindung):**
    Maßnahmen, die *nach* der Erstellung eines Artefakts (Code oder Dokument) wirken, um vorhandene Fehler zu entdecken.
    *Beispiele:* Softwaretests (Unit, Integration, System), Reviews, Walkthroughs, Statische Codeanalyse.
+<!--SR:!2025-12-23,1,212-->
