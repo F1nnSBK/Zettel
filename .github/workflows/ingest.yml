@@ -4,16 +4,16 @@ on:
   push:
     paths:
       - "**.md"
+  workflow_dispatch: # Erlaubt es dir, die Pipeline manuell in GitHub zu starten!
 
 jobs:
   ingest:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0 # Holt die gesamte Historie, wichtig für korrekte Diffs
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -23,12 +23,14 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Send changed markdown files to ingest API
+      - name: Send markdown files to ingest API
         env:
           INGEST_URL: ${{ secrets.INGEST_URL }}
           API_KEY: ${{ secrets.API_KEY }}
+          # Wir nutzen die GitHub-Events, um zu wissen, was sich geändert hat
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
         run: |
-          # FIX 1: Git anweisen, Pfade nicht zu escapen (wichtig für Umlaute!)
           git config core.quotepath false
           
           python - << 'EOF'
@@ -39,54 +41,54 @@ jobs:
 
           ingest_url = os.environ["INGEST_URL"]
           api_key = os.environ["API_KEY"]
+          before = os.environ.get("BEFORE")
+          after = os.environ.get("AFTER")
 
-          # FIX 2: Explizites Encoding beim Auslesen des Git Diff
+          # FALLBACK: Wenn es ein neuer Branch ist oder BEFORE fehlt, 
+          # nehmen wir den letzten Commit. Ansonsten den gesamten Push-Bereich.
+          if before and before != "0000000000000000000000000000000000000000":
+              diff_range = f"{before}..{after}"
+          else:
+              diff_range = "HEAD~1..HEAD"
+
+          print(f"Comparing range: {diff_range}")
+
           result = subprocess.run(
-              ["git", "diff", "--name-only", "HEAD~1", "HEAD"],
-              capture_output=True,
-              text=True,
-              encoding='utf-8'
+              ["git", "diff", "--name-only", diff_range],
+              capture_output=True, text=True, encoding='utf-8'
           )
 
           files = result.stdout.strip().split("\n")
-          # Filtern leerer Strings und nur .md Dateien
           md_files = [f for f in files if f and f.endswith(".md")]
 
-          print(f"Detected {len(md_files)} changed files: {md_files}")
+          # MANUELLER OVERRIDE: Wenn du auf "Run Workflow" klickst, 
+          # werden alle Dateien gescannt (optional)
+          if not md_files and os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch":
+              print("Manual trigger: Scanning all files...")
+              for root, dirs, f_list in os.walk("."):
+                  for f in f_list:
+                      if f.endswith(".md"):
+                          md_files.append(os.path.join(root, f))
+
+          print(f"Detected {len(md_files)} files to process.")
 
           for path in md_files:
-              # Wir strippen mögliche Anführungszeichen, falls Git sie doch setzt
               clean_path = path.strip('"')
-              
-              if not os.path.exists(clean_path):
-                  print(f"Skipping (not found): {clean_path}")
-                  continue
+              if not os.path.exists(clean_path): continue
 
               try:
                   with open(clean_path, "r", encoding="utf-8") as f:
                       content = f.read()
 
-                  # ID Generierung (Umlaute in der ID sind für UUIDv5 kein Problem)
                   string_id = clean_path.replace("/", "__").replace(".md", "")
                   note_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, string_id))
 
-                  payload = {
-                      "id": note_id,
-                      "file_path": clean_path,
-                      "markdown_content": content
-                  }
-
-                  headers = {
-                      "x-api-key": api_key,
-                      "Content-Type": "application/json"
-                  }
-
-                  r = requests.post(ingest_url, json=payload, headers=headers)
-                  print(f"Ingested: {clean_path} -> Status {r.status_code}")
-
-                  if r.status_code != 200:
-                      print(f"Error details: {r.text}")
-
+                  r = requests.post(
+                      ingest_url, 
+                      json={"id": note_id, "file_path": clean_path, "markdown_content": content},
+                      headers={"x-api-key": api_key, "Content-Type": "application/json"}
+                  )
+                  print(f"Status {r.status_code} for {clean_path}")
               except Exception as e:
-                  print(f"Failed to process {clean_path}: {str(e)}")
+                  print(f"Error {clean_path}: {e}")
           EOF
