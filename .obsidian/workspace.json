@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Amortisationszeit.md",
+                "file": "6 - Zettel/Squenzielle Prozessmodelle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Amortisationszeit"
+              "title": "Squenzielle Prozessmodelle"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "bd763d7742dc928a",
   "lastOpenFiles": [
+    "6 - Zettel/Stakeholdermatrix.md",
+    "6 - Zettel/Untermatrix.md",
+    "6 - Zettel/Transformation UC -> BPMN.md",
+    "6 - Zettel/Adjugate Matrix.md",
+    "6 - Zettel/Amortisationszeit.md",
     "6 - Zettel/Agile.md",
     "6 - Zettel/Darlehen.md",
     "6 - Zettel/Cholesky-Zerlegung.md",
@@ -218,11 +223,6 @@
     "6 - Zettel/Gaußsche Summenformel.md",
     "6 - Zettel/Eigenwerte.md",
     "6 - Zettel/Eigenvektoren.md",
-    "6 - Zettel/Finanzierungsinstrument.md",
-    "6 - Zettel/Kern.md",
-    "6 - Zettel/Kleinste Quadrate.md",
-    "6 - Zettel/Kapitalmarkt.md",
-    "6 - Zettel/Vorgehensmodelle & Prozesse.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",

@@ -4,7 +4,7 @@
 
 Tags: [[Software Engineering]], [[Prozessmodelle]]
 #se
-
+ 
 ---
 - **Wasserfallmodell:**
     - Klassisches, dokumentengetriebenes Modell, bei dem Phasen (Anforderung, Analyse, Entwurf, Codierung, Test, Betrieb) streng sequenziell durchlaufen werden.

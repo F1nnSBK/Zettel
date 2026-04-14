@@ -4,7 +4,7 @@
 
 Tags: [[Projektmanagement]], [[Stakeholder]], [[Umfeldanalyse]]
 #pm
-
+ 
 ---
 Die **Stakeholder-Analyse** ist der Prozess der systematischen Sammlung und Analyse von Informationen über Personen oder Gruppen, deren Interessen durch das Projekt betroffen sein könnten.
 

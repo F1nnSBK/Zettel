@@ -3,7 +3,7 @@
 2025-05-15
 
 Tags: [[Adjugate Matrix]], [[Adjunkte]], [[Matrizen]], [[Lineare Algebra]], [[Kofaktor]], [[Unterdeterminante]], [[Inverse Matrix]], [[Determinante]]
-
+ 
 ---
 
 Die **Adjugate Matrix**, auch **Adjunkte** genannt und mit $A^*$ oder $\operatorname{adj}(A)$ notiert, ist die **[[Transponieren|Transponierte]] der Matrix der [[Kofaktor|Kofaktoren]]** einer [[Quadratische Matrix|quadratischen Matrix]] $A$.

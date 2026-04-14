@@ -3,7 +3,7 @@
 2025-05-15
 
 Tags: [[Untermatrix]], [[Matrizen]], [[Lineare Algebra]], [[Unterdeterminante]], [[Kofaktor]]
-
+ 
 ---
 
 Eine **Untermatrix** ist eine [[Matrizen|Matrix]], die aus einer größeren [[Matrizen|Matrix]] entsteht, indem man eine oder mehrere Zeilen und/oder eine oder mehrere Spalten löscht.
