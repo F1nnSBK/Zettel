@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Lineare Unabhängigkeit.md",
+                "file": "6 - Zettel/Erlöse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lineare Unabhängigkeit"
+              "title": "Erlöse"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "d7129aa8c0481e1d",
   "lastOpenFiles": [
+    "6 - Zettel/Gram-Schmidt-Verfahren.md",
+    "6 - Zettel/Lineare Unabhängigkeit.md",
     "6 - Zettel/Liquidität.md",
     "6 - Zettel/Orthonormalität.md",
     "6 - Zettel/Orthogonalität.md",
@@ -221,8 +223,6 @@
     "6 - Zettel/Controlling.md",
     "6 - Zettel/Distanz & Ähnlichkeit.md",
     "6 - Zettel/Zeilenstufenform.md",
-    "6 - Zettel/WACC.md",
-    "9 - Kanban Boards/Personal Scrum.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",
