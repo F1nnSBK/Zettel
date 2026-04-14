@@ -2,7 +2,7 @@
 
 2025-05-18
 
-Tags: [[Spektralzerlegung]], [[Matrixzerlegung]], [[Eigenwertzerlegung]], [[Diagonalisierung]], [[Symmetrische Matrix]], [[Matrizen]], [[Lineare Algebra]], [[Orthogonale Matrix]], [[Diagonalmatrix]], [[Eigenwerte]], [[Eigenvektoren]], [[Inverse Matrix]], [[Definitheit (Matrizen)]]], [[Singulärwertzerlegung (SVD)]]
+Tags: [[Spektralzerlegung]], [[Matrixzerlegung]], [[Eigenwertzerlegung]], [[Diagonalisierung]], [[Symmetrische Matrix]], [[Matrizen]], [[Lineare Algebra]], [[Orthogonale Matrix]], [[Diagonalmatrix]], [[Eigenwerte]], [[Eigenvektoren]], [[Inverse Matrix]], [[Definitheit (Matrizen)]]], [[Singulärwertzerlegung (SVD)]] 
 
 ---
 
