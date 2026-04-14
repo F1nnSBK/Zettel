@@ -34,7 +34,6 @@ Die Spektralzerlegung ist sehr nützlich und eng mit den [[Eigenschaften]] [[Sym
 ---
 
 ## Verwendung:
-
 ```dataview
 list from [[Spektralzerlegung]]
 ```
