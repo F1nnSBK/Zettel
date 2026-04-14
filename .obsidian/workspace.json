@@ -1,66 +1,41 @@
 {
   "main": {
-    "id": "c5755bfa7250de49",
+    "id": "0d20085eb4c1f6ad",
     "type": "split",
     "children": [
       {
-        "id": "bf9d38a5546f64a5",
+        "id": "c3da8897ced667d8",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e5b6cc955dbfad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "9 - Kanban Boards/Personal Scrum.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Personal Scrum"
-            }
-          },
-          {
-            "id": "bed51b60bf071a3f",
+            "id": "bd763d7742dc928a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9 - Kanban Boards/Diagramme für Häufigkeiten.md",
+                "file": "6 - Zettel/Controlling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagramme für Häufigkeiten"
+              "title": "Controlling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d887c1302ed073ae",
+    "id": "c7a3363eff6b4fdf",
     "type": "split",
     "children": [
       {
-        "id": "1aa0bc1951673c3a",
+        "id": "c92bd1da840898f5",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc64954dc7caa06",
+            "id": "4d702a06f03a6354",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
-            "id": "686a9266c43b48ec",
+            "id": "edf9a4a0ac382193",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#statistik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,36 +61,35 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Suchen"
             }
           },
           {
-            "id": "335874f5a22cd59a",
+            "id": "46f1612c113e61eb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 300
   },
   "right": {
-    "id": "c2372d361398e8b8",
+    "id": "cfdfdc788903d071",
     "type": "split",
     "children": [
       {
-        "id": "de1bdd3d9f457c19",
+        "id": "c2d9e306f7db14eb",
         "type": "tabs",
         "children": [
           {
-            "id": "d05d6df41fb7e19c",
+            "id": "c997d3b9214b4641",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -129,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rückverweise"
             }
           },
           {
-            "id": "dcbe4d143a922c87",
+            "id": "3cab1328ffa1bb84",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -142,11 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Ausgehende Links"
             }
           },
           {
-            "id": "9a1b2344fe0bc8b6",
+            "id": "e1e6bacae2023be2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,7 +135,21 @@
             }
           },
           {
-            "id": "bc0b3a7e986e6c9f",
+            "id": "604ec3d7d800b823",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "89db809351b2f792",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -171,21 +159,21 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Gliederung"
             }
           },
           {
-            "id": "635c92b17d8f23e5",
+            "id": "a9dd6ef1f2a25c51",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Anstehende Notizen zur Wiederholung"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,67 +182,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-git:Open Git source control": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "bed51b60bf071a3f",
+  "active": "bd763d7742dc928a",
   "lastOpenFiles": [
-    "9 - Kanban Boards/Diagramme für Häufigkeiten.md",
+    "6 - Zettel/Centroid Clustering.md",
+    "6 - Zettel/Controlling.md",
+    "6 - Zettel/Distanz & Ähnlichkeit.md",
+    "6 - Zettel/Zeilenstufenform.md",
+    "6 - Zettel/WACC.md",
     "9 - Kanban Boards/Personal Scrum.md",
-    "9 - Kanban Boards/Datenformate.md",
-    "9 - Kanban Boards/Skalenniveaus.md",
-    "9 - Kanban Boards/Merkmalsarten.md",
+    "9 - Kanban Boards/Diagramme für Häufigkeiten.md",
+    "6 - Zettel/Rating.md",
+    "6 - Zettel/Amortisationsrechnung.md",
+    "6 - Zettel/Grundlagen Business Intelligence.md",
+    "6 - Zettel/Gram-Schmidt-Verfahren.md",
+    "6 - Zettel/Inneres Produkt.md",
+    "6 - Zettel/Homogenes Lineares Gleichungssystem.md",
+    "6 - Zettel/Gauß-Algorithmus.md",
+    "6 - Zettel/Gaußsche Summenformel.md",
+    "6 - Zettel/Eigenwerte.md",
+    "6 - Zettel/Eigenvektoren.md",
+    "6 - Zettel/Finanzierungsinstrument.md",
+    "6 - Zettel/Kern.md",
+    "6 - Zettel/Kleinste Quadrate.md",
+    "6 - Zettel/Kapitalmarkt.md",
+    "6 - Zettel/Vorgehensmodelle & Prozesse.md",
+    "6 - Zettel/Zahlungsplanung.md",
     "6 - Zettel/Zufallsexperiment.md",
-    "6 - Zettel/Grundraum.md",
-    "9 - Kanban Boards/Grundbegriffe der Erhebung.md",
-    "6 - Zettel/Effektivzins.md",
-    "1 - Schnelle Notizen/Finance Formulas.md",
-    "6 - Zettel/Disagio.md",
-    "6 - Zettel/Darlehen.md",
-    "6 - Zettel/Agio.md",
-    "6 - Zettel/Kreditprüfung.md",
-    "6 - Zettel/Bonität.md",
-    "6 - Zettel/Jahresabschlusserstellung.md",
-    "1 - Schnelle Notizen/Fehler Finance.md",
-    "6 - Zettel/Kostenartenrechnung.md",
-    "6 - Zettel/Jahresabschlussgrundlagen.md",
-    "1 - Schnelle Notizen/BSDS.md",
-    "6 - Zettel/Kostenträgerrechnung.md",
-    "6 - Zettel/Kalkulatorische Zinsen.md",
-    "6 - Zettel/Kalkulatorische Kosten.md",
-    "6 - Zettel/Phasen und Methodeneinsatz.md",
-    "6 - Zettel/Entscheidungstabelle.md",
-    "6 - Zettel/Agile Fluency Model.md",
-    "8 - Media/Bilder/uc-diagram.png",
-    "3 - Tags/Pasted image 20251215185123.png",
-    "3 - Tags/Pasted image 20251215181920.png",
-    "8 - Media/Bilder/handelskalk.jpeg",
+    "6 - Zettel/Zeilenraum.md",
+    "6 - Zettel/Unterdeterminante.md",
+    "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
+    "8 - Media/Bilder/uc-diagram.png",
+    "8 - Media/Bilder/rating.jpeg",
+    "8 - Media/Bilder/lineare_regression.png",
     "8 - Media/Bilder/kostenträgerrechnung.jpeg",
     "8 - Media/Bilder/kostenstellenrechnung.jpeg",
-    "8 - Media/Bilder/aufwand_kosten.jpeg",
-    "8 - Media/Bilder/belegwege.jpeg",
     "8 - Media/Bilder/klr_elemente.jpeg",
-    "9 - Kanban Boards",
-    "Untitled.canvas",
-    "Untitled.base",
-    "6 - Zettel/Untitled.base",
-    "1 - Schnelle Notizen/Cloud Computing",
+    "8 - Media/Bilder/handelskalk.jpeg",
+    "8 - Media/Bilder/belegwege.jpeg",
+    "8 - Media/Bilder/aufwand_kosten.jpeg",
     "8 - Media/Bilder",
     "8 - Media",
     "7 - Archiv",
     "6 - Zettel",
     "5 - Vorlagen",
-    "4 - Index"
+    "4 - Index",
+    "3 - Tags",
+    "2 - Quellen",
+    "1 - Schnelle Notizen/Cloud Computing"
   ]
 }
