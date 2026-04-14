@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Controlling.md",
+                "file": "6 - Zettel/Darlehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controlling"
+              "title": "Darlehen"
             }
           }
         ]
@@ -195,9 +195,12 @@
       "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "bd763d7742dc928a",
+  "active": "a9dd6ef1f2a25c51",
   "lastOpenFiles": [
+    "6 - Zettel/Cholesky-Zerlegung.md",
     "6 - Zettel/Centroid Clustering.md",
+    "6 - Zettel/Agio.md",
+    "6 - Zettel/Agile.md",
     "6 - Zettel/Controlling.md",
     "6 - Zettel/Distanz & Ähnlichkeit.md",
     "6 - Zettel/Zeilenstufenform.md",
@@ -220,9 +223,6 @@
     "6 - Zettel/Kapitalmarkt.md",
     "6 - Zettel/Vorgehensmodelle & Prozesse.md",
     "6 - Zettel/Zahlungsplanung.md",
-    "6 - Zettel/Zufallsexperiment.md",
-    "6 - Zettel/Zeilenraum.md",
-    "6 - Zettel/Unterdeterminante.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",
