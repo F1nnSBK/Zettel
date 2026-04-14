@@ -17,7 +17,7 @@ Ein **Darlehen** ist ein schuldrechtlicher Vertrag, bei dem ein Kreditgeber (Gl�
 - **Effektivzins:** Die tatsächlichen Gesamtkosten des Kredits (inkl. Gebühren, Disagio, Tilgungsverrechnung). Er ist die wichtigste Vergleichsgröße.
 - **Tilgung:** Die Rückzahlung der Kreditsumme (reduziert die Restschuld).
 - **Kapitaldienst:** Die Summe aus Zins und Tilgung pro Periode.
-    test
+
 
 ---
 #### 2. Tilgungsstrukturen
