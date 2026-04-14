@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Darlehen.md",
+                "file": "6 - Zettel/Amortisationszeit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darlehen"
+              "title": "Amortisationszeit"
             }
           }
         ]
@@ -195,12 +195,13 @@
       "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "a9dd6ef1f2a25c51",
+  "active": "bd763d7742dc928a",
   "lastOpenFiles": [
+    "6 - Zettel/Agile.md",
+    "6 - Zettel/Darlehen.md",
     "6 - Zettel/Cholesky-Zerlegung.md",
     "6 - Zettel/Centroid Clustering.md",
     "6 - Zettel/Agio.md",
-    "6 - Zettel/Agile.md",
     "6 - Zettel/Controlling.md",
     "6 - Zettel/Distanz & Ähnlichkeit.md",
     "6 - Zettel/Zeilenstufenform.md",
@@ -222,7 +223,6 @@
     "6 - Zettel/Kleinste Quadrate.md",
     "6 - Zettel/Kapitalmarkt.md",
     "6 - Zettel/Vorgehensmodelle & Prozesse.md",
-    "6 - Zettel/Zahlungsplanung.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",

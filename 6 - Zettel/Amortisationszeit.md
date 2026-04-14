@@ -7,7 +7,7 @@ Tags: [[Grundlagen Finanzierung & Investition]]
 
 ---
 Die **Amortisationszeit** (Payback Period) ist der Zeitraum, innerhalb dessen das investierte Kapital wieder zurückgeflossen ist. Sie dient primär der **Risikobeurteilung** (Risikozeitspanne).
-
+ 
 ### Berechnung
 
 1. Vereinfacht (bei konstanten Rückflüssen / Annuität):
