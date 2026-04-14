@@ -32,6 +32,7 @@ jobs:
           import os
           import requests
           import subprocess
+          import uuid  # <-- WICHTIG: UUID Modul importiert
 
           ingest_url = os.environ["INGEST_URL"]
           api_key = os.environ["API_KEY"]
@@ -52,7 +53,11 @@ jobs:
                   with open(path, "r", encoding="utf-8") as f:
                       content = f.read()
 
-                  note_id = path.replace("/", "__").replace(".md", "")
+                  # 1. Den alten String generieren (z.B. "Ordner__Zettel")
+                  string_id = path.replace("/", "__").replace(".md", "")
+                  
+                  # 2. In eine deterministische UUID v5 umwandeln!
+                  note_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, string_id))
 
                   payload = {
                       "id": note_id,
