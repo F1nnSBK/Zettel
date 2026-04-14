@@ -5,7 +5,7 @@ Tags: [[Matrizen]], [[Lineare Algebra]], [[Zerlegung]], [[Eigenwerte]], [[Vektor
 
 ---
 
-Die Singulärwertzerlegung (SVD) ist eine fundamentale Matrixzerlegung, die auf jede beliebige Matrix A angewendet werden kann. Sie liefert tiefe Einblicke in die Struktur der Matrix.
+Die Singulärwertzerlegung (SVD) ist eine fundamentale Matrixzerlegung, die auf jede beliebige Matrix A angewendet werden kann. Sie liefert tiefe Einblicke in die Struktur der Matrix. 
 
 **Formel:**
 
