@@ -41,7 +41,7 @@ Wie berechnet man die Eigenkapitalrentabilität? :: $$r_{EK} = \frac{Jahresüber
 <!--SR:!2025-12-18,2,230-->
 
 Warum addiert man bei der Gesamtkapitalrentabilität die Zinsen zum Gewinn? :: Weil die Zinsen der "Gewinnanteil" der Gläubiger sind. Um die Leistungsfähigkeit des *gesamten* Kapitals zu messen, muss der Ertrag für *beide* Kapitalgeber (Eigentümer + Gläubiger) berücksichtigt werden.
-<!--SR:!2025-12-17,1,210-->
+
 
 ---
 ### Verwendung

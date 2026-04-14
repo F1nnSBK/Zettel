@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Singulärwertzerlegung.md",
+                "file": "6 - Zettel/Rentabilität.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singulärwertzerlegung"
+              "title": "Rentabilität"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "d7129aa8c0481e1d",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "6 - Zettel/Singulärwertzerlegung.md",
+    "Untitled Kanban.md",
     "6 - Zettel/Spektralzerlegung.md",
     "6 - Zettel/Vektoren.md",
     "6 - Zettel/Squenzielle Prozessmodelle.md",
