@@ -8,6 +8,8 @@ Tags: [[Grundlagen Finanzierung & Investition]], [[Fremdkapital]], [[Fremdkapita
 ---
 Ein **Darlehen** ist ein schuldrechtlicher Vertrag, bei dem ein Kreditgeber (Gläubiger) einem Kreditnehmer (Schuldner) Geld oder Sachwerte vorübergehend gegen Entgelt (Zinsen) zur Nutzung überlässt.
 
+
+
 - **Darlehen:** Meist langfristige Ausleihungen (> 4 Jahre).
 - **Kredit:** Oft als Oberbegriff oder für kurzfristige Ausleihungen genutzt.
 #### 1. Grundbegriffe
