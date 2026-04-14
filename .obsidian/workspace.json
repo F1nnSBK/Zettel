@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5a1f011b883cc74",
+        "id": "cdf40ccee2f74f52",
         "type": "tabs",
         "children": [
           {
-            "id": "23aef6550636ae58",
+            "id": "d7129aa8c0481e1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "Lesezeichen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,10 +195,11 @@
       "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "23aef6550636ae58",
+  "active": "d7129aa8c0481e1d",
   "lastOpenFiles": [
-    "6 - Zettel/Spektralzerlegung.md",
+    "Untitled Kanban.md",
     "6 - Zettel/Singulärwertzerlegung.md",
+    "6 - Zettel/Spektralzerlegung.md",
     "6 - Zettel/Vektoren.md",
     "6 - Zettel/Squenzielle Prozessmodelle.md",
     "6 - Zettel/Stakeholdermatrix.md",
@@ -223,7 +223,6 @@
     "6 - Zettel/Grundlagen Business Intelligence.md",
     "6 - Zettel/Gram-Schmidt-Verfahren.md",
     "6 - Zettel/Inneres Produkt.md",
-    "6 - Zettel/Homogenes Lineares Gleichungssystem.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",

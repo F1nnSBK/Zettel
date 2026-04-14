@@ -66,7 +66,7 @@ Die SVD ist ein mächtiges Werkzeug mit vielfältigen Anwendungen, z. B.:
 * Lösung linearer Kleinste-Quadrate-Probleme.
 * Bestimmung des Rangs einer Matrix.
 * [[LoRA]] (Low-Rank Adaptation) für das [[Fine-tuning]] von [[KI-Modellen]].
-* Empfehlungssysteme.
+* Empfehlungssysteme. test
 
 ---
 ## Verwendung:
