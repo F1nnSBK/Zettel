@@ -133,3 +133,4 @@ Die [[Laplace-Entwicklung]] zerlegt die [[Berechnung]] einer großen [[Determina
 ```dataview
 list from [[Laplace-Entwicklung]]
 ```
+

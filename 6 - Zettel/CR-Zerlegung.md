@@ -48,3 +48,4 @@ $$A = \begin{pmatrix} 1 & 3 & 5 \\ 2 & 3 & 7 \\ 1 & 3 & 5 \end{pmatrix}$$
 ```dataview
 list from [[CR-Zerlegung]]
 ```
+

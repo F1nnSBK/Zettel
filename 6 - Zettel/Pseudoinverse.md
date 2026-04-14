@@ -49,3 +49,4 @@ Die Pseudoinverse findet Anwendung bei der Lösung von [[Lineare Gleichungssyste
 ```dataview
 list from [[Pseudoinverse]]
 ```
+
