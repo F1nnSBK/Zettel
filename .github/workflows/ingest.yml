@@ -28,40 +28,51 @@ jobs:
           INGEST_URL: ${{ secrets.INGEST_URL }}
           API_KEY: ${{ secrets.API_KEY }}
         run: |
+          # FIX 1: Git anweisen, Pfade nicht zu escapen (wichtig für Umlaute!)
+          git config core.quotepath false
+          
           python - << 'EOF'
           import os
           import requests
           import subprocess
-          import uuid  # <-- WICHTIG: UUID Modul importiert
+          import uuid
 
           ingest_url = os.environ["INGEST_URL"]
           api_key = os.environ["API_KEY"]
 
+          # FIX 2: Explizites Encoding beim Auslesen des Git Diff
           result = subprocess.run(
               ["git", "diff", "--name-only", "HEAD~1", "HEAD"],
               capture_output=True,
-              text=True
+              text=True,
+              encoding='utf-8'
           )
 
           files = result.stdout.strip().split("\n")
-          md_files = [f for f in files if f.endswith(".md")]
+          # Filtern leerer Strings und nur .md Dateien
+          md_files = [f for f in files if f and f.endswith(".md")]
 
-          print("Changed files:", md_files)
+          print(f"Detected {len(md_files)} changed files: {md_files}")
 
           for path in md_files:
+              # Wir strippen mögliche Anführungszeichen, falls Git sie doch setzt
+              clean_path = path.strip('"')
+              
+              if not os.path.exists(clean_path):
+                  print(f"Skipping (not found): {clean_path}")
+                  continue
+
               try:
-                  with open(path, "r", encoding="utf-8") as f:
+                  with open(clean_path, "r", encoding="utf-8") as f:
                       content = f.read()
 
-                  # 1. Den alten String generieren (z.B. "Ordner__Zettel")
-                  string_id = path.replace("/", "__").replace(".md", "")
-                  
-                  # 2. In eine deterministische UUID v5 umwandeln!
+                  # ID Generierung (Umlaute in der ID sind für UUIDv5 kein Problem)
+                  string_id = clean_path.replace("/", "__").replace(".md", "")
                   note_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, string_id))
 
                   payload = {
                       "id": note_id,
-                      "file_path": path,
+                      "file_path": clean_path,
                       "markdown_content": content
                   }
 
@@ -71,12 +82,11 @@ jobs:
                   }
 
                   r = requests.post(ingest_url, json=payload, headers=headers)
-
-                  print(f"{path} ({note_id}) -> {r.status_code}")
+                  print(f"Ingested: {clean_path} -> Status {r.status_code}")
 
                   if r.status_code != 200:
-                      print(r.text)
+                      print(f"Error details: {r.text}")
 
-              except FileNotFoundError:
-                  print(f"Deleted or missing: {path}")
+              except Exception as e:
+                  print(f"Failed to process {clean_path}: {str(e)}")
           EOF
