@@ -69,7 +69,6 @@ Die SVD ist ein mächtiges Werkzeug mit vielfältigen Anwendungen, z. B.:
 * Empfehlungssysteme.
 
 ---
-
 ## Verwendung:
 
 ```dataview
