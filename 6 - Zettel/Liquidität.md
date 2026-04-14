@@ -7,7 +7,6 @@ Tags: [[Grundlagen Finanzierung & Investition]], [[Liquidität]], [[Bilanz]]
 
 ---
 Liquidität (im statischen Sinne) beschreibt die Fähigkeit eines Unternehmens, seinen fälligen Zahlungsverpflichtungen jederzeit uneingeschränkt nachkommen zu können.
-
 Mangelnde Liquidität ist der häufigste Insolvenzgrund.
 
 #### Die 3 Liquiditätsgrade (Statische Liquidität)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettel/Rentabilität.md",
+                "file": "6 - Zettel/Lineare Unabhängigkeit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rentabilität"
+              "title": "Lineare Unabhängigkeit"
             }
           }
         ]
@@ -197,6 +197,12 @@
   },
   "active": "d7129aa8c0481e1d",
   "lastOpenFiles": [
+    "6 - Zettel/Liquidität.md",
+    "6 - Zettel/Orthonormalität.md",
+    "6 - Zettel/Orthogonalität.md",
+    "6 - Zettel/Scrum & Agiles Requirements Engineering.md",
+    "6 - Zettel/Schätzmethoden.md",
+    "6 - Zettel/Rentabilität.md",
     "6 - Zettel/Singulärwertzerlegung.md",
     "Untitled Kanban.md",
     "6 - Zettel/Spektralzerlegung.md",
@@ -217,12 +223,6 @@
     "6 - Zettel/Zeilenstufenform.md",
     "6 - Zettel/WACC.md",
     "9 - Kanban Boards/Personal Scrum.md",
-    "9 - Kanban Boards/Diagramme für Häufigkeiten.md",
-    "6 - Zettel/Rating.md",
-    "6 - Zettel/Amortisationsrechnung.md",
-    "6 - Zettel/Grundlagen Business Intelligence.md",
-    "6 - Zettel/Gram-Schmidt-Verfahren.md",
-    "6 - Zettel/Inneres Produkt.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",

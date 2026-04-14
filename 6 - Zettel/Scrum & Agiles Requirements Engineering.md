@@ -10,7 +10,7 @@ Tags: [[Software Engineering]], [[Scrum]]
     - **Rollen:** **Product Owner** (verantwortlich für "Was"), **Scrum Master** (verantwortlich für den Prozess/Hindernisse), **Entwicklungsteam** (verantwortlich für "Wie").
     - **Events:** Sprint Planning (Planung), Daily Scrum (täglicher Abgleich), Sprint Review (Abnahme des Inkrements), Sprint Retrospective (Prozessverbesserung).
     - **Artefakte:** Product Backlog (Priorisierte Liste aller Anforderungen), Sprint Backlog (Plan für den aktuellen Sprint), Inkrement (lauffähige Software am Ende des Sprints).
-        
+    
 - **Anforderungsarten:**
     - **Epic:** Eine große, übergeordnete Anforderung, die zu umfangreich ist, um innerhalb eines Sprints umgesetzt zu werden. Sie dient als Container für detailliertere User Stories.
     

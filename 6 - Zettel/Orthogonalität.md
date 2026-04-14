@@ -17,8 +17,7 @@ $$ \langle v, w \rangle = 0 $$
 Der [[Nullvektor]] $\vec{0}$ ist orthogonal zu jedem Vektor.
 
 **Definition für eine Menge von [[Vektoren]]:**
-
-Eine Menge von [[Vektoren]] $ \{v_1, v_2, \dots, v_k\} $ ist eine **orthogonale Menge**, wenn jeder Vektor der Menge orthogonal zu jedem anderen **verschiedenen** Vektor in der Menge ist:
+Eine Menge von [[Vektoren]] $v_1, v_2, \dots, v_k$ ist eine **orthogonale Menge**, wenn jeder Vektor der Menge orthogonal zu jedem anderen **verschiedenen** Vektor in der Menge ist:
 
 $$ \langle v_i, v_j \rangle = 0 \quad \text{für alle } i \neq j $$
 

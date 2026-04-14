@@ -9,7 +9,6 @@ Tags: [[Orthonormalität]], [[Orthogonalität]], [[Norm]], [[Vektorräume]], [[L
 **Orthonormalität** ist eine stärkere Bedingung als die [[Orthogonalität]]. Eine Menge von [[Vektoren]] ist **orthonormal**, wenn sie eine **orthogonale Menge** ist und jeder Vektor in der Menge zusätzlich die **[[Norm]] 1** hat (d.h., normiert ist).
 
 **Definition:**
-
 Eine Menge von [[Vektoren]] $ \{v_1, v_2, \dots, v_k\} $ in einem Inneren Produktraum ist eine **orthonormale Menge**, wenn für alle $i, j$ gilt:
 
 1.  Die [[Vektoren]] sind orthogonal zueinander: $\langle v_i, v_j \rangle = 0$ für $i \neq j$.

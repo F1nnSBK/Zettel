@@ -34,7 +34,6 @@ Der [[Rang]] kann effizient mithilfe des [[Gauß-Algorithmus]] bestimmt werden.
 ---
 
 ## Verwendung:
-
 ```dataview
 list from [[Lineare Unabhängigkeit]]
 ```

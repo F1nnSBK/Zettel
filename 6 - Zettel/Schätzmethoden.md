@@ -12,7 +12,6 @@ Schätzungen sind die Basis für Zeit- und Kostenpläne. Sie sind per Definition
 Zu Beginn eines Projekts ist die Unsicherheit am größten. Mit fortschreitendem Projektverlauf und detaillierterer Planung nimmt die Genauigkeit der Schätzungen zu.
 - **Projektstart:** Grobe Schätzung (z.B. +/- 50%).
 - **Planungsende:** Genauere Schätzung (z.B. +/- 10%).
-    
 
 #### 2. Klassische Schätzmethoden
 
