@@ -10,7 +10,9 @@ Ein Vektor ist ein mathematisches Objekt, das sowohl eine Richtung als auch eine
 **Darstellung:**
 
 Vektoren können als Spaltenvektoren oder Zeilenvektoren dargestellt werden:
+
 Spaltenvektor $\vec{a} = \begin{pmatrix} a_1 \\ a_2 \\ \vdots \\ a_n \end{pmatrix}$
+
 Zeilenvektor $\vec{a} = (a_1, a_2, \dots, a_n)$
 
 Durch **Transponieren** ($^T$) wird ein Spaltenvektor zu einem Zeilenvektor und umgekehrt, z.B., wenn $\vec{a} = \begin{pmatrix} a_1 \\ a_2 \end{pmatrix}$, dann ist $\vec{a}^T = (a_1, a_2)$.
