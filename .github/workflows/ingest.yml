@@ -1,0 +1,51 @@
+name: Ingest Markdown Notes
+
+on:
+  push:
+    paths:
+      - "**.md"
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Send changed markdown files to ingest API
+        env:
+          INGEST_URL: ${{ secrets.INGEST_URL }}
+        run: |
+          python - << 'EOF'
+          import os
+          import requests
+          import glob
+
+          ingest_url = os.environ["INGEST_URL"]
+
+          # alle markdown files im repo
+          md_files = glob.glob("**/*.md", recursive=True)
+
+          for path in md_files:
+              with open(path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              payload = {
+                  "markdown_content": content
+              }
+
+              r = requests.post(ingest_url, json=payload)
+
+              print(f"{path} -> {r.status_code}")
+              if r.status_code != 200:
+                  print(r.text)
+          EOF
