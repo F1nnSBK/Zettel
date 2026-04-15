@@ -46,6 +46,9 @@ Mulitplikatives Modell (expo.): $\hat{Y} = \alpha * \beta * \gamma$
 Modell ohne Saisonkomponente:
 $\hat{Y}_t = \alpha + \beta_1 * t$
 
+
+
+
 ---
 #### Flashcards
 
