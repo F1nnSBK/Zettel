@@ -6,14 +6,6 @@ kanban-plugin: board
 
 ## Business Intelligence
 
-- [ ] [[Zeitreihenkomponenten]]
-- [ ] [[Zeitreihen]]
-- [ ] [[Grundmodell]]
-- [ ] [[Deterministische Modelle]]
-- [ ] [[Stochastische Modelle]]
-- [ ] [[Basiskomponente]]
-- [ ] [[Saisonkomponente]]
-- [ ] [[Trendkomponente]]
 
 
 ## Epics
@@ -60,6 +52,9 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Modellformulierung]]
+- [ ] [[Zeitreihen]]
+- [ ] [[Zeitreihenkomponenten]]
 - [ ] [[Diagramme für Häufigkeiten]]
 - [ ] [[Business Intelligence]]
 - [ ] [[Business Analytics]]
@@ -167,6 +162,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,true,false]}
 ```
 %%
