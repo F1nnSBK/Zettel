@@ -26,6 +26,8 @@ $$SSR = \sum^{m}_{i=1}(y_i - \bar{y})^2$$
 $$SST = SSE + SSR$$
 $$R^{2}=1-\frac{SSE}{SST}$$
 
+Was ist ein Problem mit dem Bestimmtheitsmaß?::$R^2$ steigt auch, wenn einfach nur mehr Datenpunkte hinzugefügt werden. Deshalb hat man Adjusted $R^2$ eingeführt. 
+
 
 ---
 ### Verwendung

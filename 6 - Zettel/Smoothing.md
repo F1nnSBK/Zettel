@@ -2,7 +2,7 @@
 
 2026-04-21
 
-Tags: [[Business Intelligence]], [[Business Analytics]], [[Glättung]], [[Holt-Winter]]
+Tags: [[Business Intelligence]], [[Business Analytics]], [[Glättung]], [[Holt-Winter]], [[Zeitreihen]], [[Zeitreihenkomponenten]]
 #bi
 
 ---
@@ -74,6 +74,44 @@ Für die erste Periode existiert kein Prognosewert, so dass hier ein Startwert v
 Der optimale Glättungsparameter 𝛼 ist der Wert, mit dem die Fehler der Schätzung möglichst minimiert wird -> Optimierung.
 
 ### Double Exponential Smoothing (DES - Holt's Linear)
+Das DES erweitert das SES mit einer Trendkomponente $T_t$. Der Prognosewert ergibt sich additiv aus den Komponenten.
+$$
+\hat{y}_{t+k} = L_t + k \cdot T_t
+$$
+$$
+L_t = \alpha y_t + (1 - \alpha)(L_{t-1} + T_{t-1})
+$$
+$$
+T_t = \beta (L_t - L_{t-1}) + (1 - \beta) \cdot T_{t-1}
+$$
+Dabei ist $k$ die Anzahl der Perioden. Die Zeitreihe wird zerlegt in eine Level-Komponente und eine Trendkomponente. DIe Levelkomponente stellt quasi den jeweiligen Ausgangswert in einer Periode dar. Die Trendkomponente entspricht der erwarteten Steigung zur nächsten Periode. Die Smoothing-Parameter $\alpha$ und $\beta$ werden nun so gewählt, dass der Fehler minimiert wird.
+Level und Trend werden ab Start nicht mehr aktualisiert → Prognosen nutzen letzten Level + konstanten Trend → nur für kurze Horizonte geeignet.
+Das Double Exponential Smoothing funktioniert gut in Zeitreihen mit Trend und ohne Saisoneffekte. Durch die Glättung werden auch vergangene Informationen mit berücksichtigt.
+
+### Triple Exponential Smoothing (TES - Holt-Winter)
+Im Holt-Winters Modell des Triple Exponential Smoothing wird die Zeitreihe in Level-, Trend- und Saisonkomponente zerlegt. Die einzelnen Komponenten werden dann exponentiell abnehmend gewichtet und zur Prognose reaggegiert.
+Der Prognosewert ergibt sich im additiven Modell dann aus der Summe der drei Komponenten. Da mit jeder neuen Periode ein Wert hinzukommt, erfolgt die Glättung für alle drei Komponenten permanent.
+
+##### Additives Modell
+$$
+\hat{y}_{t+k} = L_t + k \cdot T_t + S_{t+k-M}
+$$
+$$
+L_t = \alpha (y_t - S_{t-M}) + (1 - \alpha)(L_{t-1} + T_{t-1})
+$$
+$$
+T_t = \beta (L_t - L_{t-1}) + (1 - \beta) \cdot T_{t-1}
+$$
+$$
+S_t = \gamma (y_t - L_t) + (1 - \gamma) \cdot S_{t-M}
+$$
+
+##### Multiplikatives Modell
+
+
+
+
+
 
 
 
