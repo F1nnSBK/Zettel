@@ -6,25 +6,21 @@ Tags: [[Business Analytics]], [[Forecasting]], [[]]
 #bi
 
 ---
+**Predictive Modeling** beschreibt die Entwicklung von statistischen [[Stochastische Modelle|Modellen]], um Entscheidungen vorherzusagen.
 
-
+Beispielsweise wird PM bei der Betrugserkennung oft eingesetzt. Es nutzt im Kern [[Klassifizierung]].
 
 
 
 ---
 #### Flashcards
 
-Hier steht eine Frage :: Hier steht die Antwort.
-
-Hier steht eine Frage mit Formel oder mehr Text?
-?
-Hier steht die Antwort $a² = b² + c² $
-
+-
 
 ---
 ### Verwendung
 ```dataview
 TABLE file.mtime AS "Bearbeitet"
-FROM [[Note]]
+FROM [[Prediktive Modellierung]]
 SORT file.mtime DESC
 ```
