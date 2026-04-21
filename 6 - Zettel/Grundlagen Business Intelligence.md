@@ -115,6 +115,33 @@ Nur ein Prognosewert
 Wahl der Startwerts
 Wahl des Smoothingparameters $\alpha$
 
+#### Double Exponential Smoothing
+Levelkomponente
+Trendkomponente
+
+Bei dem exponentiellen Glätten nehmen wir jetzt nicht die vollen Werte der Trend- & Levelkomponenten sondern eben nur Bruchteile (exponentiell absteigend).
+
+Finales Modell
+
+#### Triple Exponential Smoothing
+Levelkomponente
+Trendkomponente
+Saisonkomponente
+
+Gesamtes Modell nach Holt-Winter (additiv)
+
+
+Gesamtes Modell nach Holt-Winter (multiplikativ)
+
+Upper Confidence Level
+
+Lower Confidence Level
+
+
+
+
+
+
 
 
 ---
