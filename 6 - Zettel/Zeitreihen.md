@@ -2,7 +2,7 @@
 
 2026-04-21
 
-Tags: [[Business Analytics]], [[Business Intelligence]], [[Zeitreihenkomponenten]], [[Prediktive Modellierung]], [[Forecasting]], [[Modellgüte]]
+Tags: [[Business Analytics]], [[6 - Zettel/Business Intelligence]], [[Zeitreihenkomponenten]], [[Prediktive Modellierung]], [[Forecasting]], [[Modellgüte]]
 #bi
 
 ---

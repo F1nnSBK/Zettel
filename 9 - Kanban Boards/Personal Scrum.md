@@ -56,7 +56,7 @@ kanban-plugin: board
 - [ ] [[Zeitreihen]]
 - [ ] [[Zeitreihenkomponenten]]
 - [ ] [[Diagramme für Häufigkeiten]]
-- [ ] [[Business Intelligence]]
+- [ ] [[6 - Zettel/Business Intelligence]]
 - [ ] [[Business Analytics]]
 - [ ] [[Datenformate]]
 - [ ] [[Skalenniveaus]]

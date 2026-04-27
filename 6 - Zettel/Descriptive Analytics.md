@@ -2,7 +2,7 @@
 
 2026-04-21
 
-Tags: [[Business Analytics]], [[Predictive Analytics]], [[Prescriptive Analytics]], [[Business Intelligence]], [[Deskriptive Statistik]]
+Tags: [[Business Analytics]], [[Predictive Analytics]], [[Prescriptive Analytics]], [[6 - Zettel/Business Intelligence]], [[Deskriptive Statistik]]
 #bi
 
 ---

@@ -59,6 +59,10 @@ Wie erkennt man Overfit?
 Klassenwahrscheinlichkeiten für gegebenes $x$
 Bayes optimal classifier $c(x)$
 
+#### Geschätzter Klassifikator
+Error S.40
+
+Plot mit Entscheidungsgrenzen S.41
 
 
 

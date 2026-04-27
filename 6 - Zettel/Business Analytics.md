@@ -2,13 +2,13 @@
 
 2026-04-21
 
-Tags: [[Business Intelligence]], [[ARIMA]], [[Forecasting]], [[Modellierung]], [[Statistik]], [[Deskriptive Statistik]], [[Stochastische Modelle]]
+Tags: [[6 - Zettel/Business Intelligence]], [[ARIMA]], [[Forecasting]], [[Modellierung]], [[Statistik]], [[Deskriptive Statistik]], [[Stochastische Modelle]]
 #bi
 
 ---
 **Business Analytics** meint den wissenschaftlichen Prozess der Transformation von Daten in Wissen zur Bestimmung von besseren betriebswirtschaftlichen Entscheidungen.
 
-Bei Business Analytics liegt der Fokus auf Vorhersagen für die Zukunft, während [[Business Intelligence]] sich primär mit der [[Deskriptive Statistik|deskriptiven]] Analyse beschäftigt.
+Bei Business Analytics liegt der Fokus auf Vorhersagen für die Zukunft, während [[6 - Zettel/Business Intelligence]] sich primär mit der [[Deskriptive Statistik|deskriptiven]] Analyse beschäftigt.
 
 BA umfasst einfache Tools wie Reports oder Grafiken aber auch komplexere Anwendungen wie [[Data Mining]], [[Optimierung]] oder [[Simulationen]].
 Typischerweise werden die möglichen Tools ihrer Komplexität nach 3 Unterbereichen zugeordnet:

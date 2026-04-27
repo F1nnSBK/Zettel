@@ -2,7 +2,7 @@
 
 2026-04-21
 
-Tags: [[Business Analytics]], [[Business Intelligence]], [[Zeitreihen]], [[ARIMA]], [[Smoothing]]
+Tags: [[Business Analytics]], [[6 - Zettel/Business Intelligence]], [[Zeitreihen]], [[ARIMA]], [[Smoothing]]
 #bi
 
 ---

@@ -2,7 +2,7 @@
 
 2026-04-21
 
-Tags: [[Business Intelligence]], [[Business Analytics]], [[Zeitreihen]], [[Prognosen]]
+Tags: [[6 - Zettel/Business Intelligence]], [[Business Analytics]], [[Zeitreihen]], [[Prognosen]]
 #bi
 
 ---

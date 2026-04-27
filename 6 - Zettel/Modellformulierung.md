@@ -2,7 +2,7 @@
 
 2026-04-21
 
-Tags: [[Business Analytics]], [[Business Intelligence]], [[Zeitreihen]], [[Zeitreihenanalyse]], [[Zeitreihenkomponenten]]
+Tags: [[Business Analytics]], [[6 - Zettel/Business Intelligence]], [[Zeitreihen]], [[Zeitreihenanalyse]], [[Zeitreihenkomponenten]]
 #bi
 
 ---
