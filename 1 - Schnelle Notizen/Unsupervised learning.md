@@ -13,7 +13,7 @@ Hierarchical Clustering Algorithm nach Ward
 3. Punkte mit den niedrigsten Distanzen kommen in ein Cluster
 4. Entferne die Punkte aus der active cluster Menge
 5. Wiederhole bis $|active| = 1$
--> Es wird immer global alle Distanzen betrachten
+-> Es wird immer global alle DistanzPen betrachten
 Man kann also am Anfang alle Distanzen der Punkte einmal berechnen und am Ende muss man sie nur noch nachschauen (lookup)
 Nachteil ist sehr greedy aber findet nicht unbedingt die minimale Distanz
 
@@ -44,6 +44,40 @@ n_min setzen, epsilon setzen
 DB schlägt fehl, wenn die Dichten sehr stark variieren (Skalierung / Mahalanobis löst es) und es gibt hier auch das Problem mit Bridging & Chaining
 
 OPTICS, DBSCAN, HDBSCAN
+Verständnis bis S.76
+### Dimensionality Reduction
+Wertebereich ist tückisch, wenn Daten nicht normiert und skaliert sind. Hier ist wieder die Varianz bzw. dann die Mahalanobisdistanz wetvoll.
+
+Sinn, wieso müssen wir die Dimensionen reduzieren? -> zu viele Dimensionen erschweren uns die Verarbeitung und nehmen uns die Möglichkeit, via Generalisierung Aussagen über neue Datenpunkte zu treffen.
+(Triviales 1:1 Mapping)
+
+In der Welt sind Daten oft hochdimensional, wobei der Großteil der Dimensionen nicht maßgeblich zur Information beitragen. Man geht von einer **intrinsischen Dimensionalität** aus. Diese ist viel kleiner, als die tatsächliche Anzahl der Dimensionen.
+In hohen Dimensionen schwindet unsere Fähgikeit, Cluster zu bilden -> Curse of Dimensionality. 
+Bei hohen Dimensionen wird Information oft mehrfach (redundant) oder voneinander abhängig (entangled) dargestellt. 
+Bei hohen Dimensionen sind Daten extrem schwer zu interpretieren -> wir können uns 1000D nicht vorstellen, aber 2D schon
+
+Wie reduziert man nun Dimensionen? 
+Man braucht ein Muster, das alle Informationen behält, die für die "Essenz" wichtig sind, aber den Rest wegwirft.
+Dieses Muster muss Dimensionen enthalten, die nicht auf das Original beschränkt sind, sodass versteckte Informationen sichtbar werden.
+Es gibt verschiedene Muster/Arten Dimensionen zu reduzieren, bei jedem trifft man utnerschiedliche Annahmen, die zu unterscheidlichen Use Cases passen. 
+
+Curse of Dimensionality
+Variance-Based Feature Selection
+Principal Component Analysis
+(Auf einer Datenpunktauflösung -> danach wie es mit Vektorisierung geht)
+
+29.04.
+
+---
+
+30.04.
+
+Schickes Embedding durch Beta-Scheduling von KL (bzw. Ränge von LoRA)
+
+### Uncertainty Estimation
+Anomaly Detection
+
+
 
 
 

@@ -4,11 +4,44 @@ kanban-plugin: board
 
 ---
 
+## Datenbanken
+
+
+
+## IT-Recht
+
+
+
+## IT-Security
+
+
+
+## Cloud Computing
+
+
+
+## Big Data
+
+
+
+## Supervised Learning
+
+
+
+## Unsupervised Learning
+
+- [ ] [[Transfer Learning]]
+
+
+## Fort. Statistik
+
+
+
 ## Business Intelligence
 
 
 
-## Epics
+## Grund. Statistik
 
 - [ ] [[Quantile und Quartile]]
 - [ ] [[Modus]]
@@ -52,6 +85,14 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Uncertainty Estimation]]
+- [ ] [[Probabilistic Embeddings]]
+- [ ] [[Dimensionsreduktion]]
+- [ ] [[Hierarchical Clustering]]
+- [ ] [[Density-Based Clustering]]
+- [ ] [[Centroid-Based Clustering]]
+- [ ] [[Feature-Transformation]]
+- [ ] [[Distanzmetriken]]
 - [ ] [[Modellformulierung]]
 - [ ] [[Zeitreihen]]
 - [ ] [[Zeitreihenkomponenten]]
@@ -154,14 +195,10 @@ kanban-plugin: board
 - [ ] [[Investition]]
 
 
-## Fort. Statistik
-
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,true,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,false,true,true,true,true,true,true,true]}
 ```
 %%

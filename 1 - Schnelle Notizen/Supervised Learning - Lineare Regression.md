@@ -48,6 +48,24 @@ Mallow’s C, Akaike information criterion (AIC), Bayesian information criterion
 Weitere Alternativen wären -> Optimierungsproblem Min Feature-Feature Cor(X1,X2) oder Max Feature-Label Cor(X,Y)
 Lasso-Regression
 
+Kategorische Features
+Kreditbeispiel, Dummy-Variablen
+Kategorische Features mit > 2 möglichen Werten
+Dummy Variablen vs. One Hot Encoding
+
+degrees of freedom (Anzahl Datenpunkte - Anzahl Features)
+
+**Interaktionen**
+-> Produkt von 2 Features oder mehr
+-> quantitativ * kategorisch
+
+Nichtlinearität -> über Polynome
+Lab Tasks bei Kreditkartendaten rumpsielen mit Interaktionsterme, Nichtlinearität, Feature Engineering.
+
+
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 
 2026-04-16
 
-Tags: [[Supervised Learning]], [[Lineare Algebra]], [[Lineare Regression]]
+Tags: [[Supervised Learning - Classification]], [[Lineare Algebra]], [[Lineare Regression]]
 #sl
 
 ---

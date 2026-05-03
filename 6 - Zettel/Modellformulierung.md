@@ -37,7 +37,7 @@ Die Schätzperiode entspricht dem Zeitraum, der für die Schätzung des Modells 
 
 Die Validierungsperiode ist die letzte Periode der Zeitreihe, für die noch Daten verfügbar sind und die einen kompletten Zyklus abdeckt. Anhand der Daten in diesem Zeitraum wird die Prognosegüte der verschiedenen Modelle gemessen und verglichen.
 
-Dieses System ist vergleichbar mit dem Trainings- und Testdatensätzen im [[Supervised Learning]], sie sind aber nicht gleich.
+Dieses System ist vergleichbar mit dem Trainings- und Testdatensätzen im [[Supervised Learning - Classification]], sie sind aber nicht gleich.
 
 
 ---
