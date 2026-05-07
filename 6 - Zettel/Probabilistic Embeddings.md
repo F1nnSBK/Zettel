@@ -2,7 +2,7 @@
 
 2026-05-03
 
-Tags: [[Autoencoder]], [[VAE]], [[Representation Learning]], [[Probabilistische Einbettung]], [[Unsupervised Learning]]
+Tags: [[Autoencoder]], [[VAE]], [[Representation Learning]], [[Probabilistische Einbettung]], [[Unsupervised Learning]], [[Ebenen]], [[Dimensionsreduktion]]
 #UL
 
 ---

@@ -109,6 +109,56 @@ MITRE-ATT&CK-Framework & MITRE Defend
 
 Symmetrische & Asymmetrische
 Beispiel Magic.py, Restklassenringe, Modulo Operator topologisch dargestellt, Primkörper, elliptische Kurven (gleiches Prinzip)
+
+
+Kryptographie - Kommt gefühlt überall vor (Bsp. Herzschrittmacher, WLAN, Autoschlüssel, ...)
+-> Vergleich Motor, das Auto und der Sprit muss aber auch da sein
+
+Kryptographie und Kryptoanalyse als Gegenspieler
+Statt Schlüsseltext spricht man von e- und d-Funktionen (Encryption-Decryption Funktionen)
+und k für Key.
+Beispiel: $e_k: x \to y$ & $e_k^{-1}: y \to x$ oder $d_k: y \to x$ 
+Kerckhoff'sches Prinzip -> Das muss jeder Informatiker kennen.
+Überblick Kryptographie S.77
+Zusammenhang:
+Gruppe (Additiv, Multiplikativ), Ring (S.8, Modul 9), Restklassenringe
+-> Ring als math. Objekt, auf dem man Modulo Rechnung anwendet (Schneller als Division)
+Teilerfremd zum Modulo Wert
+$(\mathbb{Z}_9, +, x)=\set{0,1,2,3,4,5,6,7,8,9}$
+Körper mit Division gibt Probleme -> Lösung sind Primkörper, weil man darin Teilen und Multiplizieren kann und er trotzdem abgeschlossen ist (Erweiterungskörper)
+Modulo sollte also Primzahl sein, muss aber nicht (Typische Aufgabe in der Klausur), mit k = 2 geht es nicht aber mit k = 3 schon, weil 3 und 26 nur die 1 als größten gemeinsamen Teiler haben
+Wie viele Schlüssel gibt es also?
+Ausprobieren oder Eulersche Phi Funktion
+Vigenere-Chiffre -> Schwäche sind Muster bei zu kurzne Keys
+Muster sind in der Kryptograhpie das Schlimmste was es gibt
+
+Stromchiffren -> Jeden einzelne Bit wird verschlüsselt S. 7, 12
+Wird zb bei der Verbindung von Smartphone zum Sendemast verwendet
+Warum geht das, obwohl es so simpel ist?
+XOR gibt uns eine 50% Chance was verschlüsselt wurde, wenn wir ein gewissen Bit sehen, das scheint erstmal unsicher *ABER* wir haben tausende oder zehntausende Bits, dadurch wird es fast unknackbar. Wenn dann alles gleich wahrscheinlich ist, dann ist alle gleich falsch und gleich richtig -> man kann es nicht interpretieren
+Was genau sind die Bit $s_i, x_i \text{ und } y_i$?
+Wie erzeugt man zufällige Zahlen?
+PRNG, TRNG, CSPRNG Fail bei rand() in C
+LFSR Konstruktion
+Trivium, GSM Standard A5/1 (verbessert A5/3)
+Wenn nicht zufällig -> Knackbar
+
+
+Blockchiffren -> Blockweise Verschlüsselung
+DES - Data Encryption Standard
+(64 Bit Blocks - Key ist aber 56 Bit lange)
+Gibt es ein sicheres Verfahren um Blockchiffren zu bauen? -> Nein
+Claude Shannon - Diffusion & Konfusion / P-Box (Bitpermutation) & S-Boxen (Substitution)
+Bei AES sind es MixColumn-Operation
+Ein Bit soll die Hälfte aller anderen Bits verändern
+Man soll immer mit Konfusion und Diffusion zusammen arbeiten, nie einzeln.
+Konfusion (ENIGMA) -> fail <- Diffusion (Vegenere)
+Strategie für den Chiffrenbau -> Sinvolle Verschachtelung über mehrere Runden
+Jede Runde nutzt einen eigenen Schlüssel, der einzlene Schlüssel (Rundenschlüssel) wird in Teile zerlegt
+FPGA - Copacobana Uni Bochum - DES
+
+
+
 Einweg & Hashfunktionen
 Digitale Signaturen und Zertifikate
 Schlüsselmanagement und Austausch

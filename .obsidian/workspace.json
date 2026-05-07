@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb7561208bddb78c",
+        "id": "5f01badabdf88c30",
         "type": "tabs",
         "children": [
           {
-            "id": "50de6ebcaf97ca9d",
+            "id": "bb1fd0638deb11db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - Schnelle Notizen/Über LoRA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Über LoRA"
             }
           }
         ]
@@ -49,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "centroid",
-                "matchingCase": false,
+                "query": "big data",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -177,6 +181,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "64cf64850c9bd75c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
           }
         ],
         "currentTab": 5
@@ -201,34 +215,34 @@
       "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "50de6ebcaf97ca9d",
+  "active": "bb1fd0638deb11db",
   "lastOpenFiles": [
-    "6 - Zettel/Probabilistic Embeddings.md",
-    "6 - Zettel/Density-Based Clustering.md",
+    "1 - Schnelle Notizen/Über LoRA.md",
+    "1 - Schnelle Notizen/Big Data.md",
+    "1 - Schnelle Notizen/IT-Security.md",
     "9 - Kanban Boards/Personal Scrum.md",
     "6 - Zettel/Uncertainty Estimation.md",
-    "6 - Zettel/Feature-Transformation.md",
-    "6 - Zettel/Hierarchical Clustering.md",
-    "6 - Zettel/Dimensionsreduktion.md",
-    "6 - Zettel/Curse of Dimensionality.md",
-    "6 - Zettel/Distanzmetriken.md",
-    "6 - Zettel/Centroid-Based Clustering.md",
-    "9 - Kanban Boards/Z-Score.md",
-    "1 - Schnelle Notizen/Distanz & Ähnlichkeit.md",
-    "1 - Schnelle Notizen/Unsupervised learning.md",
-    "1 - Schnelle Notizen/IT-Recht.md",
-    "1 - Schnelle Notizen/Content-Recommender für regionale Artikel.md",
-    "1 - Schnelle Notizen/IT-Security.md",
-    "6 - Zettel/WACC.md",
-    "6 - Zettel/Use Case Modellierung.md",
-    "6 - Zettel/Forecasting.md",
-    "5 - Vorlagen/Tag.md",
-    "5 - Vorlagen/Note.md",
-    "1 - Schnelle Notizen/Supervised Learning - Classification.md",
-    "1 - Schnelle Notizen/Supervised Learning - Lineare Regression.md",
-    "1 - Schnelle Notizen/Testfragen PM.md",
-    "1 - Schnelle Notizen/BSDS.md",
+    "6 - Zettel/Probabilistic Embeddings.md",
+    "6 - Zettel/Ebenen.md",
+    "6 - Zettel/Zeitreihenkomponenten.md",
+    "6 - Zettel/Zeitreihen.md",
     "6 - Zettel/Smoothing.md",
+    "6 - Zettel/Skalenniveaus.md",
+    "6 - Zettel/Prognosen.md",
+    "6 - Zettel/Prescriptive Analytics.md",
+    "6 - Zettel/Prediktive Modellierung.md",
+    "6 - Zettel/Predictive Analytics.md",
+    "6 - Zettel/Modellformulierung.md",
+    "6 - Zettel/Merkmalsarten.md",
+    "6 - Zettel/Lag-Variable.md",
+    "6 - Zettel/Hierarchical Clustering.md",
+    "6 - Zettel/Grundbegriffe der Erhebung.md",
+    "6 - Zettel/Forecasting.md",
+    "6 - Zettel/Feature-Transformation.md",
+    "6 - Zettel/Distanzmetriken.md",
+    "6 - Zettel/Dimensionsreduktion.md",
+    "6 - Zettel/Diagramme für Häufigkeiten.md",
+    "6 - Zettel/Descriptive Analytics.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",
