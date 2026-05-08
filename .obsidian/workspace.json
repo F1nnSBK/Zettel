@@ -10,18 +10,52 @@
           {
             "id": "bb1fd0638deb11db",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "9 - Kanban Boards/Personal Scrum.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-trello",
+              "title": "Personal Scrum"
+            }
+          },
+          {
+            "id": "92d6b33c4002de51",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Schnelle Notizen/Über LoRA.md",
+                "file": "1 - Schnelle Notizen/Projektmanagement - Scheißcast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Über LoRA"
+              "title": "Projektmanagement - Scheißcast"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "big data",
+                "query": "probabilistic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,14 +249,19 @@
       "obsidian-spaced-repetition:Lernkarten wiederholen": false
     }
   },
-  "active": "bb1fd0638deb11db",
+  "active": "fb8b87504d24f39b",
   "lastOpenFiles": [
+    "9 - Kanban Boards/Personal Scrum.md",
+    "1 - Schnelle Notizen/Projektmanagement - Scheißcast.md",
+    "1 - Schnelle Notizen/Transfer Learning.md",
+    "6 - Zettel/Probabilistic Embeddings.md",
+    "6 - Zettel/Uncertainty Estimation.md",
+    "1 - Schnelle Notizen/Exercises_Unsupervised_Learning.md",
     "1 - Schnelle Notizen/Über LoRA.md",
+    "1 - Schnelle Notizen/Unsupervised learning.md",
+    "9 - Kanban Boards/Bücher.md",
     "1 - Schnelle Notizen/Big Data.md",
     "1 - Schnelle Notizen/IT-Security.md",
-    "9 - Kanban Boards/Personal Scrum.md",
-    "6 - Zettel/Uncertainty Estimation.md",
-    "6 - Zettel/Probabilistic Embeddings.md",
     "6 - Zettel/Ebenen.md",
     "6 - Zettel/Zeitreihenkomponenten.md",
     "6 - Zettel/Zeitreihen.md",
@@ -238,11 +277,6 @@
     "6 - Zettel/Hierarchical Clustering.md",
     "6 - Zettel/Grundbegriffe der Erhebung.md",
     "6 - Zettel/Forecasting.md",
-    "6 - Zettel/Feature-Transformation.md",
-    "6 - Zettel/Distanzmetriken.md",
-    "6 - Zettel/Dimensionsreduktion.md",
-    "6 - Zettel/Diagramme für Häufigkeiten.md",
-    "6 - Zettel/Descriptive Analytics.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",
