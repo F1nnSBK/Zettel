@@ -41,33 +41,6 @@ kanban-plugin: board
 
 
 
-## Grund. Statistik
-
-- [ ] [[Quantile und Quartile]]
-- [ ] [[Modus]]
-- [ ] [[Geometrisches Mittel]]
-- [ ] [[Harmonisches Mittel]]
-- [ ] [[Varianz & Standardabweichung]]
-- [ ] [[Spannweite & Quartilsabstand]]
-- [ ] [[Variationskoeffizient]]
-- [ ] [[Lineare Transformation]]
-- [ ] [[Schiefe]]
-- [ ] [[Kurtosis]]
-- [ ] [[Boxplot]]
-- [ ] [[QQ-Plot]]
-- [ ] [[Kontingenztabelle]]
-- [ ] [[Kovarianz & Korrelation]]
-- [ ] [[Rangkorrelation]]
-- [ ] [[Kontingenzkoeffizient]]
-- [ ] [[Regressionsgerade]]
-- [ ] [[Bestimmtheitsmaß]]
-- [ ] [[Scheinkorrelation]]
-- [ ] [[Komponentenmodell]]
-- [ ] [[Glättung]]
-- [ ] [[Preisindizes]]
-- [ ] [[Gliederungs- & Beziehungszahlen]]
-
-
 ## Backlog
 
 - [ ] [[Median]]
@@ -199,6 +172,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,false,true,true,true,true,true,true,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,true,true,true,false,true,true,true,true,true,true]}
 ```
 %%

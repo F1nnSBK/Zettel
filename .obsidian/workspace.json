@@ -4,58 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5f01badabdf88c30",
+        "id": "bbf529c7f31ee735",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1fd0638deb11db",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "9 - Kanban Boards/Personal Scrum.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    false,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    true,
-                    false
-                  ]
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "Personal Scrum"
-            }
-          },
-          {
-            "id": "92d6b33c4002de51",
+            "id": "cd44bd3e422fa8fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Schnelle Notizen/Projektmanagement - Scheißcast.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Projektmanagement - Scheißcast"
+              "title": "Neuer Tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,12 +49,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probabilistic",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Suchen"
@@ -246,37 +208,38 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-spaced-repetition:Lernkarten wiederholen": false
+      "obsidian-spaced-repetition:Lernkarten wiederholen": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fb8b87504d24f39b",
+  "active": "cd44bd3e422fa8fa",
   "lastOpenFiles": [
+    "6 - Zettel/Gliederungs- & Beziehungszahlen.md",
+    "6 - Zettel/Preisindizes.md",
+    "6 - Zettel/Lineare Transformation.md",
+    "6 - Zettel/Variationskoeffizient.md",
+    "6 - Zettel/Komponentenmodell.md",
+    "6 - Zettel/Regressionsgerade.md",
+    "6 - Zettel/Kontingenzkoeffizient.md",
+    "6 - Zettel/Rangkorrelation.md",
     "9 - Kanban Boards/Personal Scrum.md",
-    "1 - Schnelle Notizen/Projektmanagement - Scheißcast.md",
-    "1 - Schnelle Notizen/Transfer Learning.md",
-    "6 - Zettel/Probabilistic Embeddings.md",
-    "6 - Zettel/Uncertainty Estimation.md",
-    "1 - Schnelle Notizen/Exercises_Unsupervised_Learning.md",
-    "1 - Schnelle Notizen/Über LoRA.md",
-    "1 - Schnelle Notizen/Unsupervised learning.md",
-    "9 - Kanban Boards/Bücher.md",
-    "1 - Schnelle Notizen/Big Data.md",
-    "1 - Schnelle Notizen/IT-Security.md",
-    "6 - Zettel/Ebenen.md",
-    "6 - Zettel/Zeitreihenkomponenten.md",
-    "6 - Zettel/Zeitreihen.md",
-    "6 - Zettel/Smoothing.md",
-    "6 - Zettel/Skalenniveaus.md",
-    "6 - Zettel/Prognosen.md",
-    "6 - Zettel/Prescriptive Analytics.md",
-    "6 - Zettel/Prediktive Modellierung.md",
-    "6 - Zettel/Predictive Analytics.md",
-    "6 - Zettel/Modellformulierung.md",
-    "6 - Zettel/Merkmalsarten.md",
-    "6 - Zettel/Lag-Variable.md",
-    "6 - Zettel/Hierarchical Clustering.md",
+    "6 - Zettel/Kovarianz & Korrelation.md",
+    "6 - Zettel/Scheinkorrelation.md",
+    "6 - Zettel/Kontingenztabelle.md",
+    "6 - Zettel/Kurtosis.md",
+    "6 - Zettel/Schiefe.md",
+    "6 - Zettel/Spannweite & Quartilsabstand.md",
+    "6 - Zettel/Gauß-Kernel.md",
+    "6 - Zettel/Varianz & Standardabweichung.md",
+    "6 - Zettel/Arithmetisches Mittel.md",
+    "6 - Zettel/Harmonisches Mittel.md",
+    "6 - Zettel/Geometrisches Mittel.md",
+    "6 - Zettel/Modus.md",
+    "6 - Zettel/QQ-Plot.md",
+    "6 - Zettel/Quantile.md",
+    "6 - Zettel/Boxplot.md",
     "6 - Zettel/Grundbegriffe der Erhebung.md",
-    "6 - Zettel/Forecasting.md",
+    "6 - Zettel/Datenformate.md",
     "9 - Kanban Boards",
     "8 - Media/Bilder/äquivalenzziffern.jpeg",
     "8 - Media/Bilder/uc-diagram.png",
