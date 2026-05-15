@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf529c7f31ee735",
+        "id": "a01c272cba56806b",
         "type": "tabs",
         "children": [
           {
-            "id": "cd44bd3e422fa8fa",
+            "id": "5b2b4cff698dd8d6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,7 +212,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cd44bd3e422fa8fa",
+  "active": "5b2b4cff698dd8d6",
   "lastOpenFiles": [
     "6 - Zettel/Gliederungs- & Beziehungszahlen.md",
     "6 - Zettel/Preisindizes.md",
