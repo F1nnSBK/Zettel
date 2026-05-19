@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Planung]], [[PSP]], [[WBS]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Planung]], [[PSP]], [[WBS]]
 #pm
 
 ---

@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Stakeholder]], [[Umfeldanalyse]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Stakeholder]], [[Umfeldanalyse]]
 #pm
  
 ---

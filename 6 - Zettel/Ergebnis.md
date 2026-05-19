@@ -3,6 +3,7 @@
 2025-11-13
 
 Tags: [[Grundraum]], [[Zufallsexperiment]], [[Mathematik]]
+#stochastik
 
 ---
 Ein **Ergebnis** $a$ ist ein Ausgang eines [[Zufallsexperiment|Zufallsexperients]]. Es ist Teil des [[Grundraum|Grundraums (Ergebnismenge)]].

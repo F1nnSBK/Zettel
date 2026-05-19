@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Organisation]], [[Struktur]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Organisation]], [[Struktur]]
 #pm
 
 ---

@@ -9,6 +9,7 @@ Der Barwert ($BW_0$) ist der heutige Wert eines zukünftigen Zahlungszuflusses $
 
 $$BW_0 = \frac{CF_n}{(1+i)^n} = CF_n \cdot (1+i)^{-n}$$
 
+
 - $CF_n$: Zahlung im Zeitpunkt $n$ (Zukunft).
 - $(1+i)^{-n}$: Abzinsungs- bzw. Diskontierungsfaktor.
 

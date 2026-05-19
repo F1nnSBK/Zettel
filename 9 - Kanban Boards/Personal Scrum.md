@@ -116,7 +116,7 @@ kanban-plugin: board
 - [ ] [[Projektstrukturplan]]
 - [ ] [[Organistionsformen]]
 - [ ] [[Vorgehensmodelle]]
-- [ ] [[Projektmanagement]]
+- [ ] [[6 - Zettel/Projektmanagement]]
 - [ ] [[Jahresabschlussanalyse]]
 - [ ] [[Kosten- & Leistungsrechnung]]
 - [ ] [[Kostenträgerrechnung]]

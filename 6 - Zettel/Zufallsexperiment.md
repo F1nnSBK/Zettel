@@ -3,6 +3,7 @@
 2025-11-13
 
 Tags: [[Grundraum]], [[Stochastik]], [[Mathematik]], [[Einzelexperiment]]
+#stochastik
 
 ---
 Ein **Zufallsexperiment** ist ein stochastisches Modell, welches eine Nachbildung eines zufallsabhängigen Vorgangs in mathematischer Weise darstellt.

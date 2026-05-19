@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Controlling]], [[Kosten]], [[EVM]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Controlling]], [[Kosten]], [[EVM]]
 #pm
 
 ---

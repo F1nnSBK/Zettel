@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Controlling]], [[Termine]], [[Meilensteine]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Controlling]], [[Termine]], [[Meilensteine]]
 #pm
 
 ---

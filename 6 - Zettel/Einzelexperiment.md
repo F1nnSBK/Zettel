@@ -3,6 +3,7 @@
 2025-11-13
 
 Tags: [[Zufallsexperiment]], [[Gesamtexperiment]], [[Mathematik]]
+#stochastik 
 
 ---
 Wir reden von einem **Einzelexperiment**, wenn ein durch den [[Grundraum]] $\Omega$ beschriebenes Zufallsexperiment $n$-mal ausgeführt und zu einem aus $n$ Einzelexperimenten bestehendes [[Gesamtexperiment]] gezählt wird.

@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Risikomanagement]], [[Risikomatrix]], [[Controlling]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Risikomanagement]], [[Risikomatrix]], [[Controlling]]
 #pm
 
 ---

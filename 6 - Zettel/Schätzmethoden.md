@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Schätzung]], [[Planung]], [[Kosten]], [[Termine]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Schätzung]], [[Planung]], [[Kosten]], [[Termine]]
 #pm
 
 ---

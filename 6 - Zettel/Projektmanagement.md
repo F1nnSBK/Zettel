@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]]
+Tags: [[6 - Zettel/Projektmanagement]]
 #pm
 
 ---

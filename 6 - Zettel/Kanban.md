@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Agile]], [[Kanban]], [[Vorgehensmodelle]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Agile]], [[Kanban]], [[Vorgehensmodelle]]
 #pm
 
 ---

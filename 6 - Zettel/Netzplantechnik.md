@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Terminplanung]], [[Netzplan]], [[Kritischer Pfad]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Terminplanung]], [[Netzplan]], [[Kritischer Pfad]]
 #pm
 
 ---

@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Vorgehensmodelle]], [[Agile]], [[Wasserfall]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Vorgehensmodelle]], [[Agile]], [[Wasserfall]]
 #pm
 
 ---

@@ -5,5 +5,8 @@
   "obsidian-kanban",
   "obsidian-custom-frames",
   "obsidian-spaced-repetition",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-tikzjax",
+  "latex-to-unicode",
+  "quick-latex"
 ]

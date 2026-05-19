@@ -2,7 +2,7 @@
 
 2025-12-15
 
-Tags: [[Projektmanagement]], [[Qualitätsmanagement]], [[Methoden]]
+Tags: [[6 - Zettel/Projektmanagement]], [[Qualitätsmanagement]], [[Methoden]]
 #pm
 
 ---
