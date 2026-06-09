@@ -2,7 +2,7 @@
 
 2026-06-09
 
-Tags: [[Datenbanken]], [[Grundlagen]], [[Datenmodellierung]]
+Tags: [[Information]], [[Daten]], [[Wissen]], [[Datenbanksystem]], [[Datenformate]]
 #datenbanken
 
 ---
