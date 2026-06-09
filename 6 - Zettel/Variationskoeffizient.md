@@ -33,14 +33,17 @@ Absolute Streuungsmaße wie die Standardabweichung hängen von der Maßeinheit u
 Warum ist der Variationskoeffizient einheitenlos?::Da sowohl die Standardabweichung als auch der Mittelwert dieselbe Einheit besitzen (z. B. Kilogramm), kürzt sich diese bei der Division $v = \frac{s}{\bar{x}}$ heraus.
 
 Unter welcher Bedingung ist der Vergleich von Standardabweichungen zweier Datensätze irreführend?::Wenn die Datensätze stark unterschiedliche Mittelwerte haben oder in unterschiedlichen Einheiten gemessen werden. Hier ist der Variationskoeffizient das präzisere Vergleichsmaß.
+<!--SR:!2026-06-09,1,230-->
 
 Warum darf der Variationskoeffizient nicht für Temperaturen in Grad Celsius verwendet werden?
 ?
 Weil Celsius eine Intervallskala ist und keinen natürlichen Nullpunkt besitzt. Da der Mittelwert im Nenner steht, würde eine Verschiebung des Nullpunkts (z. B. Umrechnung in Kelvin) den Wert des Variationskoeffizienten willkürlich verändern.
+<!--SR:!2026-06-09,1,230-->
 
 Wie verändert sich der Variationskoeffizient, wenn alle Messwerte eines Datensatzes mit dem Faktor 5 multipliziert werden?
 ?
 Er bleibt **gleich**. Da sich sowohl die Standardabweichung als auch der Mittelwert bei einer Multiplikation verfünffachen, bleibt ihr Verhältnis (der Quotient) konstant.
+<!--SR:!2026-06-08,0,230-->
 
 
 ---

@@ -158,6 +158,20 @@ Jede Runde nutzt einen eigenen Schlüssel, der einzlene Schlüssel (Rundenschlü
 FPGA - Copacobana Uni Bochum - DES
 
 
+TOR 
+.onion Seiten - theoretisch kann jeder beim Netzwerk mitmachen, es gibt aber strenge Anforderungen und die Hoster müssen ein Vertrauensniveau haben.
+Freiweillige - Organisationen - NGOs - Universitäten
+Wieso dauert die Asymm. Verschlüsselung so viel länger?
+Aufbau des Circuits
+Verschlüsselung der Daten
+Entschlüsselung der Schichten
+Datenrückfluss
+
+Jeep Cherokee Hack
+32Sek Passwort Generierung
+
+
+
 
 Einweg & Hashfunktionen
 Digitale Signaturen und Zertifikate

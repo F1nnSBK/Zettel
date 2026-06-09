@@ -51,6 +51,7 @@ Warum hat der additive Term $a$ keinen Einfluss auf die Standardabweichung?::Die
 Welchen Mittelwert und welche Varianz besitzt eine Variable nach einer erfolgreichen Z-Transformation?
 ?
 Der Mittelwert ist immer **0** und die Varianz (sowie die Standardabweichung) ist immer **1**.
+<!--SR:!2026-06-12,4,270-->
 
 Wie wirkt sich eine Multiplikation aller Datenpunkte mit $b = -2$ auf die Varianz aus?
 ?

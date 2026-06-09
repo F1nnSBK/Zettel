@@ -3,8 +3,8 @@
     "flashcardTags": [
       "#UL",
       "#SL",
-      "#deskriptive_statistik",
-      "#bi"
+      "#datenbanken",
+      "#deskriptive_statistik"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -76,7 +76,7 @@
     "showParserDebugMessages": false,
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY"
   },
-  "buryDate": "2026-05-19",
+  "buryDate": "2026-06-09",
   "buryList": [],
   "historyDeck": null
 }

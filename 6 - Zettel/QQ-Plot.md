@@ -37,8 +37,10 @@ Dabei ist $x_p$ das Quantil der Daten und $z_p$ das Quantil der Standardnormalve
 ### Flashcards
 
 Was ist das primäre Ziel eines QQ-Plots in der deskriptiven Statistik?::Die visuelle Überprüfung, ob eine empirische Datenmenge einer theoretischen Referenzverteilung (meist der Normalverteilung) folgt.
+<!--SR:!2026-06-11,3,250-->
 
 Wie lässt sich die Standardabweichung $\sigma$ einer Stichprobe im QQ-Plot ablesen, wenn gegen die Standardnormalverteilung geplottet wird?::Die Standardabweichung entspricht der Steigung der Geraden, auf der die Quantil-Punkte liegen.
+<!--SR:!2026-06-09,1,230-->
 
 Warum liegen die Punkte in einem QQ-Plot bei normalverteilten Daten auf einer Geraden, auch wenn die Daten nicht standardnormalverteilt ($\mu \neq 0, \sigma \neq 1$) sind?
 ?
@@ -47,6 +49,7 @@ Weil Quantile verschiedener Normalverteilungen über eine lineare Transformation
 Was deutet eine nach oben gebogene Kurve (Bananenform) im QQ-Plot beim Vergleich gegen eine Normalverteilung an?
 ?
 Es deutet auf eine rechtsschiefe Verteilung hin, bei der die hohen empirischen Quantile deutlich größer sind als die theoretisch erwarteten Quantile der Normalverteilung.
+<!--SR:!2026-06-11,3,250-->
 
 
 ---

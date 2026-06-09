@@ -44,12 +44,14 @@ $$\bar{y} = a + b \cdot \bar{x}$$
 ### Flashcards
 
 Was beschreibt die Schwerpunkteigenschaft des arithmetischen Mittels mathematisch?::Die Summe aller Differenzen zwischen den Einzelwerten und dem Mittelwert ist Null: $\sum (x_i - \bar{x}) = 0$.
+<!--SR:!2026-06-09,1,230-->
 
 Warum ist das arithmetische Mittel für nominalskalierte Daten (z. B. Geschlecht) nicht definiert?::Da nominale Daten keine numerische Bedeutung haben, ist eine Summenbildung ($\sum x_i$) mathematisch sinnlos. Es existiert keine "Durchschnittsfarbe" oder ein "Durchschnittsgeschlecht" auf Basis von Addition.
 
 Wie reagiert das arithmetische Mittel auf eine lineare Transformation der Daten (z.B. Umrechnung von Celsius in Fahrenheit)?
 ?
 Vollkommen linear. Wenn jeder Wert $x$ mit einem Faktor $b$ multipliziert und um $a$ erhöht wird, verändert sich der Mittelwert exakt nach der gleichen Formel: $\bar{y} = a + b \cdot \bar{x}$.
+<!--SR:!2026-06-09,1,230-->
 
 In welcher Situation liefert das gewichtete arithmetische Mittel ein anderes Ergebnis als das einfache Mittel der Gruppenmittelwerte?
 ?

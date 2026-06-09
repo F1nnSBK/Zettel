@@ -53,10 +53,12 @@ Ein hoher Korrelationskoeffizient ohne kausalen Zusammenhang.
 Warum ist die Kovarianz kein geeignetes Maß, um die Stärke eines Zusammenhangs zwischen zwei verschiedenen Studien zu vergleichen?::Da die Kovarianz einheitenabhängig ist. Sie ändert ihren Wert massiv, wenn man z. B. eine Variable von Metern in Millimeter umrechnet, ohne dass sich die Beziehungsstärke ändert.
 
 Was ist der entscheidende Vorteil der Spearman-Rangkorrelation gegenüber Pearson bei nicht-linearen Funktionen?::Spearman bewertet nur die Ordnung (Monotonie). Solange $y$ mit steigendem $x$ ebenfalls steigt, ist $\rho = 1$, selbst wenn die Steigung nicht konstant ist (z. B. bei exponentiellem Wachstum).
+<!--SR:!2026-06-09,1,230-->
 
 Warum verschwindet eine Scheinkorrelation oft, wenn man die Daten "partielliert" (Partialkorrelation)?
 ?
 Durch die Partialkorrelation wird der lineare Einfluss der störenden Drittvariable $Z$ rechnerisch eliminiert. Wenn der Zusammenhang zwischen $X$ und $Y$ nur durch $Z$ induziert wurde, sinkt die Korrelation danach auf Null.
+<!--SR:!2026-06-09,1,230-->
 
 Was beschreibt eine Autokorrelation von $r(k) \approx 1$ für kleine Lags $k$ in einer Zeitreihe?
 ?

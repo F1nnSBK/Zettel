@@ -48,6 +48,7 @@ $$\text{Excess} = g_2 - 3$$
 Was beschreibt der Begriff "Heavy Tails" im Zusammenhang mit einer hohen Kurtosis?::Er bedeutet, dass die Enden der Verteilung langsamer gegen Null sinken als bei einer Normalverteilung, wodurch extreme Abweichungen (Ausreißer) eine signifikant höhere Wahrscheinlichkeit haben.
 
 Warum zieht man in der Statistik oft 3 vom berechneten Kurtosis-Wert ab?::Um den **Excess** zu erhalten. Da eine Normalverteilung eine Kurtosis von 3 hat, lässt sich am Excess sofort ablesen, ob die vorliegende Verteilung steiler (positiv) oder flacher (negativ) als die Normalverteilung ist.
+<!--SR:!2026-06-09,1,230-->
 
 Wie unterscheiden sich leptokurtische und platykurtische Verteilungen visuell von einer Normalverteilung?
 ?
@@ -56,6 +57,7 @@ Leptokurtische Verteilungen haben einen spitzeren Gipfel und dickere Enden (Ausr
 Warum ist die Kurtosis ein "riskanteres" Maß als die Varianz?
 ?
 Die Varianz misst nur die durchschnittliche Streuung. Die Kurtosis zeigt jedoch an, ob diese Streuung durch viele kleine Abweichungen (mesokurtisch) oder durch seltene, aber extrem große Abweichungen (leptokurtisch) zustande kommt.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

@@ -38,8 +38,10 @@ Modelle, die auf Scheinkorrelationen basieren, sind **nicht robust**. Wenn sich 
 ### Flashcards
 
 Warum führt eine hohe Korrelation zwischen dem Eisverkauf und der Anzahl an Hai-Angriffen nicht zu einer Kausalität?::Es liegt eine Scheinkorrelation vor. Die Drittvariable "Außentemperatur/Sommer" beeinflusst beide: Bei Hitze gehen mehr Menschen schwimmen (Hai-Gefahr) und essen mehr Eis.
+<!--SR:!2026-06-11,3,250-->
 
 Was ist das Ziel der Partialkorrelation $r_{xy.z}$?::Den linearen Einfluss einer Drittvariable $Z$ auf die Variablen $X$ und $Y$ statistisch zu eliminieren, um den "reinen" Zusammenhang zwischen $X$ und $Y$ zu isolieren.
+<!--SR:!2026-06-09,1,230-->
 
 Warum sind Zeitreihen besonders anfällig für Scheinkorrelationen?
 ?

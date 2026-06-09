@@ -57,14 +57,17 @@ $$\mathcal{L}_{VAE} = \underbrace{\mathbb{E}_{q(z|x)}[\log p(x|z)]}_{\text{Rekon
 #### Flashcards
 
 Warum ist der Reparameterisierungstrick für das Training von VAEs essenziell? :: Er macht den Sampling-Prozess differenzierbar. Indem $z = \mu + \sigma \cdot \epsilon$ gesetzt wird, bleibt die Zufälligkeit ($\epsilon$) isoliert, während die Parameter $\mu$ und $\sigma$ für den Gradientenfluss der Backpropagation zugänglich bleiben.
+<!--SR:!2026-06-09,1,230-->
 
 Welche Aufgabe übernimmt die KL-Divergenz im ELBO-Loss eines VAE?
 ?
 Sie wirkt als Regularisierer, der die Verteilung im latenten Raum gegen eine Standardnormalverteilung drückt. Dies verhindert Overfitting und sorgt dafür, dass der Raum "gefüllt" und glatt ist, was Sampling und Interpolation erst ermöglicht.
+<!--SR:!2026-06-11,3,250-->
 
 Was beschreibt das Phänomen des "Posterior Collapse" bei der Wahl von $\beta$ (in einem $\beta$-VAE)?
 ?
 Wenn die Regularisierung (KL-Term) gegenüber der Rekonstruktion zu stark gewichtet wird ($\beta \gg 1$), ignoriert der Encoder den Input $x$ und kollabiert auf den Prior $p(z)$. Die latenten Dimensionen tragen dann keine Information mehr über die Daten.
+<!--SR:!2026-06-09,1,230-->
 
 ---
 ### Verwendung

@@ -48,6 +48,7 @@ In der Data Science führt eine hohe Schiefe oft zu Problemen bei Modellen, die 
 Warum führt eine rechtsschiefe Verteilung dazu, dass das arithmetische Mittel größer als der Median ist?::Die extrem hohen Werte im rechten "Schwanz" der Verteilung ziehen das arithmetische Mittel aufgrund der Summierung stark nach oben, während der Median als Lagemaß stabil in der Mitte der geordneten Reihe bleibt.
 
 Welcher statistische Test nutzt explizit die Schiefe und die Wölbung zur Prüfung auf Normalverteilung? :: Der **Jarque-Bera-Test**.
+<!--SR:!2026-06-09,1,230-->
 
 Was ist das Ziel einer Log-Transformation bei rechtsschiefen Daten im Machine Learning?
 ?

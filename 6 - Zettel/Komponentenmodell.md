@@ -40,8 +40,10 @@ $$y_t = T_t \cdot K_t \cdot S_t \cdot R_t$$
 ### Flashcards
 
 Was ist der entscheidende visuelle Unterschied zwischen einem additiven und einem multiplikativen Komponentenmodell?::Im additiven Modell bleibt die Amplitude der Saisonschwankungen über die Zeit konstant, während sie im multiplikativen Modell proportional zum Trend zu- oder abnimmt.
+<!--SR:!2026-06-11,3,250-->
 
 Welche Komponenten werden in der deskriptiven Statistik häufig zur "glatten Komponente" zusammengefasst?::Die Trendkomponente ($T_t$) und die Konjunkturkomponente ($K_t$).
+<!--SR:!2026-06-09,1,230-->
 
 Warum ist die Restkomponente $R_t$ für die Qualität eines Modells entscheidend?
 ?
@@ -50,6 +52,7 @@ Die Restkomponente sollte idealerweise "Weißes Rauschen" (White Noise) sein. En
 Wie interpretiert man eine Saisonzahl von $s_i = 1,15$ in einem multiplikativen Modell?
 ?
 Der Wert in der Periode $i$ liegt im Durchschnitt um 15 % über dem langfristigen Trendniveau.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

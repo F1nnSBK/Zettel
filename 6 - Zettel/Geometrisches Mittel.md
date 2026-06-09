@@ -42,14 +42,17 @@ Das Endkapital berechnet sich dann einfach über $B_n = B_0 \cdot \bar{q}^n$.
 Warum ist das arithmetische Mittel für die Berechnung von Durchschnittsrenditen ungeeignet?::Das arithmetische Mittel ignoriert den Zinseszinseffekt. Multiplikative Veränderungen summieren sich nicht, sondern potenzieren sich; nur das geometrische Mittel bildet diesen Prozess korrekt ab.
 
 Was ist die geometrische Interpretation des geometrischen Mittels zweier Werte $a$ und $b$?::Es repräsentiert die Seitenlänge eines Quadrats, dessen Flächeninhalt exakt dem des Rechtecks mit den Seiten $a$ und $b$ entspricht.
+<!--SR:!2026-06-11,3,250-->
 
 Warum darf das geometrische Mittel nicht berechnet werden, wenn ein Datenpunkt $0$ ist?
 ?
 Da die Berechnung auf dem Produkt aller Werte basiert, würde eine einzige Null das gesamte Produkt zu Null machen ($\sqrt[n]{0} = 0$). Dies würde den Durchschnitt verfälschen, da eine $0$ in einer Wachstumsrate den Totalverlust bedeutet, was rechnerisch zwar korrekt, aber für die Analyse der restlichen Dynamik oft nicht zielführend ist.
+<!--SR:!2026-06-09,1,230-->
 
 Wie lautet der Zusammenhang zwischen dem geometrischen Mittel und Logarithmen?
 ?
 Der Logarithmus des geometrischen Mittels ist gleich dem arithmetischen Mittel der Logarithmen der Einzelwerte:$$\log(\bar{x}_G) = \frac{1}{n} \sum_{i=1}^n \log(x_i)$$
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

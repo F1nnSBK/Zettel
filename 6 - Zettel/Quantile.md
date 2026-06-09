@@ -48,6 +48,7 @@ Warum ist das 0,5-Quantil (Median) robuster gegenüber Ausreißern als das arith
 Wie berechnet man das 0,25-Quantil ($Q_1$) bei einer Stichprobe von $n=10$?
 ?
 1. $j = n \cdot p = 10 \cdot 0,25 = 2,5$.
+<!--SR:!2026-06-12,4,270-->
 
 2. Da $j$ nicht ganzzahlig ist, wird aufgerundet: $k = 3$.
 

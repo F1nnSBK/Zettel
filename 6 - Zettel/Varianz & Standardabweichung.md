@@ -40,16 +40,20 @@ $$z = \frac{x - \bar{x}}{s}$$
 ### Flashcards
 
 Warum führt die Quadrierung der Abweichungen in der Varianzberechnung dazu, dass Ausreißer überproportional stark gewichtet werden?::Da die Abweichung $(x_i - \bar{x})$ quadriert wird, wächst der Einfluss eines Wertes quadratisch mit seiner Distanz zum Mittelwert. Eine doppelt so große Abweichung führt zu einem viermal so großen Beitrag zur Varianz.
+<!--SR:!2026-06-09,1,230-->
 
 Was ist der mathematische Grund für die Division durch $n-1$ statt $n$ bei der Stichprobenvarianz?::Da der Mittelwert der Stichprobe bereits eine Schätzung ist, sind die Abweichungen zum Stichprobenmittelwert tendenziell kleiner als zum wahren Mittelwert der Grundgesamtheit. Die Division durch $n-1$ (Bessel-Korrektur) korrigiert diesen Bias und macht den Schätzer erwartungstreu.
+<!--SR:!2026-06-09,1,230-->
 
 Inwiefern hängen die Konzepte "Varianz" und "Information" in der PCA zusammen?
 ?
 Die PCA geht davon aus, dass Dimensionen mit hoher Varianz die wesentlichen Strukturen und Unterschiede der Daten enthalten (Signal), während Dimensionen mit sehr geringer Varianz oft nur Rauschen repräsentieren und vernachlässigt werden können.
+<!--SR:!2026-06-09,1,230-->
 
 Wie wirkt sich eine Erhöhung der Varianz ($\sigma^2$) in einem [[Gauß-Kernel]] auf die Glättung einer Zeitreihe aus?
 ?
 Eine höhere Varianz vergrößert die Bandbreite des Kernels. Dadurch werden weiter entfernte Zeitpunkte stärker in die Mittelwertbildung einbezogen, was zu einer glatteren Kurve führt, aber feine, kurzfristige Details (hochfrequente Signale) auslöscht.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

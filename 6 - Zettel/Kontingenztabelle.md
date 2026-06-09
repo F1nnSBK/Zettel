@@ -41,6 +41,7 @@ Die Differenz $(n_{ij} - e_{ij})$ ist die Basis für alle Kontingenzmaße (z.B. 
 ### Flashcards
 
 Was versteht man unter den "Randhäufigkeiten" in einer Kontingenztabelle?::Die Summen der Zeilen ($n_{i.}$) bzw. Spalten ($n_{.j}$), welche die univariaten Verteilungen der einzelnen Merkmale $X$ und $Y$ repräsentieren.
+<!--SR:!2026-06-09,1,230-->
 
 Wie berechnet man die erwartete Häufigkeit $e_{ij}$ für eine Zelle bei Annahme der Unabhängigkeit?
 ?
@@ -49,10 +50,12 @@ $e_{ij} = \frac{\text{Zeilensumme} \cdot \text{Spaltensumme}}{\text{Gesamtzahl }
 Warum sind absolute Zellhäufigkeiten ($n_{ij}$) oft schwer direkt zu vergleichen, wenn man nach Abhängigkeiten sucht?
 ?
 Weil die Randhäufigkeiten (Gruppengrößen) meist unterschiedlich sind. Ein direkter Vergleich ist nur über **bedingte relative Häufigkeiten** (z. B. Prozentanteile innerhalb einer Zeile) sinnvoll, um den Einfluss der unterschiedlichen Gruppengrößen zu eliminieren.
+<!--SR:!2026-06-09,1,230-->
 
 Welche Bedingung muss für alle Zellen einer Kontingenztabelle erfüllt sein, damit $X$ und $Y$ als empirisch unabhängig gelten?
 ?
 Für alle Zellen muss gelten: $n_{ij} = e_{ij}$. Das bedeutet, die beobachtete Häufigkeit entspricht exakt der theoretisch erwarteten Häufigkeit unter Unabhängigkeit. In der Praxis wird die Abweichung hiervon über den $\chi^2$-Koeffizienten gemessen.
+<!--SR:!2026-06-09,1,230-->
 
 ---
 ### Verwendung

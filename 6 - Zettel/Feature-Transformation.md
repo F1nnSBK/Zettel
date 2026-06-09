@@ -23,6 +23,7 @@ $$x'_i = \frac{x_i - min_i}{max_i - min_i}$$
 Welche Auswirkungen hat ein fehlendes Min-Max-Scaling oder eine fehlende Z-Score-Normalisierung auf die euklidische Distanzberechnung in einem Datensatz mit Features unterschiedlicher Größenordnungen?
 ?
 Das Feature mit dem größten Wertebereich (Magnitude) wird die Distanzberechnung vollständig dominieren, wodurch Variationen in kleiner skalierten Features de facto ignoriert werden.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

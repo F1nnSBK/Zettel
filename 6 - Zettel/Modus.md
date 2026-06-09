@@ -30,8 +30,10 @@ $$x_{mod} = \{x_i \mid n_i = \max(n_1, \dots, n_k)\}$$
 ### Flashcards
 
 Warum ist der Modus das einzige Lagemaß für nominalskalierte Merkmale?::Da nominale Daten keine natürliche Rangfolge (für den Median) und keine numerische Verrechenbarkeit (für das Mittel) besitzen, bleibt nur die Häufigkeit der Ausprägungen als Kriterium.
+<!--SR:!2026-06-09,1,230-->
 
 Was bedeutet es für eine Verteilung, wenn sie als "bimodal" bezeichnet wird?::Es existieren zwei voneinander getrennte Merkmalsausprägungen, die beide die gleiche maximale Häufigkeit aufweisen (zwei "Gipfel").
+<!--SR:!2026-06-09,1,230-->
 
 Wann ist die Angabe des Modus bei metrischen Daten irreführend?
 ?

@@ -2,7 +2,7 @@
 
 2026-01-02
 
-Tags: [[Statistik]], [[Deskriptive Statistik]], [[Daten]]
+Tags: [[Statistik]], [[Deskriptive Statistik]], [[Information]]
 #deskriptive_statistik
 
 ---
@@ -34,8 +34,10 @@ Kardinalskala (Metrische Skala)
 #### Flashcards
 
 Was unterscheidet die Ordinalskala von der Nominalskala? :: Bei der Ordinalskala lassen sich die Ausprägungen in eine sinnvolle Rangfolge bringen, bei der Nominalskala nicht.
+<!--SR:!2026-06-11,3,250-->
 
 Was ist das entscheidende Merkmal einer Kardinalskala (metrischen Skala)? :: Die Abstände (Differenzen) zwischen den Merkmalsausprägungen sind interpretierbar.
+<!--SR:!2026-06-09,1,230-->
 
 Welche Rechenoperationen sind bei nominalskalierten Daten zulässig? :: Nur der Vergleich auf Gleichheit oder Ungleichheit (Häufigkeitszählungen).
 

@@ -51,14 +51,15 @@ Warum ist Cramérs V gegenüber dem einfachen $\chi^2$-Wert vorzuziehen?::Der $\
 Wie berechnet man die maximale Obergrenze $C_{max}$ für Pearsons Kontingenzkoeffizienten in einer $3 \times 5$ Tabelle?
 ?
 $M = \min(3, 5) = 3$.
-
-$$C_{max} = \sqrt{\frac{M-1}{M}} = \sqrt{\frac{3-1}{3}} = \sqrt{\frac{2}{3}} \approx 0,816$$
+<!--SR:!2026-06-08,0,230-->$$C_{max} = \sqrt{\frac{M-1}{M}} = \sqrt{\frac{3-1}{3}} = \sqrt{\frac{2}{3}} \approx 0,816$$
 
 Was bedeutet ein Kontingenzkoeffizient von $C = 0$?::Es besteht kein empirischer Zusammenhang zwischen den beiden Merkmalen; die beobachteten Häufigkeiten entsprechen exakt den unter Unabhängigkeit erwarteten Häufigkeiten.
+<!--SR:!2026-06-09,1,230-->
 
 Welches Skalenniveau ist die Mindestanforderung für die Berechnung von Kontingenzkoeffizienten?
 ?
 Das **Nominalskalenniveau**. Da nur Häufigkeiten in Kategorien verglichen werden, ist weder eine Rangfolge noch eine Metrik erforderlich.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

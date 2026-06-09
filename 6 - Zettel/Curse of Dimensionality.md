@@ -40,14 +40,17 @@ Das Problem ist nur dann fatal, wenn alle $d$ Dimensionen unabhängige Informati
 #### Flashcards
 
 Warum versagen distanzbasierte Algorithmen (wie K-Means oder DBSCAN) typischerweise in sehr hochdimensionalen Räumen? :: Aufgrund der Distanzkonzentration (Curse of Dimensionality) konvergieren alle paarweisen Distanzen gegen denselben Wert. Der Kontrast zwischen "nah" und "fern" verschwindet, wodurch Dichte- oder Zentroid-basierte Zuordnungen bedeutungslos werden.
+<!--SR:!2026-06-11,3,250-->
 
 Wie skaliert die mittlere Distanz zum nächsten Nachbarn ($d_{NN}$) in Abhängigkeit von der Dimension $d$ und der Anzahl der Datenpunkte $N$?
 ?
 $$d_{NN} \propto N^{-1/d}$$Je größer $d$, desto mehr strebt der Exponent gegen $0$, was bedeutet, dass Punkte im Hypervolumen extrem spärlich (sparse) verteilt sind.
+<!--SR:!2026-06-09,1,230-->
 
 Was besagt die "Manifold Hypothesis" (Mannigfaltigkeitshypothese) als Begründung für den Erfolg von Dimensionalitätsreduktionen wie VAEs oder PCA?
 ?
 Sie besagt, dass reale, hochdimensionale Daten (z. B. im $\mathbb{R}^d$) sich auf einer niederdimensionalen, oft gekrümmten Mannigfaltigkeit (Manifold) mit der intrinsischen Dimensionalität $k \ll d$ konzentrieren.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

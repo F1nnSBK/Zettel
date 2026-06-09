@@ -37,10 +37,12 @@ Das harmonische Mittel liefert also den kleinsten Wert der drei klassischen Mitt
 ### Flashcards
 
 Wann muss das harmonische Mittel anstelle des arithmetischen Mittels verwendet werden?::Wenn der Durchschnitt von Verhältnisgrößen (Raten) berechnet werden soll, deren Bezugsgröße (Zähler, z. B. Strecke oder Budget) über alle Beobachtungen hinweg konstant bleibt.
+<!--SR:!2026-06-09,1,230-->
 
 Was ist der fundamentale Unterschied zwischen dem Harmonischen Mittel und dem Geometrischen Mittel in der Anwendung?
 ?
 Das **Geometrische Mittel** wird für multiplikative Prozesse (Wachstumsraten, Zinsen) genutzt, um den durchschnittlichen Skalierungsfaktor zu finden. Das **Harmonische Mittel** wird für Raten (z. B. km/h) genutzt, wenn die im Zähler stehende Einheit (km) fix ist, sich aber die benötigte Zeit (Nenner) ändert.
+<!--SR:!2026-06-09,1,230-->
 
 Warum ist die Durchschnittsgeschwindigkeit bei zwei gleichen Wegstrecken $s$ mit $v_1=60$ und $v_2=120$ nicht 90 km/h?
 ?

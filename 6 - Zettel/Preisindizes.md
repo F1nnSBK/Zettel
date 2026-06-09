@@ -44,16 +44,20 @@ $$P_P = \frac{\sum_{i=1}^n p_i^t \cdot q_i^t}{\sum_{i=1}^n p_i^0 \cdot q_i^t}$$
 ### Flashcards
 
 Welche Mengenkomponente wird beim Preisindex nach Laspeyres konstant gehalten?::Die Mengen des Basisjahres ($q_i^0$).
+<!--SR:!2026-06-09,1,230-->
 
 Warum gilt der Laspeyres-Index als „konsumentenunfreundlich“ bei der Inflationsmessung?::Weil er davon ausgeht, dass Konsumenten starr am alten Warenkorb festhalten und nicht auf günstigere Ersatzprodukte ausweichen, wenn ein Gut teurer wird.
+<!--SR:!2026-06-09,1,230-->
 
 Wie lautet die Grundformel für den Preisindex nach Paasche?
 ?
 $$P_P = \frac{\sum p_i^t \cdot q_i^t}{\sum p_i^0 \cdot q_i^t}$$Er vergleicht die Kosten des aktuellen Warenkorbs zu heutigen Preisen mit den Kosten des gleichen (aktuellen) Warenkorbs zu Preisen des Basisjahres.
+<!--SR:!2026-06-09,1,230-->
 
 Was ist der Unterschied zwischen einem Preisindex und einem Mengenindex?
 ?
 Beim Preisindex werden die Mengen fixiert, um Preisänderungen zu messen. Beim Mengenindex werden die Preise fixiert (z. B. auf Basisjahr-Niveau), um die reale Veränderung des Volumens/Verbrauchs zu isolieren.
+<!--SR:!2026-06-11,3,250-->
 
 
 ---

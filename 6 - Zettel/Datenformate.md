@@ -2,7 +2,7 @@
 
 2026-01-02
 
-Tags: [[Statistik]], [[Deskriptive Statistik]], [[Daten]]
+Tags: [[Statistik]], [[Deskriptive Statistik]], [[Information]]
 #deskriptive_statistik
 
 ---
@@ -29,8 +29,10 @@ Klassierte Daten
 Was sind Originaldaten (Urliste)? :: Die Liste der rohen Einzelbeobachtungen (x1​,…,xn​) ohne Zusammenfassung.
 
 Was ist der Unterschied zwischen gruppierten und klassierten Daten? :: Gruppierte Daten listen Häufigkeiten für konkrete Einzelwerte (ai​) auf; klassierte Daten fassen Werte in Intervallen (Klassen) zusammen.
+<!--SR:!2026-06-11,3,250-->
 
 Wann verwendet man klassierte Daten? :: Bei stetigen Merkmalen oder wenn es zu viele unterschiedliche Merkmalsausprägungen gibt, um sie einzeln aufzulisten.
+<!--SR:!2026-06-09,1,230-->
 
 Wie bezeichnet man n in der Statistik? :: Datenumfang oder Stichprobenumfang.
 

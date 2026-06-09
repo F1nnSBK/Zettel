@@ -18,25 +18,25 @@ $$\text{Var}(\epsilon_i \mid x_i) = \sigma^2 = \text{konstant für alle } i$$
 Liegt keine konstante Varianz vor, spricht man von **Heteroskedastizität**.
 
 - **Klassisches Szenario:** Bei der Analyse von Einkommen ($X$) und Konsumausgaben ($Y$). Menschen mit geringem Einkommen haben eine sehr begrenzte, homogene Streuung bei den Ausgaben (Existenzminimum). Menschen mit hohem Einkommen streuen extrem (einige sparen extrem, andere geben alles aus).
-    
+
 
 ### Diagnose im Residualplot
 
 Zur Überprüfung plottet man die Residuen $e_i = y_i - \hat{y}_i$ auf der y-Achse gegen die vorhergesagten Werte $\hat{y}_i$ (oder $x_i$) auf der x-Achse.
 
 - **Homoskedastizität:** Die Punkte bilden einen gleichmäßig breiten, horizontalen "Streifen" um die Nulllinie.
-    
+
 - **Heteroskedastizität:** Die Punkte zeigen ein systematisches Muster, meist eine **Trichterform** oder einen Fächer (die Streuung wird nach rechts hin breiter oder schmaler).
-    
+
 
 ### Konsequenzen für das Modell
 
 Wenn Heteroskedastizität ignoriert wird:
 
 1. Die OLS-Schätzung für $a$ und $b$ ist weiterhin **erwartungstreu**, aber nicht mehr **effizient** (es gäbe bessere Schätzer, z. B. Weighted Least Squares, WLS).
-    
+
 2. Die Standardfehler der Koeffizienten werden systematisch verzerrt geschätzt. Dadurch sind Konfidenzintervalle und Signifikanztests ($t$-Test) ungültig.
-    
+
 ---
 ### Flashcards
 

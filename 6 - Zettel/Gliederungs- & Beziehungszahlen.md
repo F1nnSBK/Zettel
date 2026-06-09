@@ -42,6 +42,7 @@ Messzahlen vergleichen die Ausprägung eines Merkmals mit einem fixen Basiswert 
 Was ist der fundamentale Unterschied zwischen einer Gliederungszahl und einer Beziehungszahl?::Bei der Gliederungszahl ist der Zähler ein Teil des Nenners (Teil/Ganzes), während bei der Beziehungszahl zwei sachlich verschiedene Größen zueinander in Relation gesetzt werden.
 
 Warum ist die relative Häufigkeit $r_i$ eine Gliederungszahl?::Weil sie die Anzahl der Beobachtungen einer Kategorie ($n_i$) ins Verhältnis zur Gesamtzahl aller Beobachtungen ($n$) setzt.
+<!--SR:!2026-06-11,3,250-->
 
 Gehört die "Umsatzrendite" (Gewinn / Umsatz) zu den Gliederungs- oder zu den Beziehungszahlen?
 ?

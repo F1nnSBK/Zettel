@@ -21,14 +21,14 @@ Das Phänomen tritt häufig in Querschnittsdaten auf (z. B. bei Unternehmensgrö
 - **Lernprozesse:** Fehlerbarkeiten sinken mit der Zeit/Erfahrung (Varianz nimmt ab).
 - **Wahlfreiheit:** Höheres Einkommen erlaubt eine breitere Streuung im Konsumverhalten (Varianz nimmt zu).
 - **Datenagglomeration:** Zusammengefasste Daten aus ungleich großen Stichproben.
-    
+
 
 ### Konsequenzen für die Inferenz
 
 1. Die Schätzung der Regressionskoeffizienten $a$ und $b$ bleibt **erwartungstreu** ($\mathbb{E}[\hat{b}] = b$). Es liegt keine systematische Über- oder Unterschätzung der Parameter vor.
 2. Der Schätzer ist **nicht mehr effizient**. Es gibt andere Schätzverfahren, die eine kleinere Varianz aufweisen.    
 3. Die Standardfehler werden **falsch berechnet** (oft zu klein). Dadurch werden Konfidenzintervalle zu schmal und Hypothesentests ($t$-Test, $F$-Test) tendieren dazu, Effekte als statistisch signifikant zu deklarieren, die es eigentlich nicht sind.
-    
+
 
 ### Gegenmaßnahmen
 

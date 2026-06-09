@@ -49,14 +49,17 @@ Die Wahl von $(\epsilon, n_{min})$ bestimmt die Qualität der Partitionierung ma
 #### Flashcards
 
 Warum ist die Dichte-Erreichbarkeit (Density-Reachability) in DBSCAN asymmetrisch? :: Ein Grenzpunkt $p_b$ kann von einem Kernpunkt $p_c$ erreicht werden, aber von einem Grenzpunkt aus kann die Cluster-Kette nicht fortgesetzt werden, da er selbst nicht genügend Nachbarn für die Kernpunkt-Bedingung besitzt.
+<!--SR:!2026-06-09,1,230-->
 
 Wie hilft der k-Distance Plot bei der Wahl des Radius $\epsilon$?
 ?
 Durch das Sortieren der Distanzen zum $(n_{min}-1)$-ten Nachbarn wird sichtbar, ab welcher Distanz Punkte sprunghaft spärlicher verteilt sind. Dieser Übergangspunkt (Elbow) trennt signal-relevante Dichte von Rauschen.
+<!--SR:!2026-06-09,1,230-->
 
 Was ist der strukturelle Vorteil von HDBSCAN gegenüber dem klassischen DBSCAN?
 ?
 HDBSCAN benötigt kein globales $\epsilon$. Es betrachtet alle Dichte-Ebenen gleichzeitig (Hierarchie) und wählt Cluster basierend auf ihrer Beständigkeit (Persistenz) über verschiedene Dichteschwellen hinweg aus.
+<!--SR:!2026-06-08,0,230-->
 
 
 ---

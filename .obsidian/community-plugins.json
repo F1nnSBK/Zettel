@@ -1,12 +1,9 @@
 [
   "dataview",
   "obsidian-git",
-  "code-styler",
   "obsidian-kanban",
-  "obsidian-custom-frames",
   "obsidian-spaced-repetition",
   "mermaid-tools",
   "obsidian-tikzjax",
-  "latex-to-unicode",
-  "quick-latex"
+  "latex-to-unicode"
 ]

@@ -60,8 +60,10 @@ plt.show()
 ### Flashcards
 
 Was ist der fundamentale Unterschied zwischen einem Säulendiagramm und einem Histogramm?::Beim Säulendiagramm repräsentiert die Höhe die Häufigkeit; beim Histogramm repräsentiert die Fläche die Häufigkeit.
+<!--SR:!2026-06-09,1,230-->
 
 Warum ist eine Dichtekorrektur bei ungleichen Klassenbreiten zwingend erforderlich?::Ohne Korrektur würden breitere Klassen bei gleicher Höhe eine viel größere Fläche einnehmen. Das menschliche Auge interpretiert Fläche als Masse, was zu einer massiven optischen Überbewertung breiter Klassen führen würde.
+<!--SR:!2026-06-09,1,230-->
 
 Wie berechnet man die Höhe $h_i$ eines Balkens im Histogramm bei relativen Häufigkeiten $r_i$ und Klassenbreite $b_i$?
 ?
@@ -70,6 +72,7 @@ $h_i = \frac{r_i}{b_i}$. Die resultierende Einheit auf der y-Achse ist "Prozent 
 Was passiert mit der Gesamtsumme der Flächen aller Balken, wenn man ein Histogramm mit relativen Häufigkeiten (Dichte-Modus) zeichnet?
 ?
 Die Summe aller Flächen ergibt exakt **1** (oder 100 %). Dies entspricht der Eigenschaft einer Wahrscheinlichkeitsdichtefunktion.
+<!--SR:!2026-06-12,4,270-->
 
 
 

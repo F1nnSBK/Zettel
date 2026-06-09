@@ -96,6 +96,7 @@ plt.show()
 
 Warum ist das Stabdiagramm für diskrete metrische Merkmale besser geeignet als ein Säulendiagramm? :: Das Stabdiagramm betont durch die fehlende Breite der Stäbe, dass die Häufigkeit nur an exakten Punkten (Isolierte Ereignisse) existiert und keine Masse in den Zwischenbereichen liegt.
 Was ist die mathematische Bedingung für die Konstruktion eines Kreisdiagramms? :: Die Summe der relativen Häufigkeiten muss exakt 1 ergeben ($\sum r_i = 1$), da der Vollkreis ($360^\circ$) die Gesamtheit der Grundgesamtheit repräsentiert.
+<!--SR:!2026-06-09,1,230-->
 
 Welches Diagramm eignet sich am besten, um die Rangfolge (Ordinalskala) von 15 verschiedenen Kategorien vergleichbar zu machen?
 ?

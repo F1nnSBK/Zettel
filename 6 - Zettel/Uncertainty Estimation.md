@@ -37,14 +37,17 @@ Da Standardmodelle keine eingebaute Unsicherheitsmetrik haben, werden spezialisi
 #### Flashcards
 
 Was unterscheidet aleatorische von epistemischer Unsicherheit hinsichtlich der Datenmenge? :: Aleatorische Unsicherheit ist durch mehr Daten nicht reduzierbar (inhärentes Rauschen), während epistemische Unsicherheit durch das Training mit zusätzlichen Daten in unbekannten Regionen verringert werden kann.
+<!--SR:!2026-06-08,0,230-->
 
 Warum ist eine hohe Softmax-Konfidenz bei OOD-Daten (Out-of-Distribution) problematisch?
 ?
 Softmax erzwingt eine Normierung der Ausgaben auf 1, wodurch das Modell gezwungen wird, eine Wahrscheinlichkeit zu vergeben, selbst wenn der Input keiner gelernten Klasse ähnelt. Dies führt zu „High-Confidence-Fehlern“.
+<!--SR:!2026-06-09,1,230-->
 
 Wie schätzt MC Dropout die Unsicherheit eines Modells zur Testzeit?
 ?
 Durch das Beibehalten von Dropout-Layern während der Inferenz werden für denselben Input leicht unterschiedliche Ergebnisse generiert. Die Varianz (Streuung) dieser Ergebnisse korreliert mit der epistemischen Unsicherheit des Modells.
+<!--SR:!2026-06-08,0,230-->
 
 ---
 ### Verwendung

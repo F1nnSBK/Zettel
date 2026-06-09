@@ -42,14 +42,17 @@ Wenn Daten auf gekrümmten Manifolds liegen, versagt PCA aufgrund ihrer Linearit
 #### Flashcards
 
 Warum sollte man t-SNE oder UMAP niemals als Vorverarbeitungsschritt für einen nachgeschalteten Klassifikator verwenden? :: Weil diese Methoden nicht-parametrisch sind (kein gelerntes Mapping für neue Daten) und lokale Distanzen im Zielraum keine stabilen semantischen Abstände für Generalisierungen garantieren. Verwende stattdessen PCA oder VAE-Encoder.
+<!--SR:!2026-06-09,1,230-->
 
 Was ist der entscheidende Unterschied zwischen t-SNE und UMAP hinsichtlich der globalen Datenstruktur?
 ?
 t-SNE priorisiert fast ausschließlich die Erhaltung lokaler Nachbarschaften (Cluster). UMAP optimiert eine Cross-Entropy-Loss-Funktion, die sowohl das Auseinanderziehen von Nachbarn als auch das Zusammenschieben von Nicht-Nachbarn bestraft, wodurch die relative Anordnung entfernter Cluster (globale Struktur) besser erhalten bleibt.
+<!--SR:!2026-06-09,1,230-->
 
 Wie wird die Anzahl der zu behaltenden Hauptkomponenten in der PCA mathematisch begründet?
 ?
 Über die **Explained Variance Ratio**. Man wählt $k$ Komponenten so, dass die Summe der zugehörigen Eigenwerte einen Schwellenwert (z. B. 95%) der Gesamtsumme aller Eigenwerte überschreitet:$$\frac{\sum_{i=1}^k \lambda_i}{\sum_{i=1}^d \lambda_i} \ge 0.95$$
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

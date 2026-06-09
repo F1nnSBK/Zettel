@@ -2,7 +2,7 @@
 
 2026-01-02
 
-Tags: [[Statistik]], [[Deskriptive Statistik]], [[Daten]], [[Merkmale]] 
+Tags: [[Statistik]], [[Deskriptive Statistik]], [[Information]], [[Merkmale]] 
 #deskriptive_statistik
 
 ---
@@ -32,6 +32,7 @@ Wann bezeichnet man ein Merkmal als stetig? :: Wenn es theoretisch jeden beliebi
 Was sind quasi-stetige Merkmale? :: Merkmale, die eigentlich diskret sind (z. B. Geldbeträge), aber aufgrund ihrer feinen Abstufung statistisch wie stetige Merkmale behandelt werden.
 
 Was ist ein diskretes Merkmal? :: Ein Merkmal, das nur endlich viele Werte annehmen kann oder Lücken auf der Werteskala aufweist (meist Zählergebnisse).
+<!--SR:!2026-06-11,3,250-->
 
 
 ---

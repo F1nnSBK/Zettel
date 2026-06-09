@@ -47,6 +47,7 @@ Das Bestimmtheitsmaß gibt an, welcher Anteil der Gesamtvarianz von $Y$ durch da
 Wie lautet die Formel für die Steigung $b$ der Regressionsgeraden basierend auf Kovarianz und Varianz?
 ?
 $b = \frac{s_{xy}}{s_x^2}$ (Kovarianz von $x$ und $y$ dividiert durch die Varianz von $x$).
+<!--SR:!2026-06-09,1,230-->
 
 Welchen Punkt im Koordinatensystem passiert jede Regressionsgerade, die nach der Methode der kleinsten Quadrate berechnet wurde, zwingend?::Den Schwerpunkt der Datenwolke $(\bar{x}, \bar{y})$.
 
@@ -57,6 +58,7 @@ Das Residuum $e_i = y_i - \hat{y}_i$ ist die Differenz zwischen dem tatsächlich
 Wie interpretiert man ein Bestimmtheitsmaß von $R^2 = 0,85$?
 ?
 85 % der in der abhängigen Variable $Y$ beobachteten Varianz können durch den linearen Zusammenhang mit der unabhängigen Variable $X$ erklärt werden. Die restlichen 15 % sind auf andere Einflüsse oder Zufallsschwankungen zurückzuführen.
+<!--SR:!2026-06-09,1,230-->
 
 ---
 ### Verwendung

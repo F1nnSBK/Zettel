@@ -46,14 +46,17 @@ Ein horizontaler Schnitt durch das Dendrogramm liefert eine flache Partitionieru
 #### Flashcards
 
 Was versteht man unter dem "Chaining"-Effekt beim Hierarchical Clustering? :: Bei Single Linkage reicht ein einzelner Datenpunkt aus, der wie eine Brücke zwischen zwei eigentlich separaten, dichten Clustern liegt, um diese vorzeitig zu verschmelzen.
+<!--SR:!2026-06-08,0,230-->
 
 Wie wird die Anzahl der Cluster $K$ nach einem hierarchischen Clustering-Lauf bestimmt?
 ?
 Durch einen horizontalen Schnitt durch das Dendrogramm. Die Anzahl der geschnittenen vertikalen Linien entspricht dem resultierenden $K$. Ein großer Abstand zwischen zwei Verschmelzungshöhen (Merge Height Gap) deutet dabei auf ein stabiles $K$ hin.
+<!--SR:!2026-06-08,0,230-->
 
 Inwiefern unterscheidet sich Ward's Method mathematisch von K-Means?
 ?
 Beide minimieren die Varianz innerhalb der Cluster (Inertia). K-Means optimiert dies jedoch iterativ durch Re-Assignment von Punkten, während Ward's Method eine gierige (greedy), hierarchische Verschmelzung durchführt, die einmal getroffene Entscheidungen nicht mehr rückgängig machen kann.
+<!--SR:!2026-06-08,0,230-->
 
 
 ---

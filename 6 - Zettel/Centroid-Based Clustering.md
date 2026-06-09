@@ -53,15 +53,18 @@ Da das Optimierungsproblem NP-hart ist und K-Means oft in lokalen Optima stecken
 #### Flashcards
 
 Warum führt K-Means bei ringförmigen (nicht-konvexen) Clustern zu Fehlern? :: Da K-Means die Distanz zum Zentrum (Zentroid) minimiert, erzwingt es eine lineare Trennung (Voronoi-Zellen). Ringe teilen sich jedoch dasselbe Zentrum, was eine korrekte Zuweisung über die Euklidische Distanz unmöglich macht.
+<!--SR:!2026-06-09,1,230-->
 
 Wie ist die mathematische Zielfunktion von K-Means definiert?
 ?
 $$I = \sum_{k=1}^{K} \sum_{x_i \in C_k} ||x_i - \mu_k||^2$$
 Es wird die Summe der quadrierten Abstände aller Punkte zu ihrem jeweiligen Cluster-Zentroiden minimiert (Inertia).
+<!--SR:!2026-06-09,1,230-->
 
 Was ist der Kernvorteil von K-Means++ gegenüber einer rein zufälligen Initialisierung?
 ?
 Durch die distanzabhängige Wahrscheinlichkeitsverteilung beim Seeding liegen die initialen Zentroiden weiter auseinander, was die Wahrscheinlichkeit erhöht, nahe am globalen Optimum zu starten und die Konvergenz beschleunigt.
+<!--SR:!2026-06-09,1,230-->
 
 
 ---

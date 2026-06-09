@@ -41,10 +41,12 @@ Eine Alternative zur Spearman-Korrelation, die auf dem Vergleich von **konkordan
 Was ist der fundamentale Unterschied in der Datenbasis zwischen Pearson- und Spearman-Korrelation?::Pearson nutzt die metrischen Rohwerte (Abstände zum Mittelwert), während Spearman ausschließlich die Rangplätze (Positionen in der sortierten Reihe) der Datenpunkte verwendet.
 
 Warum ist die Spearman-Rangkorrelation unempfindlich gegenüber Ausreißern?::Da ein Ausreißer unabhängig von seinem extremen Wert lediglich den höchsten oder niedrigsten Rangplatz einnimmt. Die mathematische Differenz zu den Nachbarrängen bleibt immer konstant klein ($d=1$), egal wie weit der Wert numerisch entfernt ist.
+<!--SR:!2026-06-09,1,230-->
 
 Welches Ergebnis liefern Pearson ($r$) und Spearman ($\rho$) für die Funktion $y = \log(x)$ bei streng positiven Werten?
 ?
 Spearman liefert $\rho = 1$, da die Funktion streng monoton steigend ist. Pearson liefert $r < 1$, da der Zusammenhang zwar steigend, aber aufgrund der Krümmung der Logarithmus-Funktion nicht streng linear ist.
+<!--SR:!2026-06-09,1,230-->
 
 Wie ist $d_i$ in der Spearman-Formel definiert?
 ?

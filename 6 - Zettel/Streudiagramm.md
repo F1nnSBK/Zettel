@@ -45,8 +45,10 @@ plt.show()
 ### Flashcards
 
 Was ist das Hauptziel eines Streudiagramms vor der Durchführung einer Regressionsanalyse?::Die visuelle Prüfung auf Linearität des Zusammenhangs und die Identifikation von Ausreißern, die das Modell verzerren könnten.
+<!--SR:!2026-06-09,1,230-->
 
 Was versteht man unter "Overplotting" in einem Streudiagramm?::Das Problem, dass bei hohen Datenmengen viele Punkte auf derselben Koordinate liegen und somit eine einzige schwarze Fläche bilden, wodurch die Information über die lokale Dichte verloren geht.
+<!--SR:!2026-06-11,3,250-->
 
 Warum ist ein Streudiagramm für nominalskalierte Daten (z.B. Nationalität) ungeeignet?
 ?
@@ -55,6 +57,7 @@ Da nominale Daten keine numerische Ordnung haben. Die Position im Koordinatensys
 Welche visuelle Eigenschaft eines Streudiagramms deutet auf eine starke Korrelation hin?
 ?
 Die Punkte konzentrieren sich eng um eine (gedachte) Gerade oder Kurve. Je schmaler die "Datenwolke", desto stärker ist der statistische Zusammenhang.
+<!--SR:!2026-06-11,3,250-->
 
 ---
 
