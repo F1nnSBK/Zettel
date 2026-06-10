@@ -49,3 +49,38 @@ NAP - Fallbeispiel
 -> Unbefugte Offenlegung & Eindringung reicht nicht aus für Art. 32
 
 
+#### Schritt 1: Der Obersatz (Die Hypothese)
+
+Du stellst zu Beginn eine Behauptung (Hypothese) auf, die es zu prüfen gilt.
+
+- **Beispiel:** _A könnte gegen B einen Anspruch auf Schadensersatz aus § 280 Abs. 1 BGB haben._
+    
+
+#### Schritt 2: Die Tatbestandsmerkmale (TBM) & Definitionen
+
+Jede Rechtsnorm hat Bedingungen, die erfüllt sein müssen (das sind die TBM). Du nennst das Merkmal und definierst es kurz.
+
+- **Gesetzestext (vereinfacht):** "Verletzt der Schuldner eine Pflicht aus dem Schuldverhältnis, so kann der Gläubiger Ersatz des hierdurch entstehenden Schadens verlangen."
+    
+- **Die TBMs hier:** 1. Schuldverhältnis, 2. Pflichtverletzung, 3. Vertretenmüssen (Schuld), 4. Schaden.
+    
+- **Beispiel Definition:** _Dafür müsste zunächst ein Schuldverhältnis zwischen A und B bestehen. Ein Kaufvertrag nach § 433 BGB stellt ein solches Schuldverhältnis dar._
+    
+
+#### Schritt 3: Die Subsumtion (Der wichtigste Teil!)
+
+Jetzt nimmst du den Sachverhalt (die Geschichte aus der Aufgabenstellung) und ordnest ihn unter deine Definition ein. Du vergleichst also Gesetz und Realität.
+
+- **Beispiel Subsumtion:** _Laut Sachverhalt haben A und B am 12. Mai einen Vertrag über die Erstellung einer Software geschlossen. Somit liegt ein wirksames Schuldverhältnis vor._
+    
+- _(Diesen Schritt wiederholst du nun für jedes einzelne TBM: Hat B eine Pflicht verletzt? Hat er das zu vertreten? Ist A ein Schaden entstanden?)_
+    
+
+#### Schritt 4: Die Rechtsfolge (Das Ergebnis)
+
+Wenn alle Tatbestandsmerkmale (TBM) durch die Subsumtion bejaht wurden, tritt die Rechtsfolge ein.
+
+- **Beispiel Schlusssatz:** _Da alle Voraussetzungen erfüllt sind, hat A gegen B einen Anspruch auf Schadensersatz._
+    
+
+**Zusammenfassung des Rhythmus:** 1. **Obersatz:** "Es könnte sein, dass..." 2. **Definition:** "Das Gesetz verlangt dafür..." 3. **Subsumtion:** "Hier im Fall ist es so, dass..." 4. **Rechtsfolge:** "Folglich ergibt sich..."

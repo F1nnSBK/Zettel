@@ -1,4 +1,36 @@
 
+KLAUSUR
+
+Für eine Regression ohne Beschränkungen mit NNs oft die Identity Function als Activation
+Beispiel bei Klassifikation Aufgabe 12, wenn p nicht gegeben oft 0,5 annehmen (beide Klassen gleich wichtig) oder zb bei Spam/Ham ist es vll gegeben oder man möchte sicher gehen, keinen Ham zu. verpassen dann würde mein ein p von0,9 nehmen (beispiel)
+
+Aufgabe 7 SVM Model 
+supportvektoren aus alpha sind nur 1 und 4 mit 0.2 und 0.8
+kernel funktion und den 2 supportvecs
+vorhersageformel (allgemeine Formel) mit werten der kernel funktion
+-> Vorhersagewerte
+Stellen in alpha mit 0 sind irrelevant
+
+Alles was nicht in Train war, kommt zu Val bei Bootstrap -> Keine Dopplungen in Val
+
+Bootstrapping für luna?
+
+Einfach über den Mittelwert Resampling 8
+Bagging wie entscheiden wir? Häufigkeiten oder Mittelwert
+KLAUSUR ENDE
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nun kommen label wie spam/ham oder ok/wartungsbedarf/kaputt.
 Credit Card Default Beispiel
 Achtung bei unbalanced Datasets (Interpretation)
