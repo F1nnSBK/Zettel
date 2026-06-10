@@ -42,6 +42,7 @@ Während relationale Systeme auf ein starres, vorab definiertes Schema (Schema o
 Flashcards
 
 Wer hat das theoretische Fundament für das relationale Datenmodell entwickelt und wann?::Edgar Frank Codd im Jahr 1970.
+<!--SR:!2026-06-11,1,230-->
 
 Übersetze die drei wichtigsten Datenbank-Alltagsbegriffe (Tabelle, Zeile, Spalte) in die formale relationale Terminologie.::Tabelle = Relation, Zeile = Tupel, Spalte = Attribut.
 

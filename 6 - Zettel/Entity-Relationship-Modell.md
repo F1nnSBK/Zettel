@@ -69,8 +69,10 @@ Beispiele:
 ### Flashcards
 
 Wie wird ein Entitytyp in der Chen-Notation dargestellt?::Durch ein Rechteck.
+<!--SR:!2026-06-14,4,270-->
 
 Wie wird ein Relationshiptyp in der Chen-Notation dargestellt?::Durch eine Raute.
+<!--SR:!2026-06-10,0,230-->
 
 Wie wird ein Attribut in der Chen-Notation dargestellt?::Durch eine Ellipse bzw. ein Oval.
 
@@ -81,16 +83,19 @@ Was bedeutet die Kardinalität 1:n?::Einer Entität können viele Entitäten der
 Was bedeutet die Kardinalität n:m?::Viele Entitäten beider Seiten können miteinander in Beziehung stehen.
 
 Was bedeutet die MC-Kardinalität 1?::Genau eine Entität ist zugeordnet.
+<!--SR:!2026-06-10,0,230-->
 
 Was bedeutet die MC-Kardinalität c?::Keine oder eine Entität ist zugeordnet.
 
 Was bedeutet die MC-Kardinalität m?::Eine oder mehrere Entitäten sind zugeordnet.
 
 Was bedeutet die MC-Kardinalität mc?::Keine, eine oder mehrere Entitäten sind zugeordnet.
+<!--SR:!2026-06-10,0,230-->
 
 Wozu dienen MC-Kardinalitäten?::Sie präzisieren die Mindestbeteiligung einer Entität an einer Beziehung.
 
 Wer hat das Entity-Relationship-Modell entwickelt und wann?::Peter Chen im Jahr 1976.
+<!--SR:!2026-06-11,1,230-->
 
 Was ist der Hauptvorteil des ER-Modells im Datenbankentwurf?::Es ist technologieunabhängig, reduziert Komplexität durch Abstraktion und dient als visuelle Kommunikationsbasis zwischen Fachabteilung und IT.
 

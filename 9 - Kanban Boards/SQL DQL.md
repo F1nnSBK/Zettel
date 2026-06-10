@@ -41,10 +41,12 @@ Flashcards (Offizielle Wiederholungsfragen)
 Welchen Zweck erfüllen die Klauseln LIMIT und OFFSET? Für welche typische Funktionalität in Webanwendungen bilden sie die Grundlage?
 ?
 `LIMIT` begrenzt die Anzahl der zurückgegebenen Zeilen. `OFFSET` überspringt eine bestimmte Anzahl von Zeilen am Anfang. Zusammen bilden sie die Grundlage für die Paginierung (Seitenblätterfunktion) in Webanwendungen.
+<!--SR:!2026-06-11,1,230-->
 
 Erklären Sie den fundamentalen Unterschied zwischen der WHERE-Klausel und der HAVING-Klausel in Bezug darauf, wann und worauf sie die Filterung anwenden.
 ?
 Die `WHERE`-Klausel filtert die "Datengrundlage" (einzelne Zeilen) **vor** der Gruppierung. Die `HAVING`-Klausel filtert das aggregierte Ergebnis (Datensatzgruppen) erst **nach** der Gruppierung durch `GROUP BY`.
+<!--SR:!2026-06-10,0,230-->
 
 Was passiert, wenn man in der SELECT-Liste eine Spalte angeben möchte, die nicht in der GROUP BY-Klausel aufgeführt ist und auch keine Aggregatfunktion darauf angewendet wird? ?
 Das ist nicht erlaubt und wirft einen Fehler. In der SELECT-Liste dürfen bei Verwendung von `GROUP BY` **nur** die Attribute stehen, nach denen auch gruppiert wird, oder eben berechnete Aggregatfunktionen (wie SUM, COUNT).

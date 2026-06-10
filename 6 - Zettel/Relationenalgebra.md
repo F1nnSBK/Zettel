@@ -59,12 +59,14 @@ Was ist das Ziel der Relationenalgebra im Kontext von Datenbanken?::Sie ist das 
 Was ist der Unterschied zwischen der Projektion (π) und der Selektion (σ)?
 ?
 Die **Projektion (**π**) / SELECT** wählt Spalten aus (vertikale Reduktion). Die **Selektion (**σ**) / WHERE** filtert Zeilen (Tupel) basierend auf einer logischen Bedingung (horizontale Reduktion).
+<!--SR:!2026-06-10,0,230-->
 
 Welche zwingende Voraussetzung gilt für die Anwendung von Mengenoperatoren (wie ∪ oder ∩) auf zwei Tabellen?::Die Tabellen müssen schema-kompatibel (vereinigungsverträglich) sein. Sie müssen die gleiche Anzahl an Attributen und identische/kompatible Datentypen an den jeweiligen Positionen aufweisen.
 
 Wie ist der Join (Verbund ⋈) mathematisch in der Relationenalgebra definiert?::Ein Join ist konzeptionell die Ausführung eines Kartesischen Produkts (×) zweier Relationen, auf das unmittelbar eine Selektion (σ) angewendet wird, um nur die treffenden Zeilen zu behalten.
 
 In welcher Reihenfolge (Priorität) werden logische Operatoren in einer Bedingung aufgelöst, wenn keine Klammern gesetzt sind?::Klammer → NOT (¬) → AND (∧) → OR (∨) → XOR (⊕).
+<!--SR:!2026-06-13,3,250-->
 
 
 ---

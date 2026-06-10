@@ -42,6 +42,7 @@ Bei der Verwendung von Mengenoperatoren in SQL gilt jedoch:
 ### Flashcards
 
 Was ist der fundamentale Unterschied zwischen Joins und Mengenoperatoren bei der Tabellenverknüpfung?::Joins verknüpfen Tabellen **horizontal** (Spalten werden nebeneinandergelegt). Mengenoperatoren verknüpfen Tabellen **vertikal** (Zeilen der einen Abfrage werden unter oder gegen die Zeilen der anderen gestellt).
+<!--SR:!2026-06-10,0,230-->
 
 Was bedeutet es, wenn zwei Tabellen "schema-kompatibel" (vereinigungsverträglich) sein müssen?
 ?

@@ -38,12 +38,14 @@ Flashcards
 Was ist der formale Unterschied zwischen Assoziation und Kardinalität im ERM?
 ?
 Die Assoziation beschreibt das Vorhandensein und die Art der Beziehung qualitativ (z.B. "Kunde erteilt Auftrag"). Die Kardinalität bestimmt die Beziehung quantitativ, also wie viele Ausprägungen maximal beteiligt sein dürfen (z.B. 1:n).
+<!--SR:!2026-06-11,1,230-->
 
 Was bedeuten die Variablen "1" sowie "n/m" in der klassischen Chen-Notation exakt?::"1" bedeutet 0 oder 1. "n" oder "m" bedeutet 0, 1 oder viele. Das klassische ERM beschreibt damit primär die Maximalbeziehung.
 
 Wie wird eine 1:n Kardinalität im logischen Entwurf in eine relationale Datenbank abgebildet?::Der Primärschlüssel des Entitytyps auf der "1"-Seite wird als Fremdschlüssel (Foreign Key) in die Tabelle des Entitytyps auf der "n"-Seite übernommen.
 
 Wie wird eine n:m Kardinalität im relationalen Modell physisch gelöst?::Eine n:m-Beziehung ist direkt nicht abbildbar. Es muss eine zusätzliche Assoziationstabelle (Verbindungstabelle) erstellt werden, die die Primärschlüssel beider beteiligter Tabellen als zusammengesetzten Fremdschlüssel aufnimmt.
+<!--SR:!2026-06-10,0,230-->
 
 Wie ermittelt man die Kardinalitäten bei einer komplexen ternären Beziehung (3 beteiligte Entitytypen)?::Man fixiert gedanklich ein konkretes Paar (zwei Entities) und fragt sich, mit wie vielen Entities des dritten Typs dieses Paar in Beziehung stehen kann. Das wiederholt man für alle drei Kombinationen.
 

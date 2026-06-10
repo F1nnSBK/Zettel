@@ -92,6 +92,7 @@ Mit welchem Befehl wird eine PROCEDURE aufgerufen und wie unterscheidet sich die
 Erklären Sie den Unterschied zwischen IN-, OUT- und INOUT-Parametern bei Prozeduren.
 ?
 **IN:** Reine Eingabewerte, die der Prozedur übergeben werden. **OUT:** Dienen ausschließlich der Rückgabe von Werten an den Aufrufer (da Prozeduren kein normales RETURN für Werte nutzen können). **INOUT:** Parameter, die sowohl als Eingabe empfangen werden, als auch verändert als Ausgabe zurückgegeben werden.
+<!--SR:!2026-06-10,0,230-->
 
 Welche Rolle spielt das Schlüsselwort `RETURN` innerhalb einer PROCEDURE?::Es dient ausschließlich dazu, die Ausführung der Prozedur sofort zu beenden. Es liefert (anders als bei einer Funktion) niemals einen Wert an den Aufrufer zurück.
 

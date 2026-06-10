@@ -57,12 +57,14 @@ erDiagram
 ### Flashcards
 
 Was versteht man unter Generalisierung/Spezialisierung im Entity-Relationship-Modell?::Einen Abstraktionsvorgang, bei dem einzelne, ähnliche Entitytypen (Subtypen) zu einem übergeordneten Entitytyp (Supertyp) zusammengefasst werden. Man nennt dies auch eine IS-A-Beziehung.
+<!--SR:!2026-06-10,0,230-->
 
 Was ist das wichtigste funktionale Merkmal einer IS-A-Beziehung in Bezug auf die Eigenschaften der Entitäten?::Die Vererbung. Die Subtypen "erben" alle Attribute des Supertyps und können zusätzlich eigene, spezifische Attribute besitzen.
 
 Wie unterscheidet sich ein "disjunkter" von einem "überlappenden" Subentitytyp?
 ?
 **Disjunkt:** Eine Entität des Supertyps darf _höchstens_ einem Subtyp angehören (strenge Trennung, z.B. Girokonto oder Sparkonto). **Überlappend:** Eine Entität darf _gleichzeitig mehreren_ Subtypen angehören (z.B. Mitarbeiter ist Entwickler und Projektleiter).
+<!--SR:!2026-06-10,0,230-->
 
 Was bedeutet "Vollständigkeit" (vollständige Subentitytypen) bei der Generalisierung?::Es bedeutet, dass jede Entität des Supertyps _zwingend mindestens einem_ Subtyp angehören muss. Es gibt also keine Entitäten, die "nur" in der Superklasse existieren, ohne spezifiziert zu sein.
 

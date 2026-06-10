@@ -48,6 +48,7 @@ Code-Implementation
 ### Flashcards
 
 Was sind Daten im datenbanktheoretischen Sinn?::Isolierte, darstellbare und maschinell verarbeitbare Repräsentationen von Fakten ohne eigenen Kontext.
+<!--SR:!2026-06-10,0,230-->
 
 Welche 5 Kerneigenschaften charakterisieren Daten?::Rohcharakter, Objektivität, Speicherbarkeit, Verarbeitbarkeit, Kontextabhängigkeit.
 

@@ -51,6 +51,7 @@ VALUES (1, 'LSG Sky Chefs', 'MUC'); -- Dies ist das physische Entity (das Tupel)
 Was ist der funktionale Unterschied zwischen einer Entität (Entity) und einem Entitytyp?::Eine Entität ist das konkrete, abgrenzbare Einzelobjekt (z. B. "LSG Sky Chefs"). Ein Entitytyp ist die abstrakte Zusammenfassung gleichartiger Entitäten (z. B. "Lieferant").
 
 Wie wird ein Entitytyp im Entity-Relationship-Modell (Chen-Notation) grafisch dargestellt?::Als Rechteck.
+<!--SR:!2026-06-14,4,270-->
 
 Worin resultiert ein Entitytyp nach der logischen Überführung (Abbildungsregeln) in ein relationales Datenbankmodell?::Ein Entitytyp wird exakt zu einer eigenen Relation (Tabelle).
 

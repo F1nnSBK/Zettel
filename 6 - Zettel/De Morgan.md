@@ -58,6 +58,7 @@ Die negierte ODER-Verknüpfung wird zu einer UND-Verknüpfung der einzeln negier
 Übersetze folgenden Filter nach De Morgan, um die Klammer aufzulösen: `NOT (Alter > 30 OR Stadt = 'Berlin')`.::`NOT Alter > 30 AND NOT Stadt = 'Berlin'` (Oder vereinfacht: `Alter <= 30 AND Stadt != 'Berlin'`).
 
 Was ist das logische Ergebnis (nach De Morgan), wenn wir die Menge "Kunden, die NICHT (männlich UND aus Ravensburg) sind" suchen?::Wir suchen alle Kunden, die NICHT männlich sind, ODER die NICHT aus Ravensburg stammen (Die Zielgruppe besteht also aus allen Frauen plus allen Männern, die nicht in Ravensburg leben).
+<!--SR:!2026-06-11,1,230-->
 
 
 ---

@@ -56,6 +56,7 @@ CREATE TABLE account(
 Was ist der funktionale Unterschied zwischen der DDL (Data Definition Language) und der DML (Data Manipulation Language)?::Die DDL wird verwendet, um die _Struktur_ der Datenbankobjekte (z.B. Tabellen, Schemas) zu definieren, zu ändern oder zu löschen. Die DML dient hingegen dazu, die konkreten Datensätze innerhalb dieser Tabellen zu verwalten (einfügen, ändern, löschen).
 
 Welche drei zentralen SQL-Befehle bilden die DDL?::`CREATE` (Anlegen), `ALTER` (Struktur ändern), `DROP` (Endgültig löschen).
+<!--SR:!2026-06-11,1,230-->
 
 Was ist der technische Unterschied zwischen den SQL-Datentypen `CHAR(n)` und `VARCHAR(n)`?
 ?

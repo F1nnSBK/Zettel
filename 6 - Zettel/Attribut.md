@@ -60,6 +60,7 @@ Was kennzeichnet ein "Schlüsselattribut" und wie wird es im ERM notiert?::Es is
 Was ist der Unterschied zwischen einem zusammengesetzten Attribut und einem Mehrfachattribut?
 ?
 Ein **zusammengesetztes Attribut** (z.B. Adresse) lässt sich logisch in kleinere Folgeattribute (PLZ, Ort) unterteilen. Ein **Mehrfachattribut** (z.B. vorher besuchte Schulen) speichert für ein einziges Entity mehrere Werte derselben Eigenschaft gleichzeitig.
+<!--SR:!2026-06-10,0,230-->
 
 Wie werden konzeptionelle Attribute in das logische Relationenmodell überführt?
 ?

@@ -45,14 +45,17 @@ Das Gesetz von De Morgan ist das wichtigste Werkzeug, um komplexe negierte Bedin
 ### Flashcards
 
 Was ist die funktionale Aufgabe eines logischen Operators in der Relationenalgebra?::Er arbeitet als Funktion, die für eine definierte Filterbedingung (z.B. in der Selektion) einen Wahrheitswert (WAHR oder FALSCH) für das jeweilige Tupel zurückliefert.
+<!--SR:!2026-06-10,0,230-->
 
 In welcher festen Reihenfolge (Priorität) arbeitet eine Datenbank logische Operatoren ab, wenn keine Klammern gesetzt sind?::1. Klammer, 2. NOT, 3. AND, 4. OR, 5. XOR.
+<!--SR:!2026-06-10,0,230-->
 
 Wie lässt sich der logische Operator XOR (exklusives Oder) durch AND, OR und NOT ausdrücken?::Eine Bedingung muss erfüllt sein, aber nicht beide: (A∨B)∧¬(A∧B).
 
 Was besagt das erste Gesetz von De Morgan in Bezug auf eine verneinte UND-Bedingung?
 ?
 Eine verneinte UND-Klammer wird zu einer ODER-Bedingung, bei der die einzelnen Parameter verneint sind. Logisch: ¬(A∧B)=¬A∨¬B.
+<!--SR:!2026-06-13,3,250-->
 
 Warum ist das Setzen von Klammern bei der Kombination von AND und OR (Distributivgesetz) geschäftskritisch?
 ?
