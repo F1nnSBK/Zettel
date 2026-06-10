@@ -50,6 +50,7 @@ In welcher architektonischen Form liegen die Verwaltungsinformationen im Systemk
 Was ist das `Information_Schema` und welchen konkreten Vorteil bietet es gegenüber datenbankspezifischen Systemtabellen (wie z. B. `pg_*` in PostgreSQL)?
 ?
 Das `Information_Schema` ist ein ISO-Standard für Verwaltungsdaten (Metadaten). Der entscheidende Vorteil ist, dass es systemübergreifend fast identisch ist (z. B. in SQL Server, MySQL und PostgreSQL). Herstellerspezifische Tabellen wie `pg_*` sind hingegen an PostgreSQL gebunden und würden bei einer Migration auf eine andere Datenbank abbrechen.
+<!--SR:!2026-06-10,0,230-->
 
 Wann wurde das `Information_Schema` standardisiert?::Mit der Norm SQL2 (im Jahr 1992).
 

@@ -34,6 +34,7 @@ Während die Assoziation im konzeptionellen Entity-Relationship-Modell (ERM) als
 ### Flashcards
 
 Was bezeichnet der Begriff "Assoziation" im Entity-Relationship-Modell?::Die konkrete inhaltliche Beschreibung eines Beziehungstyps zwischen zwei [[Entität]]stypen (z.B. "Kunde erteilt Auftrag").
+<!--SR:!2026-06-10,0,230-->
 
 Wie grenzt sich die Assoziation von der Kardinalität ab?
 ?

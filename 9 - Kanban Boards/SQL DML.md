@@ -70,10 +70,12 @@ Die **DDL** wird verwendet, um die _Struktur_ der Datenbank zu definieren und zu
 Frage 10: Was bewirkt die `WHERE`-Klausel in einem `UPDATE`-Befehl? Was würde passieren, wenn Sie diese Klausel in einem `UPDATE`-Befehl weglassen würden?
 ?
 Die `WHERE`-Klausel filtert exakt die Datensätze, die geändert werden sollen. Lässt man die `WHERE`-Klausel weg, wird die `UPDATE`-Anweisung gnadenlos auf **alle Zeilen der gesamten Tabelle** angewendet, was meist zu katastrophalem Datenverlust führt.
+<!--SR:!2026-06-11,1,230-->
 
 Wie lautet der SQL-Syntax, um das Ergebnis einer SELECT-Abfrage direkt als neue Datensätze in eine andere Tabelle einzufügen?::`INSERT INTO zieltabelle (spalte1, spalte2) SELECT spalte1, spalte2 FROM quelltabelle;`.
 
 Was ist der fundamentale Unterschied zwischen `DELETE FROM tabelle;` und `DROP TABLE tabelle;`?::`DELETE FROM` ist ein DML-Befehl und löscht "nur" alle Datensätze (die leere Tabellenstruktur bleibt erhalten). `DROP TABLE` ist ein DDL-Befehl und zerstört das gesamte Datenbankobjekt inklusive der Struktur.
+<!--SR:!2026-06-11,1,230-->
 
 
 ---

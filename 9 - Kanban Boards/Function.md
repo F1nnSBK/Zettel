@@ -89,6 +89,7 @@ _(Quelle: Übungsaufgaben)_
 Nenne zwei Architektur-Vorteile und zwei Risiken, die mit der Implementierung von Business-Logik direkt in der Datenbank (Functions/Procedures) verbunden sind.
 ?
 **Vorteile:** Weniger Netzwerk-Traffic (keine Zwischenergebnisse werden zum Client geschickt) und bessere Performance. **Risiken:** Höhere Komplexität (Logik ist zwischen Backend und Datenbank verstreut) und schlechte Portierbarkeit (Vendor Lock-in) aufgrund proprietärer Herstellersprachen.
+<!--SR:!2026-06-10,0,230-->
 
 Inwiefern unterscheiden sich Funktionen (FUNCTIONS) und Prozeduren (PROCEDURES) hinsichtlich ihres Einsatzzwecks und der Transaktionssteuerung?
 ?
@@ -103,6 +104,7 @@ Welche Bedeutung hat das Konstrukt `BEGIN ATOMIC ... END` innerhalb einer SQL-Fu
 Welche prozeduralen Elemente bietet die Sprache `PL/pgSQL`, die im reinen `LANGUAGE SQL` nicht zur Verfügung stehen?::Sie bietet Ablaufsteuerungen (Kontrollstrukturen) wie `IF...THEN`, `LOOP` oder `WHILE`, die Deklaration von lokalen Variablen sowie eine robuste Fehlerbehandlung über `EXCEPTION`.
 
 Wo müssen Variablen in einer PL/pgSQL-Funktion deklariert werden und welche Ausnahme gibt es dabei?::Alle Variablen müssen im `DECLARE`-Block deklariert werden. Die einzige Ausnahme sind die **Übergabeparameter** der Funktion; diese sind implizit deklariert und direkt im Codeblock verfügbar.
+<!--SR:!2026-06-10,0,230-->
 
 Mit welcher Anweisung können Abfrageergebnisse in PL/pgSQL direkt in deklarierten Variablen gespeichert werden?::Durch die Anweisung `SELECT ... INTO <Variablenname>`.
 

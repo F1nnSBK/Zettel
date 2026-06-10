@@ -35,6 +35,7 @@ Was ist der funktionale Unterschied zwischen Projektion (π) und Selektion (σ)?
 Die **Projektion** wählt Spalten aus und reduziert die Tabelle _vertikal_ (inkl. Eliminierung von Duplikaten). Die **Selektion** (Restriktion) wählt Zeilen basierend auf Wahrheits-Bedingungen aus und filtert die Tabelle _horizontal_.
 
 Welchen SQL-Klauseln entsprechen Projektion und Selektion üblicherweise?::Projektion entspricht `SELECT`. Selektion (Restriktion) entspricht `WHERE` (oder `HAVING`).
+<!--SR:!2026-06-11,1,230-->
 
 Was passiert, wenn man ein Kartesisches Produkt (×) auf eine Tabelle A mit 100 Zeilen und eine Tabelle B mit 50 Zeilen anwendet?::Es werden alle möglichen Kombinationen gebildet. Die neue Ergebnisrelation besitzt exakt 100×50=5.000 Zeilen (Tupel).
 
@@ -43,6 +44,7 @@ Wie ist ein Join (Verbund ⋈) mathematisch konzeptioniert?::Ein Join ist eigent
 Warum nimmt die Division (÷) in SQL eine Sonderstellung ein?
 ?
 Weil sie als einziger relevanter relationaler Operator kein natives Schlüsselwort in SQL besitzt. Um komplexe Fragen wie _"Wer hat ALLE Artikel gekauft?"_ zu beantworten, muss man sich in SQL mit doppelten Negationen (`NOT EXISTS ... NOT EXISTS`) behelfen.
+<!--SR:!2026-06-10,0,230-->
 
 
 ---

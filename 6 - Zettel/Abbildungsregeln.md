@@ -71,12 +71,14 @@ Das relationale Modell kann n:m-Beziehungen _nicht_ direkt über einfache Fremds
 ### Flashcards
 
 Wie werden Entitytypen und ihre Eigenschaften im Relationenmodell abgebildet?::Jeder Entitytyp wird zu einer Tabelle. Die Attribute werden zu Spalten, und das identifizierende Attribut wird zum Primärschlüssel (PK).
+<!--SR:!2026-06-10,0,230-->
 
 Wie lautet die Abbildungsregel für eine 1:1-Beziehung?::Der Primärschlüssel der einen Tabelle wird als Fremdschlüssel in die andere Tabelle aufgenommen, oder beide Entitäten werden vollständig in einer einzigen Tabelle verschmolzen.
 
 Wie lautet die zwingende Abbildungsregel für eine 1:n-Beziehung?
 ?
 Der Primärschlüssel der Entität auf der "1"-Seite wird als Fremdschlüssel in die Tabelle der Entität auf der "n"-Seite übernommen. (Die "n"-Seite speichert den Verweis auf ihren "Master").
+<!--SR:!2026-06-10,0,230-->
 
 Wie wird eine n:m-Beziehung im relationalen Datenbankdesign physisch gelöst?
 ?

@@ -66,6 +66,7 @@ Eine Transaktion ist eine logische Einheit von Datenbankanweisungen, die die Dat
 Wie verhält sich ein Datenbanksystem im Auto-Commit-Modus und unter welchen Umständen muss dieser Mechanismus unterbunden werden?
 ?
 Im Auto-Commit-Modus führt das DBMS nach jeder einzelnen INSERT-, UPDATE- oder DELETE-Anweisung automatisch ein COMMIT durch,. Dies muss deaktiviert werden, wenn mehrere Änderungen als eine zusammenhängende logische Einheit (Transaktion) betrachtet werden sollen.
+<!--SR:!2026-06-10,0,230-->
 
 Erklären Sie das "Lost Update" (Dirty Write) Problem. Warum nimmt es eine Sonderstellung bei den Nebenläufigkeitsanomalien ein?
 ?
@@ -86,6 +87,7 @@ Was versteht man unter einem Deadlock (Verklemmung) und wie entsteht dieser Zust
 Was ist der Unterschied zwischen dem Zweiphasen-Sperrprotokoll (2PL) und dem Zweiphasen-Commit-Protokoll (2PC) in Bezug auf die ACID-Kriterien?
 ?
 **2PL (Two-Phase Locking):** Setzt die **Isolation (I)** um und garantiert die Serialisierbarkeit von Transaktionen durch Sperrphasen,. **2PC (Two-Phase Commit):** Setzt die **Atomarität (A)** in verteilten Systemen um und koordiniert den gemeinsamen Abschluss (Commit/Abort) über mehrere Server-Knoten hinweg,.
+<!--SR:!2026-06-10,0,230-->
 
 
 ---

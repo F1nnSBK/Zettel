@@ -32,16 +32,19 @@ Das DBMS stellt den Nutzern und Anwendungen dafür spezifische Datenbanksprachen
 ### Flashcards
 
 Woraus setzt sich ein Datenbanksystem (DBS) formal zusammen?::Aus der Datenbank (logische Datenmenge / Speicherungskomponente) und dem Datenbank-Management-System (verwaltende Software).
+<!--SR:!2026-06-10,0,230-->
 
 Was ist der Unterschied zwischen einer Datenbank (DB) und einem Datenbank-Management-System (DBMS)?::Die DB ist der strukturierte Datentopf inkl. Metadaten. Das DBMS ist die aktive Software (z.B. der PostgreSQL-Serverprozess), welche die Datenbanken verwaltet, Anfragen entgegennimmt und Schreibvorgänge physisch ausführt.
 
 Welche Rolle übernimmt das DBMS bei der Zugriffskontrolle?
 ?
 Das DBMS fungiert als "Türsteher". Es besitzt den exklusiven, einzigen direkten Zugriff auf den physischen Speicher. Jede Applikation und jeder Nutzer muss zwingend über das DBMS gehen, welches dann die Berechtigungen (Autorisierung) prüft und Systemkonflikte verhindert.
+<!--SR:!2026-06-10,0,230-->
 
 Warum ist die Koordination von Mehrbenutzerzugriffen (Concurrency) eine Kernanforderung an ein DBMS?
 ?
 Da in einem Informationssystem oft hunderte Prozesse gleichzeitig lesen und schreiben wollen, muss das DBMS diese Zugriffe synchronisieren, um Inkonsistenzen (z.B. Lost Updates) zu vermeiden. In relationalen Datenbanken wird dies durch die Einhaltung der ACID-Eigenschaften garantiert.
+<!--SR:!2026-06-11,1,230-->
 
 
 ---

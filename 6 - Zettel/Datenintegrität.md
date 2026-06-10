@@ -59,6 +59,7 @@ Was besagt die Entity-Integrität?::Dass jede Zeile in einer Tabelle absolut ein
 Welche fundamentale Regel beschreibt die Referentielle Integrität?::Ein Fremdschlüssel (Foreign Key) in einer Tabelle muss immer auf einen existierenden Primärschlüsselwert in der referenzierten Haupttabelle verweisen (oder er darf `NULL` sein). Es darf keine "verwaisten" Verweise geben.
 
 Was passiert bei einer 1:n-Beziehung, wenn für den Fremdschlüssel `ON DELETE RESTRICT` (bzw. `NO ACTION`) definiert wurde und der Master-Datensatz gelöscht werden soll?::Das DBMS verhindert das Löschen des Master-Datensatzes und wirft einen Fehler, solange noch Detail-Datensätze existieren, die auf ihn verweisen.
+<!--SR:!2026-06-10,0,230-->
 
 Was passiert bei `ON DELETE CASCADE`?::Wenn der referenzierte Master-Datensatz gelöscht wird, löscht das DBMS vollautomatisch auch alle abhängigen Detail-Datensätze (kaskadierendes Löschen).
 

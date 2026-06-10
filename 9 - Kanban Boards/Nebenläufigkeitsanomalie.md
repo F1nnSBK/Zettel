@@ -47,6 +47,7 @@ Während der "Non-Repeatable Read" existierende Zeilen betrifft, geht es beim Ph
 Beschreiben Sie das „Problem der verlorengegangenen Änderung“ (Lost Update / Dirty Write) und warum es bei den Anomalien eine Sonderstellung einnimmt.
 ?
 Ein Lost Update tritt auf, wenn zwei Transaktionen gleichzeitig denselben Datensatz lesen, ihn modifizieren und anschließend nacheinander zurückschreiben. Die zweite Transaktion überschreibt das Ergebnis der ersten ungeprüft, wodurch das erste Update unwiderruflich verloren geht. Es nimmt eine Sonderstellung ein, da es laut SQL-Norm in **allen** Isolation Leveln grundsätzlich streng verboten ist.
+<!--SR:!2026-06-11,1,230-->
 
 Was versteht man unter einem "Dirty Read" (Lesen schmutziger Daten)?
 ?

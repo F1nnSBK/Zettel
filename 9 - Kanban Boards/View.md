@@ -53,11 +53,12 @@ Welchen spezifischen Vorteil der "Datenunabhängigkeit" bieten VIEWs, wenn sich 
 
 Worin besteht der genaue architektonische Unterschied zwischen einer persistenten VIEW und einer Inline View?::Eine **persistente VIEW** ist ein benanntes Datenbankobjekt, das mit `CREATE VIEW` dauerhaft im Schema gespeichert und wiederverwendet wird. Eine **Inline View** ist eine temporäre SELECT-Anweisung, die direkt im `FROM`-Abschnitt einer Hauptabfrage definiert wird und nach deren Ausführung verfällt.
 
-Nenne drei zwingende Bedingungen, die erfüllt sein müssen, damit über eine VIEW Daten in der Basistabelle eingefügt oder geändert werden dürfen (Updatable View). 
+Nenne drei zwingende Bedingungen, die erfüllt sein müssen, damit über eine VIEW Daten in der Basistabelle eingefügt oder geändert werden dürfen (Updatable View).
 ?
 1. Die FROM-Klausel darf nur genau eine Relation (Tabelle) enthalten (keine JOINs).
 2. Es darf keine `GROUP BY`-Klausel existieren.
 3. Die Abfrage darf kein `DISTINCT`, keine Aggregationen und keine berechneten Felder enthalten.
+<!--SR:!2026-06-10,0,230-->
 
 Warum sind VIEWs ein extrem mächtiges Sicherheitsinstrument in relationalen Datenbanken?::Man kann Benutzern den direkten Zugriff auf eine Basistabelle komplett verweigern und ihnen stattdessen nur Zugriff auf eine VIEW gewähren, die sensible Spalten (wie das Gehalt) oder fremde Datensätze (wie Mitarbeiter aus anderen Abteilungen) herausfiltert.
 
