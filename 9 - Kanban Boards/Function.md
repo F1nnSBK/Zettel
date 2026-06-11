@@ -94,10 +94,12 @@ Nenne zwei Architektur-Vorteile und zwei Risiken, die mit der Implementierung vo
 Inwiefern unterscheiden sich Funktionen (FUNCTIONS) und Prozeduren (PROCEDURES) hinsichtlich ihres Einsatzzwecks und der Transaktionssteuerung?
 ?
 **Funktionen** liefern immer einen Wert zurück und werden typischerweise für Berechnungen innerhalb von SQL-Befehlen (z.B. SELECT) genutzt. **Prozeduren** liefern keinen Wert zurück (nur über Ausgabe-Parameter) und dienen der Steuerung von Prozessabläufen. Im Gegensatz zu Funktionen dürfen Prozeduren eigene Transaktionsbefehle (wie `COMMIT` oder `ROLLBACK`) ausführen.
+<!--SR:!2026-06-13,3,250-->
 
 Wie wird der Rückgabewert in einer Funktion mit `LANGUAGE SQL` festgelegt, wenn keine explizite RETURN-Anweisung verwendet wird?::Er ergibt sich implizit aus dem Ergebnis der **allerletzten SQL-Anweisung** im Funktionskörper.
 
 Wozu dient das sogenannte "Dollar-Quoting" (`$$`) im Rumpf einer PostgreSQL-Funktion?::Es fungiert als Body-Delimiter, um den auszuführenden Programmcode zu umschließen. Dies vermeidet Syntax-Probleme, falls der enthaltene Code selbst wieder einfache Anführungszeichen (`'`) oder Zeilenumbrüche enthält.
+<!--SR:!2026-06-10,0,230-->
 
 Welche Bedeutung hat das Konstrukt `BEGIN ATOMIC ... END` innerhalb einer SQL-Funktion?::Es garantiert die Transaktionssicherheit (Atomarität) für den Fall, dass die SQL-Funktion mehrere DML-Operationen (`INSERT/UPDATE/DELETE`) ausführt. Entweder werden alle Schritte erfolgreich verarbeitet oder alle bei einem Fehler vollständig zurückgerollt.
 

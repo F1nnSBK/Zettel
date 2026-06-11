@@ -65,6 +65,7 @@ Was ist das Hauptziel der Datenbank-Normalisierung?::Die Minimierung von redunda
 Erkläre die "Löschanomalie" an einem einfachen Beispiel.
 ?
 Wenn in einer unnormalisierten Tabelle ein Datensatz gelöscht wird, gehen ungewollt Zusatzinformationen verloren. Beispiel: Löscht man den letzten Studenten eines Studiengangs, geht in der Datenbank die Information verloren, dass dieser Studiengang überhaupt existiert.
+<!--SR:!2026-06-10,0,230-->
 
 Was fordert die 1. Normalform (1NF)?::Jedes Attribut einer Tabelle muss atomar (unteilbar) sein. Es darf an keinem Kreuzungspunkt von Zeile und Spalte Listen oder Wiederholungsgruppen geben.
 

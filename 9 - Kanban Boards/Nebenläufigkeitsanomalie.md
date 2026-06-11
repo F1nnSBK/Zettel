@@ -58,6 +58,7 @@ Erklären Sie den genauen Unterschied zwischen einem "Non Repeatable Read" und d
 Beide Anomalien treten auf, wenn sich Daten zwischen zwei Lesevorgängen derselben Transaktion ändern, weil eine andere Transaktion in der Zwischenzeit ein `COMMIT` durchgeführt hat. **Non Repeatable Read:** Betrifft das Verändern eines _existierenden_ Datensatzes. Der Wert der Zeile hat sich geändert. **Phantom:** Betrifft Bereichsabfragen. Es tauchen völlig _neue Zeilen_ auf (Phantome), die von der anderen Transaktion neu eingefügt wurden.
 
 Welches spezifische Problem wird im Isolations-Level `SERIALIZABLE` verhindert, das im Level `REPEATABLE READ` noch auftreten kann?::Im Level `SERIALIZABLE` werden **Phantome** (das Auftauchen neuer Zeilen bei wiederholten Abfragen) verhindert, was im Level `REPEATABLE READ` noch explizit erlaubt ist.
+<!--SR:!2026-06-10,0,230-->
 
 Warum wählt man in der Praxis für Datenbanken nicht immer pauschal das sicherste Isolations-Level (`SERIALIZABLE`), um alle Nebenläufigkeitsanomalien auszuschließen?::Weil das Verhindern aller Anomalien (besonders von Phantomen) strengste Sperrmechanismen erfordert, die zu massiven Wartezeiten führen. Ein hohes Isolations-Level minimiert zwar die Fehler, reduziert aber die allgemeine Parallelität und Performance des Systems erheblich.
 

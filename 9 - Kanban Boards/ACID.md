@@ -36,6 +36,7 @@ Unterscheiden Sie die Bedeutung des Begriffs „Consistency“ (Konsistenz) inne
 Vergleichen Sie das ACID-Prinzip mit dem BASE-Modell hinsichtlich der Konsistenzgarantien.
 ?
 **ACID** garantiert sofortige, strikte Konsistenz direkt nach dem Abschluss (Commit) jeder einzelnen Transaktion. **BASE** akzeptiert einen vorübergehend inkonsistenten Zustand (den sogenannten „Soft State“), um eine höhere System-Verfügbarkeit und Skalierbarkeit zu erreichen. Die Konsistenz wird hier verzögert etabliert („Eventual Consistency“).
+<!--SR:!2026-06-10,0,230-->
 
 Wie wird selbst bei rasend schnellen In-Memory-Datenbanken (wie SAP HANA) die „Durability“ (Dauerhaftigkeit) garantiert, obwohl die Daten im flüchtigen Arbeitsspeicher liegen?
 ?

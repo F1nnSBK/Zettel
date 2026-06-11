@@ -62,6 +62,7 @@ Um Isolation technisch umzusetzen, gibt es zwei Paradigmen,:
 Was ist eine Transaktion im Kontext eines Datenbanksystems, und welche vier fundamentalen ACID-Eigenschaften muss jedes Transaktionssystem garantieren?
 ?
 Eine Transaktion ist eine logische Einheit von Datenbankanweisungen, die die Datenbank von einem konsistenten Zustand in einen neuen konsistenten Zustand überführt. Die ACID-Eigenschaften sind: **Atomicity (Atomarität):** Vollständig ausgeführt oder gar nicht (Rollback bei Fehler),. **Consistency (Konsistenz):** Einhaltung aller definierten Regeln vor und nach der Transaktion. **Isolation:** Gleichzeitige Transaktionen beeinflussen sich nicht gegenseitig (Zwischenergebnisse sind unsichtbar). **Durability (Dauerhaftigkeit):** Änderungen sind nach dem Commit dauerhaft gespeichert (selbst bei Systemabstürzen).
+<!--SR:!2026-06-10,0,230-->
 
 Wie verhält sich ein Datenbanksystem im Auto-Commit-Modus und unter welchen Umständen muss dieser Mechanismus unterbunden werden?
 ?

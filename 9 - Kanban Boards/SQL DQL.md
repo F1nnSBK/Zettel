@@ -66,6 +66,7 @@ Verschachtelte Abfragen werden (sofern sie nicht-korreliert sind) immer von unte
 Was unterscheidet eine korrelierte (abhängige) Unterabfrage von einer einfachen Unterabfrage in Bezug auf ihre Ausführung?
 ?
 Eine korrelierte Unterabfrage hängt für ihre Werte von der äußeren Hauptabfrage ab. Sie kann nicht isoliert ausgeführt werden. Stattdessen wird sie (ähnlich einer geschachtelten Schleife) für **jede einzelne Zeile** der äußeren Abfrage immer wieder neu ausgeführt.
+<!--SR:!2026-06-10,0,230-->
 
 
 ---

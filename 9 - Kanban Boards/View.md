@@ -52,6 +52,7 @@ Was versteht man unter dem Datenbankkonzept einer VIEW und wie verhält sie sich
 Welchen spezifischen Vorteil der "Datenunabhängigkeit" bieten VIEWs, wenn sich die zugrundeliegende Tabellenstruktur (z. B. durch neue Attribute) ändert?::Sie bilden eine stabile Abstraktionsschicht. Die anfragenden Programme müssen nicht angepasst werden, da die VIEW die Änderungen der physischen Struktur maskiert und nach außen hin das gewohnte Interface beibehält.
 
 Worin besteht der genaue architektonische Unterschied zwischen einer persistenten VIEW und einer Inline View?::Eine **persistente VIEW** ist ein benanntes Datenbankobjekt, das mit `CREATE VIEW` dauerhaft im Schema gespeichert und wiederverwendet wird. Eine **Inline View** ist eine temporäre SELECT-Anweisung, die direkt im `FROM`-Abschnitt einer Hauptabfrage definiert wird und nach deren Ausführung verfällt.
+<!--SR:!2026-06-10,0,230-->
 
 Nenne drei zwingende Bedingungen, die erfüllt sein müssen, damit über eine VIEW Daten in der Basistabelle eingefügt oder geändert werden dürfen (Updatable View).
 ?

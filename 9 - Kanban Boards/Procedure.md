@@ -86,6 +86,7 @@ CALL add_genre('Heavy Metal', 97, NULL, NULL);
 Inwiefern unterscheiden sich Funktionen (FUNCTIONS) und Prozeduren (PROCEDURES) hinsichtlich ihres Einsatzzwecks und der Transaktionssteuerung?
 ?
 Funktionen liefern immer einen Wert zurück und werden für Berechnungen innerhalb regulärer SQL-Anweisungen (z.B. SELECT) genutzt. Prozeduren steuern Prozessabläufe und können im Gegensatz zu Funktionen eigene Transaktionsbefehle (wie COMMIT oder ROLLBACK) enthalten.
+<!--SR:!2026-06-11,1,230-->
 
 Mit welchem Befehl wird eine PROCEDURE aufgerufen und wie unterscheidet sich dieser vom Aufruf einer Funktion?::Eine Prozedur wird zwingend mit dem Befehl `CALL` aufgerufen (z.B. `CALL my_proc()`). Im Gegensatz zu Funktionen kann eine Prozedur nicht direkt innerhalb einer SQL-Anweisung (z.B. im SELECT) verwendet werden.
 

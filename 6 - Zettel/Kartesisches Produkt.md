@@ -46,10 +46,12 @@ Was macht der Operator "Kartesisches Produkt" (×) in der [[Relationenalgebra]]?
 Wie berechnet sich die Anzahl der Zeilen (Tupel) im Ergebnis eines Kartesischen Produkts?::Wenn Tabelle A n Tupel hat und Tabelle B m Tupel, hat das Ergebnis exakt n⋅m Tupel.
 
 Wie wird ein Kartesisches Produkt im klassischen SQL-Syntax (ohne JOIN-Schlüsselwort) erzeugt?::Indem man in der `FROM`-Klausel einfach beide Tabellennamen mit einem Komma getrennt auflistet (z. B. `SELECT * FROM account, customer;`).
+<!--SR:!2026-06-10,0,230-->
 
 Warum ist das Kartesische Produkt das mathematische Fundament für Datenbank-Joins?
 ?
 Weil ein Join logisch gesehen nichts anderes ist als die Ausführung eines extrem großen Kartesischen Produkts, auf das unmittelbar danach eine Selektion (WHERE-Bedingung) angewandt wird, um nur die passenden Primär-/Fremdschlüssel-Paare übrig zu lassen.
+<!--SR:!2026-06-11,1,230-->
 
 Was muss in SQL zwingend beachtet werden, wenn Attribute aus zwei Tabellen im Kreuzprodukt gleich heißen (z.B. customer_id)?::Den Attributen muss der jeweilige Tabellenname durch einen Punkt getrennt vorangestellt werden (z. B. `customer.customer_id`), um Mehrdeutigkeiten aufzulösen.
 

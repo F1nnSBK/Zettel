@@ -85,6 +85,7 @@ Wie wird eine n:m-Beziehung im relationalen Datenbankdesign physisch gelöst?
 Sie muss zwingend in eine neue, zusätzliche Assoziationstabelle (Beziehungstabelle) umgewandelt werden. Diese enthält die Primärschlüssel der beiden beteiligten Tabellen als zusammengesetzten Primärschlüssel.
 
 Was passiert mit Attributen, die im ERM direkt an einem n:m-Beziehungstyp hängen (z.B. "Liefermenge")?::Sie werden zu regulären Spalten in der neu generierten Assoziationstabelle.
+<!--SR:!2026-06-10,0,230-->
 
 
 ---

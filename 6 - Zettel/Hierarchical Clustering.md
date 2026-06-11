@@ -56,7 +56,7 @@ Durch einen horizontalen Schnitt durch das Dendrogramm. Die Anzahl der geschnitt
 Inwiefern unterscheidet sich Ward's Method mathematisch von K-Means?
 ?
 Beide minimieren die Varianz innerhalb der Cluster (Inertia). K-Means optimiert dies jedoch iterativ durch Re-Assignment von Punkten, während Ward's Method eine gierige (greedy), hierarchische Verschmelzung durchführt, die einmal getroffene Entscheidungen nicht mehr rückgängig machen kann.
-<!--SR:!2026-06-08,0,230-->
+<!--SR:!2026-06-11,1,210-->
 
 
 ---

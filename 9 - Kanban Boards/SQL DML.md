@@ -66,6 +66,7 @@ _Hinweis zur Integrität:_ Wenn auf den zu löschenden Datensatz noch Fremdschl�
 Frage 2: Erklären Sie den Hauptzweck der DDL (Data Definition Language) im Gegensatz zur DML (Data Manipulation Language). Wofür wird jede dieser beiden Sprachkategorien verwendet?
 ?
 Die **DDL** wird verwendet, um die _Struktur_ der Datenbank zu definieren und zu verwalten (Objekte wie Tabellen oder Schemas erstellen, ändern, löschen). Die **DML** wird hingegen genutzt, um die in den Tabellen gespeicherten _Daten_ zu manipulieren (Datensätze einfügen, ändern oder löschen).
+<!--SR:!2026-06-11,1,230-->
 
 Frage 10: Was bewirkt die `WHERE`-Klausel in einem `UPDATE`-Befehl? Was würde passieren, wenn Sie diese Klausel in einem `UPDATE`-Befehl weglassen würden?
 ?
