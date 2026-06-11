@@ -81,6 +81,7 @@ Welche Notation verwendet das Skript für ER-Diagramme?::Die klassische Chen-Not
 Was bedeutet die Kardinalität 1:n?::Einer Entität können viele Entitäten der Gegenseite zugeordnet sein.
 
 Was bedeutet die Kardinalität n:m?::Viele Entitäten beider Seiten können miteinander in Beziehung stehen.
+<!--SR:!2026-06-13,3,250-->
 
 Was bedeutet die MC-Kardinalität 1?::Genau eine Entität ist zugeordnet.
 <!--SR:!2026-06-10,0,230-->
@@ -108,6 +109,7 @@ Wie werden Primärschlüssel in der klassischen Chen-Notation dargestellt?::Durc
 Was ist ein Mehrfachattribut im ERM?
 ?
 Ein Attribut, das für ein einzelnes Entity mehrere Werte gleichzeitig aufnehmen kann, z. B. das Attribut "Vorher besuchte Schulen" bei einem Schüler. Es wird im Chen-Modell oft durch eine doppelte Ellipse dargestellt.
+<!--SR:!2026-06-10,0,230-->
 
 
 ---

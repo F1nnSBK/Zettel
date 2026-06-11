@@ -24,6 +24,7 @@ Die 6 Phasen des [[Daten]]bankentwurfs
 ### Flashcards
 
 Was ist das Kernziel des konzeptionellen Datenbankentwurfs?::Die Erstellung eines komplett DBMS-unabhängigen, abstrakten Datenmodells (z. B. ERM), das die Informationsanforderungen (Use-Cases) der Fachdomäne abbildet.
+<!--SR:!2026-06-10,0,230-->
 
 Wie unterscheidet sich der konzeptionelle vom logischen Entwurf?
 ?

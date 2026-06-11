@@ -46,6 +46,7 @@ Warum sollte man nicht einfach wahllos für jede Spalte einer Tabelle einen INDE
 Wie kann man mit einem Index auf einer Spalte ein Verhalten erzwingen, das exakt dem eines PRIMARY KEY entspricht?::Durch das Erstellen eines `UNIQUE INDEX` (`CREATE UNIQUE INDEX ...`). Da dieser Index nicht nur die Suche beschleunigt, sondern auch zwingend Eindeutigkeit fordert, verhält er sich wie ein Primärschlüssel.
 
 Welcher SQL-Befehl hilft bei der Analyse, um herauszufinden, ob eine Abfrage effizient läuft oder ob das Anlegen eines neuen Index sinnvoll wäre?::Der Befehl `EXPLAIN` (gefolgt von der eigentlichen Abfrage). Er gibt den Ausführungsplan der Datenbank aus.
+<!--SR:!2026-06-10,0,230-->
 
 Was passiert, wenn man versucht, einen `UNIQUE INDEX` auf eine Spalte wie `last_name` (Nachname) zu legen, in der es bereits "Müller" und "Schmidt" mehrfach gibt?::Der Befehl wirft einen Fehler und schlägt fehl. Ein Unique-Index kann nur erstellt werden, wenn alle bisherigen Werte in der Spalte absolut eindeutig sind.
 

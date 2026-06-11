@@ -54,6 +54,7 @@ Die negierte UND-Verknüpfung wird zu einer ODER-Verknüpfung der einzeln negier
 Wie lautet das De Morgan'sche Gesetz für die Transformation einer negierten ODER-Verknüpfung (in Logik und Mengenlehre)?
 ?
 Die negierte ODER-Verknüpfung wird zu einer UND-Verknüpfung der einzeln negierten Parameter. **Logik:** ¬(A∨B)=¬A∧¬B **Menge:** (A∪B)C=AC∩BC
+<!--SR:!2026-06-11,1,230-->
 
 Übersetze folgenden Filter nach De Morgan, um die Klammer aufzulösen: `NOT (Alter > 30 OR Stadt = 'Berlin')`.::`NOT Alter > 30 AND NOT Stadt = 'Berlin'` (Oder vereinfacht: `Alter <= 30 AND Stadt != 'Berlin'`).
 

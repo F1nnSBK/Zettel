@@ -67,6 +67,7 @@ Wie unterscheidet sich ein "disjunkter" von einem "überlappenden" Subentitytyp?
 <!--SR:!2026-06-10,0,230-->
 
 Was bedeutet "Vollständigkeit" (vollständige Subentitytypen) bei der Generalisierung?::Es bedeutet, dass jede Entität des Supertyps _zwingend mindestens einem_ Subtyp angehören muss. Es gibt also keine Entitäten, die "nur" in der Superklasse existieren, ohne spezifiziert zu sein.
+<!--SR:!2026-06-10,0,230-->
 
 Was ist ein "disjunkt-vollständiger" Subentitytyp?
 ?

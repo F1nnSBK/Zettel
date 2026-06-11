@@ -29,7 +29,7 @@ $$d_{Mahalanobis}(x, y) = \sqrt{(x-y)^T \Sigma^{-1} (x-y)}$$
 #### Flashcards
 
 Warum ist die Mahalanobis Distanz gegenüber der Euklidischen Distanz bei korrelierten Features vorzuziehen? :: Sie de-korreliert die Features durch die inverse Kovarianzmatrix $\Sigma^{-1}$ und skaliert sie anhand ihrer Varianz, sodass die Distanz unabhängig von unterschiedlichen Messeinheiten und Linearkombinationen wird.
-<!--SR:!2026-06-09,1,230-->
+<!--SR:!2026-06-11,1,210-->
 
 Wann sollte die Cosine Similarity anstelle der Manhattan- oder Euklidischen Distanz angewendet werden?
 ?

@@ -55,6 +55,7 @@ Sie liefern Wahrheitswerte (Boolesche Algebra) und werden meist **innerhalb** de
 ### Flashcards
 
 Was ist das Ziel der Relationenalgebra im Kontext von Datenbanken?::Sie ist das formale, mathematische System zur Abfrage und Manipulation von Datenmengen, das als Übersetzer zwischen unstrukturierten Fachanforderungen und dem technischen SQL-Code dient.
+<!--SR:!2026-06-10,0,230-->
 
 Was ist der Unterschied zwischen der Projektion (π) und der Selektion (σ)?
 ?

@@ -50,7 +50,7 @@ $$d_{NN} \propto N^{-1/d}$$Je größer $d$, desto mehr strebt der Exponent gegen
 Was besagt die "Manifold Hypothesis" (Mannigfaltigkeitshypothese) als Begründung für den Erfolg von Dimensionalitätsreduktionen wie VAEs oder PCA?
 ?
 Sie besagt, dass reale, hochdimensionale Daten (z. B. im $\mathbb{R}^d$) sich auf einer niederdimensionalen, oft gekrümmten Mannigfaltigkeit (Manifold) mit der intrinsischen Dimensionalität $k \ll d$ konzentrieren.
-<!--SR:!2026-06-09,1,230-->
+<!--SR:!2026-06-11,1,210-->
 
 
 ---

@@ -52,6 +52,7 @@ Im Level `SERIALIZABLE` werden **Phantome** verhindert. Phantome entstehen, wenn
 <!--SR:!2026-06-10,0,230-->
 
 Wie verhält sich eine Transaktion auf der Stufe `REPEATABLE READ`, wenn eine parallel laufende Transaktion in der Zwischenzeit einen Datensatz ändert und mit `COMMIT` bestätigt?::Die Änderung der parallelen Transaktion bleibt für die aktuelle Transaktion absolut unsichtbar. Selbst nach dem fremden `COMMIT` liefert ein erneuter Lesezugriff exakt den gleichen Wert wie zu Beginn, bis die eigene Transaktion beendet wird.
+<!--SR:!2026-06-10,0,230-->
 
 Wie sorgt das DBMS technisch dafür, dass höhere Isolationsstufen garantiert werden können?::Es wendet strengere Sperr- und Versionsmechanismen (Locking und Versioning) an, was Transaktionen zwingt, sich in Warteschlangen einzureihen.
 

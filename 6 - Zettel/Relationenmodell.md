@@ -45,6 +45,7 @@ Damit eine Tabelle mathematisch als echte Relation gilt und das Datenbankmanagem
 ### Flashcards
 
 Wie lautet die strenge mathematische Definition einer Relation?::Eine Relation ist eine Teilmenge aus dem kartesischen Produkt von definierten Wertebereichen (Domänen): R⊆D1​×⋯×Dn​.
+<!--SR:!2026-06-10,0,230-->
 
 Was beschreiben der "Grad" und die "Kardinalität" in Bezug auf eine relationale Tabelle?
 ?

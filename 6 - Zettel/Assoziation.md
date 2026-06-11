@@ -43,6 +43,7 @@ Die Assoziation beschreibt die Beziehung rein qualitativ (dass und wie zwei Type
 Warum muss eine Assoziation bei der Modellierung immer bidirektional betrachtet werden?
 ?
 Weil Beziehungen in der Realität in beide Richtungen funktionieren. Um die korrekte mengenmäßige Ausprägung zu finden, muss man die Assoziation in zwei Teilbeziehungen zerlegen (z.B. "Lieferant liefert wie viele Artikel?" und "Artikel wird geliefert von wie vielen Lieferanten?").
+<!--SR:!2026-06-10,0,230-->
 
 Wie werden Assoziationen im klassischen relationalen Datenbankmodell physisch implementiert?
 ?

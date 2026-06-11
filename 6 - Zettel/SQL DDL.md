@@ -61,10 +61,13 @@ Welche drei zentralen SQL-Befehle bilden die DDL?::`CREATE` (Anlegen), `ALTER` (
 Was ist der technische Unterschied zwischen den SQL-Datentypen `CHAR(n)` und `VARCHAR(n)`?
 ?
 `CHAR(n)` speichert eine feste Länge und füllt überschüssigen Platz mit Leerzeichen auf (Speicherverschwendung bei kurzen Wörtern). `VARCHAR(n)` speichert eine variable Länge bis zum definierten Maximum `n` und belegt nur den tatsächlich benötigten Speicherplatz.
+<!--SR:!2026-06-10,0,230-->
 
 Wie lautet der SQL DDL-Befehl, um aus der bestehenden Tabelle `employee` die Spalte `first_name` zu löschen?::`ALTER TABLE employee DROP COLUMN first_name;`.
+<!--SR:!2026-06-10,0,230-->
 
 Wann nutzt man `DROP TABLE` im Gegensatz zu `DELETE FROM`?::`DROP TABLE` (ein DDL-Befehl) zerstört das gesamte Datenbankobjekt inklusive aller Metadaten und der Struktur. `DELETE FROM` (ein DML-Befehl) leert nur die Datensätze, aber die leere Tabelle als Struktur bleibt erhalten.
+<!--SR:!2026-06-11,1,230-->
 
 
 ---

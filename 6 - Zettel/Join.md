@@ -101,6 +101,7 @@ Welches Ergebnis liefert ein INNER JOIN zwischen zwei Tabellen?::Er liefert nur 
 Was ist der Hauptunterschied zwischen einem INNER JOIN und einem LEFT OUTER JOIN?
 ?
 Ein LEFT OUTER JOIN gibt _alle_ Zeilen der linken Tabelle zurück, auch wenn es in der rechten Tabelle keinen passenden Partner gibt. Beim INNER JOIN würden diese partnerlosen Zeilen einfach wegfallen.
+<!--SR:!2026-06-10,0,230-->
 
 In welchem Szenario nutzt man einen SELF JOIN? Nenne ein Beispiel.
 ?
