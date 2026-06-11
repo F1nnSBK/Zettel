@@ -84,3 +84,27 @@ Wenn alle Tatbestandsmerkmale (TBM) durch die Subsumtion bejaht wurden, tritt di
     
 
 **Zusammenfassung des Rhythmus:** 1. **Obersatz:** "Es könnte sein, dass..." 2. **Definition:** "Das Gesetz verlangt dafür..." 3. **Subsumtion:** "Hier im Fall ist es so, dass..." 4. **Rechtsfolge:** "Folglich ergibt sich..."
+
+
+Rechtsdurchsetzung
+
+Staatliche Durchsetzung, Individuelle Durchsetzung, Kollektive Durchsetzung
+Für Buch
+BSI & ENISA
+
+Datenschutzbehörden
+16 Landesdatenschutzbeauftragte
+
+Befugnisse 
+Untersuchung, Abhilfe, Beratung
+Zivilgerichtsbarkeit/Ordentliche Gerichtsbarkeit - Ansprüche einer einzelnen Person (Natürlich/Juristisch)
+Strafgerichtsbarkeit
+Verwaltungsgerichtsbarkeit
+
+Verfahrensgang vor Gericht
+Klage (Strafgericht: Anklage)
+Zustellung an Beklagten (Angeklagter)
+Stellungnahmen der Verfahrensbeteiligten
+Erforderlichenfalls Beweiserhebung
+Urteil
+
