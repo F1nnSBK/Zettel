@@ -1,3 +1,4 @@
+#hide
 ---
 
 kanban-plugin: board
@@ -131,7 +132,7 @@ kanban-plugin: board
 
 ## Big Data
 
-- [ ] [[Big Data - klausur]]
+- [ ] [[Big Data]]
 - [ ] [[OLTP]]
 - [ ] [[OLAP]]
 - [ ] [[Batch-Verarbeitung]]
