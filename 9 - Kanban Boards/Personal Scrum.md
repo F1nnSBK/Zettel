@@ -60,7 +60,7 @@ kanban-plugin: board
 - [ ] [[Replikation]]
 - [ ] [[CAP-Theorem]]
 - [ ] [[Konsistenz]]
-- [ ] [[BASE-Modell]]
+- [ ] [[BASE]]
 - [ ] [[Eventual Consistency]]
 - [ ] [[2PC]]
 - [ ] [[Big Data]]
@@ -131,7 +131,7 @@ kanban-plugin: board
 
 ## Big Data
 
-- [ ] [[Big Data]]
+- [ ] [[Big Data - klausur]]
 - [ ] [[OLTP]]
 - [ ] [[OLAP]]
 - [ ] [[Batch-Verarbeitung]]

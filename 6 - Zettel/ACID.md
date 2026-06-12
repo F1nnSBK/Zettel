@@ -2,7 +2,7 @@
 
 2026-06-09
 
-Tags: [[Datenbanksystem]], [[Relationale Datenbank]], [[Datenintegrität]], [[Big Data]]
+Tags: [[Datenbanksystem]], [[Relationale Datenbank]], [[Datenintegrität]], [[Big Data - klausur]]
 #datenbanken 
 
 ---
