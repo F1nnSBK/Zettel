@@ -3,8 +3,10 @@
     "flashcardTags": [
       "#UL",
       "#SL",
-      "#datenbanken",
-      "#deskriptive_statistik"
+      "#cloud_computing_qa",
+      "#cloud_computing",
+      "#deskriptive_statistik",
+      "#big_data"
     ],
     "flashcardTagsToIgnore": [],
     "convertFoldersToDecks": false,
@@ -76,7 +78,7 @@
     "showParserDebugMessages": false,
     "preferredDateFormatForNoteReviewQueue": "MMM DD YYYY"
   },
-  "buryDate": "2026-06-16",
+  "buryDate": "2026-06-17",
   "buryList": [],
   "historyDeck": null
 }

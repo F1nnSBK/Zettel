@@ -114,7 +114,7 @@ Ergänzen Sie das vorgegebene Java-Programm (das bereits die Verbindung über da
 - b) Sicheres Einfügen eines neuen Künstlers mit PreparedStatement (Schutz vor SQL-Injection).
     
 
-```
+```java
 // === START Code für Aufgaben a) und b) ===
 
 // a) Alle Kuenstler ausgeben
@@ -169,7 +169,7 @@ $$;
 
 Erstellen Sie eine Funktion, die die Anzahl der Tracks zurückgibt, die von dem Künstler erstellt wurden, dessen Name als Parameter übergeben wird.
 
-```
+```sql
 CREATE OR REPLACE FUNCTION count_tracks_by_artistname(suchname TEXT)
 RETURNS int
 LANGUAGE SQL
