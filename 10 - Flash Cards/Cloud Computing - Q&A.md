@@ -121,7 +121,8 @@ Ordne die 5 Cloud-Bereitstellungsmodelle (Private Cloud, Hybrid Cloud, Virtual P
 
 ---
 
-Die 7 Abstraktionsebenen der Cloud-Schichtenarchitektur (von unten nach oben) lauten:
+Die 7 Abstraktionsebenen der Cloud-Schichtenarchitektur (von unten nach oben) lauten
+?
 Hardware, Hypervisor, Betriebssystem, Container, Laufzeit, Funktion, Anwendung.
 
 ---
@@ -131,19 +132,24 @@ Was sind Vorteile des geschichteten Aufbaus der Cloud-Schichtenarchitektur, ange
 Jede Schicht verbirgt die Komplexität der darunterliegenden Ebene und bietet eine klar definierte Schnittstelle. Dies ermöglicht es überhaupt erst, einzelne Ebenen modular auszulagern und die Verantwortung gezielt an spezialisierte Cloud-Provider abzugeben.
 
 ---
-Welches Cloud-Servicemodell entspricht der Analogie "Leasing eines Autos"?
+Welches Cloud-Servicemodell entspricht der Analogie "Leasing eines Autos"
+?
 Infrastructure as Service (IaaS)
 
-Welches Cloud-Servicemodell entspricht der Analogie "Mieten eines Autos"?
+Welches Cloud-Servicemodell entspricht der Analogie "Mieten eines Autos"
+?
 Container as a Service (CaaS)
 
-Welches Cloud-Servicemodell entspricht der Analogie "Taxifahrt"?
+Welches Cloud-Servicemodell entspricht der Analogie "Taxifahrt"
+?
 Platform as a Service (PaaS)
 
-Welches Cloud-Servicemodell entspricht der Analogie "Einzelfahrt im Bus"?
+Welches Cloud-Servicemodell entspricht der Analogie "Einzelfahrt im Bus"
+?
 Function as a Service (FaaS)
 
-Welches Cloud-Servicemodell entspricht der Analogie "Dauerkarte für den Bus"?
+Welches Cloud-Servicemodell entspricht der Analogie "Dauerkarte für den Bus"
+?
 Software as a Service (SaaS)
 
 ---
@@ -171,11 +177,9 @@ Was sind zwei Vorteile und zwei Herausforderungen einer Hybrid Cloud?
 ?
 Vorteile:
 1. Kombination aus lokaler Datensouveränität für sensible Daten (Private Cloud)
-2. Kurzfristige Skalierbarkeit für Lastspitzen (Bursting in die Public Cloud)
-
-Herausforderungen:
-1. Sehr hohe Konfigurationskomplexität (Netzwerk/Sicherheit)
-2. Doppelte Kostenstrukturen für lokalen und Public-Cloud-Betrieb
+2. Kurzfristige Skalierbarkeit für Lastspitzen (Bursting in die Public Cloud) Herausforderungen:
+3. Sehr hohe Konfigurationskomplexität (Netzwerk/Sicherheit)
+4. Doppelte Kostenstrukturen für lokalen und Public-Cloud-Betrieb
 
 ---
 Welches primäre Ziel verfolgt die Multi Cloud und welches neue Risiko entsteht dabei?
@@ -194,7 +198,8 @@ Airgap-Umgebungen::Infrastrukturkonfigurationen (oft in einer Private Cloud), di
 
 ### 3. Docker Grundlagen & Copy-On-Write
 
-Auf welchen beiden Linux-Kernelfunktionen basiert die Prozessvirtualisierung mit Docker?
+Auf welchen beiden Linux-Kernelfunktionen basiert die Prozessvirtualisierung mit Docker
+?
 cgroups (Ressourcen-Limits) und namespaces (Sichtbarkeits-Limits)
 
 ---
@@ -364,15 +369,6 @@ Cloud Provider können massive Investitionen auf sehr viele Kunden umlegen, wodu
 Warum sind die reinen monatlichen Server-Mietkosten in der Cloud oft höher als beim On-Premise Hosting, und warum rechnet es sich wirtschaftlich meist dennoch?
 ?
 Die sichtbaren monatlichen Cloud-Kosten (Nutzungsentgelte) sind oft höher. Der Kostenvorteil der Cloud entsteht jedoch durch den Wegfall verdeckter Kosten (Umlagekosten) für den On-Premise-Betrieb, wie Personalaufwand für die Wartung, Klimatisierung, Strom und Hardware-Upgrades.
-
----
-
-Wie berechnen sich die monatlichen Kosten für einen On-Premise Server (am Beispiel Dell PowerEdge R740 aus den Slides) und wie stehen sie im Vergleich zu Azure?
-?
-- **Hardware (Abschreibung)**: Anschaffung 2.214,16€ / 3 Jahre Abschreibung (36 Monate) = **61,50€/Monat**
-- **Stromkosten**: 750 Watt Vollauslastung. Bei 30% typischer Auslastung = 162 kWh. Multipliziert mit dem PUE-Faktor 1,58 (Kühlung/Verlustleistung) = 255,96 kWh. Bei 0,30€/kWh = **76,79€/Monat**
-- **Personalkosten**: 3h Wartung/Monat bei 28€/h (basierend auf 44.000€ Jahresgehalt / 1567h) = **84,00€/Monat**
-- **Gesamtkosten**: 61,50€ + 76,79€ + 84,00€ = **222,29€/Monat** (ca. 40% günstiger als Azure D4 v4 mit 4 vCPU, 16GB RAM für **313,82€/Monat**).
 
 ---
 
