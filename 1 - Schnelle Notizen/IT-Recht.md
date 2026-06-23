@@ -8,7 +8,7 @@ Datenminimierung Art. 5 c)
 
 ### IT-Sicherheit
 Was muss ich als Unternehmen tun, um meine Produkte/Anwendungen abzusichern?
-
+a
 Compliance
 -> Befolgung
 Ziele

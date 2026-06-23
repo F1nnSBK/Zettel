@@ -62,6 +62,8 @@ Welche drei Faktoren machen Ermittlungen im Dark Net so schwierig?
 2. **Kryptowährungen (Privacy Coins)**: Finanzströme (z. B. Monero) sind nicht rückverfolgbar.
 3. **Internationale Zuständigkeiten**: Server stehen oft in unkooperativen Ländern (Bulletproof Hosting).
 
+Was sind die drei Web-Schichten und welchen Anteil am Internet hat jede?::Clear Web (Surface Web) ~4-10% (indexiert, öffentlich); Deep Web ~90-95% (nicht indexiert, logingeschützt); Dark Net <1% (verschlüsselt, nur mit Spezialsoftware wie TOR erreichbar).
+
 ---
 ### Verwendung
 ```dataview

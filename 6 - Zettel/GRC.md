@@ -56,6 +56,12 @@ Wie greifen die drei GRC-Komponenten in der Praxis ineinander?
 * **Risk Management** bewertet Bedrohungen gegen diese Ziele und bestimmt Maßnahmen.
 * **Compliance** kontrolliert und dokumentiert, ob diese Maßnahmen und gesetzliche Regeln eingehalten werden.
 
+Erkläre den Unterschied zwischen Governance, Risk Management und Compliance anhand je einer Definition.
+?
+- **Governance**: Rahmen aus Regeln und Prozessen, der die Ausrichtung der IT-Sicherheitsstrategie an Unternehmenszielen sicherstellt.
+- **Risk Management**: Systematische Identifikation, Analyse und Bewältigung von Risiken, die Unternehmensziele gefährden könnten.
+- **Compliance**: Einhaltung und Nachweisbarkeit externer Gesetze, Standards (z. B. ISO 27001, DSGVO) und interner Richtlinien.
+
 ---
 ### Verwendung
 ```dataview

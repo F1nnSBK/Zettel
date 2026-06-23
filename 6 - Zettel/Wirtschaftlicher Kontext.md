@@ -39,6 +39,11 @@ Durch die Aufteilung in:
 - **Direkte Kosten**: Incident Response, Wiederherstellung, Ausfallzeiten, rechtliche Strafen.
 - **Indirekte Kosten**: Reputationsverlust, Kundenabwanderung, Kursstürze, Opportunitätskosten.
 
+Nenne je zwei Beispiele für direkte und indirekte Kosten eines Cyberangriffs.
+?
+- **Direkte Kosten**: Betriebsausfall (Downtime) durch Produktionsstillstand; Forensik-Kosten für externe Sicherheitsdienstleister.
+- **Indirekte Kosten**: Reputationsverlust durch öffentlich bekannte Datenpannen; Sinken des Aktienwerts bei börsennotierten Unternehmen.
+
 ---
 ### Verwendung
 ```dataview

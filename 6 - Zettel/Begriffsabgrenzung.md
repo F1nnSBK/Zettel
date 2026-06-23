@@ -55,6 +55,8 @@ Warum ist die Abgrenzung zur Cybersicherheit wichtig für KRITIS-Betreiber?
 ?
 Weil Cybersicherheit den Schutz kritischer, vernetzter Infrastrukturen gegen hochgradig organisierte Bedrohungen (wie Advanced Persistent Threats) fokussiert und gesetzlich strengeren Auflagen (z. B. IT-Sicherheitsgesetz) unterliegt als die klassische IT-Sicherheit.
 
+Welcher Standard adressiert primär Informationssicherheit und auf welchen Bereich zielt das IT-Sicherheitsgesetz ab?::ISO/IEC 27001 fokussiert die ganzheitliche Informationssicherheit (ISMS); das IT-Sicherheitsgesetz reguliert explizit die Cybersicherheit von KRITIS-Betreibern (z. B. Energie, Wasser, Gesundheitswesen).
+
 ---
 ### Verwendung
 ```dataview

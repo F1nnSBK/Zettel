@@ -65,6 +65,12 @@ Wie stehen Vertraulichkeit und Verfügbarkeit typischerweise im Konflikt?
 ?
 Durch strenge Zugriffsbarrieren (Verschlüsselung, MFA, Firewalls) wird der Zugriff erschwert (Vertraulichkeit erhöht), was bei Systemausfällen oder Schlüsselverlusten den berechtigten Zugriff verhindern kann (Verfügbarkeit sinkt).
 
+Nenne je eine typische technische Maßnahme für Vertraulichkeit, Integrität und Verfügbarkeit.
+?
+- **Vertraulichkeit**: Verschlüsselung (z. B. AES, TLS) und Zugriffskontrollen (MFA, ACLs).
+- **Integrität**: Kryptographische Hash-Funktionen und digitale Signaturen.
+- **Verfügbarkeit**: Redundanz (RAID, Cluster), regelmäßige Backups und DDoS-Schutz.
+
 ---
 ### Verwendung
 ```dataview

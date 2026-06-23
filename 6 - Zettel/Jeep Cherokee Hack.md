@@ -38,6 +38,8 @@ Welche drei Hauptmaßnahmen hätten den Jeep Cherokee Hack verhindern können?
 2. **Code-Signierung**: Schutz von Firmware-Updates vor Manipulation.
 3. **Anomalieerkennung (IDS)**: Überwachung des CAN-Bus-Verkehrs.
 
+Warum war der CAN-Bus im Jeep Cherokee Hack so einfach angreifbar?::Weil der CAN-Bus unverschlüsselt war und keine Authentifizierung für Steuerbefehle erforderte. Über eine Brücke vom Infotainment-System konnten gefälschte Befehle an sicherheitskritische Steuergeräte (ECUs) gesendet werden.
+
 ---
 ### Verwendung
 ```dataview
