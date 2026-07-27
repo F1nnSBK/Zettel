@@ -12,9 +12,9 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Direct PhD]], [[Master]], [[St
 ## Top Strengths in Finn's Profile
 
 1. **Extreme Technical Depth in Systems & Hardware Acceleration:**
-   - **Pithos Engine & Model-Isomorphic Storage:** GraalVM-native, CUDA-accelerated vector database indexing 125M+ vectors via zero-copy demand paging (`mmap`). Completely bypasses host RAM overhead, allowing dense Stage-2 classification networks to run on 128 GB unified memory architectures.
-   - **HOLE & MatryoshkaDIVELoss:** DINOv3 ViT-S/16 backbone specialized via LoRA, optimized under head-wise NT-Xent contrastive loss (64d, 128d, 256d) and primary 384d Hinge Triplet Loss.
-   - **Hardware Deployment Benchmarking:** Evaluated on flight-representative NVIDIA DGX Spark desktop AI platform (NVIDIA GB10 Grace Blackwell Superchip, 20-core Arm CPU, 128 GB LPDDR5x).
+   - **Pithos Engine & Model-Isomorphic Storage:** GraalVM-native, CUDA-accelerated vector database indexing 326.43 million terrain vectors ($326,429,351$ patches) across 57,265 LROC NAC products for 99.1% global sub-meter lunar coverage via zero-copy demand paging (`mmap`). Completely bypasses host RAM overhead (<8.5 GB host RAM), compressing a raw 1,824 GB (1.82 TB) Float32 memory footprint down to a 21.4 GB offline SSD directory (85.2x compression factor / 98.82% reduction).
+   - **HOLE & MatryoshkaDIVELoss:** DINOv3 ViT-S/16 backbone specialized via LoRA, optimized under head-wise NT-Xent contrastive loss (64d, 128d, 256d) and primary 384d Hinge Triplet Loss, achieving 94.8% multi-query recall.
+   - **Hardware Deployment Benchmarking:** Evaluated on flight-representative NVIDIA DGX Spark desktop AI platform (NVIDIA GB10 Grace Blackwell Superchip, 20-core Arm CPU, 128 GB LPDDR5x) achieving 181.71 scenes/hour (6.3x faster than ESSA baseline) and 1.42 ms mean retrieval latency.
 
 2. **Mathematical & Numerical Precision:**
    - **Kairos Project (Julia):** Replaced ill-conditioned Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky triangular factors (`cholupdate`) in LinUCB contextual bandits. Proved SPD covariance matrix preservation and zero error variance across 1,000 Monte Carlo simulation runs.
