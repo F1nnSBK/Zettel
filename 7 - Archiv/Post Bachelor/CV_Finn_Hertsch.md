@@ -11,7 +11,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 **Wangen im Allgäu, Germany** | f.hertsch@gmx.de | +49 179 9374616 | [finn-hertsch.de](https://finn-hertsch.de) | [ORCID 0009-0004-1692-8134](https://orcid.org/0009-0004-1692-8134)
 
-**Research Interests:** Representation learning & retrieval, numerically robust online learning, computer vision for planetary science, high-performance vector engines.
+**Research Interests:** Representation learning & retrieval, numerically robust online learning, computer vision for planetary science, high-performance model-isomorphic database engines.
 
 ---
 
@@ -19,7 +19,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 ### B.Sc. Data Science and Artificial Intelligence (210 ECTS)
 **DHBW Ravensburg**, Germany | *10/2024 – 2026 (expected)*
-* **GPA:** 2.3 | Cooperative (dual) program combining rigorous academic coursework with applied industry practice.
+* **GPA:** 2.3 | Cooperative (dual) program combining academic coursework with applied industry practice.
 * **Focus Areas:** Advanced programming & systems engineering, machine learning, MLOps, distributed database architectures.
 * **Capstone Project:** Hybrid article recommendation system for a regional media group, deployed on Google Cloud Platform (**Score: 97/100**).
 
@@ -33,12 +33,12 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 ## Research Experience
 
-### Luna — Planetary-Scale Lunar Pit Detection
+### The Lunar Surface as Continuous Latent Manifold (Lunar Embedding Dataset V1)
 *Independent research collaboration with Prof. Dr.-Ing. Mark Schutera, DHBW Ravensburg* | *2026 – ongoing*
-* **Model Architecture:** Designed and trained **HOLE**, a DINOv3 ViT-S/16 backbone with a LoRA adapter and a custom Matryoshka DIVE loss for lunar surface representation learning.
-* **Coverage Optimization Solver:** Built a coverage-optimization solver selecting a minimal set of LROC NAC images for ≥99% global lunar surface coverage across 7 latitude bands, processing over 20,000 images end-to-end.
-* **Vector Database Engine (Pithos):** Designed and implemented **Pithos**, a GraalVM-native, CUDA-accelerated vector database serving as the retrieval backend, indexing over 125 million vectors at ~5.1 MB/product.
-* **Planetary Pipeline:** Set up planetary image-processing infrastructure (ISIS3) and a full annotation/dataset pipeline for lunar surface segmentation, maintained as a public Hugging Face dataset.
+* **Foundational Representation Learning:** Designed and trained **HOLE**, a self-supervised Vision Transformer (DINOv3 ViT-S/16) backbone specialized via Low-Rank Adaptation (LoRA) layers for extreme albedo variations and lunar geomorphology.
+* **Nested Multi-Branch Optimization (MatryoshkaDIVELoss):** Formulated a joint loss combining a 384-dimensional primary Hinge Triplet Loss with sub-dimensional heads (64d, 128d, 256d) trained under head-wise NT-Xent contrastive loss, ensuring graceful topological degradation upon prefix truncation.
+* **Hardware-Efficient Deployment & Model-Isomorphic Storage (Pithos):** Implemented **Pithos**, an off-heap database layer aligning physical disk storage with nested embedding tier boundaries via zero-copy demand paging (`mmap`), preserving host RAM for dense Stage-2 classification.
+* **Hardware Benchmark & Validation:** Evaluated global ingest and retrieval on an NVIDIA DGX Spark desktop AI platform (NVIDIA GB10 Grace Blackwell Superchip, 20-core Arm CPU, 128 GB LPDDR5x). Successfully reproduced confirmed structural collapses across Aristillus and Marius Hills configurations directly from offline compressed index files.
 
 ### Kairos — Numerically Robust News Recommendation under Item Cold-Start
 **DHBW Ravensburg**, Germany | *2026*
@@ -48,9 +48,10 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 ---
 
-## Publications
+## Publications & Manuscripts
 
-* **F. Hertsch**, *“Kairos: Numerisch robuste News Recommendation unter Item-Cold-Start mit Cholesky-basiertem LinUCB.”* Submitted to SKILL 2026 (under review).
+* **F. Hertsch**, M. Schutera, *"The Lunar Surface as Continuous Latent Manifold."* Manuscript in preparation (2026).
+* **F. Hertsch**, *"Kairos: Numerisch robuste News Recommendation unter Item-Cold-Start mit Cholesky-basiertem LinUCB."* Submitted to SKILL 2026 (under review).
 
 ---
 
@@ -74,9 +75,9 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 ## Technical Skills
 
-* **Programming:** Python, Java, SQL, C++/CUDA concepts.
-* **ML & Data Science:** PyTorch (DINOv3, LoRA), MLOps (DASC-PM), Matryoshka Representation Learning, Contextual Bandits, Vector Search / ANN.
-* **Cloud & Infrastructure:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, FastAPI, PowerBI, ISIS3.
+* **Programming:** Python, Java, SQL, C++/CUDA.
+* **ML & Data Science:** PyTorch (DINOv3, LoRA), MLOps (DASC-PM), Matryoshka Representation Learning (DIVE), Contextual Bandits, Vector Search / ANN.
+* **Cloud & Systems:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, NVIDIA GB10 Grace Blackwell, FastAPI, PowerBI, ISIS3.
 
 ---
 
