@@ -94,16 +94,24 @@ SORT file.name ASC
 
 ---
 
+## Bewerbungs-Unterlagen & Profil-Dokumente
+
+* 📄 **Transcript of Records (ToR):** [[Transcript_of_Records|210 ECTS Modul-Aufschlüsselung (Englisch/Deutsch)]]
+* 📄 **Curriculum Vitae (CV):** [[CV_Finn_Hertsch|Finn Hertsch CV (Markdown-Version)]]
+* 📄 **CV-Optimierungs-Strategie:** [[CV_Optimization_Notes|Strategische CV-Anpassungen für Direct PhD & Master]]
+
+---
+
 ## Nächste Schritte & Bewerbungs-Roadmap
 
 1. **Portfolio & Pre-Prints bündeln:**
-   - GitHub Repositories für Vektor-Processing / System-Engines säubern.
-   - Pre-Prints / Forschungsarbeiten im Zettelkasten verlinken.
+   - GitHub Repositories für Vektor-Processing / System-Engines säubern (Pithos, HOLE).
+   - Pre-Prints / Forschungsarbeiten (Luna, Kairos/SKILL 2026) im Zettelkasten verlinken.
 
 2. **Dokumenten-Vorbereitung:**
-   - [ ] DHBW Transkript (Englisch, 210 ECTS Aufschlüsselung)
-   - [ ] Modulbeschreibungen (Mathe, Datenstrukturen, Datenbanken, Systemarchitektur)
-   - [ ] SOP-Template (Statement of Purpose) mit No-Fluff Fokus
+   - [x] DHBW Transkript aufbereitet: [[Transcript_of_Records]] (210 ECTS voll abgedeckt)
+   - [x] CV aufbereitet: [[CV_Finn_Hertsch]] & [[CV_Optimization_Notes]]
+   - [ ] SOP-Template (Statement of Purpose) mit No-Fluff Fokus entwerfen
 
 3. **Professoren- & PI-Outreach:**
    - Für Direct PhDs (USA/Kanada/Schweiz): Direktkontakt zu Lab-Head / Professor vor der offiziellen Bewerbung herstellen.
