@@ -45,7 +45,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 * **Numerical Stability & Cholesky Updates:** Developed **Kairos** in **Julia**, substituting error-prone Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky factors (`cholupdate`) in contextual Linear Upper Confidence Bound (LinUCB) bandits, preserving SPD matrix structure and preventing catastrophic condition number ($\kappa$) divergence under sparse data (TTL < 48h).
 * **Monte Carlo Stability Verification:** Validated numerical resilience across 1,000 Monte Carlo simulation runs, proving zero error variance in Cholesky updates compared to explosive divergence in traditional inversion.
 * **Adaptive MRL Retrieval Subspace:** Integrated Matryoshka Representation Learning (MRL) for Maximum Inner Product Search (MIPS) candidate retrieval, reducing embedding dimensionality from 768d to 128d to achieve a **4.78× inference speedup** (0.065 ms / 100 items vs 0.312 ms) with an MAE of 0.032 (retaining >96.8% semantic structure).
-* **Live Streaming Validation:** Deployed and benchmarked using live data from the Tagesschau API.
+* **Live Streaming Validation & Acceptance:** Deployed and benchmarked using live data from the Tagesschau API (**Accepted at SKILL 2026**).
 
 ### Production-Grade Hybrid Recommendation Microservice (Project Work I)
 **DHBW Ravensburg / GCP Infrastructure** | *2025*
@@ -58,7 +58,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 ## Publications & Manuscripts
 
 * **F. Hertsch**, M. Schutera, *"The Lunar Surface as Continuous Latent Manifold."* Manuscript in preparation (2026).
-* **F. Hertsch**, *"Kairos: Numerisch robuste News Recommendation unter Item-Cold-Start mit Cholesky-basiertem LinUCB."* Submitted to SKILL 2026 (under review).
+* **F. Hertsch**, *"Kairos: Numerisch robuste News Recommendation unter Item-Cold-Start mit Cholesky-basiertem LinUCB."* **Accepted at SKILL 2026**.
 
 ---
 
