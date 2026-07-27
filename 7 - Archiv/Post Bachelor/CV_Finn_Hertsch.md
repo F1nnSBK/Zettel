@@ -21,7 +21,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 **DHBW Ravensburg**, Germany | *10/2024 – 2026 (expected)*
 * **GPA:** 2.3 | Cooperative (dual) program combining academic coursework with applied industry practice.
 * **Focus Areas:** Advanced programming & systems engineering, machine learning, MLOps, distributed database architectures.
-* **Capstone Project:** Hybrid article recommendation system for a regional media group, deployed on Google Cloud Platform (**Score: 97/100**).
+* **Capstone Project:** Hybrid article recommendation system on Google Cloud Platform (**Score: 97/100**).
 
 ### Abitur (General University Entrance Qualification)
 **Edith-Stein-Schule Ravensburg**, Germany | *2021 – 2024*
@@ -31,7 +31,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 ---
 
-## Research Experience
+## Research Experience & Engineering Projects
 
 ### The Lunar Surface as Continuous Latent Manifold (Lunar Embedding Dataset V1)
 *Independent research collaboration with Prof. Dr.-Ing. Mark Schutera, DHBW Ravensburg* | *2026 – ongoing*
@@ -39,6 +39,12 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 * **Nested Multi-Branch Optimization (MatryoshkaDIVELoss):** Formulated a joint loss combining a 384-dimensional primary Hinge Triplet Loss with sub-dimensional heads (64d, 128d, 256d) trained under head-wise NT-Xent contrastive loss, ensuring graceful topological degradation upon prefix truncation.
 * **Hardware-Efficient Deployment & Model-Isomorphic Storage (Pithos):** Implemented **Pithos**, an off-heap database layer aligning physical disk storage with nested embedding tier boundaries via zero-copy demand paging (`mmap`), preserving host RAM for dense Stage-2 classification.
 * **Hardware Benchmark & Validation:** Evaluated global ingest and retrieval on an NVIDIA DGX Spark desktop AI platform (NVIDIA GB10 Grace Blackwell Superchip, 20-core Arm CPU, 128 GB LPDDR5x). Successfully reproduced confirmed structural collapses across Aristillus and Marius Hills configurations directly from offline compressed index files.
+
+### Production-Grade Hybrid Recommendation Microservice (Project Work I)
+**DHBW Ravensburg / GCP Infrastructure** | *2025*
+* **Cloud-Native Microservice Architecture:** Engineered an asynchronous FastAPI (ASGI) microservice on Google Cloud Platform orchestrating parallel prediction pipelines across Vertex AI Vector Search (3072d embeddings, MIPS) and Neural Collaborative Filtering (NCF / MLP).
+* **Bayesian Hyperparameter Optimization:** Implemented a Tree-structured Parzen Estimator (Optuna TPE) search across 515,000 candidate evaluations (515 trials over 1,000 users), identifying an optimal 0.7226 / 0.2774 CBF-CF score-fusion equilibrium.
+* **Rigorously Unbiased Evaluation:** Evaluated performance under a Leave-Last-Out Full-Catalog Ranking protocol over 2.3M users and 104k items (<0.005% matrix density), proving a **5.4× nDCG@10 improvement** over baseline models at a 95th-percentile latency of 1562 ms (SLO < 2000 ms).
 
 ### Kairos — Numerically Robust News Recommendation under Item Cold-Start
 **DHBW Ravensburg**, Germany | *2026*
@@ -61,23 +67,22 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 **Hertsch Technologies UG (haftungsbeschränkt)**, Germany | *since 02/2026*
 * Founded and lead a software company focused on automated data-processing pipelines and professional maintenance infrastructure.
 
-### Dual-Study Practical Partner
+### Dual-Study Industry Partner
 **Waldner Holding**, Wangen, Germany | *2026 – 09/2027*
 * Applied data science and software engineering work as part of the DHBW cooperative study program.
 
-### Dual-Study Practical Partner
-**Schwäbischer Verlag GmbH & Co. KG**, Ravensburg, Germany | *10/2024 – 06/2026*
-* Developed a hybrid recommendation system (NCF & CBF) on Google Cloud Platform, deployed on Vertex AI.
-* Built data pipelines processing user interaction data with BigQuery.
-* Prototyped a multi-armed contextual bandit over high-dimensional article embeddings.
+### Dual-Study Industry Partner
+**Media Publishing Partner**, Ravensburg, Germany | *10/2024 – 06/2026*
+* Developed and deployed a hybrid recommendation microservice (NCF & CBF) on Google Cloud Platform (Vertex AI, BigQuery).
+* Designed data ingestion pipelines processing high-volume user interaction logs with BigQuery.
 
 ---
 
 ## Technical Skills
 
 * **Programming:** Python, Java, SQL, C++/CUDA.
-* **ML & Data Science:** PyTorch (DINOv3, LoRA), MLOps (DASC-PM), Matryoshka Representation Learning (DIVE), Contextual Bandits, Vector Search / ANN.
-* **Cloud & Systems:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, NVIDIA GB10 Grace Blackwell, FastAPI, PowerBI, ISIS3.
+* **ML & Data Science:** PyTorch (DINOv3, LoRA), Neural Collaborative Filtering (NCF), MLOps (DASC-PM, Optuna TPE), Matryoshka Representation Learning (DIVE), Contextual Bandits, Vector Search / MIPS (Vertex AI Vector Search).
+* **Cloud & Systems:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, NVIDIA GB10 Grace Blackwell, FastAPI (ASGI), PowerBI, ISIS3.
 
 ---
 
