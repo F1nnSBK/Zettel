@@ -2,8 +2,8 @@
 
 2026-07-27
 
-Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Experience]]
-#post-bachelor #cv #research #publications
+Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Experience]], [[Julia]], [[Bandits]]
+#post-bachelor #cv #research #publications #julia
 
 ---
 
@@ -40,17 +40,18 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 * **Hardware-Efficient Deployment & Model-Isomorphic Storage (Pithos):** Implemented **Pithos**, an off-heap database layer aligning physical disk storage with nested embedding tier boundaries via zero-copy demand paging (`mmap`), preserving host RAM for dense Stage-2 classification.
 * **Hardware Benchmark & Validation:** Evaluated global ingest and retrieval on an NVIDIA DGX Spark desktop AI platform (NVIDIA GB10 Grace Blackwell Superchip, 20-core Arm CPU, 128 GB LPDDR5x). Successfully reproduced confirmed structural collapses across Aristillus and Marius Hills configurations directly from offline compressed index files.
 
+### Kairos — Numerically Robust News Recommendation under Item Cold-Start (Julia)
+**DHBW Ravensburg**, Germany | *2026*
+* **Numerical Stability & Cholesky Updates:** Developed **Kairos** in **Julia**, substituting error-prone Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky factors (`cholupdate`) in contextual Linear Upper Confidence Bound (LinUCB) bandits, preserving SPD matrix structure and preventing catastrophic condition number ($\kappa$) divergence under sparse data (TTL < 48h).
+* **Monte Carlo Stability Verification:** Validated numerical resilience across 1,000 Monte Carlo simulation runs, proving zero error variance in Cholesky updates compared to explosive divergence in traditional inversion.
+* **Adaptive MRL Retrieval Subspace:** Integrated Matryoshka Representation Learning (MRL) for Maximum Inner Product Search (MIPS) candidate retrieval, reducing embedding dimensionality from 768d to 128d to achieve a **4.78× inference speedup** (0.065 ms / 100 items vs 0.312 ms) with an MAE of 0.032 (retaining >96.8% semantic structure).
+* **Live Streaming Validation:** Deployed and benchmarked using live data from the Tagesschau API.
+
 ### Production-Grade Hybrid Recommendation Microservice (Project Work I)
 **DHBW Ravensburg / GCP Infrastructure** | *2025*
 * **Cloud-Native Microservice Architecture:** Engineered an asynchronous FastAPI (ASGI) microservice on Google Cloud Platform orchestrating parallel prediction pipelines across Vertex AI Vector Search (3072d embeddings, MIPS) and Neural Collaborative Filtering (NCF / MLP).
 * **Bayesian Hyperparameter Optimization:** Implemented a Tree-structured Parzen Estimator (Optuna TPE) search across 515,000 candidate evaluations (515 trials over 1,000 users), identifying an optimal 0.7226 / 0.2774 CBF-CF score-fusion equilibrium.
 * **Rigorously Unbiased Evaluation:** Evaluated performance under a Leave-Last-Out Full-Catalog Ranking protocol over 2.3M users and 104k items (<0.005% matrix density), proving a **5.4× nDCG@10 improvement** over baseline models at a 95th-percentile latency of 1562 ms (SLO < 2000 ms).
-
-### Kairos — Numerically Robust News Recommendation under Item Cold-Start
-**DHBW Ravensburg**, Germany | *2026*
-* **Numerical Stability:** Proposed a Cholesky-factor-based LinUCB update as a numerically stable alternative to Sherman–Morrison inversion for contextual bandits under sparse, high-churn data.
-* **Adaptive Latency Retrieval:** Integrated Matryoshka Representation Learning for adaptive-latency candidate retrieval, achieving a **4.78× inference speedup** at <3.2% approximation error.
-* **Live Deployment:** Validated the framework on live data from the Tagesschau API.
 
 ---
 
@@ -80,9 +81,9 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 
 ## Technical Skills
 
-* **Programming:** Python, Java, SQL, C++/CUDA.
-* **ML & Data Science:** PyTorch (DINOv3, LoRA), Neural Collaborative Filtering (NCF), MLOps (DASC-PM, Optuna TPE), Matryoshka Representation Learning (DIVE), Contextual Bandits, Vector Search / MIPS (Vertex AI Vector Search).
-* **Cloud & Systems:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, NVIDIA GB10 Grace Blackwell, FastAPI (ASGI), PowerBI, ISIS3.
+* **Programming:** Julia, Python, Java, SQL, C++/CUDA.
+* **ML & Data Science:** PyTorch (DINOv3, LoRA), Contextual Bandits (LinUCB), Matryoshka Representation Learning (MRL/DIVE), Neural Collaborative Filtering (NCF), MLOps (DASC-PM, Optuna TPE), Vector Search / MIPS (Vertex AI Vector Search).
+* **Cloud & Systems:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, NVIDIA GB10 Grace Blackwell, Julia High-Performance Scientific Computing (`BenchmarkTools.jl`), FastAPI (ASGI), PowerBI, ISIS3.
 
 ---
 

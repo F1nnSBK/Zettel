@@ -17,7 +17,8 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Direct PhD]], [[Master]], [[St
    - **Hardware Deployment Benchmarking:** Evaluated on flight-representative NVIDIA DGX Spark desktop AI platform (NVIDIA GB10 Grace Blackwell Superchip, 20-core Arm CPU, 128 GB LPDDR5x).
 
 2. **Mathematical & Numerical Precision:**
-   - **Kairos Project:** Replacing Sherman-Morrison matrix inversion with Cholesky updates for numerical stability in contextual bandits demonstrates high mathematical maturity.
+   - **Kairos Project (Julia):** Replaced ill-conditioned Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky triangular factors (`cholupdate`) in LinUCB contextual bandits. Proved SPD covariance matrix preservation and zero error variance across 1,000 Monte Carlo simulation runs.
+   - **Adaptive Latency Candidate Retrieval:** Matryoshka Representation Learning (MRL) 768d to 128d MIPS candidate retrieval in Julia (`BenchmarkTools.jl`), achieving a 4.78x inference speedup (0.065 ms / 100 items, 79.1% latency reduction) with an MAE of 0.032 (>96.8% semantic structure preservation).
 
 3. **210 ECTS + 3-Year Industry Experience:**
    - Combining 210 ECTS with real-world GCP Vertex AI, BigQuery production deployments and founding a UG (Hertsch Technologies UG) proves independence and execution power.
@@ -27,7 +28,7 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Direct PhD]], [[Master]], [[St
 ## Targeted CV Adjustments by Destination Type
 
 ### 1. For Direct PhDs (USA / Canada – UW Seattle, CMU, Waterloo, UBC, SFU)
-* **Highlight Pithos & HOLE First:** Direct PhD committees care about Research Potential and Code Infrastructure.
+* **Highlight Pithos, HOLE & Kairos (Julia):** Direct PhD committees care about Research Potential, Systems Engineering, and Mathematical Rigor.
 * **Emphasize Open Source & Artifacts:** Add direct links to the public Hugging Face Lunar Dataset, GitHub Repos for Pithos, and the SKILL 2026 pre-print.
 * **Frame GPA (2.3):** German 2.3 (~B+/B) is easily contextualized when combined with a Capstone score of 97/100 (1.0 equivalent) and published/under-review research. Mention Capstone Score: 97/100 (Top of Class) prominently.
 
@@ -37,4 +38,4 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Direct PhD]], [[Master]], [[St
 
 ### 3. For Nordic & Benelux Masters (NTNU, Aalto, KTH, Chalmers, DTU, TU Delft)
 * **Emphasize 210 ECTS Credit Match:** Highlight the 210 ECTS and heavy MINT/Data Science course load at the top of the CV.
-* **Highlight LUMI / Supercomputing Alignment:** For Aalto/NTNU/Chalmers, emphasize CUDA, GPU acceleration, DGX Spark / GB10 Grace Blackwell, and ISIS3 planetary data pipelines.
+* **Highlight LUMI / Supercomputing Alignment:** For Aalto/NTNU/Chalmers, emphasize Julia, CUDA, GPU acceleration, DGX Spark / GB10 Grace Blackwell, and ISIS3 planetary data pipelines.
