@@ -26,5 +26,6 @@ Tags: [[Target Grid]], [[Schweiz]], [[DACH]], [[EPFL]], [[PhD]], [[Vollgehalt]],
 * **Keine Beweis-Bürokratie:** Schwerpunkt liegt auf praktischer Systementwicklung und Forschungspapern.
 
 ## Checkliste & Action Items
-- [ ] EDIC PhD Application Portal Deadlines (Dezember / April) prüfen
-- [ ] Research Interest Matrix anpassen
+- [ ] EDIC PhD Application Portal (Frist: 15. Dezember / 15. April) einreichen (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#4. Die Schweizer Eidgenossenschaft (ETH Zürich & EPFL)|Teil 2.4: EPFL EDIC]])
+- [ ] Prof. Bruno Correia (Erfinder von MaSIF) mit *AlphaPit Bio* (LBO-dMaSIF) kontaktieren (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#18. Prof. Bruno Correia|Cluster E: Prof. Bruno Correia]])
+- [ ] Outreach nach Blueprint formulieren (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 5: Das Outreach-Blueprint für PIs|Teil 5: Outreach-Blueprint]])

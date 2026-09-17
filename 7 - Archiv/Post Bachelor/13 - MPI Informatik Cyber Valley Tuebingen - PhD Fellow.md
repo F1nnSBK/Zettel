@@ -26,5 +26,6 @@ Tags: [[Target Grid]], [[Deutschland]], [[DACH]], [[Max Planck]], [[Cyber Valley
 * **Ergebnisorientiert:** Reine Fokussierung auf Veröffentlichungen, Code und Algorithmen.
 
 ## Checkliste & Action Items
-- [ ] IMPRS-CS / Cyber Valley PhD Application Rounds prüfen
-- [ ] Research Interests auf MPI Directors (z.B. Schölkopf, Berkhahn) abstimmen
+- [ ] [[Globale Scouting- und Bewerbungs-Enzyklopaedie#2. IMPRS-IS (International Max Planck Research School for Intelligent Systems)|IMPRS-IS Fast-Track Application]] (Frist: 15. November)
+- [ ] Research Interests auf MPI-IS Directors (z. B. Prof. Andreas Geiger / Michael Black / Moritz Hardt) abstimmen
+- [ ] DLR-Co-Autoren für Warm Intro zu Andreas Geiger / MPI kontaktieren (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 6: Die „Warm Intro“- & Backchannel-Strategie|Teil 6: Warm Intros]])

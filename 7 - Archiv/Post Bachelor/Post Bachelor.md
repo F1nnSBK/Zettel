@@ -22,6 +22,40 @@ Willkommen im zentralen Navigations-Knotenpunkt für deine Post-Bachelor-Planung
 
 ---
 
+## 🧭 Globale Scouting- & Bewerbungs-Enzyklopädie
+
+> **Haupt-Dossier:** [[Globale Scouting- und Bewerbungs-Enzyklopaedie|Globale Scouting- und Bewerbungs-Enzyklopädie (Alle 10 Teile)]]
+
+* **5 Forschungs-Säulen:**
+  1. **Kairos:** LinUCB Cholesky Rank-1 Update (LNI SKILL 2026 Accepted)
+  2. **Cartan:** Lie-Gruppen $T^+_d$, Busemann-Potentiale & geodätische Regret Bounds
+  3. **Pithos:** Zero-GC Model-Isomorphic DB, Java 25 FFM, FPGA-DMA Streaming (700 MVPS)
+  4. **AlphaPit Bio:** 214M AlphaFold Protein Pockets in 1.71 GB RAM via LBO-dMaSIF & HKS
+  5. **On Pits & Bytes:** Icarus / DLR Lunar Feature Engine (19.3M Kacheln, 384-Bit Hamming Index)
+* **Strategische Cluster:**
+  * **Cluster A (GDL & Spektralgeometrie):** Rodolà (Sapienza), Bronstein (Oxford - Weingarten & ELLIS Track 2), Ovsjanikov (IP Paris), Rieck (Fribourg), Solomon (MIT)
+  * **Cluster B (ML-Theorie, Banditen & Adaptive Optimierung):** Szepesvári (Amii/DeepMind), Krause (ETH Zürich - ELLIS Track 2), Grünwald (CWI/Leiden), Cesa-Bianchi (Mailand), Sra (TUM)
+  * **Cluster C (Extreme Quantisierung, In-Memory-Systeme & Vektor-Engines):** Alistarh (ISTA - 1-Bit), Hoefler (ETH Zürich - SPCL), Kraska (MIT CSAIL - 2.2B Vectors), Stoica & Gonzalez (UC Berkeley Sky Lab), Neumann & Kemper (TUM), Alonso & Roscoe (ETH), Zhang (UChicago)
+  * **Cluster D (3D-Vision, Geometrie & Planetary Mapping):** Yue (Caltech / NASA JPL - Space ML), Cremers (TUM - ELLIS Track 2), Geiger (MPI-IS/Tübingen - IMPRS-IS), Sivic & Pajdla (CTU Prag/Inria)
+  * **Cluster E (Bio-GDL & Proteomik):** Liò (Cambridge), Correia (EPFL - MaSIF)
+* **Top-Priorisierte Roadmap für Kontaktaufnahme (September / Oktober):**
+  * **Top 1:** **Michael Bronstein** (Oxford) – ELLIS Dual-Track (Schutera Co-Supervision)
+  * **Top 2:** **Dan Alistarh** (ISTA) – Extreme 1-Bit-Quantisierung & SIMD-Bit-Slicing
+  * **Top 3:** **UC Berkeley / Caltech** (Stoica / Gonzalez / Yue) – LROC-Monddaten, Java 25 FFM & DINOv3 Vision
+  * **Top 4:** **Andreas Krause** (ETH Zürich) – Numerische Hygiene in LinUCB & Cholesky-Rang-1-Updates
+* **Operative Module:**
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 2: Strukturierte Graduiertenschulen & Direct-PhD Programme|Strukturierte Graduiertenschulen (ELLIS, IMPRS-IS, Kanada, ETH/EPFL, UK CDTs, US)]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 3: Die strategische Portfolio-Matrix (Numbers Game)|Portfolio-Matrix (Tier 1–3 Match-Quoten)]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 4: Master-Timeline für deinen Bewerbungs-Herbst|Master-Timeline & September/Oktober Roadmap]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 5: Das Outreach-Blueprint für PIs|Outreach-Blueprint & Cold-Mail Vorlage]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 6: Die „Warm Intro“- & Backchannel-Strategie|Warm Intro & Backchannel (DLR / EU AI Office)]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 7: Die „Safe Harbors“ (Das Elite-Sicherheitsnetz)|Safe Harbors (ISTA, CISPA, WASP)]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 8: Die Big-Tech Industry Fellowships|Big-Tech Fellowships (Qualcomm, Google, Meta)]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 9: Die „Show, Don't Tell“ Open-Source-Architektur|Open-Source Hebel (Benchmarks, Datasets, Tools)]]
+  * [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 10: Die Interview-Defense Matrix (Der Härtetest)|Interview-Defense Matrix]]
+
+---
+
 ## Schnell-Navigation: 25 Ziel-Destinationen
 
 ### Kategorie 1: Nordeuropäische Tech-Giganten (0 € EU + Skandinavischer Pragmatismus)

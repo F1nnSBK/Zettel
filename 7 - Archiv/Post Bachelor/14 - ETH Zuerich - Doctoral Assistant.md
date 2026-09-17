@@ -26,5 +26,6 @@ Tags: [[Target Grid]], [[Schweiz]], [[DACH]], [[ETH Zuerich]], [[PhD]], [[Vollge
 * **Hohe Eigenverantwortung:** Exzellentes Netzwerk für spätere Spin-Offs und Tech-Ventures.
 
 ## Checkliste & Action Items
-- [ ] Offene Doktorandenstellen an D-INFK Chairs (z.B. Systems Group) scouten
-- [ ] Professoren direkt mit Pre-Prints / Code Repos kontaktieren
+- [ ] D-INFK Doctoral School Portal (Frist: 15. Dezember / 15. April) prüfen (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#4. Die Schweizer Eidgenossenschaft (ETH Zürich & EPFL)|Teil 2.4: ETH D-INFK]])
+- [ ] Systems Group (Prof. Gustavo Alonso & Prof. Timothy Roscoe) gezielt mit *Pithos* (FPGA-DMA & Zero-GC) kontaktieren (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#13. Prof. Gustavo Alonso & Prof. Timothy Roscoe|Cluster C: Alonso & Roscoe]])
+- [ ] Outreach nach Blueprint formulieren (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 5: Das Outreach-Blueprint für PIs|Teil 5: Outreach-Blueprint]])

@@ -20,6 +20,17 @@ Tags: [[Bewerbung]], [[Post Bachelor]], [[Master]], [[Direct PhD]], [[Zettelkast
 
 ---
 
+## 🌟 Globale Scouting- & Bewerbungs-Enzyklopädie (PI-Matrix & Fast-Tracks)
+
+* **Zentrales Strategie-Dossier:** [[Globale Scouting- und Bewerbungs-Enzyklopaedie|Globale Scouting- und Bewerbungs-Enzyklopädie (10 Teile)]]
+  * **Forschungs-Kosmos (5 Kernbeiträge):** *Kairos* (SKILL Accepted), *Cartan* (Lie $T^+_d$), *Pithos* (MIDB / FFM / FPGA), *AlphaPit Bio* (LBO / HKS / 214M), *On Pits & Bytes* (Icarus / DLR).
+  * **Erweiterte PI-Zielmatrix (23 PIs):** Bronstein (Oxford), Alistarh (ISTA), Hoefler (ETH), Kraska (MIT), Stoica & Gonzalez (Berkeley), Yue (Caltech/JPL), Krause (ETH), Rodolà (Rom), Szepesvári (Amii/DeepMind), Cremers (TUM), Geiger (MPI-IS), Correia (EPFL), Neumann & Kemper (TUM), Alonso & Roscoe (ETH), Zhang (UChicago), Ovsjanikov (IP Paris), Rieck (Fribourg), Solomon (MIT), Grünwald (CWI), Cesa-Bianchi (Mailand), Sra (TUM), Sivic & Pajdla (CTU), Liò (Cambridge).
+  * **Priorisierte Roadmap (Sept/Okt):** Top 1 (Bronstein / Oxford), Top 2 (Alistarh / ISTA), Top 3 (Berkeley/Caltech - Stoica/Gonzalez/Yue), Top 4 (Krause / ETH).
+  * **Strukturierte Programme:** ELLIS PhD Program (Track 2 mit Mark Schutera), IMPRS-IS Fast-Track, ISTA Graduate School, ETH D-INFK & EPFL EDIC, Kanada (Amii/Vector/Mila), UK CDTs, US Direct PhD.
+  * **Taktik-Schnittstellen:** Numbers Game (Tier 1-3), Master-Timeline, PI Cold-Outreach Blueprint, Warm Intros (DLR / EU AI Office), Safe Harbors (ISTA, CISPA, WASP), Big-Tech Fellowships, Open-Source Show-Don't-Tell, Interview-Defense Matrix.
+
+---
+
 ## Übersicht der 25 Ziel-Destinationen
 
 ```dataview

@@ -26,5 +26,6 @@ Tags: [[Target Grid]], [[Deutschland]], [[DACH]], [[TVoeD E13]], [[Raumfahrt]], 
 * **Kooperative Promotion:** Bezahlte Arbeit an Papern, Promotion über Partner-Uni.
 
 ## Checkliste & Action Items
-- [ ] Offene Stellen für "Wissenschaftliche Mitarbeiter Data Engineering / AI" am DLR Karriereportal monitoren
-- [ ] Initiativbewerbung an Institutsleiter entwerfen
+- [ ] *On Pits and Bytes* (Icarus / DLR) Paper einreichen & Pre-Print veröffentlichen (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#CLUSTER D: 3D-Vision, Geometrie & Planetary Mapping|Cluster D: Planetary Mapping]])
+- [ ] DLR-Forschungspartner als Referenzgeber & für Warm-Intros (TUM / MPI-IS) nutzen (vgl. [[Globale Scouting- und Bewerbungs-Enzyklopaedie#TEIL 6: Die „Warm Intro“- & Backchannel-Strategie|Teil 6: Warm Intros]])
+- [ ] Kooperative Promotionsstellen mit DLR-Förderung prüfen
