@@ -50,8 +50,8 @@ Tags: [[Bewerbung]], [[Post Bachelor]], [[Transcript of Records]], [[DHBW Ravens
 | `W4DSKI_207` | **Grundlagen IT-Sicherheit und Datenschutz** | 5.0 | Security & Privacy |
 | `W4DSKI_BM208`| **Datenbasierte Unternehmenssteuerung** | 5.0 | Corporate Analytics |
 | `W4DSKI_BM209`| **Projektmanagement** | 5.0 | Agile & Data PM |
-| `W4DSKI_802` | **Praxismodul II** | 20.0 | Major Industry Project (20 ECTS Booster) |
-| `W4DSKI_901` | **Bachelorarbeit (Bachelor Thesis)** | 12.0 | Capstone (Score: 97/100) |
+| `W4DSKI_802` | **Praxismodul II / Projektarbeit II** | 20.0 | Major Industry Project (20 ECTS Booster) |
+| `W4DSKI_901` | **Bachelorarbeit (Bachelor Thesis)** | 12.0 | Final Thesis (scheduled for 2027) |
 
 ---
 
@@ -59,7 +59,8 @@ Tags: [[Bewerbung]], [[Post Bachelor]], [[Transcript of Records]], [[DHBW Ravens
 
 1. **Clear Division of Excellence (Systems vs Written Exams):**
    - Your grades reveal a clear pattern: In core computer science, systems engineering, programming, and theoretical computer science, you perform in the top bracket (**1.3 to 1.8**).
-   - Standard written theory/math exams (Stochastik 3.4, Algebra 3.1-3.2) were weaker, but are completely counterbalanced by your published research work (LinUCB Cholesky updates in Kairos, MatryoshkaDIVELoss in Lunar Latent Manifold), which proves practical stochastic and mathematical mastery far beyond an introductory written exam.
+   - Practical project work confirms this: **Projektarbeit 1** was graded **97/100 (1.0)**.
+   - Standard written theory/math exams (Stochastik 3.4, Algebra 3.1-3.2) were weaker, but are counterbalanced by peer-reviewed research work (numerically robust LinUCB Cholesky updates in Kairos, published on arXiv and accepted at SKILL 2026 / LNI), proving practical stochastic and mathematical mastery.
 
 2. **GPA Projection:**
-   - With 20 ECTS from Praxismodul II, 5 ECTS in KI/ML, 5 ECTS in Databases, 5 ECTS in Cloud/Big Data, and the 12 ECTS Capstone Thesis (97/100 = 1.0) still pending, your overall GPA is projected to shift significantly toward **1.8 - 2.0**.
+   - With 20 ECTS from Praxismodul II, 5 ECTS in KI/ML, 5 ECTS in Databases, 5 ECTS in Cloud/Big Data, and the 12 ECTS Bachelor Thesis (2027) still pending, your overall GPA is projected to shift significantly toward **1.8 - 2.0**.

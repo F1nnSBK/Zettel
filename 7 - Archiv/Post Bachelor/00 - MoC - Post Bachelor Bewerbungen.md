@@ -48,7 +48,7 @@ SORT Kategorie ASC, file.name ASC
 ## Kategorien Breakdown
 
 ### 1. Nordeuropäische Tech-Giganten (0 € EU + Skandinavischer Pragmatismus)
-* [[01 - NTNU Trondheim - M.Sc. Informatics Data Science|NTNU Trondheim – M.Sc. Informatics / Data Science]] (Norwegen)
+* [[01 - NTNU Trondheim - M.Sc. Informatics|NTNU Trondheim – M.Sc. Informatics (Databases and Search)]] (Norwegen)
 * [[02 - Aalto University - M.Sc. Machine Learning Data Science AI|Aalto Universität – M.Sc. Machine Learning, Data Science and AI]] (Finnland)
 * [[03 - KTH Stockholm - M.Sc. Machine Learning|KTH Stockholm – M.Sc. Machine Learning]] (Schweden)
 * [[04 - Chalmers - M.Sc. Data Science and AI|Chalmers University of Technology – M.Sc. Data Science and AI]] (Schweden)

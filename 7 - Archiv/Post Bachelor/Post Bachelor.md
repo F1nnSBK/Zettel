@@ -61,7 +61,7 @@ Willkommen im zentralen Navigations-Knotenpunkt für deine Post-Bachelor-Planung
 ### Kategorie 1: Nordeuropäische Tech-Giganten (0 € EU + Skandinavischer Pragmatismus)
 | Nr. | Destination | Land | Fokus | Zettel-Link |
 |:---:|:---|:---:|:---|:---|
-| 01 | **NTNU Trondheim** | Norwegen | Informatics & Data Science | [[01 - NTNU Trondheim - M.Sc. Informatics Data Science]] |
+| 01 | **NTNU Trondheim** | Norwegen | Informatics (Databases and Search) | [[01 - NTNU Trondheim - M.Sc. Informatics]] |
 | 02 | **Aalto Universität** | Finnland | ML, Data Science & AI (LUMI Access) | [[02 - Aalto University - M.Sc. Machine Learning Data Science AI]] |
 | 03 | **KTH Stockholm** | Schweden | Machine Learning & Verteilte Systeme | [[03 - KTH Stockholm - M.Sc. Machine Learning]] |
 | 04 | **Chalmers Tech** | Schweden | Data Science & AI (HPC & In-Memory) | [[04 - Chalmers - M.Sc. Data Science and AI]] |

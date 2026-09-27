@@ -18,10 +18,11 @@ Tags: [[CV]], [[Bewerbung]], [[Post Bachelor]], [[Finn Hertsch]], [[Research Exp
 ## Education
 
 ### B.Sc. Data Science and Artificial Intelligence (210 ECTS)
-**DHBW Ravensburg**, Germany | *10/2024 – 2026 (expected)*
-* **GPA:** 2.3 | Cooperative (dual) program combining academic coursework with applied industry practice.
-* **Focus Areas:** Advanced programming & systems engineering, machine learning, MLOps, distributed database architectures.
-* **Capstone Project:** Hybrid article recommendation system on Google Cloud Platform (**Score: 97/100**).
+**DHBW Ravensburg**, Germany | *10/2024 – 09/2027 (expected)*
+* **Current GPA:** 2.3 (CS Core Systems GPA: **1.5**) | Cooperative (dual) study program combining academic coursework with applied industry practice.
+* **Focus Areas:** Advanced programming, theoretical computer science, machine learning, distributed architectures.
+* **Project Work I (Projektarbeit 1):** Hybrid article recommendation microservice on Google Cloud Platform (**Grade: 1.0 / Score: 97/100**).
+* *(Bachelor Thesis scheduled for 2027)*
 
 ### Abitur (General University Entrance Qualification)
 **Edith-Stein-Schule Ravensburg**, Germany | *2021 – 2024*
@@ -43,23 +44,21 @@ German version peer-reviewed and accepted at **SKILL 2026** (16. Studierendenkon
 
 ### Kairos — Numerically Robust News Recommendation under Item Cold-Start (Julia)
 **DHBW Ravensburg**, Germany | *2026* | **Published: [arXiv:2607.26832](https://arxiv.org/abs/2607.26832) | Accepted: SKILL 2026 (LNI)**
-* **Numerical Stability & Cholesky Updates:** Developed **Kairos** in **Julia**, substituting error-prone Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky factors (`cholupdate`) in contextual Linear Upper Confidence Bound (LinUCB) bandits, preserving SPD matrix structure and preventing catastrophic condition number divergence under sparse data (TTL < 48h).
+* **Numerical Stability & Cholesky Updates:** Developed **Kairos** in **Julia**, substituting error-prone Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky factors (`cholupdate`) in contextual Linear Upper Confidence Bound (LinUCB) bandits, preserving SPD matrix structure and preventing condition number divergence under sparse item cold-start settings (TTL < 48h).
 * **Monte Carlo Stability Verification:** Validated numerical resilience across 1,000 Monte Carlo simulation runs, proving zero error variance in Cholesky updates compared to explosive divergence in traditional inversion.
 * **Adaptive MRL Retrieval Subspace:** Integrated Matryoshka Representation Learning (MRL) for Maximum Inner Product Search (MIPS) candidate retrieval, reducing embedding dimensionality from 768d to 128d to achieve a **4.78x inference speedup** (0.065 ms / 100 items vs 0.312 ms) with an MAE of 0.032 (retaining >96.8% semantic structure).
 * **Live Streaming Validation:** Deployed and benchmarked using live data from the Tagesschau API.
 
-### The Lunar Surface as Continuous Latent Manifold (Lunar Embedding Dataset V1)
-*Independent research collaboration with Prof. Dr.-Ing. Mark Schutera, DHBW Ravensburg* | *2026 – ongoing*
-* **Planet-Scale Representation Learning:** Designed and trained **HOLE**, a self-supervised Vision Transformer (DINOv3 ViT-S/16) backbone specialized via Low-Rank Adaptation (LoRA) for extreme albedo variations and lunar geomorphology, indexing **326.43 million terrain vectors** across **57,265 LROC NAC products** for **99.1% global sub-meter moon coverage**.
-* **Nested Multi-Branch Loss (MatryoshkaDIVELoss):** Formulated a joint loss combining a 384-dimensional primary Hinge Triplet Loss with sub-dimensional heads (64d, 128d, 256d) under head-wise NT-Xent contrastive loss, yielding **94.8% multi-query recall** upon dimensional truncation.
-* **High-Performance Vector Engine (Pithos vs FAISS / HNSW Benchmark):** Designed and implemented **Pithos**, a model-isomorphic database layer utilizing sign-quantized Matryoshka binary hashing and CUDA `__popc` Tier-0 64-bit hierarchical early-exits (92% calculation bypass rate). Outperformed Meta FAISS (IVF65K-PQ32) and HNSW across all metrics: **7,040 QPS** (vs HNSW 2,300 QPS / FAISS 540 QPS), **1.42 ms latency** (vs HNSW 4.2 ms / FAISS 18.5 ms), and **0 min index build time** (vs HNSW 22 hrs / FAISS 8.5 hrs).
-* **Memory & Storage Efficiency:** Reduced raw 1,824 GB (1.82 TB) Float32 memory footprint down to a **21.4 GB offline SSD directory** (85.2x compression factor / 98.82% reduction). Zero-copy demand paging (`mmap`) bypassed host RAM overhead entirely (<8.5 GB active RAM).
-
 ### Production-Grade Hybrid Recommendation Microservice (Project Work I)
-**DHBW Ravensburg / GCP Infrastructure** | *2025*
+**DHBW Ravensburg / Industry Partner** | *2025* | **Grade: 1.0 (Score: 97/100)**
 * **Cloud-Native Microservice Architecture:** Engineered an asynchronous FastAPI (ASGI) microservice on Google Cloud Platform orchestrating parallel prediction pipelines across Vertex AI Vector Search (3072d embeddings, MIPS) and Neural Collaborative Filtering (NCF / MLP).
 * **Bayesian Hyperparameter Optimization:** Implemented a Tree-structured Parzen Estimator (Optuna TPE) search across 515,000 candidate evaluations (515 trials over 1,000 users), identifying an optimal 0.7226 / 0.2774 CBF-CF score-fusion equilibrium.
 * **Rigorously Unbiased Evaluation:** Evaluated performance under a Leave-Last-Out Full-Catalog Ranking protocol over 2.3M users and 104k items (<0.005% matrix density), proving a **5.4x nDCG@10 improvement** over baseline models at a 95th-percentile latency of 1562 ms (SLO < 2000 ms).
+
+### Planetary Remote Sensing Representation Learning (Ongoing Research)
+*Research collaboration with Prof. Dr.-Ing. Mark Schutera, DHBW Ravensburg* | *2026 – ongoing*
+* **Domain Exploration:** Investigating self-supervised representation learning and compact vector embeddings for planetary surface imagery (Lunar Reconnaissance Orbiter / LROC NAC data).
+* **Data Processing Pipeline:** Developing ingestion and preprocessing workflows using USGS ISIS3 and PyTorch to support multi-resolution planetary imagery analysis.
 
 ---
 
@@ -82,9 +81,9 @@ German version peer-reviewed and accepted at **SKILL 2026** (16. Studierendenkon
 
 ## Technical Skills
 
-* **Programming:** Julia, Python, Java, SQL, C++/CUDA.
-* **ML & Data Science:** PyTorch (DINOv3, LoRA), Contextual Bandits (LinUCB), Matryoshka Representation Learning (MRL/DIVE), Neural Collaborative Filtering (NCF), MLOps (DASC-PM, Optuna TPE), Vector Search / MIPS (Vertex AI Vector Search).
-* **Cloud & Systems:** Google Cloud Platform (Vertex AI, BigQuery), GraalVM, CUDA, NVIDIA GB10 Grace Blackwell, Julia High-Performance Scientific Computing (`BenchmarkTools.jl`), FastAPI (ASGI), PowerBI, ISIS3.
+* **Programming:** Julia, Python, Java, SQL, C/C++.
+* **ML & Scientific Computing:** Contextual Bandits (LinUCB), Matryoshka Representation Learning (MRL), Neural Collaborative Filtering (NCF), PyTorch, Optuna (TPE), Vector Search (Vertex AI Vector Search), Julia Scientific Computing (`BenchmarkTools.jl`).
+* **Cloud & Systems Engineering:** Google Cloud Platform (Vertex AI, BigQuery), FastAPI (ASGI), Docker, Linux, Git, USGS ISIS3.
 
 ---
 
