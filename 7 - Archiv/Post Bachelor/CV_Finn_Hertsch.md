@@ -50,7 +50,7 @@ German version peer-reviewed and accepted at **SKILL 2026** (16. Studierendenkon
 * **Live Streaming Validation:** Deployed and benchmarked using live data from the Tagesschau API.
 
 ### Production-Grade Hybrid Recommendation Microservice (Project Work I)
-**DHBW Ravensburg / Industry Partner** | *2025* | **Grade: 1.0 (Score: 97/100)**
+**DHBW Ravensburg / Schwäbisch Media** | *2025* | **Grade: 1.0 (Score: 97/100)**
 * **Cloud-Native Microservice Architecture:** Engineered an asynchronous FastAPI (ASGI) microservice on Google Cloud Platform orchestrating parallel prediction pipelines across Vertex AI Vector Search (3072d embeddings, MIPS) and Neural Collaborative Filtering (NCF / MLP).
 * **Bayesian Hyperparameter Optimization:** Implemented a Tree-structured Parzen Estimator (Optuna TPE) search across 515,000 candidate evaluations (515 trials over 1,000 users), identifying an optimal 0.7226 / 0.2774 CBF-CF score-fusion equilibrium.
 * **Rigorously Unbiased Evaluation:** Evaluated performance under a Leave-Last-Out Full-Catalog Ranking protocol over 2.3M users and 104k items (<0.005% matrix density), proving a **5.4x nDCG@10 improvement** over baseline models at a 95th-percentile latency of 1562 ms (SLO < 2000 ms).
@@ -73,7 +73,7 @@ German version peer-reviewed and accepted at **SKILL 2026** (16. Studierendenkon
 * Applied data science and software engineering work as part of the DHBW cooperative study program.
 
 ### Dual-Study Industry Partner
-**Media Publishing Partner**, Ravensburg, Germany | *10/2024 – 06/2026*
+**Schwäbisch Media (Schwäbischer Verlag)**, Ravensburg, Germany | *10/2024 – 06/2026*
 * Developed and deployed a hybrid recommendation microservice (NCF & CBF) on Google Cloud Platform (Vertex AI, BigQuery).
 * Designed data ingestion pipelines processing high-volume user interaction logs with BigQuery.
 
