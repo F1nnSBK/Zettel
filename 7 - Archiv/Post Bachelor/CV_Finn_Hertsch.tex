@@ -1,0 +1,160 @@
+\documentclass[10pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[left=0.7in, right=0.7in, top=0.6in, bottom=0.6in]{geometry}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{microtype}
+\usepackage{xurl}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{fontawesome5}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  filecolor=black,
+  urlcolor=black,
+}
+
+\pagestyle{empty}
+
+% Section formatting: SMALL CAPS with a crisp thin horizontal rule
+\titleformat{\section}{\large\scshape}{}{0em}{}[\vspace{1pt}\titlerule]
+\titlespacing*{\section}{0pt}{1.3ex plus 0.2ex minus .1ex}{0.5ex plus .1ex}
+
+% Custom commands for CV entries
+\newcommand{\cvitem}[2]{
+  \vspace{1.5pt}
+  \noindent\textbf{#1} \hfill \textit{#2} \par
+  \vspace{-1pt}
+}
+
+\begin{document}
+
+% --- HEADER ---
+\noindent
+\begin{minipage}[t]{0.52\textwidth}
+  {\Huge \textbf{Finn Hertsch}} \\[3pt]
+  Wangen im Allg{\"a}u, Germany \\
+  Hertsch Technologies UG \ $\cdot$ \ DHBW Ravensburg
+\end{minipage}\hfill
+\begin{minipage}[t]{0.46\textwidth}
+  \raggedleft
+  \href{mailto:f.hertsch@gmx.de}{\faEnvelope\ \texttt{f.hertsch@gmx.de}} \ $\cdot$ \ \faPhone\ +49 179 9374616 \\
+  \href{https://scholar.google.com/citations?user=JZoMIcMAAAAJ&hl=en}{\faGraduationCap\ Google Scholar} \ $\cdot$ \ \href{https://finn-hertsch.de}{\faGlobe\ finn-hertsch.de} \\
+  \href{https://orcid.org/0009-0004-1692-8134}{\faOrcid\ 0009-0004-1692-8134}
+\end{minipage}
+
+\vspace{4pt}
+
+% --- RESEARCH INTERESTS ---
+\section*{Research Interests}
+Representation learning and high-dimensional retrieval, numerically robust online decision-making (contextual bandits), planetary remote sensing data pipelines, and scalable database architectures.
+
+% --- EDUCATION ---
+\section*{Education}
+
+\cvitem{DHBW Ravensburg (Baden-Wuerttemberg Cooperative State University)}{10/2024 -- 09/2027 (expected)}
+\textit{B.Sc. in Data Science and Artificial Intelligence (210 ECTS)} \hfill \textit{Current GPA: 2.3 \ (CS Core GPA: 1.5)}\\
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1pt, topsep=1.5pt]
+  \item Cooperative dual study program combining rigorous theoretical coursework with applied industry engineering.
+  \item Core Focus: Advanced programming (1.3), theoretical computer science (1.5), machine learning, distributed systems.
+  \item \textbf{Project Work I (Projektarbeit 1):} Hybrid article recommendation microservice on Google Cloud Platform with Schw{\"a}bisch Media (\textbf{Grade: 1.0 / Score: 97/100}).
+  \item \textit{Bachelor Thesis scheduled for final academic year (2027).}
+\end{itemize}
+
+\vspace{2pt}
+\cvitem{Edith-Stein-Schule Ravensburg}{2021 -- 2024}
+\textit{Abitur (General University Entrance Qualification)} \hfill \textit{Final Grade: 2.0}\\
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1pt, topsep=1.5pt]
+  \item Focus Subject: Biotechnology.
+  \item Coursework \& Practicals: Sequence alignment and database retrieval (BLAST, FASTA), GFP reporter-gene transformation in \textit{E. coli}, fermentative biosynthesis in bench-scale bioreactors.
+\end{itemize}
+
+% --- PUBLICATIONS ---
+\section*{Publications}
+
+\begin{enumerate}[leftmargin=0.25in, label={[\arabic*]}, itemsep=2pt, topsep=2pt]
+  \item \textbf{F. Hertsch}, \textit{"Kairos: Numerically Robust News Recommendation under Item Cold-Start via Cholesky-based LinUCB."} arXiv preprint \href{https://arxiv.org/abs/2607.26832}{\texttt{arXiv:2607.26832}} [cs.LG], 2026. \\
+  German version peer-reviewed and accepted at \textbf{SKILL 2026} (16. Studierendenkonferenz Informatik), GI-Edition: Lecture Notes in Informatics (LNI), Gesellschaft f{\"u}r Informatik. Presented at INFORMATIK 2026, TU Dresden, September 2026. LNI proceedings \& DOI forthcoming.
+\end{enumerate}
+
+% --- RESEARCH EXPERIENCE & ENGINEERING PROJECTS ---
+\section*{Research Experience \& Engineering Projects}
+
+\cvitem{Kairos: Numerically Robust Contextual Bandits (Julia)}{2026}
+\textit{Lead Researcher \& Developer | arXiv:2607.26832 | Accepted at SKILL 2026 (LNI)}
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1.5pt, topsep=1.5pt]
+  \item \textbf{Numerical Stability \& Cholesky Updates:} Developed \textbf{Kairos} in \textbf{Julia}, replacing standard Sherman-Morrison matrix inversion with direct rank-1 updates of Cholesky factors (\texttt{cholupdate}) in contextual Linear Upper Confidence Bound (LinUCB) bandits, preserving SPD matrix structure and preventing catastrophic condition number divergence under sparse item cold-start data ($\text{TTL} < 48\text{h}$).
+  \item \textbf{Monte Carlo Stability Verification:} Validated numerical resilience across 1,000 Monte Carlo simulation runs, proving zero error variance in Cholesky updates compared to explosive divergence in traditional inversion.
+  \item \textbf{Adaptive MRL Retrieval Subspace:} Integrated Matryoshka Representation Learning (MRL) for Maximum Inner Product Search (MIPS) candidate retrieval, reducing embedding dimensionality from 768d to 128d to achieve a \textbf{4.78$\times$ inference speedup} (0.065~ms vs 0.312~ms / 100 items) with an MAE of 0.032 (retaining $>96.8\%$ semantic structure).
+  \item \textbf{Streaming Validation:} Deployed and benchmarked using live streaming data from the Tagesschau API.
+\end{itemize}
+
+\vspace{2pt}
+\cvitem{Production-Grade Hybrid Recommendation Microservice (Project Work I)}{2025}
+\textit{DHBW Ravensburg / Schw{\"a}bisch Media | Grade: 1.0 (Score: 97/100)}
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1.5pt, topsep=1.5pt]
+  \item \textbf{Cloud-Native Microservice Architecture:} Engineered an asynchronous FastAPI (ASGI) microservice on Google Cloud Platform orchestrating parallel prediction pipelines across Vertex AI Vector Search (3072d embeddings, MIPS) and Neural Collaborative Filtering (NCF / MLP).
+  \item \textbf{Bayesian Hyperparameter Optimization:} Implemented a Tree-structured Parzen Estimator (Optuna TPE) search across 515,000 candidate evaluations (515 trials over 1,000 users), identifying an optimal 0.7226 / 0.2774 CBF-CF score-fusion equilibrium.
+  \item \textbf{Rigorously Unbiased Evaluation:} Evaluated performance under a Leave-Last-Out Full-Catalog Ranking protocol over 2.3M users and 104k items ($<0.005\%$ matrix density), proving a \textbf{5.4$\times$ nDCG@10 improvement} over baseline models at a 95th-percentile latency of 1,562~ms (SLO $< 2,000$~ms).
+\end{itemize}
+
+\vspace{2pt}
+\cvitem{Planetary Remote Sensing Representation Learning}{2026 -- Present}
+\textit{Research collaboration with Prof. Dr.-Ing. Mark Schutera, DHBW Ravensburg (Ongoing Research)}
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1.5pt, topsep=1.5pt]
+  \item \textbf{Domain Exploration:} Investigating self-supervised representation learning and compact vector embeddings for planetary surface imagery (Lunar Reconnaissance Orbiter / LROC NAC data).
+  \item \textbf{Data Processing Pipeline:} Developing ingestion and preprocessing workflows using USGS ISIS3 and PyTorch to support multi-resolution planetary imagery analysis.
+\end{itemize}
+
+% --- PROFESSIONAL EXPERIENCE ---
+\section*{Professional Experience}
+
+\cvitem{Hertsch Technologies UG (haftungsbeschr{\"a}nkt), Germany}{02/2026 -- Present}
+\textit{Founder \& Managing Director}
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1pt, topsep=1.5pt]
+  \item Founded and lead a software engineering company focused on automated data processing pipelines and maintenance infrastructure.
+\end{itemize}
+
+\vspace{2pt}
+\cvitem{Waldner Holding, Wangen im Allg{\"a}u, Germany}{07/2026 -- 09/2027}
+\textit{Dual-Study Industry Partner -- Data Science \& Software Engineering}
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1pt, topsep=1.5pt]
+  \item Applied data science and systems engineering as part of the DHBW cooperative study program.
+\end{itemize}
+
+\vspace{2pt}
+\cvitem{Schw{\"a}bisch Media (Schw{\"a}bischer Verlag), Ravensburg, Germany}{10/2024 -- 06/2026}
+\textit{Dual-Study Industry Partner -- Data Science \& Software Engineering}
+\vspace{-4pt}
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=1pt, topsep=1.5pt]
+  \item Developed and deployed a hybrid recommendation microservice (NCF \& CBF) on Google Cloud Platform (Vertex AI, BigQuery).
+  \item Designed data ingestion pipelines processing high-volume user interaction logs with BigQuery.
+\end{itemize}
+
+% --- TECHNICAL SKILLS ---
+\section*{Technical Skills}
+
+\begin{itemize}[leftmargin=0.15in, label=\textbullet, itemsep=2pt, topsep=2pt]
+  \item \textbf{Programming Languages:} Julia, Python, Java, SQL, C/C++.
+  \item \textbf{ML \& Scientific Computing:} Contextual Bandits (LinUCB), Matryoshka Representation Learning (MRL), Neural Collaborative Filtering (NCF), PyTorch, Optuna (TPE), Vector Search (Vertex AI Vector Search), Julia Scientific Computing (\texttt{BenchmarkTools.jl}).
+  \item \textbf{Cloud \& Systems Engineering:} Google Cloud Platform (Vertex AI, BigQuery), FastAPI (ASGI), Docker, Linux, Git, USGS ISIS3.
+\end{itemize}
+
+% --- LANGUAGES ---
+\section*{Languages}
+
+\noindent\textbf{German:} Native \ $\cdot$ \ \textbf{English:} Professional / Academic (B2/C1) \ $\cdot$ \ \textbf{Spanish:} Intermediate (B1)
+
+\end{document}
